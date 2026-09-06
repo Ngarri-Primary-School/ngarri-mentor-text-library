@@ -1,0 +1,1603 @@
+[
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column1",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Sounds can be heard, segmented and blended.",
+      "Words, letters and sounds are different.",
+      "Syllables, rhyme and alliteration are features of spoken language."
+    ],
+    "key_skills": [
+      "I can segment and blend sounds in simple one-syllable words.",
+      "I can identify beginning, middle and end sounds.",
+      "I can identify syllables, rhyming words and alliteration.",
+      "I can add, delete or substitute a sound to make a new word."
+    ],
+    "raw_cell": "Key Understandings\nSounds can be heard, segmented and blended.\nWords, letters and sounds are different.\nSyllables, rhyme and alliteration are features of spoken language.\nKey Skills\nI can segment and blend sounds in simple one-syllable words.\nI can identify beginning, middle and end sounds.\nI can identify syllables, rhyming words and alliteration.\nI can add, delete or substitute a sound to make a new word.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column2",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Sounds (phonemes) can be segmented, blended and manipulated.",
+      "Syllables contain a vowel sound.",
+      "Vowels can be short or long."
+    ],
+    "key_skills": [
+      "I can segment and blend sounds in two- or more-syllable words.",
+      "I can identify the location of a sound in a word.",
+      "I can differentiate between short and long vowel sounds.",
+      "I can add, delete or substitute a sound to make a new word.",
+      "I can identify the number of syllables in a word."
+    ],
+    "raw_cell": "Key Understandings\nSounds (phonemes) can be segmented, blended and manipulated.\nSyllables contain a vowel sound.\nVowels can be short or long.\nKey Skills\nI can segment and blend sounds in two- or more-syllable words.\nI can identify the location of a sound in a word.\nI can differentiate between short and long vowel sounds.\nI can add, delete or substitute a sound to make a new word.\nI can identify the number of syllables in a word.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column3",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Phonemes can be segmented, blended and manipulated.",
+      "The number and location of syllables and sounds can be identified in words."
+    ],
+    "key_skills": [
+      "I can segment and blend sounds in multisyllabic words.",
+      "I can describe where a sound occurs within a word.",
+      "I can manipulate sounds by adding, substituting or removing them."
+    ],
+    "raw_cell": "Key Understandings\nPhonemes can be segmented, blended and manipulated.\nThe number and location of syllables and sounds can be identified in words.\nKey Skills\nI can segment and blend sounds in multisyllabic words.\nI can describe where a sound occurs within a word.\nI can manipulate sounds by adding, substituting or removing them.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column4",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Multisyllabic words can contain base words and affixes.",
+      "Contractions and compound words have identifiable parts."
+    ],
+    "key_skills": [
+      "I can segment and blend multisyllabic words.",
+      "I can identify the base word and affix in a word.",
+      "I can explain how an affix changes meaning.",
+      "I can identify the sounds removed in a contraction.",
+      "I can identify the parts of a compound word."
+    ],
+    "raw_cell": "Key Understandings\nMultisyllabic words can contain base words and affixes.\nContractions and compound words have identifiable parts.\nKey Skills\nI can segment and blend multisyllabic words.\nI can identify the base word and affix in a word.\nI can explain how an affix changes meaning.\nI can identify the sounds removed in a contraction.\nI can identify the parts of a compound word.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column5",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Multisyllabic words may contain unstressed sounds.",
+      "Sounds can be represented by irregular letter combinations.",
+      "Word parts contribute to meaning."
+    ],
+    "key_skills": [
+      "I can identify and pronounce unstressed sounds.",
+      "I can explain the meaning of an affix.",
+      "I can explain how an affix changes the meaning of a base word."
+    ],
+    "raw_cell": "Key Understandings\nMultisyllabic words may contain unstressed sounds.\nSounds can be represented by irregular letter combinations.\nWord parts contribute to meaning.\nKey Skills\nI can identify and pronounce unstressed sounds.\nI can explain the meaning of an affix.\nI can explain how an affix changes the meaning of a base word.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column6",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Multiple prefixes and suffixes can be added to base words to create new words.",
+      "Word origins can help explain meaning.",
+      "Some plural and apostrophe forms have irregular pronunciation."
+    ],
+    "key_skills": [
+      "I can identify prefixes and suffixes in words.",
+      "I can explain the meaning of words with one or more affixes.",
+      "I can identify word parts with historical origins.",
+      "I can pronounce possessive/apostrophe forms accurately.",
+      "I can use irregular plural forms."
+    ],
+    "raw_cell": "Key Understandings\nMultiple prefixes and suffixes can be added to base words to create new words.\nWord origins can help explain meaning.\nSome plural and apostrophe forms have irregular pronunciation.\nKey Skills\nI can identify prefixes and suffixes in words.\nI can explain the meaning of words with one or more affixes.\nI can identify word parts with historical origins.\nI can pronounce possessive/apostrophe forms accurately.\nI can use irregular plural forms.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table1:column7",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonological awareness",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Multiple prefixes and suffixes can be added to base words to create new words.",
+      "Word origins can help explain meaning.",
+      "Some plurals have different pronunciations."
+    ],
+    "key_skills": [
+      "I can identify prefixes and suffixes in words.",
+      "I can explain how affixes change meaning.",
+      "I can identify word origins.",
+      "I can use irregular plural forms accurately."
+    ],
+    "raw_cell": "Key Understandings\nMultiple prefixes and suffixes can be added to base words to create new words.\nWord origins can help explain meaning.\nSome plurals have different pronunciations.\nKey Skills\nI can identify prefixes and suffixes in words.\nI can explain how affixes change meaning.\nI can identify word origins.\nI can use irregular plural forms accurately.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column1",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Letters have names and sounds.",
+      "Some letters are consonants and some are vowels.",
+      "Segmenting and blending helps us read words.",
+      "Some two-letter combinations represent one sound."
+    ],
+    "key_skills": [
+      "I can identify upper- and lower-case letters.",
+      "I can identify common letter sounds.",
+      "I can distinguish consonants and vowels.",
+      "I can segment and blend sounds to read words.",
+      "I can read common digraphs as one sound.",
+      "I can identify whether a word is real or nonsense."
+    ],
+    "raw_cell": "Key Understandings\nLetters have names and sounds.\nSome letters are consonants and some are vowels.\nSegmenting and blending helps us read words.\nSome two-letter combinations represent one sound.\nKey Skills\nI can identify upper- and lower-case letters.\nI can identify common letter sounds.\nI can distinguish consonants and vowels.\nI can segment and blend sounds to read words.\nI can read common digraphs as one sound.\nI can identify whether a word is real or nonsense.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column2",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Phonemes are represented by graphemes.",
+      "One phoneme can be represented by different graphemes.",
+      "Segmenting and blending supports reading.",
+      "Digraphs, trigraphs and consonant blends are useful decoding units.",
+      "Longer words can be broken into readable parts."
+    ],
+    "key_skills": [
+      "I can match common graphemes to phonemes.",
+      "I can segment and blend phonemes to read words.",
+      "I can read digraphs and trigraphs as sound units.",
+      "I can break longer words into manageable chunks."
+    ],
+    "raw_cell": "Key Understandings\nPhonemes are represented by graphemes.\nOne phoneme can be represented by different graphemes.\nSegmenting and blending supports reading.\nDigraphs, trigraphs and consonant blends are useful decoding units.\nLonger words can be broken into readable parts.\nKey Skills\nI can match common graphemes to phonemes.\nI can segment and blend phonemes to read words.\nI can read digraphs and trigraphs as sound units.\nI can break longer words into manageable chunks.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column3",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Different graphemes can represent the same phoneme.",
+      "Syllables and chunks support decoding of multisyllabic words.",
+      "Vowel and consonant digraphs and trigraphs are useful decoding units."
+    ],
+    "key_skills": [
+      "I can match graphemes to different phonemes.",
+      "I can identify syllables before decoding.",
+      "I can segment and blend multisyllabic words.",
+      "I can break unfamiliar words into readable chunks."
+    ],
+    "raw_cell": "Key Understandings\nDifferent graphemes can represent the same phoneme.\nSyllables and chunks support decoding of multisyllabic words.\nVowel and consonant digraphs and trigraphs are useful decoding units.\nKey Skills\nI can match graphemes to different phonemes.\nI can identify syllables before decoding.\nI can segment and blend multisyllabic words.\nI can break unfamiliar words into readable chunks.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column4",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Words can be read using blending, chunking, letter patterns, base words and affixes.",
+      "Homophones sound the same but have different meanings and spellings.",
+      "Contractions combine two words into a shorter word."
+    ],
+    "key_skills": [
+      "I can use a range of strategies to read words.",
+      "I can use grapheme–phoneme knowledge flexibly.",
+      "I can identify syllables before segmenting and blending.",
+      "I can use base words and affixes to support decoding.",
+      "I can use meaning and context to distinguish words."
+    ],
+    "raw_cell": "Key Understandings\nWords can be read using blending, chunking, letter patterns, base words and affixes.\nHomophones sound the same but have different meanings and spellings.\nContractions combine two words into a shorter word.\nKey Skills\nI can use a range of strategies to read words.\nI can use grapheme–phoneme knowledge flexibly.\nI can identify syllables before segmenting and blending.\nI can use base words and affixes to support decoding.\nI can use meaning and context to distinguish words.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column5",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Words can be decoded using phonemic knowledge, syllables, morphemes, spelling patterns and exceptions.",
+      "Knowledge of word origins and parts can support reading."
+    ],
+    "key_skills": [
+      "I can use blending, segmenting, syllables and morphemes to read words.",
+      "I can identify meaningful word parts.",
+      "I can apply known letter–sound patterns and exceptions.",
+      "I can use context and text knowledge to support accurate reading.",
+      "I can recognise and pronounce unstressed vowels."
+    ],
+    "raw_cell": "Key Understandings\nWords can be decoded using phonemic knowledge, syllables, morphemes, spelling patterns and exceptions.\nKnowledge of word origins and parts can support reading.\nKey Skills\nI can use blending, segmenting, syllables and morphemes to read words.\nI can identify meaningful word parts.\nI can apply known letter–sound patterns and exceptions.\nI can use context and text knowledge to support accurate reading.\nI can recognise and pronounce unstressed vowels.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column6",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Complex and irregular spelling patterns can be read using phonetic generalisations, known patterns and exceptions.",
+      "Morphology supports accurate reading."
+    ],
+    "key_skills": [
+      "I can break complex words into base words and affixes.",
+      "I can apply phonetic generalisations and known spelling patterns.",
+      "I can accurately read irregular plurals and words containing apostrophes.",
+      "I can combine decoding strategies to read unfamiliar words."
+    ],
+    "raw_cell": "Key Understandings\nComplex and irregular spelling patterns can be read using phonetic generalisations, known patterns and exceptions.\nMorphology supports accurate reading.\nKey Skills\nI can break complex words into base words and affixes.\nI can apply phonetic generalisations and known spelling patterns.\nI can accurately read irregular plurals and words containing apostrophes.\nI can combine decoding strategies to read unfamiliar words.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table2:column7",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Phonics - reading",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Complex words can be read accurately using phoneme–grapheme knowledge, syllabification, morphology, spelling patterns and exceptions."
+    ],
+    "key_skills": [
+      "I can select and combine decoding strategies.",
+      "I can use syllables, morphemes, grapheme–phoneme knowledge and spelling patterns.",
+      "I can apply knowledge of exceptions.",
+      "I can use context and reference resources to confirm pronunciation and meaning."
+    ],
+    "raw_cell": "Key Understandings\nComplex words can be read accurately using phoneme–grapheme knowledge, syllabification, morphology, spelling patterns and exceptions.\nKey Skills\nI can select and combine decoding strategies.\nI can use syllables, morphemes, grapheme–phoneme knowledge and spelling patterns.\nI can apply knowledge of exceptions.\nI can use context and reference resources to confirm pronunciation and meaning.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column1",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Fluent reading is smooth and increasingly automatic.",
+      "Print is read from left to right with return sweep.",
+      "Some high-frequency words are recognised automatically."
+    ],
+    "key_skills": [
+      "I can identify where to start reading.",
+      "I can track words as I read.",
+      "I can read from left to right with return sweep.",
+      "I can read high-frequency words automatically.",
+      "I can read simple CVC words by sight."
+    ],
+    "raw_cell": "Key Understandings\nFluent reading is smooth and increasingly automatic.\nPrint is read from left to right with return sweep.\nSome high-frequency words are recognised automatically.\nKey Skills\nI can identify where to start reading.\nI can track words as I read.\nI can read from left to right with return sweep.\nI can read high-frequency words automatically.\nI can read simple CVC words by sight.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column2",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Fluent reading becomes smooth and automatic.",
+      "Phrasing supports fluent reading.",
+      "Punctuation guides pausing."
+    ],
+    "key_skills": [
+      "I can track words as I read.",
+      "I can read high-frequency words automatically.",
+      "I can pause at punctuation.",
+      "I can read like I am speaking.",
+      "I can slow down when I need to work out a word.",
+      "I can group words into meaningful phrases."
+    ],
+    "raw_cell": "Key Understandings\nFluent reading becomes smooth and automatic.\nPhrasing supports fluent reading.\nPunctuation guides pausing.\nKey Skills\nI can track words as I read.\nI can read high-frequency words automatically.\nI can pause at punctuation.\nI can read like I am speaking.\nI can slow down when I need to work out a word.\nI can group words into meaningful phrases.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column3",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Fluent reading includes phrasing, pausing, intonation, pitch, tone and expression.",
+      "Punctuation and text features influence oral reading.",
+      "Dialogue can be represented through voice."
+    ],
+    "key_skills": [
+      "I can read groups of words in meaningful phrases.",
+      "I can adjust pace, pitch, tone and expression using punctuation.",
+      "I can change my voice to reflect dialogue.",
+      "I can use emphasis for important text features."
+    ],
+    "raw_cell": "Key Understandings\nFluent reading includes phrasing, pausing, intonation, pitch, tone and expression.\nPunctuation and text features influence oral reading.\nDialogue can be represented through voice.\nKey Skills\nI can read groups of words in meaningful phrases.\nI can adjust pace, pitch, tone and expression using punctuation.\nI can change my voice to reflect dialogue.\nI can use emphasis for important text features.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column4",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Fluency includes appropriate phrasing, pausing, intonation, pitch, tone and expression.",
+      "Dialogue and text features influence oral reading."
+    ],
+    "key_skills": [
+      "I can read groups of words in meaningful phrases.",
+      "I can adjust pace, pitch, tone and expression using punctuation.",
+      "I can use my voice to represent different characters in dialogue.",
+      "I can use emphasis for bold, italicised or uppercase text."
+    ],
+    "raw_cell": "Key Understandings\nFluency includes appropriate phrasing, pausing, intonation, pitch, tone and expression.\nDialogue and text features influence oral reading.\nKey Skills\nI can read groups of words in meaningful phrases.\nI can adjust pace, pitch, tone and expression using punctuation.\nI can use my voice to represent different characters in dialogue.\nI can use emphasis for bold, italicised or uppercase text.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column5",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Fluency involves sufficient speed, accuracy and expression so comprehension is supported.",
+      "Oral reading can reflect the tone and purpose of a text."
+    ],
+    "key_skills": [
+      "I can read accurately and with meaningful phrasing.",
+      "I can adjust pace and expression using punctuation, context and text features.",
+      "I can identify the tone of a text.",
+      "I can adjust my oral reading to reflect tone and purpose."
+    ],
+    "raw_cell": "Key Understandings\nFluency involves sufficient speed, accuracy and expression so comprehension is supported.\nOral reading can reflect the tone and purpose of a text.\nKey Skills\nI can read accurately and with meaningful phrasing.\nI can adjust pace and expression using punctuation, context and text features.\nI can identify the tone of a text.\nI can adjust my oral reading to reflect tone and purpose.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column6",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Fluency involves sufficient speed, accuracy and expression so comprehension is possible.",
+      "Reading can communicate the speaker's intent."
+    ],
+    "key_skills": [
+      "I can read with meaningful phrasing.",
+      "I can adjust pace, expression, tone and volume using punctuation, context and text features.",
+      "I can convey speaker intent through oral reading."
+    ],
+    "raw_cell": "Key Understandings\nFluency involves sufficient speed, accuracy and expression so comprehension is possible.\nReading can communicate the speaker's intent.\nKey Skills\nI can read with meaningful phrasing.\nI can adjust pace, expression, tone and volume using punctuation, context and text features.\nI can convey speaker intent through oral reading.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table3:column7",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Fluency",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Texts can be read expressively for a particular purpose and audience.",
+      "Tone, pace, pitch and volume can make reading more impactful and purposeful.",
+      "Oral reading can reflect speaker intent."
+    ],
+    "key_skills": [
+      "I can recognise the purpose and intended audience of a text.",
+      "I can adjust tone, pace, pitch and volume for purpose and effect.",
+      "I can read dramatically and expressively when appropriate."
+    ],
+    "raw_cell": "Key Understandings\nTexts can be read expressively for a particular purpose and audience.\nTone, pace, pitch and volume can make reading more impactful and purposeful.\nOral reading can reflect speaker intent.\nKey Skills\nI can recognise the purpose and intended audience of a text.\nI can adjust tone, pace, pitch and volume for purpose and effect.\nI can read dramatically and expressively when appropriate.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column1",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "People have individual vocabularies.",
+      "Vocabulary varies across topics.",
+      "Nouns, verbs and adjectives have different roles."
+    ],
+    "key_skills": [
+      "I can predict words I might see in a topic.",
+      "I can identify a word that is new to me.",
+      "I can ask questions about new words.",
+      "I can use pictures to work out meaning.",
+      "I can identify nouns, verbs and adjectives."
+    ],
+    "raw_cell": "Key Understandings\nPeople have individual vocabularies.\nVocabulary varies across topics.\nNouns, verbs and adjectives have different roles.\nKey Skills\nI can predict words I might see in a topic.\nI can identify a word that is new to me.\nI can ask questions about new words.\nI can use pictures to work out meaning.\nI can identify nouns, verbs and adjectives.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column2",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Topic-specific vocabulary is connected to a topic.",
+      "Word meaning can be inferred from clues in text and images.",
+      "Words can be grouped from everyday to topic-specific."
+    ],
+    "key_skills": [
+      "I can use pictures and written text to work out meaning.",
+      "I can learn and use new vocabulary.",
+      "I can categorise words by level of specificity.",
+      "I can identify common and proper nouns, verbs and adjectives."
+    ],
+    "raw_cell": "Key Understandings\nTopic-specific vocabulary is connected to a topic.\nWord meaning can be inferred from clues in text and images.\nWords can be grouped from everyday to topic-specific.\nKey Skills\nI can use pictures and written text to work out meaning.\nI can learn and use new vocabulary.\nI can categorise words by level of specificity.\nI can identify common and proper nouns, verbs and adjectives.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column3",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Topic-specific vocabulary can be understood through text clues, diagrams and word parts.",
+      "Words can be organised by level of specificity.",
+      "Adverbs describe actions."
+    ],
+    "key_skills": [
+      "I can use text clues and word parts to work out meaning.",
+      "I can build and use new vocabulary.",
+      "I can categorise vocabulary.",
+      "I can identify nouns, verbs, adverbs and adjectives."
+    ],
+    "raw_cell": "Key Understandings\nTopic-specific vocabulary can be understood through text clues, diagrams and word parts.\nWords can be organised by level of specificity.\nAdverbs describe actions.\nKey Skills\nI can use text clues and word parts to work out meaning.\nI can build and use new vocabulary.\nI can categorise vocabulary.\nI can identify nouns, verbs, adverbs and adjectives.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column4",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Authors use language devices for purpose and effect.",
+      "Word and phrase meaning can depend on context.",
+      "Modal verbs indicate degrees of obligation, probability and possibility.",
+      "Affixes change the meaning of a base word."
+    ],
+    "key_skills": [
+      "I can identify language devices and discuss their purpose/effect.",
+      "I can use context and word parts to infer meaning.",
+      "I can identify modal verbs and discuss their purpose.",
+      "I can explain how prefixes and suffixes alter meaning."
+    ],
+    "raw_cell": "Key Understandings\nAuthors use language devices for purpose and effect.\nWord and phrase meaning can depend on context.\nModal verbs indicate degrees of obligation, probability and possibility.\nAffixes change the meaning of a base word.\nKey Skills\nI can identify language devices and discuss their purpose/effect.\nI can use context and word parts to infer meaning.\nI can identify modal verbs and discuss their purpose.\nI can explain how prefixes and suffixes alter meaning.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column5",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Authors use language devices for purpose and effect.",
+      "Vocabulary meaning can be inferred using a range of strategies.",
+      "Words can have different meanings in different contexts.",
+      "Affixes change the meaning of a base word."
+    ],
+    "key_skills": [
+      "I can explain the purpose/effect of language devices.",
+      "I can use context, diagrams, word parts and reference resources to infer meaning.",
+      "I can identify language choices and discuss their effect.",
+      "I can explain how affixes alter meaning."
+    ],
+    "raw_cell": "Key Understandings\nAuthors use language devices for purpose and effect.\nVocabulary meaning can be inferred using a range of strategies.\nWords can have different meanings in different contexts.\nAffixes change the meaning of a base word.\nKey Skills\nI can explain the purpose/effect of language devices.\nI can use context, diagrams, word parts and reference resources to infer meaning.\nI can identify language choices and discuss their effect.\nI can explain how affixes alter meaning.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column6",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Specific vocabulary helps us discuss literary devices, text structure and language features.",
+      "Some words are ambiguous and may be interpreted differently.",
+      "A range of strategies can be used to decipher unknown words and phrases."
+    ],
+    "key_skills": [
+      "I can use precise vocabulary to describe language and text features.",
+      "I can use context, morphology and reference resources to infer meaning.",
+      "I can discuss ambiguity and possible interpretations.",
+      "I can identify objective and subjective language and discuss its purpose."
+    ],
+    "raw_cell": "Key Understandings\nSpecific vocabulary helps us discuss literary devices, text structure and language features.\nSome words are ambiguous and may be interpreted differently.\nA range of strategies can be used to decipher unknown words and phrases.\nKey Skills\nI can use precise vocabulary to describe language and text features.\nI can use context, morphology and reference resources to infer meaning.\nI can discuss ambiguity and possible interpretations.\nI can identify objective and subjective language and discuss its purpose.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format:table4:column7",
+    "source_file": "Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+    "source_sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580",
+    "section": "Vocabulary",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Word history and meaning can support deeper understanding.",
+      "Some words are ambiguous or deliberately created for particular effects.",
+      "Authors use objective and subjective language for different purposes."
+    ],
+    "key_skills": [
+      "I can use resources to investigate word history and meaning.",
+      "I can discuss ambiguity and nuance.",
+      "I can identify author-created words and discuss their purpose.",
+      "I can identify objective and subjective language and discuss its effect.",
+      "I can use precise terminology to discuss language and text features."
+    ],
+    "raw_cell": "Key Understandings\nWord history and meaning can support deeper understanding.\nSome words are ambiguous or deliberately created for particular effects.\nAuthors use objective and subjective language for different purposes.\nKey Skills\nI can use resources to investigate word history and meaning.\nI can discuss ambiguity and nuance.\nI can identify author-created words and discuss their purpose.\nI can identify objective and subjective language and discuss its effect.\nI can use precise terminology to discuss language and text features.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column1",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Language changes depending on the relationship and setting.",
+      "Listening respectfully helps us understand others.",
+      "Language can express preferences, feelings and needs."
+    ],
+    "key_skills": [
+      "I can ask relevant questions.",
+      "I can respectfully share an opinion or make a request.",
+      "I can adjust my words and tone for the person I am speaking to.",
+      "I can listen without interrupting and face the speaker."
+    ],
+    "raw_cell": "Key Understandings\nLanguage changes depending on the relationship and setting.\nListening respectfully helps us understand others.\nLanguage can express preferences, feelings and needs.\nKey Skills\nI can ask relevant questions.\nI can respectfully share an opinion or make a request.\nI can adjust my words and tone for the person I am speaking to.\nI can listen without interrupting and face the speaker.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column2",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Words, gestures, facial expressions and body language affect how communication is received.",
+      "Open and closed questions can gain different kinds of information.",
+      "Reasons and comparative language can explain preferences."
+    ],
+    "key_skills": [
+      "I can explain how words and body language affect communication.",
+      "I can ask open and closed questions.",
+      "I can explain reasons for my likes, dislikes and preferences.",
+      "I can use comparative language to express a stronger preference.",
+      "I can respectfully respond to others' ideas."
+    ],
+    "raw_cell": "Key Understandings\nWords, gestures, facial expressions and body language affect how communication is received.\nOpen and closed questions can gain different kinds of information.\nReasons and comparative language can explain preferences.\nKey Skills\nI can explain how words and body language affect communication.\nI can ask open and closed questions.\nI can explain reasons for my likes, dislikes and preferences.\nI can use comparative language to express a stronger preference.\nI can respectfully respond to others' ideas.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column3",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Language choices change according to familiarity, culture and social situation.",
+      "Explaining reasons and degrees of preference makes communication clearer.",
+      "Paraphrasing demonstrates listening and understanding."
+    ],
+    "key_skills": [
+      "I can adjust my language for different people and groups.",
+      "I can elaborate on my reasons.",
+      "I can use vocabulary to show different degrees of preference.",
+      "I can respectfully comment on, acknowledge and extend others' ideas.",
+      "I can paraphrase the important parts of a conversation."
+    ],
+    "raw_cell": "Key Understandings\nLanguage choices change according to familiarity, culture and social situation.\nExplaining reasons and degrees of preference makes communication clearer.\nParaphrasing demonstrates listening and understanding.\nKey Skills\nI can adjust my language for different people and groups.\nI can elaborate on my reasons.\nI can use vocabulary to show different degrees of preference.\nI can respectfully comment on, acknowledge and extend others' ideas.\nI can paraphrase the important parts of a conversation.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column4",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Collaborative language helps people work together and build understanding.",
+      "Language can be more or less forceful.",
+      "Feedback can improve communication.",
+      "Language can express opinions, emotions and positions."
+    ],
+    "key_skills": [
+      "I can initiate and sustain a conversation.",
+      "I can confirm, build on and prompt others' ideas.",
+      "I can check for understanding.",
+      "I can provide constructive feedback.",
+      "I can express a range of emotions and positions appropriately."
+    ],
+    "raw_cell": "Key Understandings\nCollaborative language helps people work together and build understanding.\nLanguage can be more or less forceful.\nFeedback can improve communication.\nLanguage can express opinions, emotions and positions.\nKey Skills\nI can initiate and sustain a conversation.\nI can confirm, build on and prompt others' ideas.\nI can check for understanding.\nI can provide constructive feedback.\nI can express a range of emotions and positions appropriately.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column5",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Language can develop relationships and signal social roles.",
+      "Language codes and conventions vary across cultures and generations.",
+      "Listening and questioning help gather information."
+    ],
+    "key_skills": [
+      "I can adjust formality and tone for different audiences.",
+      "I can use inclusive language.",
+      "I can use language to express an opinion and report findings.",
+      "I can take relevant notes and identify key information.",
+      "I can ask questions to clarify information."
+    ],
+    "raw_cell": "Key Understandings\nLanguage can develop relationships and signal social roles.\nLanguage codes and conventions vary across cultures and generations.\nListening and questioning help gather information.\nKey Skills\nI can adjust formality and tone for different audiences.\nI can use inclusive language.\nI can use language to express an opinion and report findings.\nI can take relevant notes and identify key information.\nI can ask questions to clarify information.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column6",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Language can signal roles and relationships.",
+      "Paraphrasing and clarifying questions support understanding.",
+      "Language choices and sentence structures suit particular purposes.",
+      "Evidence can make assertions more credible."
+    ],
+    "key_skills": [
+      "I can use language appropriate to my role in a group or presentation.",
+      "I can ask clarifying questions.",
+      "I can paraphrase to demonstrate understanding.",
+      "I can alter vocabulary and sentence structure for formal and informal contexts.",
+      "I can use evidence to support assertions."
+    ],
+    "raw_cell": "Key Understandings\nLanguage can signal roles and relationships.\nParaphrasing and clarifying questions support understanding.\nLanguage choices and sentence structures suit particular purposes.\nEvidence can make assertions more credible.\nKey Skills\nI can use language appropriate to my role in a group or presentation.\nI can ask clarifying questions.\nI can paraphrase to demonstrate understanding.\nI can alter vocabulary and sentence structure for formal and informal contexts.\nI can use evidence to support assertions.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table1:column7",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for interacting with others",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Language varies with formality, social distance, audience and purpose.",
+      "Effective speaking and listening strategies support participation and understanding.",
+      "Open and closed questions prompt different responses."
+    ],
+    "key_skills": [
+      "I can use appropriate language protocols for formal situations.",
+      "I can explain and adjust language for audience and context.",
+      "I can contribute to discussions and check for understanding using questioning, rephrasing, summarising and reviewing.",
+      "I can link my responses to the contributions of others."
+    ],
+    "raw_cell": "Key Understandings\nLanguage varies with formality, social distance, audience and purpose.\nEffective speaking and listening strategies support participation and understanding.\nOpen and closed questions prompt different responses.\nKey Skills\nI can use appropriate language protocols for formal situations.\nI can explain and adjust language for audience and context.\nI can contribute to discussions and check for understanding using questioning, rephrasing, summarising and reviewing.\nI can link my responses to the contributions of others.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column1",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Language and gestures can share ideas, thoughts and feelings.",
+      "Spoken sentences communicate complete thoughts.",
+      "Ideas can be shared with different audiences."
+    ],
+    "key_skills": [
+      "I can express what I am thinking and feeling.",
+      "I can use gestures to communicate.",
+      "I can speak in complete sentences.",
+      "I can tell the difference between complete and incomplete sentences."
+    ],
+    "raw_cell": "Key Understandings\nLanguage and gestures can share ideas, thoughts and feelings.\nSpoken sentences communicate complete thoughts.\nIdeas can be shared with different audiences.\nKey Skills\nI can express what I am thinking and feeling.\nI can use gestures to communicate.\nI can speak in complete sentences.\nI can tell the difference between complete and incomplete sentences.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column2",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Topic-specific vocabulary helps us understand and communicate about a topic.",
+      "Adjectives provide clearer descriptions.",
+      "Sentence starters can support expressing ideas."
+    ],
+    "key_skills": [
+      "I can clarify unfamiliar vocabulary using context and discussion.",
+      "I can use topic-specific vocabulary.",
+      "I can use a range of sentence starters to express ideas and opinions.",
+      "I can speak in complete sentences."
+    ],
+    "raw_cell": "Key Understandings\nTopic-specific vocabulary helps us understand and communicate about a topic.\nAdjectives provide clearer descriptions.\nSentence starters can support expressing ideas.\nKey Skills\nI can clarify unfamiliar vocabulary using context and discussion.\nI can use topic-specific vocabulary.\nI can use a range of sentence starters to express ideas and opinions.\nI can speak in complete sentences.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column3",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Topic-specific vocabulary supports deeper understanding and demonstrates learning.",
+      "Adjectives and adverbs can make descriptions more precise."
+    ],
+    "key_skills": [
+      "I can discuss and clarify new words and phrases.",
+      "I can replace everyday language with topic-specific vocabulary when appropriate.",
+      "I can use adjectives and adverbs appropriately to describe."
+    ],
+    "raw_cell": "Key Understandings\nTopic-specific vocabulary supports deeper understanding and demonstrates learning.\nAdjectives and adverbs can make descriptions more precise.\nKey Skills\nI can discuss and clarify new words and phrases.\nI can replace everyday language with topic-specific vocabulary when appropriate.\nI can use adjectives and adverbs appropriately to describe.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column4",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Grammar and vocabulary choices support clear expression.",
+      "Words can have different meanings in different contexts.",
+      "Prefixes and suffixes can change word meaning.",
+      "Topic-specific vocabulary supports precise communication."
+    ],
+    "key_skills": [
+      "I can identify and use subject–verb agreement.",
+      "I can use verbs accurately for different purposes and tenses.",
+      "I can use technical vocabulary in context.",
+      "I can explain how prefixes and suffixes change meaning.",
+      "I can use vocabulary appropriate to the topic."
+    ],
+    "raw_cell": "Key Understandings\nGrammar and vocabulary choices support clear expression.\nWords can have different meanings in different contexts.\nPrefixes and suffixes can change word meaning.\nTopic-specific vocabulary supports precise communication.\nKey Skills\nI can identify and use subject–verb agreement.\nI can use verbs accurately for different purposes and tenses.\nI can use technical vocabulary in context.\nI can explain how prefixes and suffixes change meaning.\nI can use vocabulary appropriate to the topic.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column5",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Synonyms and antonyms can be selected for effect.",
+      "Specific and technical vocabulary can express ideas precisely."
+    ],
+    "key_skills": [
+      "I can select synonyms and antonyms for purpose and effect.",
+      "I can choose precise and technical vocabulary.",
+      "I can refine language choices for precision."
+    ],
+    "raw_cell": "Key Understandings\nSynonyms and antonyms can be selected for effect.\nSpecific and technical vocabulary can express ideas precisely.\nKey Skills\nI can select synonyms and antonyms for purpose and effect.\nI can choose precise and technical vocabulary.\nI can refine language choices for precision.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column6",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Vocabulary can express greater precision of meaning.",
+      "Technical vocabulary supports precise ideas.",
+      "Language choices can be made for purpose and effect."
+    ],
+    "key_skills": [
+      "I can use precise words and technical vocabulary.",
+      "I can vary vocabulary to communicate ideas accurately.",
+      "I can select language appropriate to purpose and audience."
+    ],
+    "raw_cell": "Key Understandings\nVocabulary can express greater precision of meaning.\nTechnical vocabulary supports precise ideas.\nLanguage choices can be made for purpose and effect.\nKey Skills\nI can use precise words and technical vocabulary.\nI can vary vocabulary to communicate ideas accurately.\nI can select language appropriate to purpose and audience.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table2:column7",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Language for expression and developing ideas",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Objective and subjective language serve different purposes.",
+      "Precise and figurative language can create effects.",
+      "Language choices can influence audiences."
+    ],
+    "key_skills": [
+      "I can identify language that evokes emotions or makes judgements.",
+      "I can discuss how language choices persuade an audience.",
+      "I can distinguish fact from commentary and objective from subjective language.",
+      "I can choose language appropriate to purpose, audience and context."
+    ],
+    "raw_cell": "Key Understandings\nObjective and subjective language serve different purposes.\nPrecise and figurative language can create effects.\nLanguage choices can influence audiences.\nKey Skills\nI can identify language that evokes emotions or makes judgements.\nI can discuss how language choices persuade an audience.\nI can distinguish fact from commentary and objective from subjective language.\nI can choose language appropriate to purpose, audience and context.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column1",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Voice volume changes for different situations.",
+      "Staying on topic helps an audience understand.",
+      "Pictures and questions can support presenting."
+    ],
+    "key_skills": [
+      "I can use an appropriate voice volume.",
+      "I can stay on topic.",
+      "I can sequence ideas using picture prompts.",
+      "I can ask and answer questions.",
+      "I can demonstrate active listening."
+    ],
+    "raw_cell": "Key Understandings\nVoice volume changes for different situations.\nStaying on topic helps an audience understand.\nPictures and questions can support presenting.\nKey Skills\nI can use an appropriate voice volume.\nI can stay on topic.\nI can sequence ideas using picture prompts.\nI can ask and answer questions.\nI can demonstrate active listening.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column2",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Turn-taking allows everyone to contribute.",
+      "Clear speech and appropriate volume support understanding.",
+      "Feedback can improve speaking."
+    ],
+    "key_skills": [
+      "I can take turns speaking.",
+      "I can stay on topic in pairs, groups and whole-class situations.",
+      "I can ask relevant open and closed questions.",
+      "I can answer audience questions with some elaboration.",
+      "I can give helpful feedback.",
+      "I can speak clearly with appropriate volume."
+    ],
+    "raw_cell": "Key Understandings\nTurn-taking allows everyone to contribute.\nClear speech and appropriate volume support understanding.\nFeedback can improve speaking.\nKey Skills\nI can take turns speaking.\nI can stay on topic in pairs, groups and whole-class situations.\nI can ask relevant open and closed questions.\nI can answer audience questions with some elaboration.\nI can give helpful feedback.\nI can speak clearly with appropriate volume.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column3",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Formal presentations use more formal language and topic-specific vocabulary.",
+      "Volume and tone should suit the audience and situation.",
+      "Feedback improves presentation skills."
+    ],
+    "key_skills": [
+      "I can use formal language and tone when presenting.",
+      "I can use topic-specific vocabulary.",
+      "I can adjust volume for my audience.",
+      "I can give supportive, relevant feedback.",
+      "I can maintain eye contact and scan the audience.",
+      "I can vary tone, volume and pace for effect."
+    ],
+    "raw_cell": "Key Understandings\nFormal presentations use more formal language and topic-specific vocabulary.\nVolume and tone should suit the audience and situation.\nFeedback improves presentation skills.\nKey Skills\nI can use formal language and tone when presenting.\nI can use topic-specific vocabulary.\nI can adjust volume for my audience.\nI can give supportive, relevant feedback.\nI can maintain eye contact and scan the audience.\nI can vary tone, volume and pace for effect.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column4",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Active listening supports understanding.",
+      "Effective collaboration involves different roles.",
+      "Formality changes according to audience.",
+      "Voice and body language support effective communication."
+    ],
+    "key_skills": [
+      "I can demonstrate active listening.",
+      "I can fulfil my role and collaborate with others.",
+      "I can adjust language for audience and context.",
+      "I can use tone, pitch, volume, pace and body language purposefully."
+    ],
+    "raw_cell": "Key Understandings\nActive listening supports understanding.\nEffective collaboration involves different roles.\nFormality changes according to audience.\nVoice and body language support effective communication.\nKey Skills\nI can demonstrate active listening.\nI can fulfil my role and collaborate with others.\nI can adjust language for audience and context.\nI can use tone, pitch, volume, pace and body language purposefully.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column5",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Ideas and opinions should be clear and coherent.",
+      "Speech organisation helps audiences follow information.",
+      "References can strengthen credibility.",
+      "Voice and body language can engage an audience.",
+      "Rehearsal and feedback improve presentations."
+    ],
+    "key_skills": [
+      "I can present clear ideas and relevant supporting details.",
+      "I can organise information appropriately for the text type.",
+      "I can refer to source materials.",
+      "I can use body language, tone, pace, volume and pitch for purpose.",
+      "I can act on feedback to improve my presentation."
+    ],
+    "raw_cell": "Key Understandings\nIdeas and opinions should be clear and coherent.\nSpeech organisation helps audiences follow information.\nReferences can strengthen credibility.\nVoice and body language can engage an audience.\nRehearsal and feedback improve presentations.\nKey Skills\nI can present clear ideas and relevant supporting details.\nI can organise information appropriately for the text type.\nI can refer to source materials.\nI can use body language, tone, pace, volume and pitch for purpose.\nI can act on feedback to improve my presentation.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column6",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Logical sequencing helps an audience follow main ideas.",
+      "Supporting details deepen understanding.",
+      "Graphics, sound and visuals can enhance engagement.",
+      "Tone, volume, pitch and pace affect understanding and engagement."
+    ],
+    "key_skills": [
+      "I can sequence ideas logically according to text structure.",
+      "I can include relevant supporting details.",
+      "I can select graphics, sound and visuals that support my message.",
+      "I can purposefully vary tone, volume, pitch and pace."
+    ],
+    "raw_cell": "Key Understandings\nLogical sequencing helps an audience follow main ideas.\nSupporting details deepen understanding.\nGraphics, sound and visuals can enhance engagement.\nTone, volume, pitch and pace affect understanding and engagement.\nKey Skills\nI can sequence ideas logically according to text structure.\nI can include relevant supporting details.\nI can select graphics, sound and visuals that support my message.\nI can purposefully vary tone, volume, pitch and pace.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Speaking_and_Listening_Throughlines_Victorian_English_2.0:table3:column7",
+    "source_file": "Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3",
+    "section": "Presenting/speaking to an audience",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Logical sequencing and supporting detail strengthen a presentation.",
+      "Multimodal elements can enhance audience understanding and engagement.",
+      "Voice choices can be used deliberately for effect.",
+      "Language should be appropriate to audience and purpose."
+    ],
+    "key_skills": [
+      "I can sequence content and main ideas logically.",
+      "I can include relevant supporting details and multimodal elements.",
+      "I can purposefully use tone, volume, pitch and pace.",
+      "I can present ideas using language appropriate to my audience."
+    ],
+    "raw_cell": "Key Understandings\nLogical sequencing and supporting detail strengthen a presentation.\nMultimodal elements can enhance audience understanding and engagement.\nVoice choices can be used deliberately for effect.\nLanguage should be appropriate to audience and purpose.\nKey Skills\nI can sequence content and main ideas logically.\nI can include relevant supporting details and multimodal elements.\nI can purposefully use tone, volume, pitch and pace.\nI can present ideas using language appropriate to my audience.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column1",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Readers check that reading makes sense, sounds right and looks right.",
+      "Pictures and words provide clues for fixing errors."
+    ],
+    "key_skills": [
+      "I can stop when my reading does not make sense, sound right or look right.",
+      "I can use picture and word clues to fix an error and continue reading."
+    ],
+    "raw_cell": "Key Understandings\nReaders check that reading makes sense, sounds right and looks right.\nPictures and words provide clues for fixing errors.\nKey Skills\nI can stop when my reading does not make sense, sound right or look right.\nI can use picture and word clues to fix an error and continue reading.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column2",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Readers monitor meaning while reading.",
+      "Pictures and words can be used to self-correct."
+    ],
+    "key_skills": [
+      "I can stop and check when meaning breaks down.",
+      "I can use picture and word clues to self-correct.",
+      "I can reread when I lose meaning."
+    ],
+    "raw_cell": "Key Understandings\nReaders monitor meaning while reading.\nPictures and words can be used to self-correct.\nKey Skills\nI can stop and check when meaning breaks down.\nI can use picture and word clues to self-correct.\nI can reread when I lose meaning.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column3",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Readers monitor understanding and reread when meaning is lost.",
+      "Meaning can be checked using more than one source of information."
+    ],
+    "key_skills": [
+      "I can use letter–sound knowledge, sentence structure, high-frequency words and context to self-correct.",
+      "I can identify when meaning has been lost.",
+      "I can skim and reread when needed."
+    ],
+    "raw_cell": "Key Understandings\nReaders monitor understanding and reread when meaning is lost.\nMeaning can be checked using more than one source of information.\nKey Skills\nI can use letter–sound knowledge, sentence structure, high-frequency words and context to self-correct.\nI can identify when meaning has been lost.\nI can skim and reread when needed.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column4",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Readers use multiple sources of information to confirm meaning.",
+      "Context helps determine the intended meaning of words with multiple meanings."
+    ],
+    "key_skills": [
+      "I can use words, images, diagrams, captions, glossaries and prior knowledge to check understanding.",
+      "I can use context to determine the meaning of unfamiliar or multiple-meaning words."
+    ],
+    "raw_cell": "Key Understandings\nReaders use multiple sources of information to confirm meaning.\nContext helps determine the intended meaning of words with multiple meanings.\nKey Skills\nI can use words, images, diagrams, captions, glossaries and prior knowledge to check understanding.\nI can use context to determine the meaning of unfamiliar or multiple-meaning words.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column5",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Readers recognise when meaning is lost and take corrective action.",
+      "Monitoring includes checking word recognition, sentence structure, meaning and fluency."
+    ],
+    "key_skills": [
+      "I can pause and ask whether my reading makes sense.",
+      "I can identify when a reading error changes meaning and correct it.",
+      "I can use meaning, sentence structure and letter–sound information to reassess a text."
+    ],
+    "raw_cell": "Key Understandings\nReaders recognise when meaning is lost and take corrective action.\nMonitoring includes checking word recognition, sentence structure, meaning and fluency.\nKey Skills\nI can pause and ask whether my reading makes sense.\nI can identify when a reading error changes meaning and correct it.\nI can use meaning, sentence structure and letter–sound information to reassess a text.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column6",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Readers can repair meaning at word, sentence and text level.",
+      "Text structures, features and vocabulary can support monitoring."
+    ],
+    "key_skills": [
+      "I can use rereading and cross-checking to self-correct.",
+      "I can use text structure, text features and graphics to monitor understanding.",
+      "I can use topic-specific vocabulary to check and repair meaning."
+    ],
+    "raw_cell": "Key Understandings\nReaders can repair meaning at word, sentence and text level.\nText structures, features and vocabulary can support monitoring.\nKey Skills\nI can use rereading and cross-checking to self-correct.\nI can use text structure, text features and graphics to monitor understanding.\nI can use topic-specific vocabulary to check and repair meaning.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table1:column7",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Monitoring and self correcting",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Effective readers deliberately monitor and repair meaning.",
+      "Knowledge of language, text structure, features and vocabulary supports comprehension."
+    ],
+    "key_skills": [
+      "I can select appropriate strategies to monitor and self-correct.",
+      "I can use text structure, graphics and vocabulary to confirm meaning.",
+      "I can reread and cross-check when meaning breaks down."
+    ],
+    "raw_cell": "Key Understandings\nEffective readers deliberately monitor and repair meaning.\nKnowledge of language, text structure, features and vocabulary supports comprehension.\nKey Skills\nI can select appropriate strategies to monitor and self-correct.\nI can use text structure, graphics and vocabulary to confirm meaning.\nI can reread and cross-check when meaning breaks down.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column1",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Literal questions can be answered using evidence from the text.",
+      "Pictures and words support recall and retelling.",
+      "Stories can be retold in sequence."
+    ],
+    "key_skills": [
+      "I can locate answers using words and pictures.",
+      "I can retell important events in order.",
+      "I can retell the beginning, problem and solution of a simple story."
+    ],
+    "raw_cell": "Key Understandings\nLiteral questions can be answered using evidence from the text.\nPictures and words support recall and retelling.\nStories can be retold in sequence.\nKey Skills\nI can locate answers using words and pictures.\nI can retell important events in order.\nI can retell the beginning, problem and solution of a simple story.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column2",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Summarising means identifying the most important information.",
+      "Text features help readers locate information."
+    ],
+    "key_skills": [
+      "I can locate information using fiction features such as characters, setting and events.",
+      "I can use non-fiction features such as headings, contents pages, captions and diagrams.",
+      "I can summarise the important information."
+    ],
+    "raw_cell": "Key Understandings\nSummarising means identifying the most important information.\nText features help readers locate information.\nKey Skills\nI can locate information using fiction features such as characters, setting and events.\nI can use non-fiction features such as headings, contents pages, captions and diagrams.\nI can summarise the important information.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column3",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "The main idea is the most important point the author wants the reader to understand.",
+      "Text features support locating information and summarising."
+    ],
+    "key_skills": [
+      "I can identify and explain the main idea.",
+      "I can use headings, glossaries, captions, diagrams and other features to locate information.",
+      "I can summarise using the main idea and key details."
+    ],
+    "raw_cell": "Key Understandings\nThe main idea is the most important point the author wants the reader to understand.\nText features support locating information and summarising.\nKey Skills\nI can identify and explain the main idea.\nI can use headings, glossaries, captions, diagrams and other features to locate information.\nI can summarise using the main idea and key details.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column4",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Main and supporting ideas help readers build understanding.",
+      "Summaries focus on the most important ideas and information."
+    ],
+    "key_skills": [
+      "I can identify the main idea and supporting details.",
+      "I can use text features to scan, skim and locate information.",
+      "I can summarise key ideas, including relevant theme, lesson or message when appropriate."
+    ],
+    "raw_cell": "Key Understandings\nMain and supporting ideas help readers build understanding.\nSummaries focus on the most important ideas and information.\nKey Skills\nI can identify the main idea and supporting details.\nI can use text features to scan, skim and locate information.\nI can summarise key ideas, including relevant theme, lesson or message when appropriate.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column5",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Some sections of a text are more significant than others.",
+      "Texts on the same topic may contain similar and different ideas.",
+      "Information can be summarised across sources."
+    ],
+    "key_skills": [
+      "I can identify important sections and information.",
+      "I can compare ideas across texts.",
+      "I can summarise information from one or more sources.",
+      "I can use text features to locate relevant information."
+    ],
+    "raw_cell": "Key Understandings\nSome sections of a text are more significant than others.\nTexts on the same topic may contain similar and different ideas.\nInformation can be summarised across sources.\nKey Skills\nI can identify important sections and information.\nI can compare ideas across texts.\nI can summarise information from one or more sources.\nI can use text features to locate relevant information.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column6",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Information in texts has a hierarchy of importance.",
+      "A concise summary captures the overall message or meaning."
+    ],
+    "key_skills": [
+      "I can identify the overall message or theme.",
+      "I can distinguish important from less important information.",
+      "I can summarise using relevant information, opinions or evidence that supports the text's meaning.",
+      "I can use text features and resources to locate information."
+    ],
+    "raw_cell": "Key Understandings\nInformation in texts has a hierarchy of importance.\nA concise summary captures the overall message or meaning.\nKey Skills\nI can identify the overall message or theme.\nI can distinguish important from less important information.\nI can summarise using relevant information, opinions or evidence that supports the text's meaning.\nI can use text features and resources to locate information.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table2:column7",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literal knowledge/comprehension (retelling, answering literal questions, summarising)",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Effective summaries are concise and select information that represents the overall message or theme.",
+      "Information can be gathered and synthesised across texts and sources."
+    ],
+    "key_skills": [
+      "I can identify the overall message or theme.",
+      "I can summarise relevant information, arguments and opinions.",
+      "I can locate and synthesise key ideas from multiple texts.",
+      "I can select appropriate resources and text features to locate specific information."
+    ],
+    "raw_cell": "Key Understandings\nEffective summaries are concise and select information that represents the overall message or theme.\nInformation can be gathered and synthesised across texts and sources.\nKey Skills\nI can identify the overall message or theme.\nI can summarise relevant information, arguments and opinions.\nI can locate and synthesise key ideas from multiple texts.\nI can select appropriate resources and text features to locate specific information.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column1",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Readers use prior knowledge and text clues to predict and make connections.",
+      "Pictures and words provide clues about characters and events."
+    ],
+    "key_skills": [
+      "I can use the title, cover and illustrations to make a prediction.",
+      "I can make a connection between a text and my own life.",
+      "I can explain what I already know and what I learnt.",
+      "I can infer a character's feelings using words and pictures."
+    ],
+    "raw_cell": "Key Understandings\nReaders use prior knowledge and text clues to predict and make connections.\nPictures and words provide clues about characters and events.\nKey Skills\nI can use the title, cover and illustrations to make a prediction.\nI can make a connection between a text and my own life.\nI can explain what I already know and what I learnt.\nI can infer a character's feelings using words and pictures.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column2",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Predictions are informed guesses that can change as new information is revealed.",
+      "Text clues support inferences about characters' feelings and motives."
+    ],
+    "key_skills": [
+      "I can use title, cover, blurb, prior knowledge and text structure to predict.",
+      "I can revise my predictions as I read.",
+      "I can infer character feelings and motives using text clues.",
+      "I can make text-to-self connections."
+    ],
+    "raw_cell": "Key Understandings\nPredictions are informed guesses that can change as new information is revealed.\nText clues support inferences about characters' feelings and motives.\nKey Skills\nI can use title, cover, blurb, prior knowledge and text structure to predict.\nI can revise my predictions as I read.\nI can infer character feelings and motives using text clues.\nI can make text-to-self connections.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column3",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Prior knowledge and text evidence combine to build deeper understanding.",
+      "Text-to-text connections support comprehension."
+    ],
+    "key_skills": [
+      "I can identify what I already know and what is new.",
+      "I can explain how new information changes my thinking.",
+      "I can use text clues and prior knowledge to predict and infer.",
+      "I can make text-to-text and text-to-self connections."
+    ],
+    "raw_cell": "Key Understandings\nPrior knowledge and text evidence combine to build deeper understanding.\nText-to-text connections support comprehension.\nKey Skills\nI can identify what I already know and what is new.\nI can explain how new information changes my thinking.\nI can use text clues and prior knowledge to predict and infer.\nI can make text-to-text and text-to-self connections.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column4",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Text structure and prior knowledge can support predictions.",
+      "Synthesising information develops new understanding.",
+      "A text's message or moral can contribute to understanding."
+    ],
+    "key_skills": [
+      "I can use headings, genre knowledge and prior knowledge to predict.",
+      "I can confirm or modify predictions using evidence.",
+      "I can synthesise prior knowledge and new information.",
+      "I can identify the message or lesson using text clues."
+    ],
+    "raw_cell": "Key Understandings\nText structure and prior knowledge can support predictions.\nSynthesising information develops new understanding.\nA text's message or moral can contribute to understanding.\nKey Skills\nI can use headings, genre knowledge and prior knowledge to predict.\nI can confirm or modify predictions using evidence.\nI can synthesise prior knowledge and new information.\nI can identify the message or lesson using text clues.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column5",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Authors use language and text details to develop characters and ideas.",
+      "Connections between texts can deepen understanding.",
+      "Perspective influences how characters and ideas are represented."
+    ],
+    "key_skills": [
+      "I can infer character traits, motives and perspectives using evidence.",
+      "I can identify point of view.",
+      "I can compare ideas, perspectives and characters across texts.",
+      "I can explain how a text's message connects to life or experience."
+    ],
+    "raw_cell": "Key Understandings\nAuthors use language and text details to develop characters and ideas.\nConnections between texts can deepen understanding.\nPerspective influences how characters and ideas are represented.\nKey Skills\nI can infer character traits, motives and perspectives using evidence.\nI can identify point of view.\nI can compare ideas, perspectives and characters across texts.\nI can explain how a text's message connects to life or experience.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column6",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Authors use clues, language and text structure to shape readers' interpretations.",
+      "Texts can reflect cultural, historical and social contexts."
+    ],
+    "key_skills": [
+      "I can infer motives, themes and underlying messages.",
+      "I can explain how an author supports or challenges ideas about characters.",
+      "I can infer aspects of the context in which a text was written.",
+      "I can compare ideas, language and perspectives across texts and justify inferences."
+    ],
+    "raw_cell": "Key Understandings\nAuthors use clues, language and text structure to shape readers' interpretations.\nTexts can reflect cultural, historical and social contexts.\nKey Skills\nI can infer motives, themes and underlying messages.\nI can explain how an author supports or challenges ideas about characters.\nI can infer aspects of the context in which a text was written.\nI can compare ideas, language and perspectives across texts and justify inferences.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column7",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Verbal and written text responses (prediction, inference, metaphor)",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Predictions and interpretations are strengthened by genre, text structure, prior knowledge and subject knowledge.",
+      "Relationships, perspectives and cultural or historical contexts can be inferred from multiple sources."
+    ],
+    "key_skills": [
+      "I can predict plotlines, information and arguments using genre, structure and purpose.",
+      "I can make and justify inferences using multiple text clues and evidence.",
+      "I can analyse relationships, perspectives and representations.",
+      "I can explain cultural and historical insights and connect ideas across texts."
+    ],
+    "raw_cell": "Key Understandings\nPredictions and interpretations are strengthened by genre, text structure, prior knowledge and subject knowledge.\nRelationships, perspectives and cultural or historical contexts can be inferred from multiple sources.\nKey Skills\nI can predict plotlines, information and arguments using genre, structure and purpose.\nI can make and justify inferences using multiple text clues and evidence.\nI can analyse relationships, perspectives and representations.\nI can explain cultural and historical insights and connect ideas across texts.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column1",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Foundation",
+    "year_numeric": 0,
+    "key_understandings": [
+      "Narrative texts tell stories; informative texts provide information.",
+      "Fiction and non-fiction have recognisable features."
+    ],
+    "key_skills": [
+      "I can identify features of imaginary texts.",
+      "I can identify features of informative texts.",
+      "I can identify texts I enjoy and explain why."
+    ],
+    "raw_cell": "Key Understandings\nNarrative texts tell stories; informative texts provide information.\nFiction and non-fiction have recognisable features.\nKey Skills\nI can identify features of imaginary texts.\nI can identify features of informative texts.\nI can identify texts I enjoy and explain why.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column2",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Year one",
+    "year_numeric": 1,
+    "key_understandings": [
+      "Narrative, persuasive and informative texts have different purposes and features.",
+      "Fiction can contain realistic and imaginary elements."
+    ],
+    "key_skills": [
+      "I can identify the purpose of different text types.",
+      "I can compare texts and explain similarities and differences.",
+      "I can identify realistic and imaginary elements.",
+      "I can identify key fiction and non-fiction features."
+    ],
+    "raw_cell": "Key Understandings\nNarrative, persuasive and informative texts have different purposes and features.\nFiction can contain realistic and imaginary elements.\nKey Skills\nI can identify the purpose of different text types.\nI can compare texts and explain similarities and differences.\nI can identify realistic and imaginary elements.\nI can identify key fiction and non-fiction features.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column3",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Year Two",
+    "year_numeric": 2,
+    "key_understandings": [
+      "Texts are organised differently according to genre, audience and purpose.",
+      "Text layout and features help readers navigate texts."
+    ],
+    "key_skills": [
+      "I can identify the purpose and structure of a text.",
+      "I can explain how language and text features support purpose.",
+      "I can identify audience and purpose using evidence."
+    ],
+    "raw_cell": "Key Understandings\nTexts are organised differently according to genre, audience and purpose.\nText layout and features help readers navigate texts.\nKey Skills\nI can identify the purpose and structure of a text.\nI can explain how language and text features support purpose.\nI can identify audience and purpose using evidence.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column4",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Year Three",
+    "year_numeric": 3,
+    "key_understandings": [
+      "Texts with similar purposes can target different audiences.",
+      "Comparing texts can deepen understanding.",
+      "Readers choose texts that are relevant to their purpose."
+    ],
+    "key_skills": [
+      "I can identify audience and purpose using text clues.",
+      "I can compare similarities and differences between texts and ideas.",
+      "I can evaluate whether a text is relevant to my reading purpose.",
+      "I can distinguish realistic and fantasy fiction."
+    ],
+    "raw_cell": "Key Understandings\nTexts with similar purposes can target different audiences.\nComparing texts can deepen understanding.\nReaders choose texts that are relevant to their purpose.\nKey Skills\nI can identify audience and purpose using text clues.\nI can compare similarities and differences between texts and ideas.\nI can evaluate whether a text is relevant to my reading purpose.\nI can distinguish realistic and fantasy fiction.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column5",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Year Four",
+    "year_numeric": 4,
+    "key_understandings": [
+      "Different text types have typical structures and language features for particular purposes.",
+      "Text features help readers navigate and understand information.",
+      "Authors use literary and language choices to engage readers."
+    ],
+    "key_skills": [
+      "I can identify text structures and language features and explain their purpose.",
+      "I can use headings, typography and other features to locate information.",
+      "I can explain how author choices add meaning or enjoyment.",
+      "I can evaluate the strength of evidence in an argument."
+    ],
+    "raw_cell": "Key Understandings\nDifferent text types have typical structures and language features for particular purposes.\nText features help readers navigate and understand information.\nAuthors use literary and language choices to engage readers.\nKey Skills\nI can identify text structures and language features and explain their purpose.\nI can use headings, typography and other features to locate information.\nI can explain how author choices add meaning or enjoyment.\nI can evaluate the strength of evidence in an argument.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column6",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Year Five",
+    "year_numeric": 5,
+    "key_understandings": [
+      "Texts have typical stages, phases and language features according to purpose.",
+      "Authors make choices to engage readers.",
+      "Some texts combine fictional and non-fiction elements and some are more useful for particular purposes."
+    ],
+    "key_skills": [
+      "I can identify structures, phases and purposes across text types.",
+      "I can explain how authors make texts engaging.",
+      "I can evaluate a text's usefulness for my purpose.",
+      "I can identify and interpret hybrid texts and their elements."
+    ],
+    "raw_cell": "Key Understandings\nTexts have typical stages, phases and language features according to purpose.\nAuthors make choices to engage readers.\nSome texts combine fictional and non-fiction elements and some are more useful for particular purposes.\nKey Skills\nI can identify structures, phases and purposes across text types.\nI can explain how authors make texts engaging.\nI can evaluate a text's usefulness for my purpose.\nI can identify and interpret hybrid texts and their elements.",
+    "status": "extracted_reference_not_imported"
+  },
+  {
+    "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table4:column7",
+    "source_file": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+    "source_sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131",
+    "section": "Literacy knowledge (print concepts, genre)",
+    "year_label": "Year Six",
+    "year_numeric": 6,
+    "key_understandings": [
+      "Author bias can influence meaning and arguments.",
+      "Text structure and language features work together to engage and influence audiences.",
+      "Text authenticity and relevance depend on purpose and evidence."
+    ],
+    "key_skills": [
+      "I can identify language that signals bias or position.",
+      "I can evaluate whether arguments and ideas are well supported.",
+      "I can explain how structure and language influence an audience.",
+      "I can use other sources to evaluate the authenticity and relevance of a text."
+    ],
+    "raw_cell": "Key Understandings\nAuthor bias can influence meaning and arguments.\nText structure and language features work together to engage and influence audiences.\nText authenticity and relevance depend on purpose and evidence.\nKey Skills\nI can identify language that signals bias or position.\nI can evaluate whether arguments and ideas are well supported.\nI can explain how structure and language influence an audience.\nI can use other sources to evaluate the authenticity and relevance of a text.",
+    "status": "extracted_reference_not_imported"
+  }
+]

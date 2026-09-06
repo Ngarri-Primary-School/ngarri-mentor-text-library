@@ -1,0 +1,12 @@
+[
+  {
+    "owner": "supabase_admin",
+    "nspname": "public",
+    "defaclacl": "{postgres=arwdDxtm/supabase_admin,anon=arwdDxtm/supabase_admin,authenticated=arwdDxtm/supabase_admin,service_role=arwdDxtm/supabase_admin}"
+  },
+  {
+    "owner": "postgres",
+    "nspname": "public",
+    "defaclacl": "{postgres=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  }
+]

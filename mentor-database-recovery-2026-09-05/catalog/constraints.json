@@ -1,0 +1,247 @@
+[
+  {
+    "table_name": "books",
+    "conname": "books_blurb_status_check",
+    "definition": "CHECK ((blurb_status = ANY (ARRAY['verified'::text, 'needs_review'::text])))"
+  },
+  {
+    "table_name": "books",
+    "conname": "books_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "books",
+    "conname": "books_source_row_key",
+    "definition": "UNIQUE (source_row)"
+  },
+  {
+    "table_name": "books",
+    "conname": "books_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['active'::text, 'archived'::text])))"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "conname": "inquiry_lens_annotations_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "conname": "inquiry_lens_annotations_book_id_lens_slug_key",
+    "definition": "UNIQUE (book_id, lens_slug)"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "conname": "inquiry_lens_annotations_confidence_check",
+    "definition": "CHECK ((confidence = ANY (ARRAY['high'::text, 'medium'::text, 'low'::text])))"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "conname": "inquiry_lens_annotations_lens_slug_fkey",
+    "definition": "FOREIGN KEY (lens_slug) REFERENCES inquiry_lenses(slug)"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "conname": "inquiry_lens_annotations_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "conname": "inquiry_lens_annotations_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['blank'::text, 'ai_suggested'::text, 'teacher_reviewed'::text, 'teacher_added'::text, 'rejected'::text])))"
+  },
+  {
+    "table_name": "inquiry_lenses",
+    "conname": "inquiry_lenses_pkey",
+    "definition": "PRIMARY KEY (slug)"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "conname": "pride_value_annotations_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "conname": "pride_value_annotations_book_id_value_slug_key",
+    "definition": "UNIQUE (book_id, value_slug)"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "conname": "pride_value_annotations_confidence_check",
+    "definition": "CHECK ((confidence = ANY (ARRAY['high'::text, 'medium'::text, 'low'::text])))"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "conname": "pride_value_annotations_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "conname": "pride_value_annotations_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['blank'::text, 'ai_suggested'::text, 'teacher_reviewed'::text, 'teacher_added'::text, 'rejected'::text])))"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "conname": "pride_value_annotations_value_slug_fkey",
+    "definition": "FOREIGN KEY (value_slug) REFERENCES pride_values(slug)"
+  },
+  {
+    "table_name": "pride_values",
+    "conname": "pride_values_pkey",
+    "definition": "PRIMARY KEY (slug)"
+  },
+  {
+    "table_name": "reading_strategies",
+    "conname": "reading_strategies_pkey",
+    "definition": "PRIMARY KEY (slug)"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_book_id_strategy_slug_year_lev_key",
+    "definition": "UNIQUE (book_id, strategy_slug, year_level)"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_confidence_check",
+    "definition": "CHECK ((confidence = ANY (ARRAY['high'::text, 'medium'::text, 'low'::text])))"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_source_type_check",
+    "definition": "CHECK ((source_type = ANY (ARRAY['teacher_spreadsheet'::text, 'ozlit'::text, 'ai_suggested'::text, 'teacher_override'::text])))"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['blank'::text, 'imported_teacher'::text, 'imported_ozlit'::text, 'ai_suggested'::text, 'teacher_reviewed'::text, 'teacher_added'::text, 'rejected'::text])))"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "conname": "reading_strategy_annotations_strategy_slug_fkey",
+    "definition": "FOREIGN KEY (strategy_slug) REFERENCES reading_strategies(slug)"
+  },
+  {
+    "table_name": "reading_strategy_detail",
+    "conname": "reading_strategy_detail_pkey",
+    "definition": "PRIMARY KEY (strategy_slug, year_level)"
+  },
+  {
+    "table_name": "reading_strategy_detail",
+    "conname": "reading_strategy_detail_strategy_slug_fkey",
+    "definition": "FOREIGN KEY (strategy_slug) REFERENCES reading_strategies(slug) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "conname": "teaching_ideas_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "conname": "teaching_ideas_difficulty_check",
+    "definition": "CHECK ((difficulty = ANY (ARRAY['Entry'::text, 'Medium'::text, 'Discussion'::text, 'Extension'::text])))"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "conname": "teaching_ideas_grouping_check",
+    "definition": "CHECK ((\"grouping\" = ANY (ARRAY['Individual'::text, 'Pairs'::text, 'Small group'::text, 'Whole class'::text])))"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "conname": "teaching_ideas_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "conname": "teaching_ideas_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['ai_suggested'::text, 'teacher_reviewed'::text, 'teacher_added'::text, 'rejected'::text])))"
+  },
+  {
+    "table_name": "teaching_resources",
+    "conname": "teaching_resources_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "teaching_resources",
+    "conname": "teaching_resources_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "teaching_resources",
+    "conname": "teaching_resources_type_check",
+    "definition": "CHECK ((type = ANY (ARRAY['PDF'::text, 'DOC'::text, 'VIDEO'::text, 'LINK'::text])))"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "conname": "why_use_bullets_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "conname": "why_use_bullets_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "conname": "why_use_bullets_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['ai_suggested'::text, 'teacher_reviewed'::text, 'teacher_added'::text, 'rejected'::text])))"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_book_id_fkey",
+    "definition": "FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_book_id_trait_slug_year_level_key",
+    "definition": "UNIQUE (book_id, trait_slug, year_level)"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_confidence_check",
+    "definition": "CHECK ((confidence = ANY (ARRAY['high'::text, 'medium'::text, 'low'::text])))"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_pkey",
+    "definition": "PRIMARY KEY (id)"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_source_type_check",
+    "definition": "CHECK ((source_type = ANY (ARRAY['teacher_spreadsheet'::text, 'ozlit'::text, 'ai_suggested'::text, 'teacher_override'::text])))"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_status_check",
+    "definition": "CHECK ((status = ANY (ARRAY['blank'::text, 'imported_teacher'::text, 'imported_ozlit'::text, 'ai_suggested'::text, 'teacher_reviewed'::text, 'teacher_added'::text, 'rejected'::text])))"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "conname": "writing_trait_annotations_trait_slug_fkey",
+    "definition": "FOREIGN KEY (trait_slug) REFERENCES writing_traits(slug)"
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "conname": "writing_trait_detail_pkey",
+    "definition": "PRIMARY KEY (trait_slug, year_level)"
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "conname": "writing_trait_detail_trait_slug_fkey",
+    "definition": "FOREIGN KEY (trait_slug) REFERENCES writing_traits(slug) ON DELETE CASCADE"
+  },
+  {
+    "table_name": "writing_traits",
+    "conname": "writing_traits_pkey",
+    "definition": "PRIMARY KEY (slug)"
+  }
+]

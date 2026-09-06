@@ -1,0 +1,72 @@
+[
+  {
+    "relname": "books",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "inquiry_lens_annotations",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "inquiry_lenses",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "pride_value_annotations",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "pride_values",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "reading_strategies",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "reading_strategy_annotations",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "reading_strategy_detail",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "teaching_ideas",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "teaching_resources",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "why_use_bullets",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "writing_trait_annotations",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "writing_trait_detail",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  },
+  {
+    "relname": "writing_traits",
+    "owner": "postgres",
+    "acl": "{postgres=arwdDxtm/postgres,anon=arwdDxtm/postgres,authenticated=arwdDxtm/postgres,service_role=arwdDxtm/postgres}"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "reference_records": 77,
+  "fox_quotes_checked_against_source_records": 5,
+  "five_source_pairs_hash_match": true,
+  "sources_unchanged": true,
+  "database_imported": false,
+  "reading_scope": "Three Word documents and five-page inquiry summary read; all 200 Murdoch PDF pages extracted, selected relevant passages in chapters 3\u20135 closely reviewed, not an end-to-end reading. Selected PDF images inspected.",
+  "outputs": [
+    "CONTENT-PLAN-UPDATE.md",
+    "curriculum-reference-records.json",
+    "../fox-content-review/FOX-INQUIRY-AND-LITERACY-ADDENDUM.md",
+    "../mentor-content-plan-2026-09-06.md"
+  ]
+}

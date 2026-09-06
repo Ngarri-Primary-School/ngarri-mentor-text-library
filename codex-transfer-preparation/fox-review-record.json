@@ -1,0 +1,584 @@
+{
+  "scope": "local_review_only_not_published",
+  "exported_at": "2026-09-06T10:55:09.077Z",
+  "book": {
+    "id": "fox-calibration",
+    "title": "Fox",
+    "author": "Margaret Wild",
+    "illustrator": "Ron Brooks"
+  },
+  "version": "fox-local-review-3-text-checked",
+  "reviewer": "Phill",
+  "items": [
+    {
+      "original": {
+        "id": "voice-opening",
+        "category": "Writing",
+        "title": "A frightening setting, a gentle rescuer",
+        "year": "Year 3",
+        "minutes": "20 minutes · Shared analysis and individual writing",
+        "curriculum": {
+          "text": "I can create an identifiable tone such as compassionate, bittersweet, frustrated or terrified.",
+          "source": "Recovered Year 3 Voice / Audience reference, FOX-REVIEW.md W1; also present in supplied prototype.",
+          "reference_id": "FOX-REVIEW:W1"
+        },
+        "text": "WHERE TO LOOK\nPDF page 1, the opening rescue: Dog carries the injured Magpie through the burnt forest. Compare the language of heat and damage with the description of his mouth as gentle.\n\nWHAT THE WRITING DEMONSTRATES\nDanger in the setting sits beside care in Dog’s action. That contrast gives students something concrete to investigate: a scene can feel frightening and compassionate at once. The mood is constructed through selected details, rather than an instruction telling readers what to feel.\n\nTEACH THROUGH THE PASSAGE\nRead the opening and collect the exact words that suggest danger separately from those that suggest care. Ask: “What would change if we removed the detail that makes Dog seem gentle?” Students explain how a small detail changes their reading of an animal carrying an injured bird in his mouth.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents write a short moment of help in an unsettling setting. They choose one setting detail and one caring action, then ask a reader to explain the resulting mood using those words as evidence.\n\nNOTICE LEARNING\nStudents explain how contrasting details shape a tone. They do not need to claim that the whole book maintains one unchanging mood.",
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 1: with a bird clamped in his big, gentle mouth.",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "confidence": null,
+        "confidence_note": "Not scored; evidence limitations are listed for review.",
+        "is_generic": false,
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "book_evidence": [
+          {
+            "pdf_page": 1,
+            "quote": "with a bird clamped in his big, gentle mouth."
+          }
+        ],
+        "relation": "demonstrates",
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 1, the opening rescue: Dog carries the injured Magpie through the burnt forest. Compare the language of heat and damage with the description of his mouth as gentle.\n\nWHAT THE WRITING DEMONSTRATES\nDanger in the setting sits beside care in Dog’s action. That contrast gives students something concrete to investigate: a scene can feel frightening and compassionate at once. The mood is constructed through selected details, rather than an instruction telling readers what to feel.\n\nTEACH THROUGH THE PASSAGE\nRead the opening and collect the exact words that suggest danger separately from those that suggest care. Ask: “What would change if we removed the detail that makes Dog seem gentle?” Students explain how a small detail changes their reading of an animal carrying an injured bird in his mouth.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents write a short moment of help in an unsettling setting. They choose one setting detail and one caring action, then ask a reader to explain the resulting mood using those words as evidence.\n\nNOTICE LEARNING\nStudents explain how contrasting details shape a tone. They do not need to claim that the whole book maintains one unchanging mood.",
+        "note": "remove the page numbers",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:46:40.812Z"
+      }
+    },
+    {
+      "original": {
+        "id": "word-choice-arrival",
+        "category": "Writing",
+        "title": "Fox’s arrival: words that make us wary",
+        "year": "Year 3",
+        "minutes": "20 minutes · Model, then pairs",
+        "curriculum": {
+          "text": "I can choose specific words and phrases for a desired effect.",
+          "source": "Recovered school reference quoted in FOX-REVIEW.md, W2; original school PDF comparison pending.",
+          "reference_id": "FOX-REVIEW:W2"
+        },
+        "text": "WHERE TO LOOK\nPDF page 2, Fox’s first arrival in the bush: the description of his eyes and the comparison of his movement to a “tongue of fire”.\n\nWHAT MAKES THIS A MENTOR-TEXT EXAMPLE\nWild does more than tell us a new animal has arrived. The fire image connects his movement with something vivid, attractive and potentially destructive. “Haunted” gives his eyes an emotional history without explaining it. Students can investigate how a few choices build an impression of a character before his later actions unfold. These are interpretations to test against the passage.\n\nTEACH THROUGH THE WRITING\nPut this deliberately plain, teacher-written alternative beside the actual passage: “A fox came through the trees.” What information does it convey? What feeling and possible character clues does it lose? Compare the effect of “haunted” with the invented alternative “friendly”. Ask students to explain the difference, rather than list adjectives.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents introduce a character through a chosen movement and one revealing detail, without naming the character’s personality. A partner explains the impression created and identifies the words responsible.\n\nNOTICE LEARNING\nThe student links a particular word or image to an effect on the reader and makes a purposeful choice in their own writing.",
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 2: He flickers through the trees like a tongue of fire, and Magpie trembles.",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "confidence": null,
+        "confidence_note": "Not scored; evidence limitations are listed for review.",
+        "is_generic": false,
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "book_evidence": [
+          {
+            "pdf_page": 2,
+            "quote": "He flickers through the trees like a tongue of fire, and Magpie trembles."
+          }
+        ],
+        "relation": "demonstrates",
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 2, Fox’s first arrival in the bush: the description of his eyes and the comparison of his movement to a “tongue of fire”.\n\nWHAT MAKES THIS A MENTOR-TEXT EXAMPLE\nWild does more than tell us a new animal has arrived. The fire image connects his movement with something vivid, attractive and potentially destructive. “Haunted” gives his eyes an emotional history without explaining it. Students can investigate how a few choices build an impression of a character before his later actions unfold. These are interpretations to test against the passage.\n\nTEACH THROUGH THE WRITING\nPut this deliberately plain, teacher-written alternative beside the actual passage: “A fox came through the trees.” What information does it convey? What feeling and possible character clues does it lose? Compare the effect of “haunted” with the invented alternative “friendly”. Ask students to explain the difference, rather than list adjectives.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents introduce a character through a chosen movement and one revealing detail, without naming the character’s personality. A partner explains the impression created and identifies the words responsible.\n\nNOTICE LEARNING\nThe student links a particular word or image to an effect on the reader and makes a purposeful choice in their own writing.",
+        "note": "remove the page number reference",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:47:27.324Z"
+      }
+    },
+    {
+      "original": {
+        "id": "organisation-pacing",
+        "title": "Organisation: seasons in a sentence, seconds held still",
+        "category": "Writing",
+        "year": "Year 3",
+        "minutes": "20–30 minutes · Suggested teaching time",
+        "curriculum": {
+          "text": "I can include spotlights and speed throughs in my text to highlight key ideas and pace.",
+          "source": "Recovered Organisation Year 3 skill, FOX-REVIEW.md W3 and original prototype.",
+          "reference_id": "FOX-REVIEW:W3"
+        },
+        "text": "WHERE TO LOOK\nPDF page 2: Dog and Magpie’s daily runs are compressed into the sentence that moves through summer and winter. Compare PDF page 3: after Fox’s rapid run into the desert, he stops; the narration dwells on stillness before he shakes Magpie off.\n\nWHAT THE WRITING DEMONSTRATES\nThe amount of story time covered is different from the amount of reading time given to it. Months of an established routine pass quickly. A few seconds at a turning point receive several separate statements. The contrast makes the pause conspicuous and can build anticipation before the betrayal.\n\nTEACH THROUGH THE CONTRAST\nRead the seasonal summary, then the desert sequence. Ask students to estimate the time passing in each and compare how much attention the writing gives it. Underline the rapid movement verbs before the stop. Then examine “Neither moves, neither speaks.” What does the repetition and absence of action make us wait for?\n\nTRANSFER TO STUDENTS’ WRITING\nStudents choose a turning point in their own narrative. Compress the routine leading up to it, then linger on a pause, gesture or thought before the change. They explain why that moment deserves the reader’s attention.\n\nNOTICE LEARNING\nStudents distinguish passing time from reading time and vary the detail deliberately. Short sentences alone do not prove that a writer is speeding up; here they can hold our attention on stillness.",
+        "book_evidence": [
+          {
+            "pdf_page": 2,
+            "quote": "every day, through summer, through winter."
+          },
+          {
+            "pdf_page": 3,
+            "quote": "He stops, scarcely panting. There is silence between them. Neither moves, neither speaks."
+          }
+        ],
+        "relation": "demonstrates",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "is_generic": false,
+        "confidence": null,
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 2: every day, through summer, through winter. PDF p. 3: He stops, scarcely panting. There is silence between them. Neither moves, neither speaks.",
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 2: Dog and Magpie’s daily runs are compressed into the sentence that moves through summer and winter. Compare PDF page 3: after Fox’s rapid run into the desert, he stops; the narration dwells on stillness before he shakes Magpie off.\n\nWHAT THE WRITING DEMONSTRATES\nThe amount of story time covered is different from the amount of reading time given to it. Months of an established routine pass quickly. A few seconds at a turning point receive several separate statements. The contrast makes the pause conspicuous and can build anticipation before the betrayal.\n\nTEACH THROUGH THE CONTRAST\nRead the seasonal summary, then the desert sequence. Ask students to estimate the time passing in each and compare how much attention the writing gives it. Underline the rapid movement verbs before the stop. Then examine “Neither moves, neither speaks.” What does the repetition and absence of action make us wait for?\n\nTRANSFER TO STUDENTS’ WRITING\nStudents choose a turning point in their own narrative. Compress the routine leading up to it, then linger on a pause, gesture or thought before the change. They explain why that moment deserves the reader’s attention.\n\nNOTICE LEARNING\nStudents distinguish passing time from reading time and vary the detail deliberately. Short sentences alone do not prove that a writer is speeding up; here they can hold our attention on stillness.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:48:07.494Z"
+      }
+    },
+    {
+      "original": {
+        "id": "inference-final-cry",
+        "category": "Reading",
+        "title": "Fox’s final cry: triumph, despair, or both?",
+        "year": "Year 4",
+        "minutes": "20 minutes · Pairs and discussion",
+        "curriculum": {
+          "text": "I can infer character traits, motives and perspectives using evidence.",
+          "source": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+          "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column5",
+          "sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131"
+        },
+        "text": "WHERE TO LOOK\nPDF page 4: Fox’s departure after abandoning Magpie, when his cry is heard across the desert. Revisit this alongside his earlier approach to Dog and Magpie and what he does before leaving.\n\nWHY INFERENCE MATTERS HERE\nHearing a cry does not settle what it means. Triumph and despair suggest different understandings of Fox: satisfaction at hurting others, pain associated with isolation, or an uneasy combination. Students need to connect the sound with his actions and relationships. Their task is to justify an interpretation, not to diagnose him or guess an answer held by the teacher.\n\nTEACH THROUGH THE BOOK\nAsk: “Which reading of the cry can you support, and what makes the other reading possible?” Make two columns: what the book shows or says; what we infer. Students place a relevant action or line in the first column before offering an interpretation in the second. Use Fox’s final statement about making Dog and Magpie know loneliness alongside his earlier watching and persuasion. How does each clue support or complicate the interpretation?\n\nNOTICE LEARNING\nStudents connect a specific clue to their explanation and can acknowledge uncertainty. A response that merely labels Fox ‘bad’ has not yet explained the cry.",
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 4: She cannot tell if it is a scream of triumph or despair.",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "confidence": null,
+        "confidence_note": "Not scored; evidence limitations are listed for review.",
+        "is_generic": false,
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "book_evidence": [
+          {
+            "pdf_page": 4,
+            "quote": "She cannot tell if it is a scream of triumph or despair."
+          }
+        ],
+        "relation": "demonstrates",
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 4: Fox’s departure after abandoning Magpie, when his cry is heard across the desert. Revisit this alongside his earlier approach to Dog and Magpie and what he does before leaving.\n\nWHY INFERENCE MATTERS HERE\nHearing a cry does not settle what it means. Triumph and despair suggest different understandings of Fox: satisfaction at hurting others, pain associated with isolation, or an uneasy combination. Students need to connect the sound with his actions and relationships. Their task is to justify an interpretation, not to diagnose him or guess an answer held by the teacher.\n\nTEACH THROUGH THE BOOK\nAsk: “Which reading of the cry can you support, and what makes the other reading possible?” Make two columns: what the book shows or says; what we infer. Students place a relevant action or line in the first column before offering an interpretation in the second. Use Fox’s final statement about making Dog and Magpie know loneliness alongside his earlier watching and persuasion. How does each clue support or complicate the interpretation?\n\nNOTICE LEARNING\nStudents connect a specific clue to their explanation and can acknowledge uncertainty. A response that merely labels Fox ‘bad’ has not yet explained the cry.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:48:25.062Z"
+      }
+    },
+    {
+      "original": {
+        "id": "connections-reciprocity",
+        "title": "Making connections: the promise of eyes and wings",
+        "category": "Reading",
+        "year": "Year 4",
+        "minutes": "20–30 minutes · Suggested teaching time",
+        "curriculum": {
+          "text": "I can explain how a text's message connects to life or experience.",
+          "source": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+          "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column5",
+          "sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131"
+        },
+        "text": "WHERE TO LOOK\nPDF page 2: after riding on Dog’s back, Magpie offers to be his missing eye and calls him her wings. On page 3 she repeats this promise while refusing Fox, then changes her mind.\n\nWHY THIS IS A STRONG CONNECTION OPPORTUNITY\nThe promise gives a precise representation of mutual support: each contributes something the other needs. Connecting that relationship with a familiar example of interdependence can deepen students’ understanding of why leaving matters. The connection should explain the text, rather than become an unrelated story about a pet or a friend.\n\nTEACH THROUGH THE PROMISE\nAsk: “What can they do together that would be harder alone?” Consider a hypothetical partnership, such as two students completing a task using different strengths. Map what each contributes, then return to the repeated promise: how does understanding dependence help explain its importance and the cost of breaking it? Identify a difference between the hypothetical example and the story as well as a similarity. Personal disclosure is optional.\n\nNOTICE LEARNING\nStudents explain how the connection changes their understanding of the promise. A relevant response returns to Dog and Magpie and cites their words or actions; it does more than identify a shared theme.",
+        "book_evidence": [
+          {
+            "pdf_page": 2,
+            "quote": "I will be your missing eye, and you will be my wings."
+          },
+          {
+            "pdf_page": 3,
+            "quote": "I will never leave Dog. I am his missing eye, and he is my wings."
+          }
+        ],
+        "relation": "demonstrates",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "is_generic": false,
+        "confidence": null,
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 2: I will be your missing eye, and you will be my wings. PDF p. 3: I will never leave Dog. I am his missing eye, and he is my wings.",
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 2: after riding on Dog’s back, Magpie offers to be his missing eye and calls him her wings. On page 3 she repeats this promise while refusing Fox, then changes her mind.\n\nWHY THIS IS A STRONG CONNECTION OPPORTUNITY\nThe promise gives a precise representation of mutual support: each contributes something the other needs. Connecting that relationship with a familiar example of interdependence can deepen students’ understanding of why leaving matters. The connection should explain the text, rather than become an unrelated story about a pet or a friend.\n\nTEACH THROUGH THE PROMISE\nAsk: “What can they do together that would be harder alone?” Consider a hypothetical partnership, such as two students completing a task using different strengths. Map what each contributes, then return to the repeated promise: how does understanding dependence help explain its importance and the cost of breaking it? Identify a difference between the hypothetical example and the story as well as a similarity. Personal disclosure is optional.\n\nNOTICE LEARNING\nStudents explain how the connection changes their understanding of the promise. A relevant response returns to Dog and Magpie and cites their words or actions; it does more than identify a shared theme.",
+        "note": "this is the incorrecnt interpretation of the reading comprehension skill of making connections. it is not about the characters making connections with each other, it is about making a connection with the text to one's own experiences, which helps them understand the meaning of the text",
+        "checked": false,
+        "status": "omitted",
+        "reviewed_by": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "original": {
+        "id": "synthesis-flying",
+        "title": "Synthesising: what changes about “flying”?",
+        "category": "Reading",
+        "year": "Year 3",
+        "minutes": "20–30 minutes · Suggested teaching time",
+        "curriculum": {
+          "text": "I can synthesise prior knowledge and new information.",
+          "source": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+          "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column4",
+          "sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131"
+        },
+        "text": "WHERE TO LOOK\nPDF page 2: Magpie celebrates running with Dog as flying. Page 3: after Fox’s persuasion, she dismisses that experience, then celebrates Fox’s speed as real flying. Page 4: despite that exhilarating ride, she is abandoned and starts home towards Dog.\n\nWHY SYNTHESIS MATTERS HERE\nThe repeated idea takes on different meanings as new events unfold. An early reading might understand flying as freedom restored through friendship. Later language makes speed seem like the missing answer. The ending challenges that account of what Magpie needs. Bringing these stages together can produce a more complex understanding than retelling one event or declaring a single moral.\n\nTEACH THROUGH THE CHANGING LANGUAGE\nAt each point, record “What might flying mean to Magpie now?” and a supporting phrase. After the ending, revisit the earlier responses: what new information changes or complicates them? Ask students to develop an explanation that draws on at least two stages. They may interpret the changing need differently if they support the reading.\n\nNOTICE LEARNING\nStudents explain how later evidence revises an earlier understanding. Listing three events in order is retelling; synthesis explains the new understanding that comes from considering them together.",
+        "book_evidence": [
+          {
+            "pdf_page": 2,
+            "quote": "FLY, DOG, FLY!"
+          },
+          {
+            "pdf_page": 3,
+            "quote": "This is nothing like flying. Nothing!"
+          },
+          {
+            "pdf_page": 3,
+            "quote": "At last I am flying. Really flying!"
+          }
+        ],
+        "relation": "demonstrates",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "is_generic": false,
+        "confidence": null,
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 2: FLY, DOG, FLY! PDF p. 3: This is nothing like flying. Nothing! PDF p. 3: At last I am flying. Really flying!",
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 2: Magpie celebrates running with Dog as flying. Page 3: after Fox’s persuasion, she dismisses that experience, then celebrates Fox’s speed as real flying. Page 4: despite that exhilarating ride, she is abandoned and starts home towards Dog.\n\nWHY SYNTHESIS MATTERS HERE\nThe repeated idea takes on different meanings as new events unfold. An early reading might understand flying as freedom restored through friendship. Later language makes speed seem like the missing answer. The ending challenges that account of what Magpie needs. Bringing these stages together can produce a more complex understanding than retelling one event or declaring a single moral.\n\nTEACH THROUGH THE CHANGING LANGUAGE\nAt each point, record “What might flying mean to Magpie now?” and a supporting phrase. After the ending, revisit the earlier responses: what new information changes or complicates them? Ask students to develop an explanation that draws on at least two stages. They may interpret the changing need differently if they support the reading.\n\nNOTICE LEARNING\nStudents explain how later evidence revises an earlier understanding. Listing three events in order is retelling; synthesis explains the new understanding that comes from considering them together.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:50:21.396Z"
+      }
+    },
+    {
+      "original": {
+        "id": "determination-home",
+        "category": "PRIDE",
+        "title": "Magpie begins the journey home",
+        "year": "Class suitability to review",
+        "minutes": "15 minutes · Shared reading and discussion",
+        "curriculum": {
+          "text": "We show determination by using a growth mindset to overcome challenges, and use new and innovative ways to achieve our personal best.",
+          "source": "Recovered Ngarri definition quoted in FOX-REVIEW.md, P1.",
+          "reference_id": "FOX-REVIEW:P1"
+        },
+        "text": "WHERE TO LOOK\nPDF page 4, the ending: Magpie is alone in the desert. Thinking of Dog precedes her decision to begin the long journey home. Locate the final movement described as “jiggety-hop”.\n\nHOW THE MOMENT SHOWS DETERMINATION\nThe useful example is the decision to start while the difficulty remains. Magpie has not suddenly recovered her ability to fly, and the book does not need to show an easy or completed return for the choice to matter. This makes the difference between experiencing a setback and responding to one visible. It supports the resilience aspect of Ngarri’s definition, rather than every part of it.\n\nTEACH THROUGH THE WORDS AND ACTION\nAsk: “What is still difficult for Magpie? What changes between remaining there and taking the first step?” Revisit the shift from her thoughts to her movement. Discuss how the small, awkward movement makes effort perceptible. Contrast starting a difficult task with already having succeeded: which does this ending actually show?\n\nNOTICE LEARNING\nStudents explain determination using Magpie’s obstacle, decision and action. ‘She is determined because she keeps trying’ is a starting point; ask what she actually decides to do and why that costs effort.",
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 4: Slowly, jiggety-hop, she begins the long journey home.",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "confidence": null,
+        "confidence_note": "Not scored; evidence limitations are listed for review.",
+        "is_generic": false,
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "book_evidence": [
+          {
+            "pdf_page": 4,
+            "quote": "Slowly, jiggety-hop, she begins the long journey home."
+          }
+        ],
+        "relation": "demonstrates",
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 4, the ending: Magpie is alone in the desert. Thinking of Dog precedes her decision to begin the long journey home. Locate the final movement described as “jiggety-hop”.\n\nHOW THE MOMENT SHOWS DETERMINATION\nThe useful example is the decision to start while the difficulty remains. Magpie has not suddenly recovered her ability to fly, and the book does not need to show an easy or completed return for the choice to matter. This makes the difference between experiencing a setback and responding to one visible. It supports the resilience aspect of Ngarri’s definition, rather than every part of it.\n\nTEACH THROUGH THE WORDS AND ACTION\nAsk: “What is still difficult for Magpie? What changes between remaining there and taking the first step?” Revisit the shift from her thoughts to her movement. Discuss how the small, awkward movement makes effort perceptible. Contrast starting a difficult task with already having succeeded: which does this ending actually show?\n\nNOTICE LEARNING\nStudents explain determination using Magpie’s obstacle, decision and action. ‘She is determined because she keeps trying’ is a starting point; ask what she actually decides to do and why that costs effort.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:50:35.518Z"
+      }
+    },
+    {
+      "original": {
+        "id": "integrity-promises",
+        "title": "Integrity: promises and choices when Dog is absent",
+        "category": "PRIDE",
+        "year": "Discussion through a counterexample",
+        "minutes": "20–30 minutes · Suggested teaching time",
+        "curriculum": {
+          "text": "We model and demonstrate integrity by being honest, true and fair in all interactions.",
+          "source": "Recovered Ngarri PRIDE reference: Integrity.",
+          "reference_id": "pride_values:integrity"
+        },
+        "text": "WHERE TO LOOK\nPDF page 3: Fox approaches when Dog is asleep or away. Magpie twice promises that she will never leave Dog, then agrees to go. On page 4 Fox declares that Dog and Magpie will now know loneliness.\n\nHOW THIS HELPS TEACH INTEGRITY\nThis is a discussion of a value through choices that undermine it, rather than an example of Fox demonstrating integrity. The contrast between a stated commitment and a later action makes honesty, fairness and responsibility concrete. Dog’s absence also makes the question of conduct without an observer relevant.\n\nTEACH THROUGH THE DECISIONS\nPlace Magpie’s repeated promise beside her later agreement. Ask what changed, who is affected, and whether explaining a choice is the same as justifying it. Examine Fox’s timing and final statement separately: what do these suggest about the purpose of his approach? Students propose a more honest or fair alternative at one decision point and explain the difference.\n\nNOTICE LEARNING\nStudents use a specific action to explain the value and distinguish understanding a motive from excusing harm. The ending suggests a first step towards Dog; it does not show an apology, forgiveness or completed repair.\n\nCONNECTION TYPE\nCounterexample for discussion. Do not present this as a positive example of a character embodying integrity.",
+        "book_evidence": [
+          {
+            "pdf_page": 3,
+            "quote": "I will never leave Dog."
+          },
+          {
+            "pdf_page": 3,
+            "quote": "I am ready."
+          },
+          {
+            "pdf_page": 4,
+            "quote": "Now you and Dog will know what it is like to be truly alone."
+          }
+        ],
+        "relation": "counterexample_for_discussion",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "is_generic": false,
+        "confidence": null,
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 3: I will never leave Dog. PDF p. 3: I am ready. PDF p. 4: Now you and Dog will know what it is like to be truly alone.",
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 3: Fox approaches when Dog is asleep or away. Magpie twice promises that she will never leave Dog, then agrees to go. On page 4 Fox declares that Dog and Magpie will now know loneliness.\n\nHOW THIS HELPS TEACH INTEGRITY\nThis is a discussion of a value through choices that undermine it, rather than an example of Fox demonstrating integrity. The contrast between a stated commitment and a later action makes honesty, fairness and responsibility concrete. Dog’s absence also makes the question of conduct without an observer relevant.\n\nTEACH THROUGH THE DECISIONS\nPlace Magpie’s repeated promise beside her later agreement. Ask what changed, who is affected, and whether explaining a choice is the same as justifying it. Examine Fox’s timing and final statement separately: what do these suggest about the purpose of his approach? Students propose a more honest or fair alternative at one decision point and explain the difference.\n\nNOTICE LEARNING\nStudents use a specific action to explain the value and distinguish understanding a motive from excusing harm. The ending suggests a first step towards Dog; it does not show an apology, forgiveness or completed repair.\n\nCONNECTION TYPE\nCounterexample for discussion. Do not present this as a positive example of a character embodying integrity.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:50:42.428Z"
+      }
+    },
+    {
+      "original": {
+        "id": "inquiry-mutual-help",
+        "category": "Inquiry",
+        "title": "Identity and wellbeing: what can we make possible together?",
+        "year": "Class suitability to review",
+        "minutes": "20 minutes · Inquiry discussion",
+        "curriculum": {
+          "text": "This lens focuses on how we can work towards our potential, develop resilience, build healthy relationships and make wise choices.",
+          "source": "Recovered Ngarri Identity, Creativity and Wellbeing lens excerpt, FOX-REVIEW.md I1.",
+          "reference_id": "FOX-REVIEW:I1"
+        },
+        "text": "WHERE TO LOOK\nPDF page 2: Dog runs with Magpie on his back; compare this partnership with Magpie’s later choice to leave with Fox and her eventual decision to start home on PDF page 4.\n\nWHY THIS OPENS AN INQUIRY\nThe first partnership gives us a concrete case of people—or characters—making something possible together. The later choices complicate an easy conclusion that friendship simply solves everything. This offers a starting point within Identity, Creativity and Wellbeing: mutual support, belonging and choices in relationships.\n\nSUGGESTED QUESTION\n“What makes a relationship supportive?” This is a question for the class to investigate, not official school wording or a conclusion already settled for them.\n\nTEACH THROUGH THE CONTRAST\nIn Tuning In, revisit the running partnership and ask what each character contributes and gains. Gather students’ questions. In Sorting Out, compare that relationship with the Fox episode: what actions support another character, and what actions serve one character at another’s expense? Require a story example for each suggestion.\n\nWHERE IT MIGHT LEAD\nStudents can reconsider their initial ideas about support after comparing the moments. Let their questions shape any further inquiry; avoid reducing the story to a single prescribed moral.",
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 2: I will be your missing eye, and you will be my wings.",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "confidence": null,
+        "confidence_note": "Not scored; evidence limitations are listed for review.",
+        "is_generic": false,
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "book_evidence": [
+          {
+            "pdf_page": 2,
+            "quote": "I will be your missing eye, and you will be my wings."
+          }
+        ],
+        "relation": "demonstrates",
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 2: Dog runs with Magpie on his back; compare this partnership with Magpie’s later choice to leave with Fox and her eventual decision to start home on PDF page 4.\n\nWHY THIS OPENS AN INQUIRY\nThe first partnership gives us a concrete case of people—or characters—making something possible together. The later choices complicate an easy conclusion that friendship simply solves everything. This offers a starting point within Identity, Creativity and Wellbeing: mutual support, belonging and choices in relationships.\n\nSUGGESTED QUESTION\n“What makes a relationship supportive?” This is a question for the class to investigate, not official school wording or a conclusion already settled for them.\n\nTEACH THROUGH THE CONTRAST\nIn Tuning In, revisit the running partnership and ask what each character contributes and gains. Gather students’ questions. In Sorting Out, compare that relationship with the Fox episode: what actions support another character, and what actions serve one character at another’s expense? Require a story example for each suggestion.\n\nWHERE IT MIGHT LEAD\nStudents can reconsider their initial ideas about support after comparing the moments. Let their questions shape any further inquiry; avoid reducing the story to a single prescribed moral.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:50:55.066Z"
+      }
+    },
+    {
+      "original": {
+        "id": "inquiry-responsibility",
+        "title": "Social responsibility: who is affected by a private choice?",
+        "category": "Inquiry",
+        "year": "Class suitability to review",
+        "minutes": "20–30 minutes · Suggested teaching time",
+        "curriculum": {
+          "text": "Students will investigate local and global communities and consider the challenges and opportunities associated with living in a diverse society. This lens is about social organisation and the ways in which people are connected to and have responsibility for each other. Students will explore the concept of change, discovering ways in which the past has made us who we are and how and why society changes over time. Students will develop citizenship by building skills for active involvement in their community.",
+          "source": "Recovered Ngarri inquiry lens: Social Responsibility.",
+          "reference_id": "inquiry_lenses:social_responsibility"
+        },
+        "text": "WHERE TO LOOK\nPDF page 2: Dog offers Fox food and shelter. Page 3: Fox persuades Magpie when Dog is absent. Page 4: Fox explicitly includes Dog in the loneliness he intends, and Magpie thinks of Dog waking to find her gone before she starts home.\n\nWHY THIS OPENS A DISTINCT INQUIRY\nChoices between two characters affect a third who is not present. That gives the class a concrete way into responsibility and interdependence, beyond the individual wellbeing focus of the other lens.\n\nSUGGESTED QUESTION\n“What responsibilities do we have to people affected by our choices?” This is a draft inquiry question, not a quotation from the school framework.\n\nTEACH THROUGH THE CHAIN OF CONSEQUENCES\nIn Tuning In, ask whose interests are present in each decision and whose voice is absent. In Sorting Out, draw a consequence map from one choice to its effects on all three characters. Separate what the story confirms from what students imagine Dog may feel. Revisit the ending: why might thinking about someone who is not there change a decision?\n\nWHERE IT MIGHT LEAD\nStudents can explore a hypothetical shared-resource or group-work decision, then reconsider their ideas about responsibility. Let their questions determine the next investigation; this book does not need to supply an entire inquiry unit.",
+        "book_evidence": [
+          {
+            "pdf_page": 2,
+            "quote": "Welcome. We can offer you food and shelter."
+          },
+          {
+            "pdf_page": 4,
+            "quote": "But then she thinks of Dog waking to find her gone."
+          }
+        ],
+        "relation": "inquiry_entry_point",
+        "status": "ai_suggested",
+        "source_type": "ai_suggested",
+        "is_generic": false,
+        "confidence": null,
+        "evidence": "Directly checked against the supplied four-page text-only PDF. Page numbers refer to this PDF, not a printed edition. Original illustrations and typography are not present. The teaching interpretation remains a draft for review. Located evidence: PDF p. 2: Welcome. We can offer you food and shelter. PDF p. 4: But then she thinks of Dog waking to find her gone.",
+        "provenance": {
+          "source_path": "C:\\Users\\09187270\\OneDrive - Department of Education\\Documents\\Ngarri\\Curriculum\\Literacy\\Mentor Texts\\Margaret Wild\\Fox\\Fox Margaret Wild.pdf",
+          "source_sha256": "cabe2bb7c0aa68e4517977c952acf5a40b8ade327e0d84d80bb331e7d86d7090",
+          "source_type": "user_supplied_text_copy",
+          "review_scope": "All four pages read and visually inspected; no original illustrations supplied."
+        },
+        "source_label": "Fox Margaret Wild.pdf — supplied text copy"
+      },
+      "review": {
+        "text": "WHERE TO LOOK\nPDF page 2: Dog offers Fox food and shelter. Page 3: Fox persuades Magpie when Dog is absent. Page 4: Fox explicitly includes Dog in the loneliness he intends, and Magpie thinks of Dog waking to find her gone before she starts home.\n\nWHY THIS OPENS A DISTINCT INQUIRY\nChoices between two characters affect a third who is not present. That gives the class a concrete way into responsibility and interdependence, beyond the individual wellbeing focus of the other lens.\n\nSUGGESTED QUESTION\n“What responsibilities do we have to people affected by our choices?” This is a draft inquiry question, not a quotation from the school framework.\n\nTEACH THROUGH THE CHAIN OF CONSEQUENCES\nIn Tuning In, ask whose interests are present in each decision and whose voice is absent. In Sorting Out, draw a consequence map from one choice to its effects on all three characters. Separate what the story confirms from what students imagine Dog may feel. Revisit the ending: why might thinking about someone who is not there change a decision?\n\nWHERE IT MIGHT LEAD\nStudents can explore a hypothetical shared-resource or group-work decision, then reconsider their ideas about responsibility. Let their questions determine the next investigation; this book does not need to supply an entire inquiry unit.",
+        "note": "remove pdf page number",
+        "checked": true,
+        "status": "approved",
+        "reviewed_by": "Phill",
+        "reviewed_at": "2026-09-06T03:51:12.215Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "item_id": "voice-opening",
+      "text": "WHERE TO LOOK\nPDF page 1, the opening rescue: Dog carries the injured Magpie through the burnt forest. Compare the language of heat and damage with the description of his mouth as gentle.\n\nWHAT THE WRITING DEMONSTRATES\nDanger in the setting sits beside care in Dog’s action. That contrast gives students something concrete to investigate: a scene can feel frightening and compassionate at once. The mood is constructed through selected details, rather than an instruction telling readers what to feel.\n\nTEACH THROUGH THE PASSAGE\nRead the opening and collect the exact words that suggest danger separately from those that suggest care. Ask: “What would change if we removed the detail that makes Dog seem gentle?” Students explain how a small detail changes their reading of an animal carrying an injured bird in his mouth.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents write a short moment of help in an unsettling setting. They choose one setting detail and one caring action, then ask a reader to explain the resulting mood using those words as evidence.\n\nNOTICE LEARNING\nStudents explain how contrasting details shape a tone. They do not need to claim that the whole book maintains one unchanging mood.",
+      "note": "remove the page numbers",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:46:40.812Z"
+    },
+    {
+      "item_id": "word-choice-arrival",
+      "text": "WHERE TO LOOK\nPDF page 2, Fox’s first arrival in the bush: the description of his eyes and the comparison of his movement to a “tongue of fire”.\n\nWHAT MAKES THIS A MENTOR-TEXT EXAMPLE\nWild does more than tell us a new animal has arrived. The fire image connects his movement with something vivid, attractive and potentially destructive. “Haunted” gives his eyes an emotional history without explaining it. Students can investigate how a few choices build an impression of a character before his later actions unfold. These are interpretations to test against the passage.\n\nTEACH THROUGH THE WRITING\nPut this deliberately plain, teacher-written alternative beside the actual passage: “A fox came through the trees.” What information does it convey? What feeling and possible character clues does it lose? Compare the effect of “haunted” with the invented alternative “friendly”. Ask students to explain the difference, rather than list adjectives.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents introduce a character through a chosen movement and one revealing detail, without naming the character’s personality. A partner explains the impression created and identifies the words responsible.\n\nNOTICE LEARNING\nThe student links a particular word or image to an effect on the reader and makes a purposeful choice in their own writing.",
+      "note": "remove the page number reference",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:47:27.324Z"
+    },
+    {
+      "item_id": "organisation-pacing",
+      "text": "WHERE TO LOOK\nPDF page 2: Dog and Magpie’s daily runs are compressed into the sentence that moves through summer and winter. Compare PDF page 3: after Fox’s rapid run into the desert, he stops; the narration dwells on stillness before he shakes Magpie off.\n\nWHAT THE WRITING DEMONSTRATES\nThe amount of story time covered is different from the amount of reading time given to it. Months of an established routine pass quickly. A few seconds at a turning point receive several separate statements. The contrast makes the pause conspicuous and can build anticipation before the betrayal.\n\nTEACH THROUGH THE CONTRAST\nRead the seasonal summary, then the desert sequence. Ask students to estimate the time passing in each and compare how much attention the writing gives it. Underline the rapid movement verbs before the stop. Then examine “Neither moves, neither speaks.” What does the repetition and absence of action make us wait for?\n\nTRANSFER TO STUDENTS’ WRITING\nStudents choose a turning point in their own narrative. Compress the routine leading up to it, then linger on a pause, gesture or thought before the change. They explain why that moment deserves the reader’s attention.\n\nNOTICE LEARNING\nStudents distinguish passing time from reading time and vary the detail deliberately. Short sentences alone do not prove that a writer is speeding up; here they can hold our attention on stillness.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:48:07.494Z"
+    },
+    {
+      "item_id": "inference-final-cry",
+      "text": "WHERE TO LOOK\nPDF page 4: Fox’s departure after abandoning Magpie, when his cry is heard across the desert. Revisit this alongside his earlier approach to Dog and Magpie and what he does before leaving.\n\nWHY INFERENCE MATTERS HERE\nHearing a cry does not settle what it means. Triumph and despair suggest different understandings of Fox: satisfaction at hurting others, pain associated with isolation, or an uneasy combination. Students need to connect the sound with his actions and relationships. Their task is to justify an interpretation, not to diagnose him or guess an answer held by the teacher.\n\nTEACH THROUGH THE BOOK\nAsk: “Which reading of the cry can you support, and what makes the other reading possible?” Make two columns: what the book shows or says; what we infer. Students place a relevant action or line in the first column before offering an interpretation in the second. Use Fox’s final statement about making Dog and Magpie know loneliness alongside his earlier watching and persuasion. How does each clue support or complicate the interpretation?\n\nNOTICE LEARNING\nStudents connect a specific clue to their explanation and can acknowledge uncertainty. A response that merely labels Fox ‘bad’ has not yet explained the cry.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:48:25.062Z"
+    },
+    {
+      "item_id": "connections-reciprocity",
+      "text": "WHERE TO LOOK\nPDF page 2: after riding on Dog’s back, Magpie offers to be his missing eye and calls him her wings. On page 3 she repeats this promise while refusing Fox, then changes her mind.\n\nWHY THIS IS A STRONG CONNECTION OPPORTUNITY\nThe promise gives a precise representation of mutual support: each contributes something the other needs. Connecting that relationship with a familiar example of interdependence can deepen students’ understanding of why leaving matters. The connection should explain the text, rather than become an unrelated story about a pet or a friend.\n\nTEACH THROUGH THE PROMISE\nAsk: “What can they do together that would be harder alone?” Consider a hypothetical partnership, such as two students completing a task using different strengths. Map what each contributes, then return to the repeated promise: how does understanding dependence help explain its importance and the cost of breaking it? Identify a difference between the hypothetical example and the story as well as a similarity. Personal disclosure is optional.\n\nNOTICE LEARNING\nStudents explain how the connection changes their understanding of the promise. A relevant response returns to Dog and Magpie and cites their words or actions; it does more than identify a shared theme.",
+      "note": "this is the incorrecnt interpretation of the reading comprehension skill of making connections. it is not about the characters making connections with each other, it is about making a connection with the text to one's own experiences, which helps them understand the meaning of the text",
+      "checked": true,
+      "status": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "decision_at": "2026-09-06T03:49:45.589Z",
+      "action": "omit"
+    },
+    {
+      "item_id": "connections-reciprocity",
+      "text": "WHERE TO LOOK\nPDF page 2: after riding on Dog’s back, Magpie offers to be his missing eye and calls him her wings. On page 3 she repeats this promise while refusing Fox, then changes her mind.\n\nWHY THIS IS A STRONG CONNECTION OPPORTUNITY\nThe promise gives a precise representation of mutual support: each contributes something the other needs. Connecting that relationship with a familiar example of interdependence can deepen students’ understanding of why leaving matters. The connection should explain the text, rather than become an unrelated story about a pet or a friend.\n\nTEACH THROUGH THE PROMISE\nAsk: “What can they do together that would be harder alone?” Consider a hypothetical partnership, such as two students completing a task using different strengths. Map what each contributes, then return to the repeated promise: how does understanding dependence help explain its importance and the cost of breaking it? Identify a difference between the hypothetical example and the story as well as a similarity. Personal disclosure is optional.\n\nNOTICE LEARNING\nStudents explain how the connection changes their understanding of the promise. A relevant response returns to Dog and Magpie and cites their words or actions; it does more than identify a shared theme.",
+      "note": "this is the incorrecnt interpretation of the reading comprehension skill of making connections. it is not about the characters making connections with each other, it is about making a connection with the text to one's own experiences, which helps them understand the meaning of the text",
+      "checked": false,
+      "status": "omitted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "decision_at": "2026-09-06T03:49:47.852Z",
+      "action": "omit"
+    },
+    {
+      "item_id": "synthesis-flying",
+      "text": "WHERE TO LOOK\nPDF page 2: Magpie celebrates running with Dog as flying. Page 3: after Fox’s persuasion, she dismisses that experience, then celebrates Fox’s speed as real flying. Page 4: despite that exhilarating ride, she is abandoned and starts home towards Dog.\n\nWHY SYNTHESIS MATTERS HERE\nThe repeated idea takes on different meanings as new events unfold. An early reading might understand flying as freedom restored through friendship. Later language makes speed seem like the missing answer. The ending challenges that account of what Magpie needs. Bringing these stages together can produce a more complex understanding than retelling one event or declaring a single moral.\n\nTEACH THROUGH THE CHANGING LANGUAGE\nAt each point, record “What might flying mean to Magpie now?” and a supporting phrase. After the ending, revisit the earlier responses: what new information changes or complicates them? Ask students to develop an explanation that draws on at least two stages. They may interpret the changing need differently if they support the reading.\n\nNOTICE LEARNING\nStudents explain how later evidence revises an earlier understanding. Listing three events in order is retelling; synthesis explains the new understanding that comes from considering them together.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:50:21.396Z"
+    },
+    {
+      "item_id": "determination-home",
+      "text": "WHERE TO LOOK\nPDF page 4, the ending: Magpie is alone in the desert. Thinking of Dog precedes her decision to begin the long journey home. Locate the final movement described as “jiggety-hop”.\n\nHOW THE MOMENT SHOWS DETERMINATION\nThe useful example is the decision to start while the difficulty remains. Magpie has not suddenly recovered her ability to fly, and the book does not need to show an easy or completed return for the choice to matter. This makes the difference between experiencing a setback and responding to one visible. It supports the resilience aspect of Ngarri’s definition, rather than every part of it.\n\nTEACH THROUGH THE WORDS AND ACTION\nAsk: “What is still difficult for Magpie? What changes between remaining there and taking the first step?” Revisit the shift from her thoughts to her movement. Discuss how the small, awkward movement makes effort perceptible. Contrast starting a difficult task with already having succeeded: which does this ending actually show?\n\nNOTICE LEARNING\nStudents explain determination using Magpie’s obstacle, decision and action. ‘She is determined because she keeps trying’ is a starting point; ask what she actually decides to do and why that costs effort.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:50:35.518Z"
+    },
+    {
+      "item_id": "integrity-promises",
+      "text": "WHERE TO LOOK\nPDF page 3: Fox approaches when Dog is asleep or away. Magpie twice promises that she will never leave Dog, then agrees to go. On page 4 Fox declares that Dog and Magpie will now know loneliness.\n\nHOW THIS HELPS TEACH INTEGRITY\nThis is a discussion of a value through choices that undermine it, rather than an example of Fox demonstrating integrity. The contrast between a stated commitment and a later action makes honesty, fairness and responsibility concrete. Dog’s absence also makes the question of conduct without an observer relevant.\n\nTEACH THROUGH THE DECISIONS\nPlace Magpie’s repeated promise beside her later agreement. Ask what changed, who is affected, and whether explaining a choice is the same as justifying it. Examine Fox’s timing and final statement separately: what do these suggest about the purpose of his approach? Students propose a more honest or fair alternative at one decision point and explain the difference.\n\nNOTICE LEARNING\nStudents use a specific action to explain the value and distinguish understanding a motive from excusing harm. The ending suggests a first step towards Dog; it does not show an apology, forgiveness or completed repair.\n\nCONNECTION TYPE\nCounterexample for discussion. Do not present this as a positive example of a character embodying integrity.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:50:42.428Z"
+    },
+    {
+      "item_id": "inquiry-mutual-help",
+      "text": "WHERE TO LOOK\nPDF page 2: Dog runs with Magpie on his back; compare this partnership with Magpie’s later choice to leave with Fox and her eventual decision to start home on PDF page 4.\n\nWHY THIS OPENS AN INQUIRY\nThe first partnership gives us a concrete case of people—or characters—making something possible together. The later choices complicate an easy conclusion that friendship simply solves everything. This offers a starting point within Identity, Creativity and Wellbeing: mutual support, belonging and choices in relationships.\n\nSUGGESTED QUESTION\n“What makes a relationship supportive?” This is a question for the class to investigate, not official school wording or a conclusion already settled for them.\n\nTEACH THROUGH THE CONTRAST\nIn Tuning In, revisit the running partnership and ask what each character contributes and gains. Gather students’ questions. In Sorting Out, compare that relationship with the Fox episode: what actions support another character, and what actions serve one character at another’s expense? Require a story example for each suggestion.\n\nWHERE IT MIGHT LEAD\nStudents can reconsider their initial ideas about support after comparing the moments. Let their questions shape any further inquiry; avoid reducing the story to a single prescribed moral.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:50:55.066Z"
+    },
+    {
+      "item_id": "inquiry-responsibility",
+      "text": "WHERE TO LOOK\nPDF page 2: Dog offers Fox food and shelter. Page 3: Fox persuades Magpie when Dog is absent. Page 4: Fox explicitly includes Dog in the loneliness he intends, and Magpie thinks of Dog waking to find her gone before she starts home.\n\nWHY THIS OPENS A DISTINCT INQUIRY\nChoices between two characters affect a third who is not present. That gives the class a concrete way into responsibility and interdependence, beyond the individual wellbeing focus of the other lens.\n\nSUGGESTED QUESTION\n“What responsibilities do we have to people affected by our choices?” This is a draft inquiry question, not a quotation from the school framework.\n\nTEACH THROUGH THE CHAIN OF CONSEQUENCES\nIn Tuning In, ask whose interests are present in each decision and whose voice is absent. In Sorting Out, draw a consequence map from one choice to its effects on all three characters. Separate what the story confirms from what students imagine Dog may feel. Revisit the ending: why might thinking about someone who is not there change a decision?\n\nWHERE IT MIGHT LEAD\nStudents can explore a hypothetical shared-resource or group-work decision, then reconsider their ideas about responsibility. Let their questions determine the next investigation; this book does not need to supply an entire inquiry unit.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:51:03.378Z"
+    },
+    {
+      "item_id": "inquiry-responsibility",
+      "text": "WHERE TO LOOK\nPDF page 2: Dog offers Fox food and shelter. Page 3: Fox persuades Magpie when Dog is absent. Page 4: Fox explicitly includes Dog in the loneliness he intends, and Magpie thinks of Dog waking to find her gone before she starts home.\n\nWHY THIS OPENS A DISTINCT INQUIRY\nChoices between two characters affect a third who is not present. That gives the class a concrete way into responsibility and interdependence, beyond the individual wellbeing focus of the other lens.\n\nSUGGESTED QUESTION\n“What responsibilities do we have to people affected by our choices?” This is a draft inquiry question, not a quotation from the school framework.\n\nTEACH THROUGH THE CHAIN OF CONSEQUENCES\nIn Tuning In, ask whose interests are present in each decision and whose voice is absent. In Sorting Out, draw a consequence map from one choice to its effects on all three characters. Separate what the story confirms from what students imagine Dog may feel. Revisit the ending: why might thinking about someone who is not there change a decision?\n\nWHERE IT MIGHT LEAD\nStudents can explore a hypothetical shared-resource or group-work decision, then reconsider their ideas about responsibility. Let their questions determine the next investigation; this book does not need to supply an entire inquiry unit.",
+      "note": "remove pdf page number",
+      "checked": true,
+      "status": "approved",
+      "reviewed_by": "Phill",
+      "reviewed_at": "2026-09-06T03:51:12.215Z"
+    }
+  ]
+}

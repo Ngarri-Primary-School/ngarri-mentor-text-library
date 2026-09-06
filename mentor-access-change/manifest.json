@@ -1,0 +1,11 @@
+{
+  "README.md": "3a824a3c972655a59a7db3aae8f0217dc923d6de2456e226dd869bbe274a2e96",
+  "candidate.sql": "d961e104e990f0101b3c9806d47fc2089277d0a154598a005db315e8edd5681c",
+  "rollback.sql": "fa742b7359f4ce11bef3f38015f2cb0e88ee105d0e380daa171cb3e42ccac2a2",
+  "test-access.mjs": "47cb01e8198d30152b15037650f16be2e5bd36a1e690e41b695c8feb51b1fb26",
+  "test-results.json": "2d7bc590cff853cc65b098e1facd82ba41dff0815103bca123715e7047a52d66",
+  "table-acls.json": "38d9057c2eb6b934d1a68f3445f0b745e7853aba4cf36f20118a8d16ad8c9062",
+  "default-privileges.json": "610a9c196f75112139680f9fc4d20357a082124034f4f88fb78de081bc82761c",
+  "runtime-provenance.json": "9cb164e813375c413e6c9fb388a66616ed282e112a477eddca1d11df1b8184f9",
+  "build_change.py": "3a6c6562dd256eae9ccea1e18ff3237c2b667b06f2f17ed0d301231bb469c2c0"
+}

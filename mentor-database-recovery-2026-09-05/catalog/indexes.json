@@ -1,0 +1,137 @@
+[
+  {
+    "tablename": "books",
+    "indexname": "books_pkey",
+    "indexdef": "CREATE UNIQUE INDEX books_pkey ON public.books USING btree (id)"
+  },
+  {
+    "tablename": "books",
+    "indexname": "books_source_row_key",
+    "indexdef": "CREATE UNIQUE INDEX books_source_row_key ON public.books USING btree (source_row)"
+  },
+  {
+    "tablename": "books",
+    "indexname": "books_title_idx",
+    "indexdef": "CREATE INDEX books_title_idx ON public.books USING gin (to_tsvector('english'::regconfig, title))"
+  },
+  {
+    "tablename": "inquiry_lens_annotations",
+    "indexname": "idx_inquiry_lens_annotations_lens_slug",
+    "indexdef": "CREATE INDEX idx_inquiry_lens_annotations_lens_slug ON public.inquiry_lens_annotations USING btree (lens_slug)"
+  },
+  {
+    "tablename": "inquiry_lens_annotations",
+    "indexname": "inquiry_lens_annotations_book_id_lens_slug_key",
+    "indexdef": "CREATE UNIQUE INDEX inquiry_lens_annotations_book_id_lens_slug_key ON public.inquiry_lens_annotations USING btree (book_id, lens_slug)"
+  },
+  {
+    "tablename": "inquiry_lens_annotations",
+    "indexname": "inquiry_lens_annotations_pkey",
+    "indexdef": "CREATE UNIQUE INDEX inquiry_lens_annotations_pkey ON public.inquiry_lens_annotations USING btree (id)"
+  },
+  {
+    "tablename": "inquiry_lenses",
+    "indexname": "inquiry_lenses_pkey",
+    "indexdef": "CREATE UNIQUE INDEX inquiry_lenses_pkey ON public.inquiry_lenses USING btree (slug)"
+  },
+  {
+    "tablename": "pride_value_annotations",
+    "indexname": "idx_pride_value_annotations_value_slug",
+    "indexdef": "CREATE INDEX idx_pride_value_annotations_value_slug ON public.pride_value_annotations USING btree (value_slug)"
+  },
+  {
+    "tablename": "pride_value_annotations",
+    "indexname": "pride_value_annotations_book_id_value_slug_key",
+    "indexdef": "CREATE UNIQUE INDEX pride_value_annotations_book_id_value_slug_key ON public.pride_value_annotations USING btree (book_id, value_slug)"
+  },
+  {
+    "tablename": "pride_value_annotations",
+    "indexname": "pride_value_annotations_pkey",
+    "indexdef": "CREATE UNIQUE INDEX pride_value_annotations_pkey ON public.pride_value_annotations USING btree (id)"
+  },
+  {
+    "tablename": "pride_values",
+    "indexname": "pride_values_pkey",
+    "indexdef": "CREATE UNIQUE INDEX pride_values_pkey ON public.pride_values USING btree (slug)"
+  },
+  {
+    "tablename": "reading_strategies",
+    "indexname": "reading_strategies_pkey",
+    "indexdef": "CREATE UNIQUE INDEX reading_strategies_pkey ON public.reading_strategies USING btree (slug)"
+  },
+  {
+    "tablename": "reading_strategy_annotations",
+    "indexname": "idx_reading_strategy_annotations_strategy_slug",
+    "indexdef": "CREATE INDEX idx_reading_strategy_annotations_strategy_slug ON public.reading_strategy_annotations USING btree (strategy_slug)"
+  },
+  {
+    "tablename": "reading_strategy_annotations",
+    "indexname": "reading_strategy_annotations_book_id_strategy_slug_year_lev_key",
+    "indexdef": "CREATE UNIQUE INDEX reading_strategy_annotations_book_id_strategy_slug_year_lev_key ON public.reading_strategy_annotations USING btree (book_id, strategy_slug, year_level)"
+  },
+  {
+    "tablename": "reading_strategy_annotations",
+    "indexname": "reading_strategy_annotations_pkey",
+    "indexdef": "CREATE UNIQUE INDEX reading_strategy_annotations_pkey ON public.reading_strategy_annotations USING btree (id)"
+  },
+  {
+    "tablename": "reading_strategy_detail",
+    "indexname": "reading_strategy_detail_pkey",
+    "indexdef": "CREATE UNIQUE INDEX reading_strategy_detail_pkey ON public.reading_strategy_detail USING btree (strategy_slug, year_level)"
+  },
+  {
+    "tablename": "teaching_ideas",
+    "indexname": "idx_teaching_ideas_book_id",
+    "indexdef": "CREATE INDEX idx_teaching_ideas_book_id ON public.teaching_ideas USING btree (book_id)"
+  },
+  {
+    "tablename": "teaching_ideas",
+    "indexname": "teaching_ideas_pkey",
+    "indexdef": "CREATE UNIQUE INDEX teaching_ideas_pkey ON public.teaching_ideas USING btree (id)"
+  },
+  {
+    "tablename": "teaching_resources",
+    "indexname": "idx_teaching_resources_book_id",
+    "indexdef": "CREATE INDEX idx_teaching_resources_book_id ON public.teaching_resources USING btree (book_id)"
+  },
+  {
+    "tablename": "teaching_resources",
+    "indexname": "teaching_resources_pkey",
+    "indexdef": "CREATE UNIQUE INDEX teaching_resources_pkey ON public.teaching_resources USING btree (id)"
+  },
+  {
+    "tablename": "why_use_bullets",
+    "indexname": "idx_why_use_bullets_book_id",
+    "indexdef": "CREATE INDEX idx_why_use_bullets_book_id ON public.why_use_bullets USING btree (book_id)"
+  },
+  {
+    "tablename": "why_use_bullets",
+    "indexname": "why_use_bullets_pkey",
+    "indexdef": "CREATE UNIQUE INDEX why_use_bullets_pkey ON public.why_use_bullets USING btree (id)"
+  },
+  {
+    "tablename": "writing_trait_annotations",
+    "indexname": "idx_writing_trait_annotations_trait_slug",
+    "indexdef": "CREATE INDEX idx_writing_trait_annotations_trait_slug ON public.writing_trait_annotations USING btree (trait_slug)"
+  },
+  {
+    "tablename": "writing_trait_annotations",
+    "indexname": "writing_trait_annotations_book_id_trait_slug_year_level_key",
+    "indexdef": "CREATE UNIQUE INDEX writing_trait_annotations_book_id_trait_slug_year_level_key ON public.writing_trait_annotations USING btree (book_id, trait_slug, year_level)"
+  },
+  {
+    "tablename": "writing_trait_annotations",
+    "indexname": "writing_trait_annotations_pkey",
+    "indexdef": "CREATE UNIQUE INDEX writing_trait_annotations_pkey ON public.writing_trait_annotations USING btree (id)"
+  },
+  {
+    "tablename": "writing_trait_detail",
+    "indexname": "writing_trait_detail_pkey",
+    "indexdef": "CREATE UNIQUE INDEX writing_trait_detail_pkey ON public.writing_trait_detail USING btree (trait_slug, year_level)"
+  },
+  {
+    "tablename": "writing_traits",
+    "indexname": "writing_traits_pkey",
+    "indexdef": "CREATE UNIQUE INDEX writing_traits_pkey ON public.writing_traits USING btree (slug)"
+  }
+]

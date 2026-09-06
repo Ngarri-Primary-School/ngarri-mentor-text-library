@@ -1,0 +1,56 @@
+{
+  "status": "held_back_not_selected_for_page",
+  "reason": "Select the strongest examples, with no requirement to cover every domain. Retain alternatives as working notes.",
+  "items": [
+    {
+      "id": "voice-opening",
+      "category": "Writing",
+      "title": "A frightening setting, a gentle rescuer",
+      "year": "Year 3",
+      "minutes": "20 minutes · Shared analysis and individual writing",
+      "curriculum": {
+        "text": "I can create an identifiable tone such as compassionate, bittersweet, frustrated or terrified.",
+        "source": "Recovered Year 3 Voice / Audience reference, FOX-REVIEW.md W1; also present in supplied prototype.",
+        "reference_id": "FOX-REVIEW:W1"
+      },
+      "text": "WHERE TO LOOK\nThe opening rescue: Dog carries the injured Magpie through the burnt forest. Compare the language of heat and damage with the description of his mouth as gentle.\n\nWHAT THE WRITING DEMONSTRATES\nDanger in the setting sits beside care in Dog’s action. That contrast gives students something concrete to investigate: a scene can feel frightening and compassionate at once. The mood is constructed through selected details, rather than an instruction telling readers what to feel.\n\nTEACH THROUGH THE PASSAGE\nRead the opening and collect the exact words that suggest danger separately from those that suggest care. Ask: “What would change if we removed the detail that makes Dog seem gentle?” Students explain how a small detail changes their reading of an animal carrying an injured bird in his mouth.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents write a short moment of help in an unsettling setting. They choose one setting detail and one caring action, then ask a reader to explain the resulting mood using those words as evidence.\n\nNOTICE LEARNING\nStudents explain how contrasting details shape a tone. They do not need to claim that the whole book maintains one unchanging mood.",
+      "evidence": "New located refinement of the prototype’s Voice / Audience idea. Opening passage reproduced in publisher notes p. 6. The interpretation and transfer task are new drafts. This replaces the sweeping claim of one tone sustained throughout the whole book.",
+      "status": "ai_suggested",
+      "source_type": "ai_suggested",
+      "confidence": null,
+      "confidence_note": "Not scored; evidence limitations are listed for review.",
+      "source_url": "https://s3-ap-southeast-2.amazonaws.com/dimo.allenunwin.com/assets/teaching_resource/9781864489330.pdf",
+      "is_generic": false,
+      "provenance": {
+        "draft_basis": "User-supplied fox-book-detail.html; extracted in prior-prototype-text.txt",
+        "verification": "Publisher notes checked for the stated story moments. Interpretations and lesson designs are new review drafts. Whole classroom edition has not been inspected.",
+        "supersedes_generic_item": "writing"
+      }
+    },
+    {
+      "id": "inquiry-mutual-help",
+      "category": "Inquiry",
+      "title": "Dog and Magpie: what can we make possible together?",
+      "year": "Class suitability to review",
+      "minutes": "20 minutes · Inquiry discussion",
+      "curriculum": {
+        "text": "This lens focuses on how we can work towards our potential, develop resilience, build healthy relationships and make wise choices.",
+        "source": "Recovered Ngarri Identity, Creativity and Wellbeing lens excerpt, FOX-REVIEW.md I1.",
+        "reference_id": "FOX-REVIEW:I1"
+      },
+      "text": "WHERE TO LOOK\nDog runs with Magpie on his back; compare this partnership with Magpie’s later choice to leave with Fox and her eventual decision to start home.\n\nWHY THIS OPENS AN INQUIRY\nThe first partnership gives us a concrete case of people—or characters—making something possible together. The later choices complicate an easy conclusion that friendship simply solves everything. This offers a starting point within Identity, Creativity and Wellbeing: mutual support, belonging and choices in relationships.\n\nSUGGESTED QUESTION\n“What makes a relationship supportive?” This is a question for the class to investigate, not official school wording or a conclusion already settled for them.\n\nTEACH THROUGH THE CONTRAST\nIn Tuning In, revisit the running partnership and ask what each character contributes and gains. Gather students’ questions. In Sorting Out, compare that relationship with the Fox episode: what actions support another character, and what actions serve one character at another’s expense? Require a story example for each suggestion.\n\nWHERE IT MIGHT LEAD\nStudents can reconsider their initial ideas about support after comparing the moments. Let their questions shape any further inquiry; avoid reducing the story to a single prescribed moral.",
+      "evidence": "Refines the prototype’s Identity, Creativity and Wellbeing entry without claiming that Magpie’s identity is destroyed or rebuilt from nothing. Publisher notes pp. 6–8 corroborate the running partnership, departure and decision to return. The inquiry question and teaching interpretation are new drafts.",
+      "status": "ai_suggested",
+      "source_type": "ai_suggested",
+      "confidence": null,
+      "confidence_note": "Not scored; evidence limitations are listed for review.",
+      "source_url": "https://s3-ap-southeast-2.amazonaws.com/dimo.allenunwin.com/assets/teaching_resource/9781864489330.pdf",
+      "is_generic": false,
+      "provenance": {
+        "draft_basis": "User-supplied fox-book-detail.html; extracted in prior-prototype-text.txt",
+        "verification": "Publisher notes checked for the stated story moments. Interpretations and lesson designs are new review drafts. Whole classroom edition has not been inspected.",
+        "supersedes_generic_item": "inquiry"
+      }
+    }
+  ]
+}

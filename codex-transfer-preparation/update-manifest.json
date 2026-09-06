@@ -1,0 +1,77 @@
+[
+  {
+    "path": "Architecture.md",
+    "before_sha256": "708a11ee9e4ed3dea5fcc7df475d478590ca4524a252af89cac6b8f939c492d0",
+    "after_sha256": "5dbebe4d58f2ee8c38dba6b710889493aeac7c95ef0877a75508ada140fbfe2e"
+  },
+  {
+    "path": "Decisions Log.md",
+    "before_sha256": "510392cb249076e859db07cc156617c4d9bf6d9a1f238acae4da29e5491d6f33",
+    "after_sha256": "316da119705813c73ec7eacba56e183fa9a92f6a55816575b50286821ab31715"
+  },
+  {
+    "path": "index.md",
+    "before_sha256": "fd9c5809a15592f2e1fc2abdc7e448830e8c21145dad941d1de8afa2832ff161",
+    "after_sha256": "16e935ec09dabeb2553fe6fcf7512ff2c4648dd7e8588451cf93b7a67b54348c"
+  },
+  {
+    "path": "Ngarri Mentor Text Library.md",
+    "before_sha256": "c82298c165916d64d1054b9e5905d9497db9a654b6586f0c7b5ef46174b590d2",
+    "after_sha256": "cc6e08282a1aaa245dc71920e902dcf8b8802670373b09023609b3d79157d102"
+  },
+  {
+    "path": "Project Map.md",
+    "before_sha256": "2b061a4f094a554210e58870a0abe92e85f460541ddba73d7c6dd503961d649d",
+    "after_sha256": "431e9ac73fc2be06457cec5745b34394a4da32985ccb2d7b0b08db2bdd56471f"
+  },
+  {
+    "path": "Working Contract.md",
+    "before_sha256": "dddadde081e03c2d464af6d51fdbf5d5204d18c017a1c13833d2d34e0b34781a",
+    "after_sha256": "acbf35f683322046491cd061cc2bfc4a30daaa3e9a4efe148706991afd5e428c"
+  },
+  {
+    "path": "Research Notes.md",
+    "before_sha256": "75b64d94df4f67a7c731d3f26a68f2583ae14db2acc8cceb9c5bd60b2959b84c",
+    "after_sha256": "80e52608fd6129d34f0b87b2634e8584c8d6d19de227be7521dabfb861985381"
+  },
+  {
+    "path": "Design/00 Design Index.md",
+    "before_sha256": "9cf1b2d62c7fb58ffb22764dbda13ecc6c995f16adcc5ac688c13a80137791b7",
+    "after_sha256": "b1782087f142daf7a2ec5bc506f383a4e6a67ec8beeb87713160455df3fe65e2"
+  },
+  {
+    "path": "Design/04 Screen Specs.md",
+    "before_sha256": "b85d46e37ef794cb66ebf1dbfee0bd244b2a812de52d8cc5641d289db5cbeae5",
+    "after_sha256": "c82932e6d3678f5f556b1e84ff2366e752509f5658dbffaf6b37faa0a584166d"
+  },
+  {
+    "path": "specs/01 AI Enrichment Pass 1.md",
+    "before_sha256": "b8f150779e83665ffe2b7d2fe6cc572054da51b3f0b33a25e7145ade155908ac",
+    "after_sha256": "f8b0ecd5f56f8e8f7d486c9ee5c3492366f40b359254cf5af8cc795bce9eff99"
+  },
+  {
+    "path": "specs/02 Book Detail Page Field Model.md",
+    "before_sha256": "5788d607a4e0b6b9cfa170aa3482d2b6af2588e809c9707b8e3fc9efdec399f0",
+    "after_sha256": "1bb4109b54f89667e57170e22948e04930861320f031519eeb031dc7119a99e0"
+  },
+  {
+    "path": "specs/03 Teacher Search and Results.md",
+    "before_sha256": "8e5c28ee1d1cbf383bcd5d8db7fac3cc87373de05268def331a6e704c1f1b991",
+    "after_sha256": "cdba932774cc1958770b9717a8816f856b2f71b2f18c8f3e929ae4e606f4f25d"
+  },
+  {
+    "path": "specs/04 Leader Admin Area.md",
+    "before_sha256": "048b10b59e3e8861f18c0e35070a428539bce41d79e75236c0e9164c97c3f6d8",
+    "after_sha256": "a06d58a8c691a396a7c40e8c90bebcb909b2a1f5d232ba6253abc2bc1e74123d"
+  },
+  {
+    "path": "specs/05 Ongoing Book Enrichment Pipeline.md",
+    "before_sha256": "75ef6cabbde0543242d4a1b30ad6c6234c3b7cc8169cf82b23b4d4d6da01ecb1",
+    "after_sha256": "36e111ae9dd8bf594b4e263fe37cdd60d557eeef07360b8f62270c9535a389e8"
+  },
+  {
+    "path": "Current State and Codex Handover.md",
+    "before_sha256": null,
+    "after_sha256": "46d367f0ee9f35b055c76fb918bb753caed56bca5c8623d0ac85300acd6827ab"
+  }
+]

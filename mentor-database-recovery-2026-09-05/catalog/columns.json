@@ -1,0 +1,898 @@
+[
+  {
+    "table_name": "books",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "books",
+    "column_name": "source_row",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "title",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "author",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "illustrator",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "publisher",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "year_published",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "text_type",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "genre",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "year_level_min",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "year_level_max",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "is_australian",
+    "data_type": "boolean",
+    "udt_name": "bool",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "blurb",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "blurb_status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'verified'::text"
+  },
+  {
+    "table_name": "books",
+    "column_name": "cover_url",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "books",
+    "column_name": "ozlit_calibrated",
+    "data_type": "boolean",
+    "udt_name": "bool",
+    "is_nullable": "NO",
+    "column_default": "false"
+  },
+  {
+    "table_name": "books",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'active'::text"
+  },
+  {
+    "table_name": "books",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "books",
+    "column_name": "updated_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "lens_slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "big_question_addressed",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "in_this_book_text",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "confidence",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'blank'::text"
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "reviewed_by",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "reviewed_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lens_annotations",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "inquiry_lenses",
+    "column_name": "slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lenses",
+    "column_name": "name",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lenses",
+    "column_name": "description",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "inquiry_lenses",
+    "column_name": "selection_indicators",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "value_slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "in_this_book_text",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "confidence",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'blank'::text"
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "reviewed_by",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "reviewed_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_value_annotations",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "pride_values",
+    "column_name": "slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_values",
+    "column_name": "name",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_values",
+    "column_name": "one_liner",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "pride_values",
+    "column_name": "we_will",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "pride_values",
+    "column_name": "selection_indicators",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "reading_strategies",
+    "column_name": "slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategies",
+    "column_name": "name",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategies",
+    "column_name": "category",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "strategy_slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "year_level",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "in_this_book_text",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "applicable_year_levels",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "source_type",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "source_name",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "confidence",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'blank'::text"
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "reviewed_by",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "reviewed_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_annotations",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "reading_strategy_detail",
+    "column_name": "strategy_slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_detail",
+    "column_name": "year_level",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "reading_strategy_detail",
+    "column_name": "ku_verbatim",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "reading_strategy_detail",
+    "column_name": "ks_verbatim",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "title",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "description",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "time_minutes",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "grouping",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "difficulty",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "colour_tag",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "is_generic",
+    "data_type": "boolean",
+    "udt_name": "bool",
+    "is_nullable": "NO",
+    "column_default": "false"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'ai_suggested'::text"
+  },
+  {
+    "table_name": "teaching_ideas",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "type",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "title",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "description",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "url",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "teaching_resources",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "why_use_bullets",
+    "column_name": "text",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "why_use_bullets",
+    "column_name": "display_order",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "NO",
+    "column_default": "0"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'ai_suggested'::text"
+  },
+  {
+    "table_name": "why_use_bullets",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": "gen_random_uuid()"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "book_id",
+    "data_type": "uuid",
+    "udt_name": "uuid",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "trait_slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "year_level",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "in_this_book_text",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "applicable_year_levels",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "source_type",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "source_name",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "confidence",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "status",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": "'blank'::text"
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "reviewed_by",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "reviewed_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "YES",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_annotations",
+    "column_name": "created_at",
+    "data_type": "timestamp with time zone",
+    "udt_name": "timestamptz",
+    "is_nullable": "NO",
+    "column_default": "now()"
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "column_name": "trait_slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "column_name": "year_level",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "column_name": "ku_verbatim",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "column_name": "ks_verbatim",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "writing_trait_detail",
+    "column_name": "vocab",
+    "data_type": "ARRAY",
+    "udt_name": "_text",
+    "is_nullable": "NO",
+    "column_default": "'{}'::text[]"
+  },
+  {
+    "table_name": "writing_traits",
+    "column_name": "slug",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_traits",
+    "column_name": "name",
+    "data_type": "text",
+    "udt_name": "text",
+    "is_nullable": "NO",
+    "column_default": null
+  },
+  {
+    "table_name": "writing_traits",
+    "column_name": "display_order",
+    "data_type": "integer",
+    "udt_name": "int4",
+    "is_nullable": "YES",
+    "column_default": null
+  }
+]

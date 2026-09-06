@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"result\":{\"lints\":[{\"name\":\"rls_enabled_no_policy\",\"title\":\"RLS Enabled No Policy\",\"level\":\"INFO\",\"facing\":\"EXTERNAL\",\"categories\":[\"SECURITY\"],\"description\":\"Detects cases where row level security (RLS) has been enabled on a table but no RLS policies have been created.\",\"detail\":\"Table \\\\`public.teaching_resources\\\\` has RLS enabled, but no policies exist\",\"remediation\":\"https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy\",\"metadata\":{\"name\":\"teaching_resources\",\"type\":\"table\",\"schema\":\"public\"},\"cache_key\":\"rls_enabled_no_policy_public_teaching_resources\",\"observed_at\":\"2026-09-05T20:58:49.483Z\"}]}}"
+    }
+  ],
+  "isError": false
+}

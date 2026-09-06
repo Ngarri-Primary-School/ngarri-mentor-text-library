@@ -1,0 +1,2944 @@
+[
+  {
+    "book_id": "00854d4e-1359-4fa5-93f2-73dbb96dfb08",
+    "title": "Turn the Tide",
+    "cover_filename": "298_turn_the_tide.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "01a445c1-88b1-4e55-a807-71ab5e0c29b0",
+    "title": "Shortcut",
+    "cover_filename": "064_shortcut.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/064_shortcut.jpg",
+      "bytes": 41305,
+      "sha256": "b36aea4978e6bdfe3c3dfa143db0ce0a7ce685adf2e7043d533f1599f08ef711"
+    }
+  },
+  {
+    "book_id": "045d264b-a9b4-4e5f-8b91-f4e537cdad61",
+    "title": "The Very Hungry Bear",
+    "cover_filename": "351_the_very_hungry_bear.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "06ee48ee-644a-4beb-aab7-0d8c0584d97f",
+    "title": "Fantastic Mr Fox",
+    "cover_filename": "300_fantastic_mr_fox.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/300_fantastic_mr_fox.jpg",
+      "bytes": 35333,
+      "sha256": "44a120ee69837860c6ef61b050da7b71930ea393699e10fd8c233e9114dec782"
+    }
+  },
+  {
+    "book_id": "0737962a-0ee0-4897-af6a-5fc692084758",
+    "title": "Pandemic",
+    "cover_filename": "105_pandemic.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "07385c97-09cf-48a2-80c0-5859e8d92ea4",
+    "title": "Owl Moon",
+    "cover_filename": "296_owl_moon.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/296_owl_moon.jpg",
+      "bytes": 75453,
+      "sha256": "643a1902d404c7ec3786fbf5c69f3bc7c2ae6157c62987e6310bf377a52ece4a"
+    }
+  },
+  {
+    "book_id": "07871b45-d7f3-4046-aa5a-cfb927c537ac",
+    "title": "Little People, Big Dreams - Frida Kahlo",
+    "cover_filename": "218_little_people_big_dreams_frida_kahlo.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/218_little_people_big_dreams_frida_kahlo.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "0825e5ed-de05-4288-9b0f-e3972b6a3fc3",
+    "title": "Making the Shrine, stories from Victoria's war memorial",
+    "cover_filename": "342_making_the_shrine_stories_from_victorias_war_memorial.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "0937e07c-8db5-4ddb-9417-04dc8568f6d7",
+    "title": "The Snail and the Whale",
+    "cover_filename": "080_the_snail_and_the_whale.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/080_the_snail_and_the_whale.jpg",
+      "bytes": 45729,
+      "sha256": "3f1fe6cbc6044063e7e1dc74c1b6522e394e7b9ef47e118be6a8ec6eaa217ac1"
+    }
+  },
+  {
+    "book_id": "09e2098c-425e-4090-9f51-1a18f14f2588",
+    "title": "The Gruffalo",
+    "cover_filename": "082_the_gruffalo.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/082_the_gruffalo.jpg",
+      "bytes": 67713,
+      "sha256": "171a474d72e2183d49498330cff612c36b61543201c1367b7f0a0f4c92633b83"
+    }
+  },
+  {
+    "book_id": "0a70af2b-8e86-464f-aff6-dba41e40d62d",
+    "title": "This Book Thinks Ya Deadly! - A Celebration of Blak Excellence",
+    "cover_filename": "260_this_book_thinks_ya_deadly_a_celebration_of_black_excellence.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/260_this_book_thinks_ya_deadly_a_celebration_of_black_excellence.jpg",
+      "bytes": 59084,
+      "sha256": "c5bddb1cac1c0d834e7fca4b2e9293dab284f6763083c91be80faaa22e6ac111"
+    }
+  },
+  {
+    "book_id": "0ba2c43e-9d67-484d-a30e-5e9b31c50e4a",
+    "title": "Wolf in the Snow",
+    "cover_filename": "058_wolf_in_the_snow.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/058_wolf_in_the_snow.jpg",
+      "bytes": 34451,
+      "sha256": "aef1d36de2fb7919af06c7690e80fc3da365a35393e6cfffd07dd13d2c3134ea"
+    }
+  },
+  {
+    "book_id": "0c9e994f-7863-41c7-93b6-cfb4a719f1d6",
+    "title": "Saskia Spark-lee Fundraiser Fail",
+    "cover_filename": "338_saskia_sparklee_fundraiser_fail.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/338_saskia_sparklee_fundraiser_fail.jpg",
+      "bytes": 81048,
+      "sha256": "ecab5f731b53057ff770089a8cfa7d2217cadf2d073970454eee5c5259aba9f4"
+    }
+  },
+  {
+    "book_id": "0cbb258d-5548-4504-a81a-0495f5d3c653",
+    "title": "Our Country - Where History Happened",
+    "cover_filename": "132_our_country_where_history_happened.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "0d096957-ede7-4fcd-b5f0-a564f3c9532d",
+    "title": "Oliver and George",
+    "cover_filename": "048_oliver_and_george.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "0d0d5615-98cc-4b89-b33d-cd0b13fdfad0",
+    "title": "Jorn's Magnificent Imagination",
+    "cover_filename": "263_jorns_magnificent_imagination.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "0d1e0649-902f-41c9-b793-d51942dadaaa",
+    "title": "Jigsaw - A Puzzle in the Post",
+    "cover_filename": "125_jigsaw_a_puzzle_in_the_post.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "0d919f6d-181f-4eff-ae9b-d2ed461baad7",
+    "title": "Where the Wild Things Are",
+    "cover_filename": "345_where_the_wild_things_are.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "0e35eff6-9e5a-46d1-ba76-e971ac800e0e",
+    "title": "The Giraffe and the Pelly and Me",
+    "cover_filename": "299_the_giraffe_and_the_pelly_and_me.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/299_the_giraffe_and_the_pelly_and_me.jpg",
+      "bytes": 4644,
+      "sha256": "067e095c735808f5f41d37b71c274c12cc92281d90010f32056fc9c40f8f1501"
+    }
+  },
+  {
+    "book_id": "1060dd5e-2367-4b49-8d4a-34559d7b8abe",
+    "title": "Harry Potter and the Half Blood Prince",
+    "cover_filename": "204_harry_potter_and_the_half_blood_prince.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/204_harry_potter_and_the_half_blood_prince.jpg",
+      "bytes": 54602,
+      "sha256": "c34b8e7a319f5ff65f804eef8650850ff2ceb0999699443c517f48b22c32c43e"
+    }
+  },
+  {
+    "book_id": "11bbe760-8bb2-40c2-9983-97983474cd7b",
+    "title": "Someday",
+    "cover_filename": "248_someday.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/248_someday.jpg",
+      "bytes": 50692,
+      "sha256": "822d6779e425e594579687b287029bffd9733ccc9f46fd80dcc2a0f7bddeef53"
+    }
+  },
+  {
+    "book_id": "11bdd1c6-ec8c-4f8a-b657-b81a9f88a175",
+    "title": "Koala",
+    "cover_filename": "233_koala.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/233_koala.jpg",
+      "bytes": 56469,
+      "sha256": "8ce4383bc164f695bcccdc9e50bad5e56824978c4e04b91d099d0e4ace1ed8b5"
+    }
+  },
+  {
+    "book_id": "136ebd31-82a6-4dfa-b3ed-01a50fe12192",
+    "title": "The Rabbits",
+    "cover_filename": "166_the_rabbits.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "1395dccd-b633-46c3-aded-d9c8b5678853",
+    "title": "Xavier in the Meantime",
+    "cover_filename": "122_xavier_in_the_meantime.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "13cac9e0-6acb-4566-8d21-aece325252ac",
+    "title": "Don't Let the Pigeon Stay Up Late!",
+    "cover_filename": "293_dont_let_the_pigeon_stay_up_late.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "13ec8332-bc40-42eb-a693-eb8b2508ed1f",
+    "title": "Kookaburra",
+    "cover_filename": "235_kookaburra.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "1453bfc0-8b4e-4ae8-9141-ff3f850dd65b",
+    "title": "Deep - Dive in Hidden Worlds",
+    "cover_filename": "170_deep_dive_in_hidden_worlds.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/170_deep_dive_in_hidden_worlds.jpg",
+      "bytes": 50684,
+      "sha256": "1742002c2a56b8206565a2cce9ec3ccdc1e43a3d97c5f08a7594f48a28e4aaef"
+    }
+  },
+  {
+    "book_id": "14917b65-9049-4c5f-aa01-5d0c3a6fafe6",
+    "title": "First Day",
+    "cover_filename": "313_first_day.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/313_first_day.jpg",
+      "bytes": 53707,
+      "sha256": "fec1cbb6bfee1e9f27697720ccb195a97ed7f9f95ddad220b79935364e7d27fd"
+    }
+  },
+  {
+    "book_id": "15aa4585-2f4c-4d8c-aad9-e12953499f88",
+    "title": "Knuffle Bunny",
+    "cover_filename": "287_knuffle_bunny.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/287_knuffle_bunny.jpg",
+      "bytes": 38947,
+      "sha256": "03ef8da6274469b9774ded8bb7e885a6c09a2f1f2d02a65b3bd1787f6adba3d2"
+    }
+  },
+  {
+    "book_id": "15e9ef36-beb5-4e2f-a4ad-967648e9ee29",
+    "title": "A Quiet Girl",
+    "cover_filename": "049_a_quiet_girl.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "179dfbc0-fdaa-4bd9-a2c1-e088c6b7b988",
+    "title": "The Sloth Who Came to Stay",
+    "cover_filename": "283_the_sloth_who_came_to_stay.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "1823da84-a910-496c-ba03-8c242b2d90b6",
+    "title": "Go Go and the Silver Shoes",
+    "cover_filename": "115_go_go_and_the_silver_shoes.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/115_go_go_and_the_silver_shoes.jpg",
+      "bytes": 61914,
+      "sha256": "2c6b6ca0bf1d2d815fa287ba9407ceb315f52a5836256b8527278fdb65dfe95d"
+    }
+  },
+  {
+    "book_id": "18573914-3d92-4317-b93b-3d89105e764c",
+    "title": "The Patchwork Bike",
+    "cover_filename": "022_the_patchwork_bike.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/022_the_patchwork_bike.jpg",
+      "bytes": 50829,
+      "sha256": "369de444c599c57e987c6ef37aedaadc549d9a22f70401d30f8445fcf025c2fa"
+    }
+  },
+  {
+    "book_id": "18fd48e8-22b8-4f0e-81f4-4fe8bc87c8da",
+    "title": "Smoky Night",
+    "cover_filename": "036_smoky_night.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/036_smoky_night.jpg",
+      "bytes": 96333,
+      "sha256": "400f830ce6f9fc67da8d337d8ceb1b1ab2452b7854df2822285006423ada38e6"
+    }
+  },
+  {
+    "book_id": "1971944f-7c76-4474-97a8-f00a3ba8997c",
+    "title": "If I Was Prime Minister",
+    "cover_filename": "086_if_i_was_prime_minister.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/086_if_i_was_prime_minister.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "1a055000-0d04-4032-8d0e-88299f51c7be",
+    "title": "Rabbit, Soldier, Angel, Thief",
+    "cover_filename": "182_rabbit_soldier_angel_thief.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "1aed60a7-6883-41ba-80ac-787ec383edf8",
+    "title": "Hattie and the Fox",
+    "cover_filename": "094_hattie_and_the_fox.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/094_hattie_and_the_fox.jpg",
+      "bytes": 18241,
+      "sha256": "3057630f5ad67637a736657b3c839b54c779eb50e4f2705389c054230358b626"
+    }
+  },
+  {
+    "book_id": "1b1e74c1-b653-43a3-9c7e-d1f3524562de",
+    "title": "Hey, Little Ant",
+    "cover_filename": "144_hey_little_ant.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "1d5781f4-c3dc-44e3-95ef-6587111911d0",
+    "title": "The BEST Hiding Place",
+    "cover_filename": "116_the_best_hiding_place.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "1d60cc86-fd23-484a-8706-115bd1650538",
+    "title": "How to Make a Bird",
+    "cover_filename": "172_how_to_make_a_bird.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/172_how_to_make_a_bird.jpg",
+      "bytes": 43717,
+      "sha256": "1fd114c2cd6c2a8d784ec404f166b9ea4894e668cfca1e09ce9e948af1089ab1"
+    }
+  },
+  {
+    "book_id": "1dbddc0b-c32c-41c0-aa29-b1e657af3ea5",
+    "title": "Blue Flower",
+    "cover_filename": "136_blue_flower.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/136_blue_flower.jpg",
+      "bytes": 54243,
+      "sha256": "d42adc1d3d9d9bac7a199beb5a3c27767cf5539eace7b160e2c7866c3687a5c7"
+    }
+  },
+  {
+    "book_id": "1dc29754-9304-447f-a9c8-f6e645254473",
+    "title": "My Two Blankets",
+    "cover_filename": "153_my_two_blankets.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/153_my_two_blankets.jpg",
+      "bytes": 47263,
+      "sha256": "61cda44612cf011ecc229a861e25324fdfb40f0f282ac37d6f44de5db5eeaea9"
+    }
+  },
+  {
+    "book_id": "1de6116c-ddaa-4b42-bc1e-afd8c90c02df",
+    "title": "Brown Bear, Brown Bear, What Do You See?",
+    "cover_filename": "046_brown_bear_brown_bear_what_do_you_see.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/046_brown_bear_brown_bear_what_do_you_see.jpg",
+      "bytes": 67218,
+      "sha256": "347db7232fdc99ed395214a74c7c6608a6dbf621312a24b39ff0af3b149b5677"
+    }
+  },
+  {
+    "book_id": "1e2a4a16-264d-46c9-a0c8-7cc5f276ce21",
+    "title": "The Tenth Good Thing About Barney",
+    "cover_filename": "265_the_tenth_good_thing_about_barney.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/265_the_tenth_good_thing_about_barney.jpg",
+      "bytes": 10682,
+      "sha256": "0aff3914c55920fb7d3ebd73b9e9f2c234964d519c200734785dc55dc9d85d99"
+    }
+  },
+  {
+    "book_id": "1e8f2c34-18fb-47fd-a378-a10f2263817d",
+    "title": "Danny the Champion of the World",
+    "cover_filename": "304_danny_the_champion_of_the_world.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/304_danny_the_champion_of_the_world.jpg",
+      "bytes": 4776,
+      "sha256": "ef7e818128858d6d2af8e1fac821cfed1ba9b4a39079cb10bf6fc6d95da6d8a3"
+    }
+  },
+  {
+    "book_id": "200fc1b0-cbbd-41e7-b92f-4040588eb505",
+    "title": "When I was Young in the Mountains",
+    "cover_filename": "209_when_i_was_young_in_the_mountains.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/209_when_i_was_young_in_the_mountains.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "20166058-60ee-4a94-8efb-fe78d2b3e5a7",
+    "title": "Desert Lake",
+    "cover_filename": "305_desert_lake.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/305_desert_lake.jpg",
+      "bytes": 72370,
+      "sha256": "4d33c18b96f9f48a2d04ecdce2fc68dad1bcdc9b07eb80a0fd5d2f2d6a11871d"
+    }
+  },
+  {
+    "book_id": "206ab1b6-d608-4d33-8389-7b6121ebfb7b",
+    "title": "Grandad's Magic",
+    "cover_filename": "128_grandads_magic.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/128_grandads_magic.jpg",
+      "bytes": 42656,
+      "sha256": "3d1b74b38733e6c9ee2b85038c7fa2a33877cc73a7faaa60178151bcbaf9fdb0"
+    }
+  },
+  {
+    "book_id": "20924ff9-7007-4314-8118-17b324f6d50d",
+    "title": "Mopoke",
+    "cover_filename": "039_mopoke.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "210ad12c-fc8a-450c-a506-f98532c12c57",
+    "title": "Chrysanthemum",
+    "cover_filename": "139_chrysanthemum.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/139_chrysanthemum.jpg",
+      "bytes": 9696,
+      "sha256": "e61ba9900b8a168517f331190e6102fd034f05dedda0fa5351b5b71a317287da"
+    }
+  },
+  {
+    "book_id": "21b611fb-f02b-4f11-bf9d-36e748bf0bcb",
+    "title": "The Paper Bag Princess",
+    "cover_filename": "180_the_paper_bag_princess.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/180_the_paper_bag_princess.jpg",
+      "bytes": 83326,
+      "sha256": "f1b7e9b0ca30d3a2080222bf573e63b2a2fdf4692517851fb95ff345895bf936"
+    }
+  },
+  {
+    "book_id": "222d454c-13ed-4f4e-bf90-f4bcdfa3afd3",
+    "title": "Under Your Feet - Soil, Sand, and Everything Underground",
+    "cover_filename": "254_under_your_feet_soil_sand_and_everything_und.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "225755e7-e874-4b27-b628-dc978accb6ed",
+    "title": "Jessica's Box",
+    "cover_filename": "051_jessicas_box.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/051_jessicas_box.jpg",
+      "bytes": 36898,
+      "sha256": "c65bab477a01ab2f816ba1d8b864b6a8eafcdbb7bf305cf406452c23630cdf23"
+    }
+  },
+  {
+    "book_id": "24c27958-b536-4a50-8fbe-1f457dd50870",
+    "title": "Emu",
+    "cover_filename": "237_emu.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/237_emu.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "26cd9951-57f4-41ea-8cb7-847f2cd5da52",
+    "title": "Two Mates",
+    "cover_filename": "192_two_mates.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "278cca78-8da1-4090-a06f-bcd1719d083e",
+    "title": "Whoever You Are",
+    "cover_filename": "093_whoever_you_are.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/093_whoever_you_are.jpg",
+      "bytes": 49404,
+      "sha256": "8f4bb09c478ee9a19c9dca425638484c14eff438b3fb89acce231e41d2698aef"
+    }
+  },
+  {
+    "book_id": "2941a1bc-610a-44a8-b675-c193140a592f",
+    "title": "To and Fro",
+    "cover_filename": "339_to_and_fro.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/339_to_and_fro.jpg",
+      "bytes": 99709,
+      "sha256": "69a2126d1a395c5ff88a8babe74c65ba9bcdfcec93de0f6d231070675c0bfccf"
+    }
+  },
+  {
+    "book_id": "29a25056-d761-46d4-8592-d610c251344b",
+    "title": "Jetty Jumping",
+    "cover_filename": "197_jetty_jumping.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "2ad1dd3d-04bc-43bd-ad68-c5c0f0a77235",
+    "title": "Luke's Way of Looking",
+    "cover_filename": "275_lukes_way_of_looking.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/275_lukes_way_of_looking.jpg",
+      "bytes": 54003,
+      "sha256": "7e1b371084c25e94d09304d4adb81aa35d383d683c7b9d959e6cd8d066d14e88"
+    }
+  },
+  {
+    "book_id": "2c2f4297-11c5-44ad-a40e-a0cde4cc38af",
+    "title": "Australia from dawn to dusk",
+    "cover_filename": "032_australia_from_dawn_to_dusk.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "2e1d0f06-e0bd-4ec8-8e81-c415df7feb02",
+    "title": "Tigg and the Bandicoot Bushranger",
+    "cover_filename": "336_tigg_and_the_bandicoot_bushranger.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/336_tigg_and_the_bandicoot_bushranger.jpg",
+      "bytes": 87016,
+      "sha256": "0e85e33110ee706c44cba88a20c78fb0db0b4e72d01ae4aac5b75d35d39a3c44"
+    }
+  },
+  {
+    "book_id": "2e262199-a0c4-4589-9740-a24c484fa036",
+    "title": "Jumanji",
+    "cover_filename": "262_jumanji.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/262_jumanji.jpg",
+      "bytes": 43915,
+      "sha256": "0903e91eaefd063df2623d7a6502d145e10e58755e14225fb4ae6a5fa1d6ce20"
+    }
+  },
+  {
+    "book_id": "2efc4d35-0268-4c9a-8613-a284b1f4148b",
+    "title": "Harry Potter and the Goblet of Fire",
+    "cover_filename": "202_harry_potter_and_the_goblet_of_fire.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/202_harry_potter_and_the_goblet_of_fire.jpg",
+      "bytes": 102397,
+      "sha256": "6c9111619474918d00e25ef97dc7a8a62d20da835c0f85c0d4e2a438f5e2f9ae"
+    }
+  },
+  {
+    "book_id": "30862e24-3786-4bc7-849c-f0d3b44a8606",
+    "title": "Who Sank the Boat?",
+    "cover_filename": "006_who_sank_the_boat.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "30973b78-edb0-4b94-907b-5c4b91831bfa",
+    "title": "Snap!",
+    "cover_filename": "272_snap.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/272_snap.jpg",
+      "bytes": 80727,
+      "sha256": "63d60208a8cd5649a6af038cf51c4bf523734de827c3b5dd60b9f6013f68cf67"
+    }
+  },
+  {
+    "book_id": "319b3d80-a509-4c18-8b84-88f19ca431b3",
+    "title": "Seven Seas of Fleas",
+    "cover_filename": "190_seven_seas_of_fleas.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "31d43986-1ac0-483d-b81b-6a25822ce684",
+    "title": "A Squash and a Squeeze",
+    "cover_filename": "348_a_squash_and_a_squeeze.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "32715f44-b7cc-43c8-b35e-737c116495cc",
+    "title": "The Old Woman Who Named Things",
+    "cover_filename": "208_the_old_woman_who_named_things.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/208_the_old_woman_who_named_things.jpg",
+      "bytes": 73048,
+      "sha256": "6e10130e7fe979e5cb997cce56c91615aff139a49d017fbe0f56a472ae1fcb76"
+    }
+  },
+  {
+    "book_id": "32f0ade0-d05f-492f-918d-3d5018034ca1",
+    "title": "Bedtime Sorted!",
+    "cover_filename": "311_bedtime_sorted.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "3491bd1d-31a6-49c1-a3cc-a6565f0909b1",
+    "title": "Why I Love Summer",
+    "cover_filename": "268_why_i_love_summer.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "34fac29b-1706-4f6d-a10c-5a4038427dcf",
+    "title": "Hello, Harvest Moon",
+    "cover_filename": "090_hello_harvest_moon.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/090_hello_harvest_moon.jpg",
+      "bytes": 47349,
+      "sha256": "bb957b5d66a007d9a1003afb492d4d94babfcc4925f5d38bef35084f2004190c"
+    }
+  },
+  {
+    "book_id": "364535cf-a26e-4591-9a9f-54b1cc9d5554",
+    "title": "The Second Sky",
+    "cover_filename": "133_the_second_sky.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/133_the_second_sky.jpg",
+      "bytes": 68174,
+      "sha256": "d7d9c62236021b720fa5795721b8dc746e97035a80db094ae70bd726c9efcd0a"
+    }
+  },
+  {
+    "book_id": "38065703-6f42-4a7b-b276-e25bc08656c0",
+    "title": "Norton and Borrowing Bear",
+    "cover_filename": "085_norton_and_borrowing_bear.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/085_norton_and_borrowing_bear.jpg",
+      "bytes": 72034,
+      "sha256": "77430718d18992f2499ad1bcdc89969e8089fc60064a70a84ed8e5ca16b0e8ca"
+    }
+  },
+  {
+    "book_id": "38dede0f-052a-475b-ad5d-a460897d790d",
+    "title": "One Tiny Turtle",
+    "cover_filename": "072_one_tiny_turtle.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/072_one_tiny_turtle.jpg",
+      "bytes": 5042,
+      "sha256": "b8fead0ef1dd7039d54aba9e5be41c85b497ea0aa68c53df9df8ea3851c06ddb"
+    }
+  },
+  {
+    "book_id": "3a29a2e3-a56b-4b06-8573-18881c5aff88",
+    "title": "Amazing Animal Journeys",
+    "cover_filename": "059_amazing_animal_journeys.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/059_amazing_animal_journeys.jpg",
+      "bytes": 99822,
+      "sha256": "d07699e76cb3a7aecbb36f12c412e6efe7506a84460e3c29ad12950cbad9a360"
+    }
+  },
+  {
+    "book_id": "3b161667-6773-42a5-bfd7-e32d640944b6",
+    "title": "My Strange Shrinking Parents - A Tall Tale",
+    "cover_filename": "252_my_strange_shrinking_parents_a_tall_tale.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/252_my_strange_shrinking_parents_a_tall_tale.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "3d1a1f74-3085-40f6-b087-66c62f061385",
+    "title": "Little People, Big Dreams - Charles Darwin",
+    "cover_filename": "214_little_people_big_dreams_charles_darwin.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/214_little_people_big_dreams_charles_darwin.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "3dca925e-4328-476f-aa51-749251b235b1",
+    "title": "Naturopolis",
+    "cover_filename": "106_naturopolis.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "3e3ef4fc-93f6-4cd5-a3c4-2cfc3082b8ed",
+    "title": "Dirt by Sea",
+    "cover_filename": "269_dirt_by_sea.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/269_dirt_by_sea.jpg",
+      "bytes": 84602,
+      "sha256": "8be064bfb28077cc1254bc9bce49ee0353ad504c94496375757bfe3ecc558fdc"
+    }
+  },
+  {
+    "book_id": "3e8862e2-d309-47ff-8fe7-ad26750b6a3f",
+    "title": "Everybody Needs a Rock",
+    "cover_filename": "020_everybody_needs_a_rock.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/020_everybody_needs_a_rock.jpg",
+      "bytes": 36715,
+      "sha256": "b652346df6b07418cbfe00653b60ebe538962a183d33fef576ec32da2ec64970"
+    }
+  },
+  {
+    "book_id": "4005a8d5-68b7-4dcc-a9a5-0586a98f3dc5",
+    "title": "Room on the Broom",
+    "cover_filename": "078_room_on_the_broom.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/078_room_on_the_broom.jpg",
+      "bytes": 67162,
+      "sha256": "08c1c94c241a72404af26f1b333dac7ff54607dc18b8935491ce282955c8021b"
+    }
+  },
+  {
+    "book_id": "40d2f1df-f438-4c01-bf05-5a7df45c598f",
+    "title": "Edie's Experiments: How to Make Friends",
+    "cover_filename": "012_edies_experiments_how_to_make_friends.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/012_edies_experiments_how_to_make_friends.jpg",
+      "bytes": 91699,
+      "sha256": "ff9706615518940dd5947824bb00509cffecd09d7da3916c3968d19afe86a10d"
+    }
+  },
+  {
+    "book_id": "40da5322-aa97-466a-aa3f-1ab20b56f9a2",
+    "title": "Refugees",
+    "cover_filename": "177_refugees.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/177_refugees.jpg",
+      "bytes": 5142,
+      "sha256": "c7fa5220a61abc2766da3f6b989d6a4f0a2421718dd83ebe8d620862a7f52878"
+    }
+  },
+  {
+    "book_id": "411d1c52-bb64-4007-9b57-3d9a32538ed6",
+    "title": "Wemberly Worried",
+    "cover_filename": "141_wemberley_worried.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "41896fae-9521-4c58-936b-84a6b581fe49",
+    "title": "Tiny Wonders",
+    "cover_filename": "245_tiny_wonders.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "42512c58-9b90-4741-b77b-256df7e2d698",
+    "title": "A Little Golden Book Biography - Taylor Swift",
+    "cover_filename": "161_a_little_golden_book_biography_taylor_swift.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "429e7471-a242-41b2-b644-b36e30291944",
+    "title": "How To Move a Zoo",
+    "cover_filename": "329_how_to_move_a_zoo.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/329_how_to_move_a_zoo.jpg",
+      "bytes": 56635,
+      "sha256": "979f18cba91fe87634ae5e84eeeb487f3a3f7fb57d0cb90df2df46063a4ddb09"
+    }
+  },
+  {
+    "book_id": "436c54b6-0c99-43f1-bfd4-af99b515cd1a",
+    "title": "Charlotte's Web",
+    "cover_filename": "277_charlottes_web.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/277_charlottes_web.jpg",
+      "bytes": 77291,
+      "sha256": "4cb00ea5fedba5b4c87924a3ef0ae0656919a316f52fc51ba1a559252125ed9a"
+    }
+  },
+  {
+    "book_id": "43d39a34-4de3-4544-9de4-c96be9f2fe61",
+    "title": "In November",
+    "cover_filename": "211_in_november.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/211_in_november.jpg",
+      "bytes": 10187,
+      "sha256": "ad8f58b51716b9c87501c658391b8c80ca2d5eb83b4d540a7defeea4b3dd0c3b"
+    }
+  },
+  {
+    "book_id": "4484c638-4adf-4e9e-a596-36def87d520f",
+    "title": "Not Cute.",
+    "cover_filename": "040_not_cute.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "4514e5cf-4415-48d8-9623-434b4c26bf9d",
+    "title": "Papunya School Book of Country and History",
+    "cover_filename": "276_papunya_school_book_of_country_and_history.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/276_papunya_school_book_of_country_and_history.jpg",
+      "bytes": 80760,
+      "sha256": "dc171985c8669d6c5646c0311425f0ca85ee839b8fe81d458a8584079cad38b5"
+    }
+  },
+  {
+    "book_id": "455c8e93-1e80-4f3a-aea7-6c68259834d3",
+    "title": "My Mama Had a Dancing Heart",
+    "cover_filename": "178_my_mama_had_a_dancing_heart.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/178_my_mama_had_a_dancing_heart.jpg",
+      "bytes": 4276,
+      "sha256": "98cc64f62c29fa4cb82472cc3e8fbb061a3b24c59a27aebf7ce930e09db686aa"
+    }
+  },
+  {
+    "book_id": "459faf2e-4482-4108-85da-c2a9cd6bf7c0",
+    "title": "A Trip to the Hospital",
+    "cover_filename": "055_a_trip_to_the_hospital.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/055_a_trip_to_the_hospital.jpg",
+      "bytes": 69791,
+      "sha256": "15762a441d81ab3a23cbce6dafcc66fc1f6e5ee3b414b9c02b7bfc3b6acf16ed"
+    }
+  },
+  {
+    "book_id": "45d31598-90b7-4749-9cbf-832f74ab840c",
+    "title": "Flood",
+    "cover_filename": "104_flood.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/104_flood.jpg",
+      "bytes": 64507,
+      "sha256": "c7eb7afb782505720d8ab6a39dd3747f69e8dd1c0f847fffd82e2ad8ea20149e"
+    }
+  },
+  {
+    "book_id": "4783aacd-cab5-4fbb-bf10-58d4b0b426f2",
+    "title": "Flotsam",
+    "cover_filename": "281_flotsam.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/281_flotsam.jpg",
+      "bytes": 43036,
+      "sha256": "4beeba5c7534cde910507cbd438fe9f586b61f1feb756b168aea87379bf2cb88"
+    }
+  },
+  {
+    "book_id": "48e89774-2661-4b47-9e14-18c8aa95d5a0",
+    "title": "Danny Dodo's Detective Diary",
+    "cover_filename": "083_danny_dodos_detective_diary.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/083_danny_dodos_detective_diary.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "499ea540-a319-47b8-bd8b-e1af9957453b",
+    "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+    "cover_filename": "264_alexander_and_the_terrible_horrible_no_good_very_bad_day.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/264_alexander_and_the_terrible_horrible_no_good_very_bad_day.jpg",
+      "bytes": 278310,
+      "sha256": "c18e76ce90867b44ec3e88fba9d98abab263f83b0b2e0bfcc1a40aea9cfd51fc"
+    }
+  },
+  {
+    "book_id": "4b379767-5457-494a-9c09-68f81191d1fc",
+    "title": "Scarecrow",
+    "cover_filename": "212_scarecrow.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/212_scarecrow.jpg",
+      "bytes": 69381,
+      "sha256": "82b1fd092c745b9040e7cf0020c652e91590b5f2620c39509403abde6e0dcc92"
+    }
+  },
+  {
+    "book_id": "4cc8add7-c459-43f7-a37a-480c73574de3",
+    "title": "The Detective's Guide to Ocean Travel",
+    "cover_filename": "131_the_detectives_guide_to_ocean_travel.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/131_the_detectives_guide_to_ocean_travel.jpg",
+      "bytes": 77060,
+      "sha256": "974c421fc60a75fc9e1f4f69dd3b81a2c9ced51dbcde14524f00c09c3a5f8115"
+    }
+  },
+  {
+    "book_id": "4cce94d2-ddc7-479a-970c-cb5a7b6a3754",
+    "title": "There's No Such Book",
+    "cover_filename": "077_theres_no_such_book.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "4ef23423-5bf7-42d4-9ecd-f08a713793ba",
+    "title": "The Enchanted Wood",
+    "cover_filename": "031_the_enchanted_wood.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/031_the_enchanted_wood.jpg",
+      "bytes": 66069,
+      "sha256": "e66445c003e341713027677ae2f9a9a945d41e7a1f159afa9f6e64eb4213f2a5"
+    }
+  },
+  {
+    "book_id": "4f15b8da-42ef-419d-93ad-21a053fc6da2",
+    "title": "Strangers on Country",
+    "cover_filename": "135_strangers_on_country.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "501f0c32-f4af-4828-9161-b2bfde76e05a",
+    "title": "Paradise Sands: A Story of Enchantment",
+    "cover_filename": "191_paradise_sands.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/191_paradise_sands.jpg",
+      "bytes": 14812,
+      "sha256": "9bf52c9cefb2dff5405885bfdc3bd8421e86a6244f84bbc8b2b02db9d682c080"
+    }
+  },
+  {
+    "book_id": "51330d23-4aab-4b33-b994-18c4cf9a26dc",
+    "title": "Fluff Mess Up!",
+    "cover_filename": "337_fluff_mess_up.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/337_fluff_mess_up.jpg",
+      "bytes": 88127,
+      "sha256": "4a67f494d75d9750a09f03f53cbb48d90ffa14a3e9b29fd61e63df6eceb32c9d"
+    }
+  },
+  {
+    "book_id": "5211fa07-5667-4818-89ca-4e6c85774d84",
+    "title": "Stellarphant",
+    "cover_filename": "091_stellarphant.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "523a3ff5-64af-4a35-8209-00ef70451f9b",
+    "title": "Runt",
+    "cover_filename": "243_runt.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "5421bd5c-7d9d-41fa-9b0d-b3717404289c",
+    "title": "The Boy Who Tried to Shrink His Name",
+    "cover_filename": "188_the_boy_who_tried_to_shrink_his_name.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/188_the_boy_who_tried_to_shrink_his_name.jpg",
+      "bytes": 61318,
+      "sha256": "45aa8e8d90a859bfe49d39bcb794179b519db1c601a6f58e14d78218b47ba9f4"
+    }
+  },
+  {
+    "book_id": "54e86a9f-2395-44e3-a492-781ea352f039",
+    "title": "Wombat",
+    "cover_filename": "053_wombat.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/053_wombat.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "5907f168-8d2c-450e-9f31-228e4e3be03b",
+    "title": "The All New Must Have Orange 430",
+    "cover_filename": "246_the_all_new_must_have_orange_430.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/246_the_all_new_must_have_orange_430.jpg",
+      "bytes": 48985,
+      "sha256": "1c2b38ce50d2f782aecd148caa167700035768cc6f3ebbe27dc33db54a2e92a2"
+    }
+  },
+  {
+    "book_id": "59c84f53-94d8-4357-b1a5-2f6239094270",
+    "title": "Go Away, Worry Monster!",
+    "cover_filename": "129_go_away_worry_monster.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "5ad0d606-338d-40ca-bffe-4ff4f6df15c0",
+    "title": "Fire",
+    "cover_filename": "101_fire.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/101_fire.jpg",
+      "bytes": 48287,
+      "sha256": "894030902934af9ba4e7e4b7adc9b04e74f23274fe1a1add902b923d1d1ab882"
+    }
+  },
+  {
+    "book_id": "5c0183b7-d53d-4c9b-8be3-e49323a211e6",
+    "title": "Grow Big, Little Seed",
+    "cover_filename": "327_grow_big_little_seed.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "5cd054e2-e77e-4e64-a26a-5186d966c74b",
+    "title": "Dry to Dry: The Seasons of Kakadu",
+    "cover_filename": "096_dry_to_dry_the_seasons_of_kakadu.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/096_dry_to_dry_the_seasons_of_kakadu.jpg",
+      "bytes": 78216,
+      "sha256": "024f74efc8f86c85206143228bc667316d4ee6b71496aa73df2356aedb2bb76e"
+    }
+  },
+  {
+    "book_id": "5d9a7823-f9e5-4ee8-98fe-7ccbbe145553",
+    "title": "The Island",
+    "cover_filename": "130_the_island.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/130_the_island.jpg",
+      "bytes": 79885,
+      "sha256": "bdbb2b2fb119aad84de9133508edbfe1af3952e56be9f5e6075724c5f5622e13"
+    }
+  },
+  {
+    "book_id": "5e40380b-f0b5-418a-b329-a5a8008b3edd",
+    "title": "Little People, Big Dreams - Aretha Franklin",
+    "cover_filename": "219_little_people_big_dreams_aretha_franklin.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/219_little_people_big_dreams_aretha_franklin.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "5fbe6b3b-95fd-40cf-a7ed-8b776bd60409",
+    "title": "All Bodies Are Good Bodies",
+    "cover_filename": "014_all_bodies_are_good_bodies.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/014_all_bodies_are_good_bodies.jpg",
+      "bytes": 17358,
+      "sha256": "15dd3ffd0d19c6ba675ca019541ddc6a815cedef23ebdf43b5e5959bee2b80a1"
+    }
+  },
+  {
+    "book_id": "5fd8670a-4bf9-490f-ae7a-69dbe39fcb6b",
+    "title": "11 Ruby Road 1900",
+    "cover_filename": "016_11_ruby_road_1900.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/016_11_ruby_road_1900.jpg",
+      "bytes": 83895,
+      "sha256": "03f49f0154ae1dce1584be453edab8541979e37827c2ad632859dd66857296e4"
+    }
+  },
+  {
+    "book_id": "5ffcda36-47d9-4352-967d-06d9565943e0",
+    "title": "Kookaburras Love to Laugh",
+    "cover_filename": "038_kookaburras_love_to_laugh.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "607612d7-2544-4545-a8e5-fb3549f0c465",
+    "title": "Little Blue and Little Yellow",
+    "cover_filename": "317_little_blue_and_little_yellow.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/317_little_blue_and_little_yellow.jpg",
+      "bytes": 6549,
+      "sha256": "2c5bf98f04a75949e7e92add69a9180a66acf40ee8ae4851e88d4c81b0bf7ed7"
+    }
+  },
+  {
+    "book_id": "610cecca-3497-4501-a98c-b18d98712a5f",
+    "title": "Let's Get a Pup!",
+    "cover_filename": "127_lets_get_a_pup.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/127_lets_get_a_pup.jpg",
+      "bytes": 7957,
+      "sha256": "dad97ec66683d4742476051cce45a1b2e43ae51a05c97b3407203152f4b95b89"
+    }
+  },
+  {
+    "book_id": "61c1a167-3bcb-4fa6-91af-43f892f75bbe",
+    "title": "Welcome to Country",
+    "cover_filename": "181_welcome_to_country.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "625b37a7-56cc-4833-ba62-4b0afc3efdf8",
+    "title": "The Perfect Pet",
+    "cover_filename": "187_the_perfect_pet.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/187_the_perfect_pet.jpg",
+      "bytes": 36438,
+      "sha256": "0bec08360292b1cd0d33d6853acd5370ead48eadd2997b1520427d9828fcf8c2"
+    }
+  },
+  {
+    "book_id": "62d11b0a-77e5-44a5-96de-91fe98a904d7",
+    "title": "Polly and Buster - The Wayward Witch & the Feelings Monster",
+    "cover_filename": "195_polly_and_buster_the_wayward_witch_the_feelings_monster.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "640d9011-69cd-42c9-b312-9be3f766c751",
+    "title": "The Unwilling Twin",
+    "cover_filename": "029_the_unwilling_twin.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "6483c041-e58b-474c-b397-283daf3ab5e4",
+    "title": "Gary",
+    "cover_filename": "206_gary.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "64f7bc53-5c8a-4eb4-8713-76ecb6351041",
+    "title": "The Treasure Box",
+    "cover_filename": "282_the_treasure_box.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/282_the_treasure_box.jpg",
+      "bytes": 53089,
+      "sha256": "bdaece4566031d9160283cbf89c30760b1c885917d802fc2c152054d35afafb4"
+    }
+  },
+  {
+    "book_id": "653498f4-0889-4eee-b198-3239d1bee150",
+    "title": "Fireflies!",
+    "cover_filename": "033_fireflies.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/033_fireflies.jpg",
+      "bytes": 60115,
+      "sha256": "88be6a72e5762b948c4f2a817bf3bb94d3cb65da87abe000323e7dbbf80849ff"
+    }
+  },
+  {
+    "book_id": "657557eb-8dcb-45ce-b079-bae288bafa43",
+    "title": "Six Dots: A Story of Young Louis Braille",
+    "cover_filename": "035_six_dots_a_story_of_young_louis_braille.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/035_six_dots_a_story_of_young_louis_braille.jpg",
+      "bytes": 23351,
+      "sha256": "039268e981a15ca0fdd9a68fe190c9d686f42a4bf5252516a49300c65b134e8b"
+    }
+  },
+  {
+    "book_id": "65dfe33e-88b2-489f-adba-699baa8bda07",
+    "title": "All Four Quarters of the Moon",
+    "cover_filename": "165_all_four_quarters_of_the_moon.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/165_all_four_quarters_of_the_moon.jpg",
+      "bytes": 97542,
+      "sha256": "f8816b82443473e89a37276b63aead740bc4b8713d3fff495f1adfeef84d453e"
+    }
+  },
+  {
+    "book_id": "66e8adfc-5014-4faa-abd7-68a3a76b9835",
+    "title": "Little People, Big Dreams - Vivienne Westwood",
+    "cover_filename": "217_little_people_big_dreams_vivienne_westwood.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/217_little_people_big_dreams_vivienne_westwood.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "67eee94f-bc9c-4500-9a03-3e51b2050cb0",
+    "title": "That Bird Has Arms!",
+    "cover_filename": "256_that_bird_has_arms.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/256_that_bird_has_arms.jpg",
+      "bytes": 49509,
+      "sha256": "3bd02902dfb025e95c8c8af523c111e32a4a77898dec2ca296445598c1a406b3"
+    }
+  },
+  {
+    "book_id": "68c0ceb0-bb0f-4850-8fd8-00d4b9c9b9dc",
+    "title": "There's No Such Thing",
+    "cover_filename": "174_theres_no_such_thing.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/174_theres_no_such_thing.jpg",
+      "bytes": 43387,
+      "sha256": "9aadbb184450c814a7e5e93e68f2eec0b4591fc540c828e81934572312d85402"
+    }
+  },
+  {
+    "book_id": "68f1a36d-d3a5-4cd0-9cea-c277cbaf7493",
+    "title": "Iceberg",
+    "cover_filename": "238_iceberg.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "699e1518-7c5e-464f-9bb2-696a300c5090",
+    "title": "Knuffle Bunny Too: A Case of Mistaken Identity",
+    "cover_filename": "286_knuffle_bunny_too_a_case_of_mistaken_identity.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "69bae962-299c-408c-ae39-e420949b5b38",
+    "title": "The Important Book",
+    "cover_filename": "034_the_important_book.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/034_the_important_book.jpg",
+      "bytes": 35213,
+      "sha256": "8d567fc53d3db0edeafde96495419110ab69645ed5c2f9b9c32f5a1482f6b51d"
+    }
+  },
+  {
+    "book_id": "6af9fe8f-9de0-4bdd-a29b-97951a261fc0",
+    "title": "Little People, Big Dreams - Prince",
+    "cover_filename": "227_little_people_big_dreams_prince.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/227_little_people_big_dreams_prince.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "6b8cb43a-bb14-4661-87da-a61ad55ef1da",
+    "title": "Crickwing",
+    "cover_filename": "042_crickwing.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/042_crickwing.jpg",
+      "bytes": 1943,
+      "sha256": "103ce9909cc84557081a5f1a7757c47ef4065cd319192b577bda6007059236c6"
+    }
+  },
+  {
+    "book_id": "6bd008f0-4bfc-4fdd-b70e-94271cb37523",
+    "title": "Norton and the Bear",
+    "cover_filename": "084_norton_and_the_bear.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "6de948df-f7d0-476f-9ecc-4b5acc2d5abb",
+    "title": "Come Together",
+    "cover_filename": "088_come_together.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "6ee93ef1-c476-4d58-8beb-16679d343489",
+    "title": "Walking in Gagudju Country: Exploring the Monsoon Forest",
+    "cover_filename": "162_walking_in_gagudju_country_exploring_the_monsoon_forest.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/162_walking_in_gagudju_country_exploring_the_monsoon_forest.jpg",
+      "bytes": 88412,
+      "sha256": "99c555edc27972a291fae1d00da55b904d7ea2461e16a719bef0ed5300f0b9b8"
+    }
+  },
+  {
+    "book_id": "6f265f56-b7ec-4262-9826-b12eb8d86827",
+    "title": "Mr Huff",
+    "cover_filename": "273_mr_huff.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/273_mr_huff.jpg",
+      "bytes": 75481,
+      "sha256": "05018687db75c1119128344a7ab92e42dfd00cd45001d68d35bf101b115e797a"
+    }
+  },
+  {
+    "book_id": "6ffaeb44-4a53-4efb-8b8e-e0d41c8279e8",
+    "title": "Night Tree",
+    "cover_filename": "037_night_tree.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/037_night_tree.jpg",
+      "bytes": 9468,
+      "sha256": "9c0a3d12a19b30720ea9718bfb982947252a362e5f11f49646af7878fab76e7c"
+    }
+  },
+  {
+    "book_id": "724782a3-69a9-4d56-bbd6-d97cf24f5479",
+    "title": "Tamarra - A Story of Termites on Gurindji Country",
+    "cover_filename": "267_tamarra_a_story_of_termites_on_gurindji_country.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "730a4e25-2503-48d5-a0af-55f7d745e5a3",
+    "title": "I am a Magpie I am a Currawong",
+    "cover_filename": "322_i_am_a_magpie_i_am_a_currawong.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "7379cb5e-5b60-41cc-a3ff-3d933544e18f",
+    "title": "One Little Duck",
+    "cover_filename": "109_one_little_duck.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "73a807e0-c440-4bbd-b6f4-74b110bb8a32",
+    "title": "Winston and the Indoor Cat",
+    "cover_filename": "207_winston_and_the_indoor_cat.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "73f9b67f-d9c6-4c9c-9818-8269ae6798bf",
+    "title": "The Very Busy Spider",
+    "cover_filename": "045_the_very_busy_spider.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/045_the_very_busy_spider.jpg",
+      "bytes": 15015,
+      "sha256": "dac79346a061fcbde361e7785aa475cf27c06388af6b4e587c321391f0db89fd"
+    }
+  },
+  {
+    "book_id": "742fad9c-6637-4dc9-bd34-9d57e483702f",
+    "title": "Pearl Barley and Charlie Parsley",
+    "cover_filename": "024_pearl_barley_and_charlie_parsley.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/024_pearl_barley_and_charlie_parsley.jpg",
+      "bytes": 8818,
+      "sha256": "aa8fb85b041997cb5cd25d6d1d696fbde6903445c081c5237c0e11d456d4f160"
+    }
+  },
+  {
+    "book_id": "74765f91-f307-420c-8b90-5f406381ce26",
+    "title": "Big Red Kangaroo",
+    "cover_filename": "239_big_red_kangaroo.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/239_big_red_kangaroo.jpg",
+      "bytes": 90304,
+      "sha256": "6a6f17b3d3e6432a9c8701389ea6f6fc77c25c59e6d8c44da1e428f2f0473fc7"
+    }
+  },
+  {
+    "book_id": "75ef1910-8d04-4319-90e0-51e9007e00b7",
+    "title": "I Wanna Iguana",
+    "cover_filename": "186_i_wanna_iguana.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/186_i_wanna_iguana.jpg",
+      "bytes": 66951,
+      "sha256": "2521b10b265fb5de9013411b7ddec53e6ad691dc55898b0b807326661f79eba3"
+    }
+  },
+  {
+    "book_id": "75fe609e-92cf-424b-ae63-7a65564f2429",
+    "title": "This is a ball",
+    "cover_filename": "347_this_is_a_ball.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "766f69a5-fccf-4840-a0bf-31c56f98964f",
+    "title": "Banjo and Ruby Red",
+    "cover_filename": "113_banjo_and_ruby_red.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/113_banjo_and_ruby_red.jpg",
+      "bytes": 52100,
+      "sha256": "dd984e64fbe71aa28cddc7c67b542cee42b631f2d7b7d076a489009a642d0e44"
+    }
+  },
+  {
+    "book_id": "7678b754-68d9-48ed-a6db-89ead4b81bd6",
+    "title": "The Boy and the Elephant",
+    "cover_filename": "027_the_boy_and_the_elephant.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/027_the_boy_and_the_elephant.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "7829ab4e-0871-4a60-9068-e47bd0558fc3",
+    "title": "Two Hands Together",
+    "cover_filename": "150_two_hands_together.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/150_two_hands_together.jpg",
+      "bytes": 51757,
+      "sha256": "abad41cf57a75e122eb77a28884e5baff3eb4c6a9e2b717c704b4c272e0f278b"
+    }
+  },
+  {
+    "book_id": "7a052c1e-7878-45d3-9d81-0dd07f5828a0",
+    "title": "Farmhouse",
+    "cover_filename": "026_farmhouse.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/026_farmhouse.jpg",
+      "bytes": 65277,
+      "sha256": "3b926677077046823a6bee371987f6b70ff19991094a986b3e1b508e3d277d39"
+    }
+  },
+  {
+    "book_id": "7ca60185-2776-4361-ab8b-3f7c67ab44bc",
+    "title": "Design and Building on Country",
+    "cover_filename": "331_design_and_building_on_country.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/331_design_and_building_on_country.jpg",
+      "bytes": 87996,
+      "sha256": "b4608feeea19dd9b46814eb3e106ebcdcecc1bc806b61cd6fcddcb2f81b8d1ef"
+    }
+  },
+  {
+    "book_id": "7d22bd5c-e841-47ee-8138-e45b83306142",
+    "title": "The Boy on the Page",
+    "cover_filename": "052_the_boy_on_the_page.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "7e8f5abc-07b5-404f-98c1-725820e7577b",
+    "title": "No! Never! A Cautionary Tale",
+    "cover_filename": "137_no_never_a_cautionary_tale.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "7f6fb0bf-ef11-4f65-81e3-b2323d6ac17c",
+    "title": "The Pigeon Wants a Puppy!",
+    "cover_filename": "292_the_pigeon_wants_a_puppy.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "7facd7d8-44cf-4c4b-9358-aef8798b1326",
+    "title": "Lottie and Walter",
+    "cover_filename": "274_lottie_and_walter.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/274_lottie_and_walter.jpg",
+      "bytes": 54926,
+      "sha256": "3622ce3b1707df8d2634c6054509df6be87b96d726b7f6b8f9a653802369486e"
+    }
+  },
+  {
+    "book_id": "804e1ce3-7435-4b92-bf00-62f6deb87adc",
+    "title": "When the Waterhole Dries Up",
+    "cover_filename": "009_when_the_waterhole_dries_up.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "807149be-1ffb-4492-94ce-de0365f38991",
+    "title": "When I Was Five",
+    "cover_filename": "145_when_i_was_five.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/145_when_i_was_five.jpg",
+      "bytes": 56564,
+      "sha256": "b9432342f4004059454ed2f73520c978821b6894bc29af5662f242c00c504817"
+    }
+  },
+  {
+    "book_id": "8087d626-99a1-4097-9b4c-a93928afb3b9",
+    "title": "The Odd Fish",
+    "cover_filename": "319_the_odd_fish.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "80ace26b-4570-4447-b938-cad21627989d",
+    "title": "Aggie Flea Steals the Show",
+    "cover_filename": "340_aggie_flea_steals_the_show.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "80eeb8dc-2bdd-4c46-a31e-e1296ffb49bb",
+    "title": "The Ugly Five",
+    "cover_filename": "349_the_ugly_five.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "823f422f-0103-4b88-b64e-f726a37588cd",
+    "title": "Esio Trot",
+    "cover_filename": "301_esio_trot.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/301_esio_trot.jpg",
+      "bytes": 61587,
+      "sha256": "8f3149322b6412ce2780b8ab0d126135e1a46bd9148a94c1487054fc64f0af2e"
+    }
+  },
+  {
+    "book_id": "8277f90e-d2df-4dfe-8106-a108de82dcd3",
+    "title": "Earthquake",
+    "cover_filename": "099_earthquake.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "8383fbea-29fc-4bdc-a3b3-d6a3fe878a20",
+    "title": "Little People, Big Dreams - Stevie Wonder",
+    "cover_filename": "222_little_people_big_dreams_stevie_wonder.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/222_little_people_big_dreams_stevie_wonder.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "85c27546-3721-43fb-9125-e4b0be16a420",
+    "title": "The Pigeon Needs a Bath!",
+    "cover_filename": "291_the_pigeon_needs_a_bath.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/291_the_pigeon_needs_a_bath.jpg",
+      "bytes": 11430,
+      "sha256": "a82abd4d50e943d459b6ce46ab3e8ad12100858830eb72ccc5fcaf4f20930859"
+    }
+  },
+  {
+    "book_id": "871ccba5-c32e-49f0-8209-4f7f5b97f206",
+    "title": "Raymangirrbuy Dhawu When I Was a Little girl",
+    "cover_filename": "328_raymangirrbuy_dhawu_when_i_was_a_little_girl.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "87609394-d4e6-4f68-a518-a4a64dea0922",
+    "title": "The Pigeon Will Ride the Roller Coaster!",
+    "cover_filename": "294_the_pigeon_will_ride_the_roller_coaster.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/294_the_pigeon_will_ride_the_roller_coaster.jpg",
+      "bytes": 15625,
+      "sha256": "99901c2248cc6de6e89495aa4486cdb60153aede506bce9522779617163db333"
+    }
+  },
+  {
+    "book_id": "87cc72d2-a7ee-417e-a092-eb3571bf03de",
+    "title": "All of the Factors of Why I Love Tractors",
+    "cover_filename": "021_all_of_the_factors_of_why_i_love_tractors.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/021_all_of_the_factors_of_why_i_love_tractors.jpg",
+      "bytes": 83895,
+      "sha256": "9186a8f1dde65c630c9c2f7df51b132bb1b73e94a15556d6d54e4acfa3199b43"
+    }
+  },
+  {
+    "book_id": "88fc2650-479a-4c57-b339-e6778d83c4fd",
+    "title": "How did I Get Here",
+    "cover_filename": "343_how_did_i_get_here.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "89754021-5050-4973-a712-63b6880cb2d1",
+    "title": "Little People, Big Dreams - Elton John",
+    "cover_filename": "226_little_people_big_dreams_elton_john.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/226_little_people_big_dreams_elton_john.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "8a2d2c74-8399-4e6d-b631-f694cfbc0c54",
+    "title": "The Truck Cat",
+    "cover_filename": "324_the_truck_cat.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/324_the_truck_cat.jpg",
+      "bytes": 69807,
+      "sha256": "27787934f28b1aff3d4bc056f0ba128377b15daf7e36c1b8dbea823e1c7b4e90"
+    }
+  },
+  {
+    "book_id": "8af7ce50-7473-4174-938a-ff95ed5b132a",
+    "title": "Bev and Kev",
+    "cover_filename": "110_bev_and_kev.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "8c7cc386-b4d2-49de-9c4b-20fd8533f967",
+    "title": "The Concrete Garden",
+    "cover_filename": "123_the_concrete_garden.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "8deb7948-1900-4d99-b1d1-dd065815d0cb",
+    "title": "Little People, Big Dreams - Coco Chanel",
+    "cover_filename": "229_little_people_big_dreams_coco_chanel.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/229_little_people_big_dreams_coco_chanel.jpg",
+      "bytes": 46201,
+      "sha256": "03b4db1c39c1ff1058bc9a10fc60b6ce7ae668f025c4aa4834e1f5c6dbdfdf25"
+    }
+  },
+  {
+    "book_id": "8ef7b471-b62e-45ae-9c74-3e5a6b94ce7a",
+    "title": "Ellie's Dragon",
+    "cover_filename": "124_ellies_dragon.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/124_ellies_dragon.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "8f9a190c-1f91-4b8c-b48d-2488662721ff",
+    "title": "Little People, Big Dreams - Audrey Hepburn",
+    "cover_filename": "221_little_people_big_dreams_audrey_hepburn.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/221_little_people_big_dreams_audrey_hepburn.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "9038cf2b-c68e-46b7-ac9c-adb754d45bf1",
+    "title": "The Twits",
+    "cover_filename": "071_the_twits.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/071_the_twits.jpg",
+      "bytes": 100213,
+      "sha256": "02b7cfe12c52b6f9e66d75f2543c01816b00dd7097e7270c819c7fa2b7be1420"
+    }
+  },
+  {
+    "book_id": "912b1f66-8e84-4f83-a79e-2e0ac36517ef",
+    "title": "The Very Hungry Caterpillar",
+    "cover_filename": "044_the_very_hungry_caterpillar.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/044_the_very_hungry_caterpillar.jpg",
+      "bytes": 28656,
+      "sha256": "7bfc581c8e12786f017fcd9db472979e898f2d23e496475aefdad6f023385167"
+    }
+  },
+  {
+    "book_id": "91f854fe-a7f0-4f1d-970e-ad125942c16d",
+    "title": "Harry Potter and the Deathly Hallows",
+    "cover_filename": "205_harry_potter_and_the_deathly_hallows.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/205_harry_potter_and_the_deathly_hallows.jpg",
+      "bytes": 64392,
+      "sha256": "77be5504ba8d55d25441057505806ff11e0f56c3d0bb1b7c750a414d9f6b2505"
+    }
+  },
+  {
+    "book_id": "9276cc62-7984-41b6-9a65-5a0938442a15",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "cover_filename": "203_harry_potter_and_the_order_of_the_phoenix.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/203_harry_potter_and_the_order_of_the_phoenix.jpg",
+      "bytes": 48425,
+      "sha256": "297f6c8167baea39d82ab3c1ff1198c8b01056dfcab9f450674a04244d4995d3"
+    }
+  },
+  {
+    "book_id": "92885fd5-58eb-48dc-87e6-c37e5a8368e9",
+    "title": "This Small Blue Dot",
+    "cover_filename": "251_this_small_blue_dot.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/251_this_small_blue_dot.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "93212f4c-8b41-4d62-8690-fcccddce9cd3",
+    "title": "Our Dreaming",
+    "cover_filename": "231_our_dreaming.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "933f01e4-effd-4e17-919f-f8c6a20a875b",
+    "title": "Tilly",
+    "cover_filename": "118_tilly.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "93639e78-5193-4bf5-8bb1-5370fa0da515",
+    "title": "Fossil",
+    "cover_filename": "257_fossil.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/257_fossil.jpg",
+      "bytes": 28279,
+      "sha256": "0488f8451edb018d068a05711488f673689061d1577b834384601263e5b15e13"
+    }
+  },
+  {
+    "book_id": "968d29e5-bd23-4b0d-bb1c-ef1b317f3bbc",
+    "title": "These Long Loved Things",
+    "cover_filename": "321_these_long_loved_things.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "97eca032-b730-4cf7-a890-b8058d8c573a",
+    "title": "The Way of Dog",
+    "cover_filename": "303_the_way_of_dog.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/303_the_way_of_dog.jpg",
+      "bytes": 19336,
+      "sha256": "241b8cbb6c4afbcf860cc1f47a9480bab7325cb59cb4fba3a3045f212b2b96d3"
+    }
+  },
+  {
+    "book_id": "98b360c1-7bd8-4f9a-868a-a94dc3409c2f",
+    "title": "Charlie and the Chocolate Factory",
+    "cover_filename": "069_charlie_and_the_chocolate_factory.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/069_charlie_and_the_chocolate_factory.jpg",
+      "bytes": 8359,
+      "sha256": "5c728bf12f8ccc68f2d8206beeca21133d7968a622bda01f862997fdb04999e1"
+    }
+  },
+  {
+    "book_id": "996a3ee1-1af5-4799-a54d-414592dec79f",
+    "title": "The Day the Crayons Quit",
+    "cover_filename": "075_the_day_the_crayons_quit.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/075_the_day_the_crayons_quit.jpg",
+      "bytes": 13112,
+      "sha256": "d3fe839030bee5b01f6656aac6df95123c55150c81f5db45ba4549b7bc304799"
+    }
+  },
+  {
+    "book_id": "99e22389-80ac-465b-ba50-2d22e6890751",
+    "title": "One Little Dung Beetle",
+    "cover_filename": "320_one_little_dung_beetle.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "9aea6d1a-a3c8-4e36-a737-62e3687696e4",
+    "title": "Big Blue Whale",
+    "cover_filename": "074_big_blue_whale.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/074_big_blue_whale.jpg",
+      "bytes": 7170,
+      "sha256": "3dedc0a2b9291a97d05141f9b2e6c67c2b32613f3edaf19d22076f8f22874bfb"
+    }
+  },
+  {
+    "book_id": "9b1db3c0-c741-4b01-a925-dd92af5b2ac9",
+    "title": "Three",
+    "cover_filename": "152_three.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/152_three.jpg",
+      "bytes": 31538,
+      "sha256": "bc99341be84d83dfc5eacad93995154ea8ae2bbcf9dcff605347de76f1c1e984"
+    }
+  },
+  {
+    "book_id": "9b3f00de-b5b4-40d3-a73f-ce7dc32da55d",
+    "title": "Always Was Always Will Be",
+    "cover_filename": "330_always_was_always_will_be.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/330_always_was_always_will_be.jpg",
+      "bytes": 40806,
+      "sha256": "5d9930ad9ee66141b2b323f3b63c5ab0e81ea837f8b3770fff8a7262a880b8fe"
+    }
+  },
+  {
+    "book_id": "9bee5c85-0db5-4deb-8556-e897166816a2",
+    "title": "Little People, Big Dreams - John Lennon",
+    "cover_filename": "223_little_people_big_dreams_john_lennon.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/223_little_people_big_dreams_john_lennon.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "9c79a699-d83f-4c72-9a54-9096706983aa",
+    "title": "Evie and Rhino",
+    "cover_filename": "002_evie_and_rhino.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/002_evie_and_rhino.jpg",
+      "bytes": 78805,
+      "sha256": "80def75d202e7cd345d11657dff37451b44499e0eb2e9c0ad82b214e46fe709a"
+    }
+  },
+  {
+    "book_id": "9d3a4752-b000-440f-92cf-980836dd1401",
+    "title": "Diary of a Worm",
+    "cover_filename": "066_diary_of_a_worm.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/066_diary_of_a_worm.jpg",
+      "bytes": 22480,
+      "sha256": "ebe91c4483809ff7616836fa2db6bee69e8d9c1fcc835722140b37bf3ed6ebba"
+    }
+  },
+  {
+    "book_id": "9d720c9b-63ec-440d-8614-1331e450cc1c",
+    "title": "Kitten's First Full Moon",
+    "cover_filename": "140_kittens_first_full_moon.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/140_kittens_first_full_moon.jpg",
+      "bytes": 4196,
+      "sha256": "7947651aa1c8de0acfa063c626d576480ed66fccecb11528bf2b85871ec1bf78"
+    }
+  },
+  {
+    "book_id": "9dfb1843-ab83-4471-b691-0c8cad6cec17",
+    "title": "Tiddalick - The Frog Who Caused a Flood",
+    "cover_filename": "196_tiddalick_the_frog_who_caused_a_flood.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "a08e5713-917e-47ff-bfc5-8f3e56b0e9f1",
+    "title": "We Love You, Magoo",
+    "cover_filename": "249_we_love_you_magoo.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/249_we_love_you_magoo.jpg",
+      "bytes": 276224,
+      "sha256": "57f68edf282d0f4a94a19014a89e614772841fdba87007ae6b39f6c39a56eff1"
+    }
+  },
+  {
+    "book_id": "a0c51f6c-25fa-4be9-b5bf-a589a6660d89",
+    "title": "Day Break",
+    "cover_filename": "175_day_break.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/175_day_break.jpg",
+      "bytes": 58906,
+      "sha256": "1e04a73b65e56605298fc65c7b56e23cbc6915b81bdf12bbb5bcd0abd3a81f83"
+    }
+  },
+  {
+    "book_id": "a0e4be6d-d2c4-4b01-951c-328ea76a690e",
+    "title": "Sunday Skating",
+    "cover_filename": "198_sunday_skating.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/198_sunday_skating.jpg",
+      "bytes": 64071,
+      "sha256": "e3226ee5aafc6ad68620a68200a5546ad979b19bae9a3dd2b50335885b3d8f34"
+    }
+  },
+  {
+    "book_id": "a2458e20-4ca5-4aa6-b019-f357417ee613",
+    "title": "Scout and the Rescue Dogs",
+    "cover_filename": "295_scout_and_the_rescue_dogs.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/295_scout_and_the_rescue_dogs.jpg",
+      "bytes": 76518,
+      "sha256": "442930d872785504e85e21ddf504b7e843c86ed104d4eff08c2123588b28a128"
+    }
+  },
+  {
+    "book_id": "a2520f05-0d28-42fd-b4e2-b58ab08c6d8a",
+    "title": "South with the Seabirds",
+    "cover_filename": "334_south_with_the_seabirds.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/334_south_with_the_seabirds.jpg",
+      "bytes": 47084,
+      "sha256": "ccc655e593c207e9461906dc207f6777bc14b78417c3deca40072b1fa213cecd"
+    }
+  },
+  {
+    "book_id": "a3d120d9-ef18-401d-a854-0fb259824d1f",
+    "title": "Sky Tree",
+    "cover_filename": "160_sky_tree.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/160_sky_tree.jpg",
+      "bytes": 4548,
+      "sha256": "1ad14d48869033695c75d6facc2c83274997b2418767a3f65e546dd14f645cc1"
+    }
+  },
+  {
+    "book_id": "a514bcfa-2218-417c-a253-935502cf7891",
+    "title": "My Australian Story - Cyclone Tracy",
+    "cover_filename": "259_my_australian_story_cyclone_tracy.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "a5a355bb-cf2c-41dc-9e4c-67b5ce1116ad",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "cover_filename": "200_harry_potter_and_the_chamber_of_secrets.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "a68bdcc0-3922-4e1e-b28f-493d1fbf0be1",
+    "title": "Drought",
+    "cover_filename": "103_drought.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "a6ca05ea-c16d-459a-ad1f-b14904b42856",
+    "title": "Your Birthday Was the Best!",
+    "cover_filename": "146_your_birthday_was_the_best.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/146_your_birthday_was_the_best.jpg",
+      "bytes": 51565,
+      "sha256": "a8ebedc62978cbb9bd406fc0ed261cf86b2bb3c99057f543a1859b8ad36e1b2d"
+    }
+  },
+  {
+    "book_id": "a6ff4432-b56e-45ac-ab99-f8e4e3caea2a",
+    "title": "Wild Australian Life",
+    "cover_filename": "067_wild_australian_life.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/067_wild_australian_life.jpg",
+      "bytes": 66126,
+      "sha256": "e4fa1a04f5583ebeeed559caf54f371eccd35cc3b1d8473c15a2e182eed2a017"
+    }
+  },
+  {
+    "book_id": "a745e7e1-48ca-4179-bff5-cb1dcf83df88",
+    "title": "The Land Recalls You",
+    "cover_filename": "332_the_land_recalls_you.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "a8a48fa5-3132-4c19-9453-e0e30aba0863",
+    "title": "The Magic Finger",
+    "cover_filename": "302_the_magic_finger.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/302_the_magic_finger.jpg",
+      "bytes": 32066,
+      "sha256": "fff989b5631b4d866c174a5d1a51de5a5da8797648df3d78f37b45bef98877f3"
+    }
+  },
+  {
+    "book_id": "a8d58dfc-9dfc-4eda-818e-65741dd7a83e",
+    "title": "Out",
+    "cover_filename": "108_out.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/108_out.jpg",
+      "bytes": 48818,
+      "sha256": "3a145ae54d79e0782584e32ec37a3b0bab8cf744fd0fb3f4f4d5a77f627e6df2"
+    }
+  },
+  {
+    "book_id": "a997a3ef-fb03-40b3-93e7-8a41f9d717e4",
+    "title": "The Giant and the Sea",
+    "cover_filename": "147_the_giant_and_the_sea.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/147_the_giant_and_the_sea.jpg",
+      "bytes": 86154,
+      "sha256": "91e6ea2ea80f800bef47113e0db7c853b6d1a3b9f1c33754aa0cbe9d91e20e7c"
+    }
+  },
+  {
+    "book_id": "aa196f50-6046-4731-94f7-1b9dc8036f43",
+    "title": "I say ooh, You say Aah",
+    "cover_filename": "352_i_say_ooh_you_say_aah.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "aa4ce74c-9502-4f50-a1bc-14c8517fbfc8",
+    "title": "Little People, Big Dreams - Stephen Hawking",
+    "cover_filename": "230_little_people_big_dreams_stephen_hawking.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/230_little_people_big_dreams_stephen_hawking.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "aa97fed4-b72a-4415-b71b-eb2140329bcb",
+    "title": "Frank's Red Hat",
+    "cover_filename": "007_franks_red_hat.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "ab557dd9-5c36-4df9-bb7d-73a9a08e2aea",
+    "title": "Bowerbird Blues",
+    "cover_filename": "189_bowerbird_blues.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/189_bowerbird_blues.jpg",
+      "bytes": 95309,
+      "sha256": "3512258a95501ce6e218b9c273ab69e6d1327d4fa35f11869f2b0ea328b4d39b"
+    }
+  },
+  {
+    "book_id": "ad53f7dc-ade7-481a-84d8-7ea844b2142e",
+    "title": "Max",
+    "cover_filename": "168_max.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/168_max.jpg",
+      "bytes": 35509,
+      "sha256": "3bd17181a3ada1cef42bfeebc089be15efbd846107d22bd5a52557a7fd078fad"
+    }
+  },
+  {
+    "book_id": "ae3a96f4-3ecc-4fae-944a-ee14f52bd912",
+    "title": "Bear & Duck are Friends",
+    "cover_filename": "076_bear_duck_are_friends.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "aecd5735-9ef2-4c35-a4a8-70968949f2d0",
+    "title": "The Elephant",
+    "cover_filename": "047_the_elephant.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "b25a91c5-bcd4-4f81-83ac-39872cdc9684",
+    "title": "For Love",
+    "cover_filename": "183_for_love.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/183_for_love.jpg",
+      "bytes": 11178,
+      "sha256": "a64bdbd22bc662f74086c423c42b123ebfe745890fcba5081c2dbe1cafc4e735"
+    }
+  },
+  {
+    "book_id": "b340c9af-4fdb-427c-8fe4-97c3aa671294",
+    "title": "All About the Heart",
+    "cover_filename": "154_all_about_the_heart.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "b3984896-d4bb-48d6-a8a9-e5f2daed4f65",
+    "title": "Little People, Big Dreams - Ru Paul",
+    "cover_filename": "213_little_people_big_dreams_ru_paul.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/213_little_people_big_dreams_ru_paul.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "b627fe41-628a-4c69-a502-bd7e5d41c575",
+    "title": "Water Dance",
+    "cover_filename": "159_water_dance.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/159_water_dance.jpg",
+      "bytes": 26325,
+      "sha256": "78e3c6b4441a7f6a82b972357d030d69f6e9431924bbff2cc5b988f2419870c1"
+    }
+  },
+  {
+    "book_id": "b7b29cc7-fa46-438a-9e92-8194c4dd0fd8",
+    "title": "Everything You Ever Wanted To Know About the Tooth Fairy (and Some Things You Didn't)",
+    "cover_filename": "326_everything_you_ever_wanted_to_know_about_the_tooth_fairy_and.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/326_everything_you_ever_wanted_to_know_about_the_tooth_fairy_and.jpg",
+      "bytes": 68443,
+      "sha256": "7966672b224d97ab5d8f3c920bbdc779fe2c1341d0cf84f804304fd7bc0bcde8"
+    }
+  },
+  {
+    "book_id": "b7b4e8ed-6350-482a-8458-0b2f0f89d2fa",
+    "title": "Amira's Suitcase",
+    "cover_filename": "056_amiras_suitcase.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/056_amiras_suitcase.jpg",
+      "bytes": 56179,
+      "sha256": "3f6a1a6ade78952ac9362f8f60e81e6e50887a27054c50c0a52e29ef339b392c"
+    }
+  },
+  {
+    "book_id": "b8d283ae-2aa2-4e10-b833-5636b23093c7",
+    "title": "The Big Book of Bugs",
+    "cover_filename": "297_the_big_book_of_bugs.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "b930d659-dd10-4b7e-8d6d-0894749f9db8",
+    "title": "The Great Rabbit Chase",
+    "cover_filename": "028_the_great_rabbit_chase.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "b9d7c671-99d3-400c-bac3-52c41ec013fd",
+    "title": "Plague",
+    "cover_filename": "100_plague.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "ba4f671a-e275-4493-b78c-e018b2ad2d77",
+    "title": "Edie's Experiments: How to be the Best",
+    "cover_filename": "013_edies_experiments_how_to_be_the_best.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/013_edies_experiments_how_to_be_the_best.jpg",
+      "bytes": 78931,
+      "sha256": "aebdac25ab60717b40b33c924e19030a523c58bcae47c8713f4172b4dfbd74eb"
+    }
+  },
+  {
+    "book_id": "ba685b60-fa9c-426a-938a-e9d5e348f214",
+    "title": "The First Scientists - Deadly Inventions and Innovations from Australia's First Peoples",
+    "cover_filename": "261_the_first_scientists_deadly_inventions_and_innovations_from_.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/261_the_first_scientists_deadly_inventions_and_innovations_from_.jpg",
+      "bytes": 70362,
+      "sha256": "22ca2e9ee7b39e56d71eb4705d7d2bbf6a0dc4f2737baab3739ee00e4c430610"
+    }
+  },
+  {
+    "book_id": "baff69ee-ac78-4f18-a9c7-8796f4edab23",
+    "title": "August & Jones",
+    "cover_filename": "134_august_jones.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/134_august_jones.jpg",
+      "bytes": 60404,
+      "sha256": "f51885d60beefdcf24f6b6e2640fb8b349e4da90183d904e4bf9c765d360b408"
+    }
+  },
+  {
+    "book_id": "bb16e2d7-d8ab-40c3-91e6-2d9fc3faa4bb",
+    "title": "Storm Dragon",
+    "cover_filename": "316_storm_dragon.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "bb194261-920c-41ce-8d46-f2814093caf1",
+    "title": "Sheldon's New Shell",
+    "cover_filename": "306_sheldons_new_shell.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "bb608397-a324-41ab-903f-a9e50e19f464",
+    "title": "Dear Mrs. LaRue - Letters from Obedience School",
+    "cover_filename": "255_dear_mrs_larue_letters_from_obedience_school.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/255_dear_mrs_larue_letters_from_obedience_school.jpg",
+      "bytes": 39937,
+      "sha256": "5442f6594c3e7b0c71c786815be401b090d29a744639214331a3949fa9371b25"
+    }
+  },
+  {
+    "book_id": "bbd20e92-cb1b-4c9a-849e-ec7ce992f3ff",
+    "title": "Shirley Purdie: My Story, Ngaginybe Jarragbe",
+    "cover_filename": "193_shirley_purdie_my_story_ngaginybe_jarragbe.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "bbd633a8-841d-4a11-af09-deea0d750f24",
+    "title": "Ten Tiny Things",
+    "cover_filename": "173_ten_tiny_things.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/173_ten_tiny_things.jpg",
+      "bytes": 47607,
+      "sha256": "73814bbc7a9725827d4f5c9286e8836520c939146777e1a02821ef89b6df9772"
+    }
+  },
+  {
+    "book_id": "bce9fd83-1922-4231-8c54-5b08ee8d5ef7",
+    "title": "Hold On! Saving the Spotted Handfish",
+    "cover_filename": "184_hold_on_saving_the_spotted_handfish.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "bd1553fc-8dc7-49e6-8e07-9c26d6e09888",
+    "title": "Bad Dog",
+    "cover_filename": "350_bad_dog.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "bd3b89de-4a15-4018-b9ae-87f535b32589",
+    "title": "Walk of the Whales",
+    "cover_filename": "030_walk_of_the_whales.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "bd957ccf-df67-4847-90af-6368e97dcfa0",
+    "title": "Earrings!",
+    "cover_filename": "266_earrings.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/266_earrings.jpg",
+      "bytes": 23606,
+      "sha256": "f19b2ecca4efd4dcda12b11a8f7a957a69b2f32e22c304624752490f94c42e03"
+    }
+  },
+  {
+    "book_id": "bf5eab0a-d5a0-4aef-9deb-d49983ea9808",
+    "title": "Little People, Big Dreams - Jane Austen",
+    "cover_filename": "228_little_people_big_dreams_jane_austen.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/228_little_people_big_dreams_jane_austen.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "bfed1aec-5c28-4f0e-9cbe-fa3fb464c72e",
+    "title": "Where the Lyrebird Lives",
+    "cover_filename": "057_where_the_lyrebird_lives.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c1560852-b33f-46ae-82c8-c3914467c8b4",
+    "title": "Click, Clack, Moo Cows That Type",
+    "cover_filename": "065_click_clack_moo_cows_that_type.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c212daf5-a31c-448f-b544-0d1a3d03de23",
+    "title": "Timeless",
+    "cover_filename": "041_timeless.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c303ffa2-06cc-4a5a-b648-8f0337b23a88",
+    "title": "The Great Expedition",
+    "cover_filename": "050_the_great_expedition.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c3312b39-1615-4a14-a6e3-b6e3a121a409",
+    "title": "Great White Shark",
+    "cover_filename": "236_great_white_shark.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/236_great_white_shark.jpg",
+      "bytes": 52727,
+      "sha256": "efc9c4ea89988edb44103fd04d99e9d05554191d918de2a0e3d53539c0d1427a"
+    }
+  },
+  {
+    "book_id": "c395f975-3bf6-4d6b-9c13-8b096781b4ac",
+    "title": "Harry Potter and Prisoner of Azkaban",
+    "cover_filename": "201_harry_potter_and_prisoner_of_azkaban.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/201_harry_potter_and_prisoner_of_azkaban.jpg",
+      "bytes": 58635,
+      "sha256": "a4290cf191c19a8e23691918ce3cf444d51ff02db6a8c03eebc021d53ca8be4c"
+    }
+  },
+  {
+    "book_id": "c3eeb858-7930-4cb4-8c6a-2cb8b791d883",
+    "title": "The Echidna Near My Place",
+    "cover_filename": "279_the_echidna_near_my_place.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c43deee2-8df6-4fa7-923e-68e7a833b718",
+    "title": "Knuffle Bunny Free: An Unexpected Diversion",
+    "cover_filename": "288_knuffle_bunny_free_an_unexpected_diversion.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/288_knuffle_bunny_free_an_unexpected_diversion.jpg",
+      "bytes": 52038,
+      "sha256": "646d909ea7be5a22d61392bc1d9e931a50021b46f68bb1ca967d132d811c3183"
+    }
+  },
+  {
+    "book_id": "c48f4ad8-cd82-4909-b3b5-deb7677694dd",
+    "title": "The Biscuit Maker",
+    "cover_filename": "155_the_biscuit_maker.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c4cf3f88-4a37-4d0e-820e-411b4b283224",
+    "title": "Press Here",
+    "cover_filename": "346_press_here.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c5986fe3-e308-4dfa-ba93-b5f31fc61dac",
+    "title": "Mutt Dog!",
+    "cover_filename": "176_mutt_dog.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/176_mutt_dog.jpg",
+      "bytes": 53867,
+      "sha256": "039dd768ae5462b3947dff16de9005765cd7860e3d9bc5c5e7ce07eeb4814daf"
+    }
+  },
+  {
+    "book_id": "c59ea5ab-ab87-42cb-aebc-1f83e5614a5e",
+    "title": "The Two-Hearted Numbat",
+    "cover_filename": "309_the_twohearted_numbat.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c6554d9a-17fc-49ce-a143-f5a713293b06",
+    "title": "Verdi",
+    "cover_filename": "043_verdi.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/043_verdi.jpg",
+      "bytes": 2258,
+      "sha256": "d77789e3a2a48712a2be4cf387c876967e8c9645ebaaa58406e5f633eb27ec94"
+    }
+  },
+  {
+    "book_id": "c7146823-eb13-47cc-ac7e-cf21b9276661",
+    "title": "Wombat Stew",
+    "cover_filename": "003_wombat_stew.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "c7e88cd2-dcfc-4d61-a56c-515f6b56c43d",
+    "title": "A Year On Our Farm",
+    "cover_filename": "169_a_year_on_our_farm.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "ca7491a2-b74e-49b4-aedc-f781a31494f7",
+    "title": "Babies at the Billabong",
+    "cover_filename": "344_babies_at_the_billabong.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "caba5a14-4717-49d6-bf6f-41f891b12a3c",
+    "title": "When I Was Little: A Four Year Old's Memoir of her Youth",
+    "cover_filename": "068_when_i_was_little.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "cbe4f686-afa4-4b16-bc5f-37f9542aa3e9",
+    "title": "A Leaf Called Greaf",
+    "cover_filename": "323_a_leaf_called_greaf.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "cbffd7c4-fd4d-4734-9137-bdfd7f66534e",
+    "title": "Wendy",
+    "cover_filename": "120_wendy.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/120_wendy.jpg",
+      "bytes": 66954,
+      "sha256": "5b4c147cc34a326de8aa4e096d47738fb5a8894211811dd04995e8f92af0995e"
+    }
+  },
+  {
+    "book_id": "cc174348-35a3-4d90-a370-cb896e020ef0",
+    "title": "That is Not a Good Idea!",
+    "cover_filename": "285_that_is_not_a_good_idea.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/285_that_is_not_a_good_idea.jpg",
+      "bytes": 43866,
+      "sha256": "12d1657042ad7e45e336b090e37b72a55e8845b3da9ef2f764f256ba6d118fb5"
+    }
+  },
+  {
+    "book_id": "cc681f45-9bae-47e1-9f61-df48284b395e",
+    "title": "The Watertower",
+    "cover_filename": "060_the_watertower.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/060_the_watertower.jpg",
+      "bytes": 30235,
+      "sha256": "5b3cb90ca25337eb22c34502a465cd258a38a252f1ea75cef4e78fe1a9e66a3c"
+    }
+  },
+  {
+    "book_id": "cca46fcf-8fd1-4b34-b317-cbaceece2d7e",
+    "title": "The Eleventh Hour",
+    "cover_filename": "018_the_eleventh_hour.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/018_the_eleventh_hour.jpg",
+      "bytes": 2228,
+      "sha256": "5b5743566a29a43a23ed9c6e1f43ef728273f90d6997c91120c3422b8fdc27e2"
+    }
+  },
+  {
+    "book_id": "cd951e38-fbd8-46fa-8ce6-5ebcbbabdff3",
+    "title": "Diary of a Wombat",
+    "cover_filename": "098_diary_of_a_wombat.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/098_diary_of_a_wombat.jpg",
+      "bytes": 25917,
+      "sha256": "d2d435451099d651a9e4fb239298ac191f2b4b99742d821983166425ecd183d8"
+    }
+  },
+  {
+    "book_id": "cdba7c4f-43f0-4128-bfb4-653084de8f32",
+    "title": "The Gruffalo's Child",
+    "cover_filename": "081_the_gruffalos_child.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/081_the_gruffalos_child.jpg",
+      "bytes": 6712,
+      "sha256": "08c6a4e741ef2b004e8c7c9225f0503b4be7bd8346d769384948ea91ca49179e"
+    }
+  },
+  {
+    "book_id": "ce157840-4ea4-427b-82de-0667b94bc3ff",
+    "title": "Little People, Big Dreams - Evonne Goolagong",
+    "cover_filename": "216_little_people_big_dreams_evonne_goolagong.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/216_little_people_big_dreams_evonne_goolagong.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "ce197ba2-ac84-4bf3-8c1f-3d08a2df71c8",
+    "title": "Rose Meets Mr Wintergarten",
+    "cover_filename": "126_rose_meets_mr_wintergarten.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/126_rose_meets_mr_wintergarten.jpg",
+      "bytes": 29054,
+      "sha256": "0a261ea3cef953f5aaa16c0063a7c3e00b99f9de37c6f13338a0ae1e9e1a624c"
+    }
+  },
+  {
+    "book_id": "cebbe3a3-48a8-4bae-b80d-2c858889f81e",
+    "title": "On a Magical Do-Nothing Day",
+    "cover_filename": "005_on_a_magical_donothing_day.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/005_on_a_magical_donothing_day.jpg",
+      "bytes": 55966,
+      "sha256": "134f392fee7080ce9809ab66cf9d21c4ba9dc07bc902a42fd8e51e533ee7eadf"
+    }
+  },
+  {
+    "book_id": "cf52f022-c061-464d-b67d-c798ec8edc81",
+    "title": "Night in the Country",
+    "cover_filename": "210_night_in_the_country.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/210_night_in_the_country.jpg",
+      "bytes": 6913,
+      "sha256": "802be410cc666ba2c47a79f1e5fc6f80963024dc8e96b8605b4bdbfeb6b80b86"
+    }
+  },
+  {
+    "book_id": "cf7684a2-423b-48cc-86c6-1adbf4349059",
+    "title": "Fing - An Explosively Funny Tale",
+    "cover_filename": "270_fing_an_explosively_funny_tale.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "cf843ef1-af44-4749-82de-8fe0b45da00c",
+    "title": "When I Grow Up",
+    "cover_filename": "312_when_i_grow_up.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/312_when_i_grow_up.jpg",
+      "bytes": 53711,
+      "sha256": "b9db5974ce5efa459cf1ba02ef3f4b79cedddfe159dbedb7c861e23d61ba82f3"
+    }
+  },
+  {
+    "book_id": "cfa1b968-84ab-4ade-8e7b-8363b54f796a",
+    "title": "My Australian Story - Gallipoli",
+    "cover_filename": "258_my_australian_story_gallipoli.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/258_my_australian_story_gallipoli.jpg",
+      "bytes": 71186,
+      "sha256": "c80ddf60b5acff2e975b7646e70ada6629040cab5a3716486e6951fe5e5cb417"
+    }
+  },
+  {
+    "book_id": "cfc7de45-e576-40da-9f14-9a4d5b0bbfcb",
+    "title": "The Energy Bus for Kids",
+    "cover_filename": "121_the_energy_bus_for_kids.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/121_the_energy_bus_for_kids.jpg",
+      "bytes": 91474,
+      "sha256": "4882da126153c9e5f57d8f836b99da55af51f2f409e3a2beb453a04dab6b97dd"
+    }
+  },
+  {
+    "book_id": "d0048e2e-160f-40ab-aaed-5c1848d94eb2",
+    "title": "Chester's Way",
+    "cover_filename": "142_chesters_way.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/142_chesters_way.jpg",
+      "bytes": 104853,
+      "sha256": "e4804bb651aa02a698f120d8214a52fdb1b0b1a1b4cb9e9f664e860755c0e788"
+    }
+  },
+  {
+    "book_id": "d04c005b-620a-4f01-a860-44338269d73b",
+    "title": "Dingo",
+    "cover_filename": "232_dingo.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/232_dingo.jpg",
+      "bytes": 62509,
+      "sha256": "9b1f21f5d7d2df4117dd77148de6be03c7d611a62bb8369b71b4c42b811caff2"
+    }
+  },
+  {
+    "book_id": "d0514447-fe46-4198-b83d-fcc358120d79",
+    "title": "Searching for Cicadas",
+    "cover_filename": "111_searching_for_cicadas.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "d08cb09d-0cbb-4faf-b4d6-1c6eef4f91da",
+    "title": "The Story of Rosy Dock",
+    "cover_filename": "010_the_story_of_rosy_dock.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/010_the_story_of_rosy_dock.jpg",
+      "bytes": 4793,
+      "sha256": "7b875e94918ee0d78c2625165e6ad619bed702d4bbedb3082e399db98892cf71"
+    }
+  },
+  {
+    "book_id": "d27b043d-bd45-4a23-8130-ac0b47bd6e72",
+    "title": "Cyclone",
+    "cover_filename": "102_cyclone.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "d2d63421-5372-4349-90cb-f375d4c27c61",
+    "title": "The Garden of Broken Things",
+    "cover_filename": "333_the_garden_of_broken_things.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "d35066f2-db82-4893-836b-a0cde79e88a8",
+    "title": "The Little Yellow Digger",
+    "cover_filename": "112_the_little_yellow_digger.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "d3b5de61-5ced-403c-ac7d-ddc81f0b6d78",
+    "title": "The Giving Tree",
+    "cover_filename": "242_the_giving_tree.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/242_the_giving_tree.jpg",
+      "bytes": 42632,
+      "sha256": "2d3da5472591c75078fb0124aa38bbed817dd782ca5b69d854fdb83fd9ca88ad"
+    }
+  },
+  {
+    "book_id": "d584fa2d-56b7-442d-9a05-cdbb124ac8ab",
+    "title": "We Are Australians",
+    "cover_filename": "244_we_are_australians.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "d5b646c3-843b-41b0-a578-afa08ee7d55f",
+    "title": "The Boy Who Harnessed the Wind",
+    "cover_filename": "149_the_boy_who_harnessed_the_wind.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/149_the_boy_who_harnessed_the_wind.jpg",
+      "bytes": 23050,
+      "sha256": "39b218c5bef36b97948fce13965ce44b6c0ad5a3b1155a1cd53b637194f93cb9"
+    }
+  },
+  {
+    "book_id": "d71297b3-1eba-490b-86f9-70e8453017e0",
+    "title": "Huda and Me",
+    "cover_filename": "138_huda_and_me.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/138_huda_and_me.jpg",
+      "bytes": 28968,
+      "sha256": "668803e36001e19f15d764e0623ca0afbdca82a6da507cd214584b0f2d79c1fd"
+    }
+  },
+  {
+    "book_id": "d7516169-21a7-4aee-9dfc-35706b0ec108",
+    "title": "Thankful",
+    "cover_filename": "247_thankful.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "d75fc4c3-ce70-4a56-808f-ad2a35939191",
+    "title": "A Glasshouse of Stars",
+    "cover_filename": "164_a_glasshouse_of_stars.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/164_a_glasshouse_of_stars.jpg",
+      "bytes": 98881,
+      "sha256": "6da347a4ad8194088113afd179e85a7a5c8f13d186f584bf82cda7e9c2e6fc32"
+    }
+  },
+  {
+    "book_id": "dab7cb29-509f-4910-9168-82648aeccd89",
+    "title": "Market Day",
+    "cover_filename": "107_market_day.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "dacb0dd9-3650-41de-a8fa-f4b3aaacdcd1",
+    "title": "Little People, Big Dreams - Marie Curie",
+    "cover_filename": "220_little_people_big_dreams_marie_curie.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/220_little_people_big_dreams_marie_curie.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "daf655ee-3d72-4817-9650-a0d2e5525481",
+    "title": "The Boy Who Loved Words",
+    "cover_filename": "240_the_boy_who_loved_words.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/240_the_boy_who_loved_words.jpg",
+      "bytes": 64410,
+      "sha256": "8de5624998ac8d6d09947084d9762e4320299417f225e7969dceae547d9f151f"
+    }
+  },
+  {
+    "book_id": "dc49bf21-2f26-4818-8bee-8a97f631408f",
+    "title": "Tensy Farlow and the Home For the Mislaid Children",
+    "cover_filename": "250_tensy_farlow_and_the_home_for_the_mislaid_children.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/250_tensy_farlow_and_the_home_for_the_mislaid_children.jpg",
+      "bytes": 14297,
+      "sha256": "4b933d10a2ad5f5b40da5c1ca4ed846531b91ef71d10725965e61d37b59cf75f"
+    }
+  },
+  {
+    "book_id": "dcee6152-477c-4841-bdbe-3d290a026e88",
+    "title": "Twilight Comes Twice",
+    "cover_filename": "089_twilight_comes_twice.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/089_twilight_comes_twice.jpg",
+      "bytes": 30880,
+      "sha256": "a9e2d0640b02e65e5457594ca1eb682338038bba4e6c4b3ad575b7c4f4e62b27"
+    }
+  },
+  {
+    "book_id": "ddb46571-fa36-4739-b23c-50ed27408bf1",
+    "title": "Animalia",
+    "cover_filename": "019_animalia.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/019_animalia.jpg",
+      "bytes": 45449,
+      "sha256": "366b1018efc38b1e490eaa9d21920f782e6a7bd482b144c9833cbd4556285610"
+    }
+  },
+  {
+    "book_id": "df3eccd9-c306-4b1b-a56c-91c7a53e465d",
+    "title": "From my Head to my Toes, I Say What Goes",
+    "cover_filename": "015_from_my_head_to_my_toes_i_say_what_goes.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/015_from_my_head_to_my_toes_i_say_what_goes.jpg",
+      "bytes": 47412,
+      "sha256": "ef3056bcd4f2707df0c8aaadd3acaebf3ca7c1a0e7225c7a663731dfbae9e2f9"
+    }
+  },
+  {
+    "book_id": "df47b998-e12d-4e19-bf29-194a5ea34057",
+    "title": "Afloat",
+    "cover_filename": "325_afloat.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/325_afloat.jpg",
+      "bytes": 106642,
+      "sha256": "bd22db70f59bea419f5834a1502f96fadfcbede4b8fd3f1217463cf5052de948"
+    }
+  },
+  {
+    "book_id": "df85eb61-7100-4395-84e9-a16cea5e994f",
+    "title": "The Baddies",
+    "cover_filename": "079_the_baddies.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/079_the_baddies.jpg",
+      "bytes": 98605,
+      "sha256": "6f589caa0cf528a1cfd25f9bd0572b583f86e3d8f62169073dcee059c7ca9b81"
+    }
+  },
+  {
+    "book_id": "dfda2089-4a70-43c3-90f5-045aba2ec0a1",
+    "title": "Stuck",
+    "cover_filename": "148_stuck.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/148_stuck.jpg",
+      "bytes": 246264,
+      "sha256": "5e7f0425abc77878f2a1efe98f12070d7e97b3047d2ce1cd050598230e34e205"
+    }
+  },
+  {
+    "book_id": "dff82004-8f18-4df4-a2fd-dba363b9a2e1",
+    "title": "Little People, Big Dreams - Dolly Parton",
+    "cover_filename": "215_little_people_big_dreams_dolly_parton.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/215_little_people_big_dreams_dolly_parton.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "e08521de-04f4-4d29-a10c-96a59f7660e5",
+    "title": "The Turtle and the Flood",
+    "cover_filename": "315_the_turtle_and_the_flood.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/315_the_turtle_and_the_flood.jpg",
+      "bytes": 64507,
+      "sha256": "c7eb7afb782505720d8ab6a39dd3747f69e8dd1c0f847fffd82e2ad8ea20149e"
+    }
+  },
+  {
+    "book_id": "e09e3513-3b71-40fb-87d8-1ad526b5bc2e",
+    "title": "Frederick",
+    "cover_filename": "157_frederick.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/157_frederick.jpg",
+      "bytes": 3737,
+      "sha256": "18931396267683e9106822be815ebc115fec07f8a32931c440f00fabe385e8e1"
+    }
+  },
+  {
+    "book_id": "e0db6656-6323-4b38-bdfe-3308ee86b88e",
+    "title": "Onion Tears",
+    "cover_filename": "151_onion_tears.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/151_onion_tears.jpg",
+      "bytes": 26668,
+      "sha256": "c5015e8eedd22f603818a6456097a688c3602856bf3934c1a6910e637b0ee466"
+    }
+  },
+  {
+    "book_id": "e109dad0-37c4-412e-bd88-cf15bee9fb46",
+    "title": "What Colour is the Sea?",
+    "cover_filename": "310_what_colour_is_the_sea.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "e213d0c0-f454-48a9-83ec-9078dbb5592c",
+    "title": "The Great Kapok Tree",
+    "cover_filename": "054_the_great_kapok_tree.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/054_the_great_kapok_tree.jpg",
+      "bytes": 115328,
+      "sha256": "edf8c705c51cd00e77fb26b690bdf224916f370a8c7526599a2f30e51a6d5288"
+    }
+  },
+  {
+    "book_id": "e2234ab2-22c1-4cfd-a58b-c68f6d3419b4",
+    "title": "Little People, Big Dreams - Martin Luther King Jr",
+    "cover_filename": "224_little_people_big_dreams_martin_luther_king_jr.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/224_little_people_big_dreams_martin_luther_king_jr.jpg",
+      "bytes": 44366,
+      "sha256": "10b8a7499a387bb4f19c5387a540d9dc7e7080b4eb2b3cd0e379b2a5de86a5b0"
+    }
+  },
+  {
+    "book_id": "e2dfd0d5-e276-46bb-b832-baf27dde774f",
+    "title": "Lionel and Me",
+    "cover_filename": "087_lionel_and_me.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "e37fd50c-7c52-4d40-ade2-95995fbf4c89",
+    "title": "The True Story of the 3 Little Pigs",
+    "cover_filename": "241_the_true_story_of_the_3_little_pigs.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/241_the_true_story_of_the_3_little_pigs.jpg",
+      "bytes": 341,
+      "sha256": "c66fe2b6873f4f19e427c158a2e3e9559bd011bdd0bcab74ee2dfbc77ba6e983"
+    }
+  },
+  {
+    "book_id": "e42527e7-227a-43e5-acfd-56b8d5ddcdbc",
+    "title": "The Fire Wombat",
+    "cover_filename": "097_the_fire_wombat.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/097_the_fire_wombat.jpg",
+      "bytes": 61664,
+      "sha256": "add365963059c3ad4d3ba07c327ef95986d555943fa88075e084c218e8f8526e"
+    }
+  },
+  {
+    "book_id": "e4f462d2-4f26-4926-aabf-547c31713154",
+    "title": "Laughter is the Best Ending",
+    "cover_filename": "341_laughter_is_the_best_ending.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/341_laughter_is_the_best_ending.jpg",
+      "bytes": 92272,
+      "sha256": "c48a5c478da0e998d291cebd70e50fb9f763910278ff98835b62dd13c0f112ff"
+    }
+  },
+  {
+    "book_id": "e54a946f-bd8b-4568-aa15-0ce259f121f6",
+    "title": "Boo Loves Books",
+    "cover_filename": "008_boo_loves_books.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/008_boo_loves_books.jpg",
+      "bytes": 80392,
+      "sha256": "0160fe309f074a266f06e4340ac23b8382a1fc382b87edae0d466fdd1a994e6a"
+    }
+  },
+  {
+    "book_id": "e5b21f60-6de4-41e2-a0cc-e7c71e979c98",
+    "title": "Tuesday",
+    "cover_filename": "004_tuesday.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/004_tuesday.jpg",
+      "bytes": 50557,
+      "sha256": "b7557d18d9d4e1213c004ff34f4b15722f49e01d2d07727b8ca64d55cffcbe80"
+    }
+  },
+  {
+    "book_id": "e5bb2261-ef4d-47c5-9da8-1feebde650ed",
+    "title": "I Wanna New Room",
+    "cover_filename": "185_i_wanna_new_room.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/185_i_wanna_new_room.jpg",
+      "bytes": 77317,
+      "sha256": "dc6da64e0d2c323b76e864a71ea238c976c9c446d022020a26fee89d210be1ef"
+    }
+  },
+  {
+    "book_id": "e6bea47e-07d8-4738-b763-028d8a59a0f0",
+    "title": "Scar Town",
+    "cover_filename": "011_scar_town.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/011_scar_town.jpg",
+      "bytes": 67672,
+      "sha256": "a30f74328f871c37c6caff201ebb69aa5e6e43b179c15eb69bb97efcb4bb5f37"
+    }
+  },
+  {
+    "book_id": "e9c757fa-0163-4365-84a6-958695b32102",
+    "title": "Little People, Big Dreams - Bob Dylan",
+    "cover_filename": "225_little_people_big_dreams_bob_dylan.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/225_little_people_big_dreams_bob_dylan.jpg",
+      "bytes": 43673,
+      "sha256": "115a924180004967a56dac2b81b26588b58424ccc3a19bef2dd1857fc30c548d"
+    }
+  },
+  {
+    "book_id": "e9e3d021-5fea-4847-b43f-ffc1aab84148",
+    "title": "What Do You Call Your Grandma?",
+    "cover_filename": "017_what_do_you_call_your_grandma.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "eb89a56f-a782-4921-ae89-7d2c793555b0",
+    "title": "Swoop",
+    "cover_filename": "119_swoop.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/119_swoop.jpg",
+      "bytes": 48678,
+      "sha256": "e8dfa5f1744e56688e4d7178a2e1a6afdb4af94b7a8e1a81210440bfec7f4607"
+    }
+  },
+  {
+    "book_id": "eb9e40ae-4d82-4296-b336-326b65c07d18",
+    "title": "Anemone is Not the Enemy",
+    "cover_filename": "171_anemone_is_not_the_enemy.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "ebca187f-c872-48f3-a98f-01b6ad941cd1",
+    "title": "If I Was a Horse",
+    "cover_filename": "025_if_i_was_a_horse.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/025_if_i_was_a_horse.jpg",
+      "bytes": 65409,
+      "sha256": "4d42d7fcf6ed902610c03824014308d3497f970a34132251caf19002c48fbdfc"
+    }
+  },
+  {
+    "book_id": "ebcf9f15-646e-418c-9650-771a80a7ecf4",
+    "title": "A is for Australian Reefs: A Factastic Tour",
+    "cover_filename": "156_a_is_for_australian_reefs_a_factastic_tour.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "ec8e3bac-384d-46fc-b672-abe0379614cd",
+    "title": "Dear Earth...",
+    "cover_filename": "318_dear_earth.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "edbfb769-0bd1-474a-a9dc-e5e54f2f9d90",
+    "title": "The Pigeon Finds a Dog!",
+    "cover_filename": "289_the_pigeon_finds_a_dog.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/289_the_pigeon_finds_a_dog.jpg",
+      "bytes": 10179,
+      "sha256": "43c0cfa35c6af12ac479007cfba3e569f99d890c70c73ef624cccfb28a4ab9fe"
+    }
+  },
+  {
+    "book_id": "ee600717-0671-4a48-9b71-585c37710946",
+    "title": "Super Snake",
+    "cover_filename": "314_super_snake.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/314_super_snake.jpg",
+      "bytes": 84065,
+      "sha256": "cf0daba10f5f4c79279e33397b6539560b3ebc5fdaebe5c57a94321ad2455979"
+    }
+  },
+  {
+    "book_id": "ef5a2f03-259f-4c6d-a5e8-0d6d0e2b7f08",
+    "title": "The Firefighters",
+    "cover_filename": "278_the_firefighters.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/278_the_firefighters.jpg",
+      "bytes": 40318,
+      "sha256": "151badf85202919506efeedaf89312850164aeb2914f96f9fa3261be1a96defa"
+    }
+  },
+  {
+    "book_id": "f1361125-f76e-4acd-8109-d3ddbc2e35ba",
+    "title": "Today we have NO PLANS",
+    "cover_filename": "117_today_we_have_no_plans.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "f15a82f2-33be-4baf-9ce1-ea50c8bdd00a",
+    "title": "Australia: Country of Colour",
+    "cover_filename": "194_australia_country_of_colour.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "f1cee1e8-afc7-440e-8c2f-a475c6561363",
+    "title": "Just One Bee",
+    "cover_filename": "023_just_one_bee.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "f29220b2-c6a0-458f-84d9-a1d69807087f",
+    "title": "Eww Gross - Foul Facts and Putrid Pictures",
+    "cover_filename": "167_eww_gross_foul_facts_and_putrid_pictures.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "f3140b7b-0f6a-45fd-91f2-6e74a403f385",
+    "title": "The Raven's Song",
+    "cover_filename": "163_the_ravens_song.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/163_the_ravens_song.jpg",
+      "bytes": 111485,
+      "sha256": "cf99ee3a998a9efa73e707effe4145a22fb6cafc23a59c08fd1417ac89fd1ba6"
+    }
+  },
+  {
+    "book_id": "f368a76b-fa84-4335-86c8-76dc0251d1eb",
+    "title": "The Book of Chance",
+    "cover_filename": "280_the_book_of_chance.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "f6a19d68-74e9-486d-80f5-42c1e31ae93d",
+    "title": "The Wobbly Bike",
+    "cover_filename": "335_the_wobbly_bike.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "f70f01c5-f9fa-4e73-a0bf-a753eeecbbeb",
+    "title": "The Stolen Prince of Cloudburst",
+    "cover_filename": "179_the_stolen_prince_of_cloudburst.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/179_the_stolen_prince_of_cloudburst.jpg",
+      "bytes": 101794,
+      "sha256": "5fdbb1a96a4f9a2b9adefcb528b88d7c660e4978298ef2e99ffa01456dc7262f"
+    }
+  },
+  {
+    "book_id": "f7d7c6cc-ff5f-4ff5-8986-8bcacf586d51",
+    "title": "Wilfrid Gordon McDonald Partridge",
+    "cover_filename": "095_wilfrid_gordon_mcdonald_partridge.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/095_wilfrid_gordon_mcdonald_partridge.jpg",
+      "bytes": 35600,
+      "sha256": "6b5a1356279e30bc189ada0f7d271d0807045c66d2724457d8bc71e346f24706"
+    }
+  },
+  {
+    "book_id": "f7dbc225-aeae-4fab-96c7-668f54003837",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "cover_filename": "199_harry_potter_and_the_philosophers_stone.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/199_harry_potter_and_the_philosophers_stone.jpg",
+      "bytes": 102242,
+      "sha256": "3dbd103d44877545407c851782d11359fa7ee9e4b98ad90a6423af795c7dbd24"
+    }
+  },
+  {
+    "book_id": "f82549c2-6643-421c-8333-ad165f0725f6",
+    "title": "Sheila Rae, the Brave",
+    "cover_filename": "143_sheila_rae_the_brave.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/143_sheila_rae_the_brave.jpg",
+      "bytes": 4660,
+      "sha256": "baa6c3ddd4966a513ca53cd6e705638a3599729a33f244893aea29ab5a715406"
+    }
+  },
+  {
+    "book_id": "f8d61f97-5b44-4533-a210-4f4a36cce909",
+    "title": "Boy Overboard",
+    "cover_filename": "114_boy_overboard.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/114_boy_overboard.jpg",
+      "bytes": 27879,
+      "sha256": "49228ed66a17bb2db2cde2743491323c8c72f14a462ab1bab5acc52aaebdb60d"
+    }
+  },
+  {
+    "book_id": "f99dc69c-4681-4420-84da-61e40903c8e9",
+    "title": "Possum Magic",
+    "cover_filename": "092_possum_magic.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/092_possum_magic.jpg",
+      "bytes": 4309,
+      "sha256": "e3adb282702685c72c912f1f2fec30c2091262cd348639d27cdf54bfe4ade410"
+    }
+  },
+  {
+    "book_id": "f9b5c7fe-b36b-42e9-88cb-aa9f8f844247",
+    "title": "Tasmanian Devil",
+    "cover_filename": "234_tasmanian_devil.jpg",
+    "matched_source": null
+  },
+  {
+    "book_id": "fce80359-020a-4135-ab24-4633acc00647",
+    "title": "Don't Let the Pigeon Drive the Bus!",
+    "cover_filename": "290_dont_let_the_pigeon_drive_the_bus.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/290_dont_let_the_pigeon_drive_the_bus.jpg",
+      "bytes": 27898,
+      "sha256": "0c3778802a591201bf3718c10e8cfbc3717fb05021d15a401c237dd770ee25a0"
+    }
+  },
+  {
+    "book_id": "fdc79e1f-21ce-4540-9ab8-d186425b36c9",
+    "title": "The Arrival",
+    "cover_filename": "253_the_arrival.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/253_the_arrival.jpg",
+      "bytes": 34077,
+      "sha256": "bd2df9b87ae15965b6dd3c034173f9cb1b47c37038a030741f9a88803d6f97e2"
+    }
+  },
+  {
+    "book_id": "ff1a6c7b-073a-4bfe-bbbc-7080737f9452",
+    "title": "The Alphabet Tree",
+    "cover_filename": "158_the_alphabet_tree.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/158_the_alphabet_tree.jpg",
+      "bytes": 5234,
+      "sha256": "98180124e42529247a1c15f7e17de2f4732559e919836bbacc442bc23bc38826"
+    }
+  },
+  {
+    "book_id": "ff1e6f9d-d9e0-4839-bbf6-15e1c8ef6b37",
+    "title": "Every Child a Song",
+    "cover_filename": "073_every_child_a_song.jpg",
+    "matched_source": {
+      "path": "School Library/Covers/073_every_child_a_song.jpg",
+      "bytes": 20792,
+      "sha256": "1f4dc4afb51e7fc2cf7ca5767c8b5d3b2dc79c9e727132172253d045dae6b7de"
+    }
+  }
+]

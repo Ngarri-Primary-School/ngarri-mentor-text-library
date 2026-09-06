@@ -1,0 +1,170 @@
+[
+  {
+    "role": "anon",
+    "relname": "books",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "inquiry_lens_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "inquiry_lenses",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "pride_value_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "pride_values",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "reading_strategies",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "reading_strategy_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "reading_strategy_detail",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "teaching_ideas",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "teaching_resources",
+    "can_read": false,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "why_use_bullets",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "writing_trait_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "writing_trait_detail",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "anon",
+    "relname": "writing_traits",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "books",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "inquiry_lens_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "inquiry_lenses",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "pride_value_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "pride_values",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "reading_strategies",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "reading_strategy_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "reading_strategy_detail",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "teaching_ideas",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "teaching_resources",
+    "can_read": false,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "why_use_bullets",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "writing_trait_annotations",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "writing_trait_detail",
+    "can_read": true,
+    "unnecessary_access": false
+  },
+  {
+    "role": "authenticated",
+    "relname": "writing_traits",
+    "can_read": true,
+    "unnecessary_access": false
+  }
+]

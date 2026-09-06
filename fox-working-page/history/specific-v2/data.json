@@ -1,0 +1,95 @@
+{
+  "version": "fox-local-review-2-specific",
+  "book": {
+    "id": "fox-calibration",
+    "title": "Fox",
+    "author": "Margaret Wild",
+    "illustrator": "Ron Brooks"
+  },
+  "items": [
+    {
+      "id": "word-choice-arrival",
+      "category": "Writing",
+      "title": "Fox’s arrival: words that make us wary",
+      "year": "Year 3",
+      "minutes": "20 minutes · Model, then pairs",
+      "curriculum": {
+        "text": "I can choose specific words and phrases for a desired effect.",
+        "source": "Recovered school reference quoted in FOX-REVIEW.md, W2; original school PDF comparison pending.",
+        "reference_id": "FOX-REVIEW:W2"
+      },
+      "text": "WHERE TO LOOK\nFox’s first arrival in the bush: the description of his eyes and the comparison of his movement to a “tongue of fire”.\n\nWHAT MAKES THIS A MENTOR-TEXT EXAMPLE\nWild does more than tell us a new animal has arrived. The fire image connects his movement with something vivid, attractive and potentially destructive. “Haunted” gives his eyes an emotional history without explaining it. Students can investigate how a few choices build an impression of a character before his later actions unfold. These are interpretations to test against the passage.\n\nTEACH THROUGH THE WRITING\nPut this deliberately plain, teacher-written alternative beside the actual passage: “A fox came through the trees.” What information does it convey? What feeling and possible character clues does it lose? Compare the effect of “haunted” with the invented alternative “friendly”. Ask students to explain the difference, rather than list adjectives.\n\nTRANSFER TO STUDENTS’ WRITING\nStudents introduce a character through a chosen movement and one revealing detail, without naming the character’s personality. A partner explains the impression created and identifies the words responsible.\n\nNOTICE LEARNING\nThe student links a particular word or image to an effect on the reader and makes a purposeful choice in their own writing.",
+      "evidence": "Prototype: Word Choice Year 3 and Tone Through Word Choice. Cross-check: publisher notes p. 8; editor’s account pp. 11–12 confirms the deliberate choice of the eye description. The plain sentence and “friendly” comparison are new teaching examples, not book quotations. Curriculum wording remains the recovered W2 excerpt.",
+      "status": "ai_suggested",
+      "source_type": "ai_suggested",
+      "confidence": null,
+      "confidence_note": "Not scored; evidence limitations are listed for review.",
+      "source_url": "https://s3-ap-southeast-2.amazonaws.com/dimo.allenunwin.com/assets/teaching_resource/9781864489330.pdf",
+      "is_generic": false,
+      "provenance": {
+        "draft_basis": "User-supplied fox-book-detail.html; extracted in prior-prototype-text.txt",
+        "verification": "Publisher notes checked for the stated story moments. Interpretations and lesson designs are new review drafts. Whole classroom edition has not been inspected.",
+        "supersedes_generic_item": "writing"
+      }
+    },
+    {
+      "id": "inference-final-cry",
+      "category": "Reading",
+      "title": "Fox’s final cry: triumph, despair, or both?",
+      "year": "Year 4",
+      "minutes": "20 minutes · Pairs and discussion",
+      "curriculum": {
+        "text": "I can infer character traits, motives and perspectives using evidence.",
+        "source": "Comprehension_Throughlines_Victorian_English_2.0.docx",
+        "reference_id": "Comprehension_Throughlines_Victorian_English_2.0:table3:column5",
+        "sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131"
+      },
+      "text": "WHERE TO LOOK\nFox’s departure after abandoning Magpie, when his cry is heard across the desert. Revisit this alongside his earlier approach to Dog and Magpie and what he does before leaving.\n\nWHY INFERENCE MATTERS HERE\nHearing a cry does not settle what it means. Triumph and despair suggest different understandings of Fox: satisfaction at hurting others, pain associated with isolation, or an uneasy combination. Students need to connect the sound with his actions and relationships. Their task is to justify an interpretation, not to diagnose him or guess an answer held by the teacher.\n\nTEACH THROUGH THE BOOK\nAsk: “Which reading of the cry can you support, and what makes the other reading possible?” Make two columns: what the book shows or says; what we infer. Students place a relevant action or line in the first column before offering an interpretation in the second. Revisit Brooks’ illustration of the departure and discuss whether it strengthens or complicates their reading; do not assume an unseen visual detail.\n\nNOTICE LEARNING\nStudents connect a specific clue to their explanation and can acknowledge uncertainty. A response that merely labels Fox ‘bad’ has not yet explained the cry.",
+      "evidence": "Prototype: What Does Fox’s Cry Mean? Publisher notes pp. 6–7 support the competing interpretation of the cry. New curriculum source explicitly places this traits/motives/perspectives skill in Year 4. Removed the old draft’s unsupported speech count and references to Kookaburra.",
+      "status": "ai_suggested",
+      "source_type": "ai_suggested",
+      "confidence": null,
+      "confidence_note": "Not scored; evidence limitations are listed for review.",
+      "source_url": "https://s3-ap-southeast-2.amazonaws.com/dimo.allenunwin.com/assets/teaching_resource/9781864489330.pdf",
+      "is_generic": false,
+      "provenance": {
+        "draft_basis": "User-supplied fox-book-detail.html; extracted in prior-prototype-text.txt",
+        "verification": "Publisher notes checked for the stated story moments. Interpretations and lesson designs are new review drafts. Whole classroom edition has not been inspected.",
+        "supersedes_generic_item": "inference"
+      }
+    },
+    {
+      "id": "determination-home",
+      "category": "PRIDE",
+      "title": "Magpie begins the journey home",
+      "year": "Class suitability to review",
+      "minutes": "15 minutes · Shared reading and discussion",
+      "curriculum": {
+        "text": "We show determination by using a growth mindset to overcome challenges, and use new and innovative ways to achieve our personal best.",
+        "source": "Recovered Ngarri definition quoted in FOX-REVIEW.md, P1.",
+        "reference_id": "FOX-REVIEW:P1"
+      },
+      "text": "WHERE TO LOOK\nThe ending: Magpie is alone in the desert. Thinking of Dog precedes her decision to begin the long journey home. Locate the final movement described as “jiggety-hop”.\n\nHOW THE MOMENT SHOWS DETERMINATION\nThe useful example is the decision to start while the difficulty remains. Magpie has not suddenly recovered her ability to fly, and the book does not need to show an easy or completed return for the choice to matter. This makes the difference between experiencing a setback and responding to one visible. It supports the resilience aspect of Ngarri’s definition, rather than every part of it.\n\nTEACH THROUGH THE WORDS AND ACTION\nAsk: “What is still difficult for Magpie? What changes between remaining there and taking the first step?” Revisit the shift from her thoughts to her movement. Discuss how the small, awkward movement makes effort perceptible. Contrast starting a difficult task with already having succeeded: which does this ending actually show?\n\nNOTICE LEARNING\nStudents explain determination using Magpie’s obstacle, decision and action. ‘She is determined because she keeps trying’ is a starting point; ask what she actually decides to do and why that costs effort.",
+      "evidence": "Prototype: Determination ending example. Publisher notes pp. 6 and 8 confirm the decision to start home after thinking of Dog. The short movement quotation is retained from the supplied prototype; check its exact spelling in the classroom edition. No successful reunion is asserted.",
+      "status": "ai_suggested",
+      "source_type": "ai_suggested",
+      "confidence": null,
+      "confidence_note": "Not scored; evidence limitations are listed for review.",
+      "source_url": "https://s3-ap-southeast-2.amazonaws.com/dimo.allenunwin.com/assets/teaching_resource/9781864489330.pdf",
+      "is_generic": false,
+      "provenance": {
+        "draft_basis": "User-supplied fox-book-detail.html; extracted in prior-prototype-text.txt",
+        "verification": "Publisher notes checked for the stated story moments. Interpretations and lesson designs are new review drafts. Whole classroom edition has not been inspected.",
+        "supersedes_generic_item": "pride"
+      }
+    }
+  ],
+  "previous_version": "fox-local-review-1",
+  "retired_generic_items": [
+    "prediction",
+    "speaking",
+    "vocabulary",
+    "fluency"
+  ],
+  "revision_reason": "User correction: select only the best located mentor-text examples; no category or year-level quotas."
+}

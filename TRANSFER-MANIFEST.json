@@ -1,0 +1,666 @@
+{
+  "prepared": "2026-09-07",
+  "status": "prepared_not_yet_published",
+  "source_files": [
+    {
+      "path": "fox-working-page/app.js",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\app.js",
+      "sha256": "fc523650ecc6d07c45b266ac03640ad2bb0daa3fbd69c8a567278f1f2fa90b72"
+    },
+    {
+      "path": "fox-working-page/build_data.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\build_data.py",
+      "sha256": "e29cb6649c98866e8ccdef2c94c4854c8a95ccd7fc318e63fea95c7ae8f42c80"
+    },
+    {
+      "path": "fox-working-page/data.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\data.json",
+      "sha256": "524c239fd4b87fc67a075ddb18acd2c43be384abfc56eaebf60ced0bda74f389"
+    },
+    {
+      "path": "fox-working-page/full_text_examples.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\full_text_examples.py",
+      "sha256": "24438c682e7b0488694b96546efe40ef7096cc356a4f0bb6574fc1a02a5395d1"
+    },
+    {
+      "path": "fox-working-page/history/generic-v1/build_data.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\history\\generic-v1\\build_data.py",
+      "sha256": "793e88799fe7f94c2012f050456d6e02f6cd9dd9b13f9420343de469fbbe77d9"
+    },
+    {
+      "path": "fox-working-page/history/generic-v1/data.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\history\\generic-v1\\data.json",
+      "sha256": "9a120b73ed0311d05d208861a58544c8728c37e4f1dd7707daa0276724037f30"
+    },
+    {
+      "path": "fox-working-page/history/generic-v1/index.html",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\history\\generic-v1\\index.html",
+      "sha256": "651ebfa8dbda18613ac6cecfadac0b3112dd78304eaa57e8d471cf3594802d1d"
+    },
+    {
+      "path": "fox-working-page/history/specific-v2/data.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\history\\specific-v2\\data.json",
+      "sha256": "e4a9c44e66982843157cceb70ad2ace03736ec06a1327f6aa360a6a516dc0cfe"
+    },
+    {
+      "path": "fox-working-page/history/specific-v2/reserve-examples.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\history\\specific-v2\\reserve-examples.json",
+      "sha256": "de548cc156399167e8f09d718f2776759c09a301b43ff921dce7295dd5c6debf"
+    },
+    {
+      "path": "fox-working-page/history/specific-v2/specific_examples.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\history\\specific-v2\\specific_examples.py",
+      "sha256": "e565fb0a35db90359b697e759c4d069df5302a4f281036920fd7d5a5242e099c"
+    },
+    {
+      "path": "fox-working-page/index.html",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\index.html",
+      "sha256": "f421e011933b48301566331ba7d714907b17e12d9c954cf3a86a8f9e8a91091e"
+    },
+    {
+      "path": "fox-working-page/MENTOR-TEXT-CORRECTION.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\MENTOR-TEXT-CORRECTION.md",
+      "sha256": "7c8fd43bc619f97d857edacea6ae3f57130a291e665e36cf2bb223abbf65c8b8"
+    },
+    {
+      "path": "fox-working-page/README.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\README.md",
+      "sha256": "7402f4382ec4d76377cc2dd3f9d14d6100fe6d70f2f3e6ede5fd356d2c26df0a"
+    },
+    {
+      "path": "fox-working-page/reserve-examples.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\reserve-examples.json",
+      "sha256": "de548cc156399167e8f09d718f2776759c09a301b43ff921dce7295dd5c6debf"
+    },
+    {
+      "path": "fox-working-page/specific_examples.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\specific_examples.py",
+      "sha256": "e565fb0a35db90359b697e759c4d069df5302a4f281036920fd7d5a5242e099c"
+    },
+    {
+      "path": "fox-working-page/style.css",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\style.css",
+      "sha256": "b937ff7ecb20db21b32055a4e9e9b800235c27200104d203247cefc852d43885"
+    },
+    {
+      "path": "fox-working-page/VERIFICATION.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-working-page\\VERIFICATION.md",
+      "sha256": "db8e34baf4b9f82cb9d5206ce61c4ef5032d1cd188edf939e90cf7559b1fa823"
+    },
+    {
+      "path": "fox-content-review/BOOK-CONTENT-GAPS.csv",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-content-review\\BOOK-CONTENT-GAPS.csv",
+      "sha256": "160c36eb5fa824143df7912c21767c9547855c895de5bb26190a1215f4ba655e"
+    },
+    {
+      "path": "fox-content-review/build-gap-register.ps1",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-content-review\\build-gap-register.ps1",
+      "sha256": "27a33058918aee6415b6982195f488d926291e19159e1280f16eabaa82a9d31a"
+    },
+    {
+      "path": "fox-content-review/FOX-INQUIRY-AND-LITERACY-ADDENDUM.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-content-review\\FOX-INQUIRY-AND-LITERACY-ADDENDUM.md",
+      "sha256": "f3bb1088ac348ef7aa72c67fab487e18bd12cd2e17cb4c3342ed81e6db0e951a"
+    },
+    {
+      "path": "fox-content-review/FOX-REVIEW.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-content-review\\FOX-REVIEW.md",
+      "sha256": "c4836ed2d89eabb7252a1cd55d400366222b22f7522560300d034933e31d0902"
+    },
+    {
+      "path": "fox-content-review/README.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-content-review\\README.md",
+      "sha256": "ba3c3a5207fc107cfcfc4b6ffbc25d54c5aa45e597286b0c6eaa5579e4737200"
+    },
+    {
+      "path": "fox-source-review/manifest.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-source-review\\manifest.json",
+      "sha256": "9bdb8e8c8df7f070fb67b44d0da6881f69f98c07ffc5aa89e2d4abe7f9226fb9"
+    },
+    {
+      "path": "fox-source-review/READING-AND-CONNECTIONS.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\fox-source-review\\READING-AND-CONNECTIONS.md",
+      "sha256": "8e4d4d3d9bda72f1f649f7a1bfab04193b553d4faa6a82e220723419fbb12a9d"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/CONTENT-PLAN-UPDATE.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\CONTENT-PLAN-UPDATE.md",
+      "sha256": "d5b272b2a9ffd1d5c46c14a2f0c691b36623da84fd8d81133d7a2c382e028f6b"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/curriculum-reference-records.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\curriculum-reference-records.json",
+      "sha256": "62882d792cce406dba6cb4dfc5b7b6661f5716c6cbe8be82778e86b0d354c4c3"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/prepare_reference_records.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\prepare_reference_records.py",
+      "sha256": "3300437538c7c5feedf45b8cd2f1e74d2c1ac0679e0542f53930b75921aa852d"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/prior-working-documents/fox-review-README.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\prior-working-documents\\fox-review-README.md",
+      "sha256": "ca911a7f914eb2b4102bb3476b0b7de86339e1383b15081402c50b3317745f60"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/prior-working-documents/mentor-content-plan-2026-09-06.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\prior-working-documents\\mentor-content-plan-2026-09-06.md",
+      "sha256": "dff7adbc93dd65aa6bf47194056b8ce55df3825e7275b145cd89f660d340432b"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/review-verification.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\review-verification.json",
+      "sha256": "353fd0252555f99e1ac60873d6ae4b9a13eb95083843967dd0f42659e3dbe147"
+    },
+    {
+      "path": "curriculum-review-2026-09-06/source-manifest.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\curriculum-review-2026-09-06\\source-manifest.json",
+      "sha256": "1974122b67f5dd8b1e629802531e135a3ced65e4b448bd52385a5259a151653e"
+    },
+    {
+      "path": "mentor-access-change/build_change.py",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\build_change.py",
+      "sha256": "3a6c6562dd256eae9ccea1e18ff3237c2b667b06f2f17ed0d301231bb469c2c0"
+    },
+    {
+      "path": "mentor-access-change/candidate.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\candidate.sql",
+      "sha256": "d961e104e990f0101b3c9806d47fc2089277d0a154598a005db315e8edd5681c"
+    },
+    {
+      "path": "mentor-access-change/changelog-reference.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\changelog-reference.md",
+      "sha256": "e78a46befd14bac458c246f5a3da8f11c82fe527c9538729eea77fb368649358"
+    },
+    {
+      "path": "mentor-access-change/default-privileges.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\default-privileges.json",
+      "sha256": "610a9c196f75112139680f9fc4d20357a082124034f4f88fb78de081bc82761c"
+    },
+    {
+      "path": "mentor-access-change/deployed/anon.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\anon.json",
+      "sha256": "7c03af51dd4d5f20f8a2e86581a647255130561a66918d29c556f34bc1cfaed1"
+    },
+    {
+      "path": "mentor-access-change/deployed/authenticated.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\authenticated.json",
+      "sha256": "e803bb55f669e8b68e23b4eb90140a261b9c18e81d3a3bfa0d9d7d916baed930"
+    },
+    {
+      "path": "mentor-access-change/deployed/catalog.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\catalog.json",
+      "sha256": "60eace02a2dcf9ae5cd9807270e44fb55cbac8cecf26d4590ea6dc38b37e87d6"
+    },
+    {
+      "path": "mentor-access-change/deployed/defaults.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\defaults.json",
+      "sha256": "a24377ac0aa1273450c1ca1ad85f1c803ec0cbddd3caf203aaa0552e06adee02"
+    },
+    {
+      "path": "mentor-access-change/deployed/migration.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\migration.json",
+      "sha256": "9ffae442515fbe4498f00172aaa02f669ca9c974267a52fa38d335322e8fe6d9"
+    },
+    {
+      "path": "mentor-access-change/deployed/privileges.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\privileges.json",
+      "sha256": "5b3d2fc4b684f6f0f6778b09ca1c5332b856dbbd8dfded6ac4e7dc4fff0a9ddb"
+    },
+    {
+      "path": "mentor-access-change/deployed/README.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\README.md",
+      "sha256": "1e75b639741cd9e5e233ccd9219ed193ce6f9e61ee31c18bd12d260343e56c7d"
+    },
+    {
+      "path": "mentor-access-change/deployed/security-advisor.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\deployed\\security-advisor.json",
+      "sha256": "2bfdf4d458115acc722e1e7d275982d977b6b25c2cd364b363b27f3095d232c5"
+    },
+    {
+      "path": "mentor-access-change/FOX-PROTOTYPE-CORRECTION.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\FOX-PROTOTYPE-CORRECTION.md",
+      "sha256": "c7fc99bab3d0d1372436d5df505aa4588535404bbbfa51eb8337b88a5bde78a2"
+    },
+    {
+      "path": "mentor-access-change/manifest.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\manifest.json",
+      "sha256": "4dc11b0eb565dca8bef1edc25be880ae33189729510f3be23161cf81f091e66d"
+    },
+    {
+      "path": "mentor-access-change/README.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\README.md",
+      "sha256": "574832292c724f6a0ed6d8cd3417ad7152442c6712c7877cbbc28d447a989545"
+    },
+    {
+      "path": "mentor-access-change/rollback.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\rollback.sql",
+      "sha256": "fa742b7359f4ce11bef3f38015f2cb0e88ee105d0e380daa171cb3e42ccac2a2"
+    },
+    {
+      "path": "mentor-access-change/runtime-provenance.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\runtime-provenance.json",
+      "sha256": "9cb164e813375c413e6c9fb388a66616ed282e112a477eddca1d11df1b8184f9"
+    },
+    {
+      "path": "mentor-access-change/table-acls.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\table-acls.json",
+      "sha256": "38d9057c2eb6b934d1a68f3445f0b745e7853aba4cf36f20118a8d16ad8c9062"
+    },
+    {
+      "path": "mentor-access-change/test-access.mjs",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\test-access.mjs",
+      "sha256": "47cb01e8198d30152b15037650f16be2e5bd36a1e690e41b695c8feb51b1fb26"
+    },
+    {
+      "path": "mentor-access-change/test-results.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\test-results.json",
+      "sha256": "2d7bc590cff853cc65b098e1facd82ba41dff0815103bca123715e7047a52d66"
+    },
+    {
+      "path": "mentor-access-change/VAULT-REAUDIT-2026-09-06.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-access-change\\VAULT-REAUDIT-2026-09-06.md",
+      "sha256": "11d03a44a7e8caa50b2b6c20125fb6b950c1681904702e4c14196953be7ba958"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730034909_create_core_schema.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730034909_create_core_schema.json",
+      "sha256": "009fd24bdf54f2cb6bd35e12755d375fd0db6dc481096c2aaedfaf4d07a2f829"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730034909_create_core_schema.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730034909_create_core_schema.sql",
+      "sha256": "ba012da223fe152a4d9cc6972173b43fff7a1753383ca5b2e1d6f86e59bc1e1d"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730034948_enable_rls_public_read.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730034948_enable_rls_public_read.json",
+      "sha256": "2e965e0af6e3f2728f0a823f3484b9e350778bdbdf04d77c672b603af0e0e511"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730034948_enable_rls_public_read.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730034948_enable_rls_public_read.sql",
+      "sha256": "97c0a5abebaa2888fa9bc0598d407e4b967646ddd88bae2d543a8ede1de4191f"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035134_seed_reference_tables_core.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035134_seed_reference_tables_core.json",
+      "sha256": "f1003f864076983f5351da50779411301e175cfc9974bdc0db81c5db66a84a3e"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035134_seed_reference_tables_core.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035134_seed_reference_tables_core.sql",
+      "sha256": "591304babd926a22bd5df006e775c7e120ef10a591c3d457bd4206d5dfc3d07d"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035338_seed_writing_trait_detail.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035338_seed_writing_trait_detail.json",
+      "sha256": "ad010e8d0869f2fe696cbeab78066e3e86aa85cb279158b72c48fdd8599268d8"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035338_seed_writing_trait_detail.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035338_seed_writing_trait_detail.sql",
+      "sha256": "de61f42a7762d13e535971d140c1fab057d8556e7e276a24e1fa98ede526369d"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035459_seed_reading_strategy_detail_part1.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035459_seed_reading_strategy_detail_part1.json",
+      "sha256": "bfff96f93c345b1dc33730bf7bf4af38e683b6ed9761189439b3939e76655eaa"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035459_seed_reading_strategy_detail_part1.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035459_seed_reading_strategy_detail_part1.sql",
+      "sha256": "75357c24ac725f0e5d1a07b1afee699f72d029cfe9c0447ad25470ca2ec275a7"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035647_seed_reading_strategy_detail_part2.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035647_seed_reading_strategy_detail_part2.json",
+      "sha256": "37a9d240d681b6399be2eef3c509dae34dbc3de96dd3ed5ab8bf9e8e4c070bbe"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035647_seed_reading_strategy_detail_part2.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035647_seed_reading_strategy_detail_part2.sql",
+      "sha256": "6559779254ed140e4c897c39f69312881ba1ab541da5b440c31b61035bf68296"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035921_import_books_chunk_01.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035921_import_books_chunk_01.json",
+      "sha256": "2f2c5defab8dc4e3d1975da966f8224d6df2c7393ef36295caa9b213f8a7273f"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730035921_import_books_chunk_01.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730035921_import_books_chunk_01.sql",
+      "sha256": "37efd87a068abd0aabcf47648850cb2d9a5fd347587defd7081ad5a9ea9ed667"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040112_import_books_chunk_02.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040112_import_books_chunk_02.json",
+      "sha256": "5fd20f54679d4551f4d1c417174c80510192fa3437a930e75e7e0f18da35e470"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040112_import_books_chunk_02.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040112_import_books_chunk_02.sql",
+      "sha256": "db90abeca77db37a9b67c64bb178a712288b86c384bea2e052fdb272658045a9"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040534_import_books_chunk_03.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040534_import_books_chunk_03.json",
+      "sha256": "4586356f42dd13440bf3675990d0c788577bfadb55179bea08edb69b77f9ecba"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040534_import_books_chunk_03.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040534_import_books_chunk_03.sql",
+      "sha256": "d490a27e16bb73f2d9f0928d71c5df0f04201d2cd1c50a21305eee2680718037"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040710_import_books_chunk_04.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040710_import_books_chunk_04.json",
+      "sha256": "208f06d45eaeacca2dc5eb415979bb502836c3114b02b15cfb532a8f1acc7c27"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040710_import_books_chunk_04.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040710_import_books_chunk_04.sql",
+      "sha256": "9ff40f8042f886a48064fa667f9083eda2aca91fbfdaff35b82bb0badf9db422"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040839_import_books_chunk_05.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040839_import_books_chunk_05.json",
+      "sha256": "89a5a824e718b9c8aeb7eb9413804faed71ec2183943bfc30575c5814a73e734"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730040839_import_books_chunk_05.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730040839_import_books_chunk_05.sql",
+      "sha256": "bad3d85da40b6abaf02ec05a8868afd0f8b82c078de065a1b93fb68a84820dbf"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041030_import_books_chunk_06.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041030_import_books_chunk_06.json",
+      "sha256": "9c5b8ea6170b40eb57a9ba16ab8141872281f92d7cd06cd036df33a1956d294b"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041030_import_books_chunk_06.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041030_import_books_chunk_06.sql",
+      "sha256": "7809445331a602e5ec755ff57da8e58f7fceb1f03d46a3ffd76ea69652a42efc"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041206_import_books_chunk_07.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041206_import_books_chunk_07.json",
+      "sha256": "58802d4fe49ca29462675724666e5b93db1450df3831860f04ec0d82adf50272"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041206_import_books_chunk_07.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041206_import_books_chunk_07.sql",
+      "sha256": "7c7e71a3405bad235265ac40f2c7c1e26080d52281d1de86fa6fe48f685ec068"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041409_import_books_chunk_08.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041409_import_books_chunk_08.json",
+      "sha256": "ecdfc22ae598aee47352ecc783eaf52715ec730990036d08bd5a04a9736982a6"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041409_import_books_chunk_08.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041409_import_books_chunk_08.sql",
+      "sha256": "5c5dcaabe5172f258d549eb1070d5857db8408578a3cc1b1e6385c581ea29ee0"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041601_import_books_chunk_09.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041601_import_books_chunk_09.json",
+      "sha256": "a821020e0dbcd996cabd5762249f4d2a7680efab3e978bc6ddd7be3cdb58b6af"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041601_import_books_chunk_09.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041601_import_books_chunk_09.sql",
+      "sha256": "45afb10d441b898caf6d28cd1f4adcb63f59844a9b35a39a33275bdc270789ae"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041745_import_books_chunk_10.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041745_import_books_chunk_10.json",
+      "sha256": "248406649f7250f6c53d6c74d359f3d52c56b83070c2f704024d7f3a3acc1f22"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730041745_import_books_chunk_10.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730041745_import_books_chunk_10.sql",
+      "sha256": "537d4b9ea6d1df391a5d0d1e19efc3bef722324ae7569f579b69e9a4614acf1e"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042023_import_writing_trait_annotations_1.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042023_import_writing_trait_annotations_1.json",
+      "sha256": "dea354351ab6910091377f067e8e0dafc09186aaf355509f69cc22677a54d55b"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042023_import_writing_trait_annotations_1.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042023_import_writing_trait_annotations_1.sql",
+      "sha256": "57e0b05e70ea6b14b686c9fe710c154185b75cfba9f0447140daad0aac344b86"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042344_import_writing_trait_annotations_2.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042344_import_writing_trait_annotations_2.json",
+      "sha256": "500159d93ce178c587dc04957a8bde00f9396d901f4744317730cb2f40c21f64"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042344_import_writing_trait_annotations_2.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042344_import_writing_trait_annotations_2.sql",
+      "sha256": "7f7fcbc26b7b1900f0ff0de706dec3860765308f41911ea93350ab78d8c5d4c6"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042516_import_writing_trait_annotations_3.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042516_import_writing_trait_annotations_3.json",
+      "sha256": "cba54cba359d72432888a877d23a028a343c5d7bdf0316f34b67f9d86acae43a"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042516_import_writing_trait_annotations_3.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042516_import_writing_trait_annotations_3.sql",
+      "sha256": "0f96cc44e0a2592c5c8319d49440b6ebadd8fd2734ecb27881de4894862f739c"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042655_import_reading_strategy_annotations_1.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042655_import_reading_strategy_annotations_1.json",
+      "sha256": "93f788f1e016f4c8e54d96475d97d43fbd2d4e88ce78e6b8db1cb9b15c8b6789"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042655_import_reading_strategy_annotations_1.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042655_import_reading_strategy_annotations_1.sql",
+      "sha256": "66ef498996555298d639cba0fd9471348c5a72923d545304e8e402f678ec3026"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042825_import_reading_strategy_annotations_2.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042825_import_reading_strategy_annotations_2.json",
+      "sha256": "293f91b806d359e348538e072a8a76f41f97d28b59f9ea190354718589f9a915"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042825_import_reading_strategy_annotations_2.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042825_import_reading_strategy_annotations_2.sql",
+      "sha256": "66571d906694c08e7dbc6403fd11198f4bee8af77b84b72fca5a790a7e305aa3"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042908_add_fk_indexes.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042908_add_fk_indexes.json",
+      "sha256": "5dcacc15be372c4bba3ed5cf54a06df94f316bb0b62f15a9d879329c5b15fa9c"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/migrations/20260730042908_add_fk_indexes.sql",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\migrations\\20260730042908_add_fk_indexes.sql",
+      "sha256": "c932419ead68acdb2fc424b35faf2bb9d8c5d67544895109b4437f835439fd64"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/catalog/columns.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\catalog\\columns.json",
+      "sha256": "a7a206493f9cde5094209b601dc9075825317908acf7965903d8e6189f816379"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/catalog/constraints.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\catalog\\constraints.json",
+      "sha256": "6460442dec5a99e2b17fc7cc232d0351562b650f6e0e1e025b701f1c1761babf"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/catalog/functions.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\catalog\\functions.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/catalog/indexes.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\catalog\\indexes.json",
+      "sha256": "4677c3a19a071cf8cab17d0d501b418a2c87c60bdcff8a9bcb19f9ea064473d7"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/README.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\README.md",
+      "sha256": "68d64e1ad138950b7ab7d6db0a9288f88a410b2fcaf00964bbd07a2563b8d9a5"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/COVER-STATUS.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\COVER-STATUS.md",
+      "sha256": "27983e1ff8114217a08680901c15608a2e9080cc5ea965101d7ab905ee9819be"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/cover-comparison.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\cover-comparison.json",
+      "sha256": "5a5151c5d08a995182a10207eb14fb4e4989ed27ab728d6386ff4c6808f4ded2"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/verification-evidence.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\verification-evidence.json",
+      "sha256": "d77dd8cc66e0ad550e4eb6d338f3f01df0061c2edd6a10176f5c0c78b7c715dc"
+    },
+    {
+      "path": "mentor-database-recovery-2026-09-05/manifest.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-database-recovery-2026-09-05\\manifest.json",
+      "sha256": "fa3f85958135b66eb041f0a6cfe934f34062e95de445cf6b7b35541e8c270e94"
+    },
+    {
+      "path": "mentor-content-plan-2026-09-06.md",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\mentor-content-plan-2026-09-06.md",
+      "sha256": "b7abcb16fa399081927a36d15c5e250abf2aa20e0e90c439cf19ccd72de3ffe4"
+    },
+    {
+      "path": "codex-transfer-preparation/fox-review-record.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\codex-transfer-preparation\\fox-review-record.json",
+      "sha256": "d5d20c2c688e5247360be79c7af5edd4f81fafb803a45e683e77d09198bff282"
+    },
+    {
+      "path": "codex-transfer-preparation/review-verification.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\codex-transfer-preparation\\review-verification.json",
+      "sha256": "8b912336e2be4e726fccd65fca14c9df901ce3684d2096d8cfe401d93e93dd9d"
+    },
+    {
+      "path": "codex-transfer-preparation/update-manifest.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\codex-transfer-preparation\\update-manifest.json",
+      "sha256": "aa2c89aa70f41ff487db7f2ed87de831dc574d2761833aa56eb9e3e9d4b36039"
+    },
+    {
+      "path": "codex-transfer-preparation/APPLIED.json",
+      "source": "C:\\Users\\09187270\\.codex\\.chatgpt-projects\\g-p-6a9b9af533e48191844e765db0f00f13\\codex-transfer-preparation\\APPLIED.json",
+      "sha256": "e7c6ab118c0a7d63d63b77cce51392ea49847ac7e7de24041d381425c651c930"
+    },
+    {
+      "path": "docs/vault-snapshot/Architecture.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Architecture.md",
+      "sha256": "5dbebe4d58f2ee8c38dba6b710889493aeac7c95ef0877a75508ada140fbfe2e"
+    },
+    {
+      "path": "docs/vault-snapshot/Current State and Codex Handover.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Current State and Codex Handover.md",
+      "sha256": "46d367f0ee9f35b055c76fb918bb753caed56bca5c8623d0ac85300acd6827ab"
+    },
+    {
+      "path": "docs/vault-snapshot/Decisions Log.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Decisions Log.md",
+      "sha256": "316da119705813c73ec7eacba56e183fa9a92f6a55816575b50286821ab31715"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/00 Design Index.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\00 Design Index.md",
+      "sha256": "b1782087f142daf7a2ec5bc506f383a4e6a67ec8beeb87713160455df3fe65e2"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/01 Visual Direction.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\01 Visual Direction.md",
+      "sha256": "9a354b0f12319fa774ec76224a797f2d1855433acf5468b8e9e90198d5bc0857"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/04 Screen Specs.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\04 Screen Specs.md",
+      "sha256": "c82932e6d3678f5f556b1e84ff2366e752509f5658dbffaf6b37faa0a584166d"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/assets/fox-prototype/01-hero-and-collapsed-sections.jpg",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\assets\\fox-prototype\\01-hero-and-collapsed-sections.jpg",
+      "sha256": "5eac4d0903c76c9fdc6ba9a27cf3c92f76d7e5cc1ecd95d90383b4e5e62d084d"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/assets/fox-prototype/02-writing-trait-expanded-year3.jpg",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\assets\\fox-prototype\\02-writing-trait-expanded-year3.jpg",
+      "sha256": "81041c1270d1fe9d369a6ee0f4a670c6fb35eadc457f43fe0532af5c4e9d8f13"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/assets/fox-prototype/03-pride-and-inquiry-lens-expanded.jpg",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\assets\\fox-prototype\\03-pride-and-inquiry-lens-expanded.jpg",
+      "sha256": "7c1641259c2c64a4c0d98273c1f19b3c5905b85aabedd18cb11b0496c84e307d"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/assets/fox-prototype/04-teaching-idea-expanded.jpg",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\assets\\fox-prototype\\04-teaching-idea-expanded.jpg",
+      "sha256": "b7a752e840b70ad11af81a72fdfa95b37d0924bb2775cba237b12b050c338e14"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/assets/fox-prototype/05-reading-strategy-expanded-year3.jpg",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\assets\\fox-prototype\\05-reading-strategy-expanded-year3.jpg",
+      "sha256": "c2fc5d1dfdba63453f7c5cc20d955708291066cb18374adf062cbbc9191d7680"
+    },
+    {
+      "path": "docs/vault-snapshot/Design/assets/fox-prototype/README.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Design\\assets\\fox-prototype\\README.md",
+      "sha256": "1f580cbd3a32fe8b5410b141c01be149a30975d8b9d4bba1f1d3ce3660731007"
+    },
+    {
+      "path": "docs/vault-snapshot/index.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\index.md",
+      "sha256": "16e935ec09dabeb2553fe6fcf7512ff2c4648dd7e8588451cf93b7a67b54348c"
+    },
+    {
+      "path": "docs/vault-snapshot/Ngarri Mentor Text Library.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Ngarri Mentor Text Library.md",
+      "sha256": "cc6e08282a1aaa245dc71920e902dcf8b8802670373b09023609b3d79157d102"
+    },
+    {
+      "path": "docs/vault-snapshot/Project Map.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Project Map.md",
+      "sha256": "431e9ac73fc2be06457cec5745b34394a4da32985ccb2d7b0b08db2bdd56471f"
+    },
+    {
+      "path": "docs/vault-snapshot/Research Notes.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Research Notes.md",
+      "sha256": "80e52608fd6129d34f0b87b2634e8584c8d6d19de227be7521dabfb861985381"
+    },
+    {
+      "path": "docs/vault-snapshot/specs/01 AI Enrichment Pass 1.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\specs\\01 AI Enrichment Pass 1.md",
+      "sha256": "f8b0ecd5f56f8e8f7d486c9ee5c3492366f40b359254cf5af8cc795bce9eff99"
+    },
+    {
+      "path": "docs/vault-snapshot/specs/02 Book Detail Page Field Model.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\specs\\02 Book Detail Page Field Model.md",
+      "sha256": "1bb4109b54f89667e57170e22948e04930861320f031519eeb031dc7119a99e0"
+    },
+    {
+      "path": "docs/vault-snapshot/specs/03 Teacher Search and Results.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\specs\\03 Teacher Search and Results.md",
+      "sha256": "cdba932774cc1958770b9717a8816f856b2f71b2f18c8f3e929ae4e606f4f25d"
+    },
+    {
+      "path": "docs/vault-snapshot/specs/04 Leader Admin Area.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\specs\\04 Leader Admin Area.md",
+      "sha256": "a06d58a8c691a396a7c40e8c90bebcb909b2a1f5d232ba6253abc2bc1e74123d"
+    },
+    {
+      "path": "docs/vault-snapshot/specs/05 Ongoing Book Enrichment Pipeline.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\specs\\05 Ongoing Book Enrichment Pipeline.md",
+      "sha256": "36e111ae9dd8bf594b4e263fe37cdd60d557eeef07360b8f62270c9535a389e8"
+    },
+    {
+      "path": "docs/vault-snapshot/Working Contract.md",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\iCloud~md~obsidian\\ChalkCode\\Ngarri Mentor Text Library\\Working Contract.md",
+      "sha256": "acbf35f683322046491cd061cc2bfc4a30daaa3e9a4efe148706991afd5e428c"
+    }
+  ]
+}

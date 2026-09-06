@@ -1,0 +1,1324 @@
+{
+  "tested_at": "2026-09-05T20:36:31.338Z",
+  "engine": "PostgreSQL 18.3 (PGlite 0.5.8) on wasm32-unknown-emscripten, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "checks": 328,
+  "results": [
+    {
+      "name": "historical migrations restore 343 books",
+      "passed": true
+    },
+    {
+      "name": "historical writing annotations",
+      "passed": true
+    },
+    {
+      "name": "historical reading annotations",
+      "passed": true
+    },
+    {
+      "name": "anon existing books remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing inquiry_lens_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing inquiry_lenses remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing pride_value_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing pride_values remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing reading_strategies remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing reading_strategy_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing reading_strategy_detail remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing teaching_ideas remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing why_use_bullets remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing writing_trait_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing writing_trait_detail remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon existing writing_traits remains visible",
+      "passed": true
+    },
+    {
+      "name": "anon books denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon books denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon books denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon books denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon books denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon books denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon books denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lenses denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon pride_values denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategies denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_detail denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_resources denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_detail denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "anon writing_traits denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "anon actual denied operation INSERT",
+      "passed": true
+    },
+    {
+      "name": "anon actual denied operation UPDATE",
+      "passed": true
+    },
+    {
+      "name": "anon actual denied operation DELETE",
+      "passed": true
+    },
+    {
+      "name": "anon actual denied operation SELECT",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing books remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing inquiry_lens_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing inquiry_lenses remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing pride_value_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing pride_values remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing reading_strategies remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing reading_strategy_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing reading_strategy_detail remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing teaching_ideas remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing why_use_bullets remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing writing_trait_annotations remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing writing_trait_detail remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated existing writing_traits remains visible",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated books denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lenses denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_values denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategies denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_detail denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_resources denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_detail denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies TRUNCATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies REFERENCES",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies TRIGGER",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_traits denies MAINTAIN",
+      "passed": true
+    },
+    {
+      "name": "authenticated actual denied operation INSERT",
+      "passed": true
+    },
+    {
+      "name": "authenticated actual denied operation UPDATE",
+      "passed": true
+    },
+    {
+      "name": "authenticated actual denied operation DELETE",
+      "passed": true
+    },
+    {
+      "name": "authenticated actual denied operation SELECT",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status imported_teacher",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status imported_teacher",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status imported_ozlit",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status imported_ozlit",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "anon writing_trait_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "authenticated writing_trait_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status imported_teacher",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status imported_teacher",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status imported_ozlit",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status imported_ozlit",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "anon reading_strategy_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "authenticated reading_strategy_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "anon pride_value_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "authenticated pride_value_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations status blank",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "anon inquiry_lens_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "authenticated inquiry_lens_annotations status rejected",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "anon teaching_ideas status rejected",
+      "passed": true
+    },
+    {
+      "name": "authenticated teaching_ideas status rejected",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets status ai_suggested",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets status teacher_reviewed",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets status teacher_added",
+      "passed": true
+    },
+    {
+      "name": "anon why_use_bullets status rejected",
+      "passed": true
+    },
+    {
+      "name": "authenticated why_use_bullets status rejected",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent books",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent writing_trait_annotations",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent reading_strategy_annotations",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent pride_value_annotations",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent inquiry_lens_annotations",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent teaching_ideas",
+      "passed": true
+    },
+    {
+      "name": "anon hides archived parent why_use_bullets",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent books",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent writing_trait_annotations",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent reading_strategy_annotations",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent pride_value_annotations",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent inquiry_lens_annotations",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent teaching_ideas",
+      "passed": true
+    },
+    {
+      "name": "authenticated hides archived parent why_use_bullets",
+      "passed": true
+    },
+    {
+      "name": "anon no automatic future-table privileges",
+      "passed": true
+    },
+    {
+      "name": "authenticated no automatic future-table privileges",
+      "passed": true
+    },
+    {
+      "name": "rollback restores exact local table grants and policies",
+      "passed": true
+    },
+    {
+      "name": "no row-count change books",
+      "passed": true
+    },
+    {
+      "name": "no row-count change inquiry_lens_annotations",
+      "passed": true
+    },
+    {
+      "name": "no row-count change inquiry_lenses",
+      "passed": true
+    },
+    {
+      "name": "no row-count change pride_value_annotations",
+      "passed": true
+    },
+    {
+      "name": "no row-count change pride_values",
+      "passed": true
+    },
+    {
+      "name": "no row-count change reading_strategies",
+      "passed": true
+    },
+    {
+      "name": "no row-count change reading_strategy_annotations",
+      "passed": true
+    },
+    {
+      "name": "no row-count change reading_strategy_detail",
+      "passed": true
+    },
+    {
+      "name": "no row-count change teaching_ideas",
+      "passed": true
+    },
+    {
+      "name": "no row-count change teaching_resources",
+      "passed": true
+    },
+    {
+      "name": "no row-count change why_use_bullets",
+      "passed": true
+    },
+    {
+      "name": "no row-count change writing_trait_annotations",
+      "passed": true
+    },
+    {
+      "name": "no row-count change writing_trait_detail",
+      "passed": true
+    },
+    {
+      "name": "no row-count change writing_traits",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "PGlite PostgreSQL; not the hosted Supabase API stack",
+    "pgcrypto registration omitted; built-in gen_random_uuid used",
+    "Supabase-admin default privileges outside this candidate scope"
+  ]
+}

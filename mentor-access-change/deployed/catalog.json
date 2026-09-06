@@ -1,0 +1,93 @@
+[
+  {
+    "tablename": "books",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "(status = 'active'::text)"
+  },
+  {
+    "tablename": "inquiry_lens_annotations",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "((status = ANY (ARRAY['teacher_reviewed'::text, 'teacher_added'::text])) AND (EXISTS ( SELECT 1\n   FROM books b\n  WHERE ((b.id = inquiry_lens_annotations.book_id) AND (b.status = 'active'::text)))))"
+  },
+  {
+    "tablename": "inquiry_lenses",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "true"
+  },
+  {
+    "tablename": "pride_value_annotations",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "((status = ANY (ARRAY['teacher_reviewed'::text, 'teacher_added'::text])) AND (EXISTS ( SELECT 1\n   FROM books b\n  WHERE ((b.id = pride_value_annotations.book_id) AND (b.status = 'active'::text)))))"
+  },
+  {
+    "tablename": "pride_values",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "true"
+  },
+  {
+    "tablename": "reading_strategies",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "true"
+  },
+  {
+    "tablename": "reading_strategy_annotations",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "((status = ANY (ARRAY['imported_teacher'::text, 'imported_ozlit'::text, 'teacher_reviewed'::text, 'teacher_added'::text])) AND (EXISTS ( SELECT 1\n   FROM books b\n  WHERE ((b.id = reading_strategy_annotations.book_id) AND (b.status = 'active'::text)))))"
+  },
+  {
+    "tablename": "reading_strategy_detail",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "true"
+  },
+  {
+    "tablename": "teaching_ideas",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "((status = ANY (ARRAY['teacher_reviewed'::text, 'teacher_added'::text])) AND (EXISTS ( SELECT 1\n   FROM books b\n  WHERE ((b.id = teaching_ideas.book_id) AND (b.status = 'active'::text)))))"
+  },
+  {
+    "tablename": "why_use_bullets",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "((status = ANY (ARRAY['teacher_reviewed'::text, 'teacher_added'::text])) AND (EXISTS ( SELECT 1\n   FROM books b\n  WHERE ((b.id = why_use_bullets.book_id) AND (b.status = 'active'::text)))))"
+  },
+  {
+    "tablename": "writing_trait_annotations",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "((status = ANY (ARRAY['imported_teacher'::text, 'imported_ozlit'::text, 'teacher_reviewed'::text, 'teacher_added'::text])) AND (EXISTS ( SELECT 1\n   FROM books b\n  WHERE ((b.id = writing_trait_annotations.book_id) AND (b.status = 'active'::text)))))"
+  },
+  {
+    "tablename": "writing_trait_detail",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "true"
+  },
+  {
+    "tablename": "writing_traits",
+    "policyname": "pilot trusted read",
+    "roles": "{anon,authenticated}",
+    "cmd": "SELECT",
+    "qual": "true"
+  }
+]
