@@ -37,3 +37,7 @@ The isolated database test uses PGlite 0.5.8, with its original integrity record
 Full book PDFs, full commercial inquiry-book extracts, page renders, source ZIPs, credentials, dependency caches and full database export folders are excluded. Their source locations are recorded in existing manifests and handover notes. Original archives and vault backup remain on the current computer; this GitHub package does not replace school storage or the Supabase database backup. Supabase and hosting ownership still need a separate institutional handover.
 
 Steve's organisation invitation is deferred until his GitHub username is available. The school Codex account still needs its own repository authorisation. Repository creation alone does not establish either access.
+
+## Inspect catalogue data
+
+A simple read-only catalogue viewer is now available in [catalogue-viewer](catalogue-viewer/README.md). It searches and filters a fresh 343-book snapshot by writing, reading, PRIDE, inquiry and missing information. Run the documented Python server on port 8766 with the original covers folder. It does not replace the Fox review or publish teaching content.
