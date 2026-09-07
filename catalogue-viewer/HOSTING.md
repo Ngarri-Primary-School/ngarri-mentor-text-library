@@ -1,6 +1,6 @@
 # Shared progress viewer
 
-Site address: https://ngarri-mentor-library-progress.adored-pearl-7930.chatgpt.site
+Site address: https://ngarri-mentor-library-progress.velveteen.chatgpt.site
 
 The user explicitly approved publishing the 343-book catalogue, blurbs, existing writing/reading links and 221 covers to OpenAI Sites for anyone with the link. No sign-in is required. It retains the original search, combined filters, book detail view and missing-information indicators. This is a dated read-only snapshot, not a live database connection.
 
@@ -11,3 +11,4 @@ The hosted output has 343 books, 391 writing links, 260 reading links and 221 av
 The school GitHub repository remains the canonical project documentation/code destination. The Sites source repository is a deployment copy, not a competing editable project. The initial Site is owned by Phill's current account; school ownership/access handover for hosting remains a separate task. No automatic GitHub-to-Sites deployment or automatic database refresh has been configured.
 
 To refresh progress: obtain an authorised database snapshot, rebuild the viewer and public output, validate the counts and filters, save code/documentation in school GitHub, then publish an updated version of this same Site. Keep unreviewed suggestions out of the public output.
+
