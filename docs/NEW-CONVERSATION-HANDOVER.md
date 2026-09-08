@@ -1,6 +1,6 @@
 # Start here — new ChatGPT or Codex conversation
 
-Updated: 8 September 2026  
+Updated: 9 September 2026
 Status: current onboarding guide  
 Repository: https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library
 
@@ -55,7 +55,11 @@ Five complete-text picture books have teacher-approved content in Supabase and a
 
 These five books are the quality benchmark. *Fox* is a separate calibration and visual-prototype example; it is not a standalone title in the recovered 343-book catalogue.
 
-The recovered catalogue snapshot recorded 343 active books, 391 writing annotations and 260 reading annotations. Much of the original imported annotation data lacked explanations. The final production teacher library and secure reviewer application remain unfinished.
+As verified on 9 September 2026, Supabase contains 343 active books, 458 publicly readable writing records, 296 reading records, 10 PRIDE connections, 10 inquiry connections and 32 teaching ideas. Much of the earlier imported annotation data still lacks book-specific explanations. The final production teacher library and secure reviewer application remain unfinished.
+
+Phill approved the complete revision of *The Alphabet Tree* on 9 September 2026. Supabase and the shared progress viewer now show 17 writing, 8 reading, 2 PRIDE and 2 inquiry connections, with explanations for all 29 connections, plus 8 teaching ideas. The approval and deployment record is in `reviews/the-alphabet-tree.revision.ai-draft.md` and `database/approved-content/2026-09-09-alphabet-tree.sql`.
+
+The restricted Google Drive now contains `Text Extractions - Restricted/The Alphabet Tree/` with a visually checked, page-referenced Markdown transcript, a searchable text-only PDF and OCR review notes. These working copies remain outside GitHub and Supabase.
 
 A public progress viewer exists. Production reviewer authentication, final teacher-site implementation, ongoing enrichment workflow, institutional Supabase ownership and hosting ownership are still work in progress.
 
@@ -121,10 +125,10 @@ Do not update the former Obsidian vault, extracted ZIPs, transfer-staging folder
 
 ## Immediate next action
 
-First, verify that the new school account can read this private repository and open the public progress viewer. Then confirm whether it has authorised access to the Supabase project without exposing credentials.
+First, verify that the new conversation can read this private repository, including commit `87de379` or a later `main`, and open the public progress viewer. Connect the Google Drive plugin to the school Drive account and verify access to the restricted `Mentor Texts` folder, ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`. Supabase access is needed when publishing approved records, but credentials must never be pasted into chat or project files.
 
-After access is established, authorise the school account's Google Drive connector and verify access to the restricted school book folder. Use `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`: name the next three to five books, pause while the user supplies their complete texts, and verify each file before analysis. Prepare text type, genre, strongest writing, reading, PRIDE, inquiry and teaching-idea connections for teacher review; do not restart a broad 20-book trial.
+The next content action is the one-book revision of *Night Tree*. Use its complete PDF in Google Drive, the approved *Crickwing* quality standard and `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`. Reassess only the strongest writing, reading, PRIDE and inquiry connections; make every explanation passage-specific; and create structured teaching ideas with relevant installed education skills. Save the complete proposal as `ai_suggested`, show it to Phill, and do not change Supabase until he approves it. After that, revise *Little Blue and Little Yellow*, then *The Gruffalo*, one book at a time with approval between books.
 
 ## Message to paste into a new conversation
 
-> Continue the Ngarri Mentor Text Library from the school GitHub repository at https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library. Read `docs/NEW-CONVERSATION-HANDOVER.md`, then follow its reading order. Treat GitHub `main` as the documentation source of truth and `archive/` as historical evidence only. Explain your initial understanding and access status in plain language, then continue from the Immediate next action. Do not publish unreviewed AI content, run paid or bulk enrichment, deploy migrations, or use a book without a verified complete text.
+> Continue the Ngarri Mentor Text Library from the private school GitHub repository at https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library. This work is moving from my Windows laptop to a new conversation on my MacBook. Read `docs/NEW-CONVERSATION-HANDOVER.md`, then follow its reading order and confirm that GitHub `main` includes commit `87de379` or a later version. Treat GitHub `main` as the documentation source of truth and `archive/` as historical evidence only. Connect to my school Google Drive and verify the `Mentor Texts` folder, ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`; the checked Alphabet Tree transcripts are under `Text Extractions - Restricted/The Alphabet Tree`. The Alphabet Tree revision is approved and live. The next task is to prepare the complete *Night Tree* revision as `ai_suggested`, using its full PDF, the approved Crickwing standard, the exact Ngarri curriculum wording and the project enrichment skill. Explain your understanding and access status in plain language before continuing. Work on one book at a time and show me the full draft for approval before changing Supabase. Do not publish unreviewed AI content, run paid or bulk enrichment, deploy migrations, or place complete copyrighted texts in GitHub or Supabase.
