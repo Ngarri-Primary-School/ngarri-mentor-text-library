@@ -102,6 +102,7 @@ The saved *Fox* prototype images are under `archive/obsidian-vault-snapshot/Desi
 ## Repository map
 
 - `reference-data/` — structured writing, reading, PRIDE, inquiry, text-availability and Oz Lit calibration references; read its README before using them.
+- `reference-sources/` — audited source coverage and safe school-owned originals; commercial publications and full books are excluded.
 - `catalogue-viewer/` — progress-viewer code and hosting notes.
 - `fox-working-page/` — local Fox review and calibration prototype.
 - `curriculum-review-2026-09-06/` — prepared school-curriculum reference records.

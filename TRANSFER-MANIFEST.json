@@ -736,5 +736,56 @@
       "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\writing-throughlines.json",
       "sha256": "16ac61923440682a4b7b0fbc0c0bafefe7d2fa2f16e8ed3992c7ee613d379663"
     }
+  ],
+  "reference_source_audit": {
+    "date": "2026-09-08",
+    "source_locations": 3,
+    "file_copies_hashed": 832,
+    "unique_file_hashes": 485,
+    "duplicate_hash_groups": 265,
+    "source_folders_changed": false,
+    "details": "reference-sources/README.md"
+  },
+  "reference_source_originals": [
+    {
+      "path": "reference-sources/school-originals/Completed English Writing Throughlines.docx-3.pdf",
+      "sha256": "b0c7f6defd0c0403e498b4bf9cd5c33f32d36244a7278698db5c0d066f4c2ad0"
+    },
+    {
+      "path": "reference-sources/school-originals/Comprehension_Throughlines_Victorian_English_2.0.docx",
+      "sha256": "aa4214d749c1bb22db1c2ec126d215d8481997d829f97f40e259bb9b7b23f131"
+    },
+    {
+      "path": "reference-sources/school-originals/Curriculum - ENGLISH. working copy.pdf",
+      "sha256": "f0d86c72bae314d0c80b46a0185c883a94cbb61b5bf6cff3f665c9f1c84e40a6"
+    },
+    {
+      "path": "reference-sources/school-originals/Inquiry Stages - Short Summary and Activities.pdf",
+      "sha256": "b3cbde848ff965fe717b586dfdf185ee38727bbf8b954e8575cf428e13fb063d"
+    },
+    {
+      "path": "reference-sources/school-originals/Learning Goal and Success Criteria (2).pdf",
+      "sha256": "1b673cef9d013ec5bb7996c0f705a96040cee1981739fbdc26440de6644740b3"
+    },
+    {
+      "path": "reference-sources/school-originals/Ngarri PS conceptual lenses for inquiry (1).pdf",
+      "sha256": "937cb4e0ab865a54d4be22483443c1fa9805433555180527d6ffe7f50877a302"
+    },
+    {
+      "path": "reference-sources/school-originals/Phonics_Fluency_Decoding_Vocabulary_Throughlines_Condensed_Same_Format.docx",
+      "sha256": "778b71845943df4fec50c9b97dac043c0dacec0c144622f0940e2b544fb25580"
+    },
+    {
+      "path": "reference-sources/school-originals/PRIDE School Values (1).pdf",
+      "sha256": "fb0de3a784945b78078ec597146b09392d0af0a331b01eb8c0f56ee28f77e684"
+    },
+    {
+      "path": "reference-sources/school-originals/PRIDE Values Matrix.pdf",
+      "sha256": "80633308f49d23a63029cb4efef7d996f21ad3beac1894836f7dd08be7549e29"
+    },
+    {
+      "path": "reference-sources/school-originals/Speaking_and_Listening_Throughlines_Victorian_English_2.0.docx",
+      "sha256": "0f1369fa007873de49f1a8aa289310fb3101243dfdb46a4f2628cb97f2de20d3"
+    }
   ]
 }

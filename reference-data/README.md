@@ -2,6 +2,8 @@
 
 This folder contains the structured reference files used to guide mentor-text content. These files were copied unchanged from the earlier project reference-data folder on 8 September 2026 so the school GitHub repository, rather than a private computer, holds the working reference set.
 
+The source audit and the school-owned originals retained in GitHub are documented in [`../reference-sources/README.md`](../reference-sources/README.md).
+
 ## Core Ngarri references
 
 - `writing-throughlines.json` — seven writing traits with Foundation–Year 6 Key Understandings and Key Skills. The file identifies the source and distinguishes verbatim wording from recorded corrections.
