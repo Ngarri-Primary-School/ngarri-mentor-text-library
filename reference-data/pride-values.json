@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "source": "PRIDE School Values (1).pdf",
+    "extracted": "2026-06-24",
+    "notes": [
+      "All 'we_will' bullet text is verbatim from the source document.",
+      "One-liners are verbatim from the summary paragraph at the bottom of the document.",
+      "PRIDE Values Matrix.pdf was also reviewed — it contains location-specific student behaviour expectations (classrooms, outside, bathrooms) and does not add value definition content relevant to book tagging. Not extracted.",
+      "selection_indicators are derived from the we_will bullets and are intended to guide the enrichment pipeline in deciding whether to tag a value. A book should only be tagged if a specific character decision, story event, or moment can be identified that embodies the value.",
+      "Values: Pride, Respect, Integrity, Determination, Excellence."
+    ]
+  },
+  "values": {
+    "pride": {
+      "display_name": "Pride",
+      "one_liner": "We take pride in ourselves, our school and our community.",
+      "we_will": [
+        "take pride in our school, our community and all that we do.",
+        "represent our school with honour and respect.",
+        "wear a clean and well presented school uniform.",
+        "celebrate our own and other's achievements.",
+        "respect the school and learning environment."
+      ],
+      "selection_indicators": [
+        "A character takes pride in their work, identity, culture, or community.",
+        "A character represents their family, community, or group with honour.",
+        "A character celebrates their own or another's achievement.",
+        "A character shows ownership and respect for shared spaces or belongings."
+      ]
+    },
+    "respect": {
+      "display_name": "Respect",
+      "one_liner": "We respect ourselves, our school and each other, and understand the importance of treating others with compassion, care and courtesy.",
+      "we_will": [
+        "treat others with compassion, care and fairness.",
+        "value and celebrate people's differences.",
+        "be a caring and courteous friend.",
+        "use kind words and be polite in all interactions.",
+        "include others in the classroom and in the yard.",
+        "show care and concern for self, others and school property."
+      ],
+      "selection_indicators": [
+        "A character treats another with compassion, care, or fairness — especially across difference.",
+        "A character values or celebrates someone who is different from them.",
+        "A character actively includes someone who is excluded.",
+        "A character shows care and concern for others' wellbeing.",
+        "A character uses kindness or courtesy in a meaningful way."
+      ]
+    },
+    "integrity": {
+      "display_name": "Integrity",
+      "one_liner": "We model and demonstrate integrity by being honest, true and fair in all interactions.",
+      "we_will": [
+        "make positive choices even when no one is watching.",
+        "be honest, true and fair.",
+        "take responsibility for actions and accept consequences.",
+        "follow our school values and expectations.",
+        "represent the school in all situations with positivity and pride.",
+        "be safe and considerate."
+      ],
+      "selection_indicators": [
+        "A character makes an honest or ethical choice when it would be easier not to.",
+        "A character does the right thing even when no one is watching.",
+        "A character takes responsibility for a mistake or wrong action and accepts the consequence.",
+        "A character is faced with a moral dilemma and chooses honesty or fairness."
+      ]
+    },
+    "determination": {
+      "display_name": "Determination",
+      "one_liner": "We show determination by using a growth mindset to overcome challenges, and use new and innovative ways to achieve our personal best.",
+      "we_will": [
+        "try our best and find new ways to reach personal goals.",
+        "be resilient and bounce back from mistakes and setbacks.",
+        "use growth mindset skills and strategies to overcome challenges.",
+        "be positive and enthusiastic about learning.",
+        "strive for excellence but not perfection."
+      ],
+      "selection_indicators": [
+        "A character persists in the face of difficulty, failure, or setback.",
+        "A character bounces back after a loss, injury, or mistake.",
+        "A character finds a new way to solve a problem when the first attempt fails.",
+        "A character's growth mindset or refusal to give up drives the story forward."
+      ]
+    },
+    "excellence": {
+      "display_name": "Excellence",
+      "one_liner": "We strive for excellence, aiming to be the very best we can be by setting goals and striving to gain new knowledge.",
+      "we_will": [
+        "aim high to be the best version of ourselves.",
+        "be positive and enthusiastic about learning.",
+        "come ready to engage in learning.",
+        "set challenging learning goals.",
+        "be a positive example to others.",
+        "strive to learn and gain new knowledge."
+      ],
+      "selection_indicators": [
+        "A character sets a high personal standard and works toward it.",
+        "A character pursues knowledge, skill, or growth with enthusiasm.",
+        "A character becomes a role model or positive example to others through their efforts.",
+        "A character strives to be their best self rather than simply good enough."
+      ]
+    }
+  }
+}

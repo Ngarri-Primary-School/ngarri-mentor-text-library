@@ -684,5 +684,57 @@
       "archive/working-plans"
     ]
   },
-  "onboarding_document": "docs/NEW-CONVERSATION-HANDOVER.md"
+  "onboarding_document": "docs/NEW-CONVERSATION-HANDOVER.md",
+  "reference_data_files": [
+    {
+      "path": "reference-data/available-texts.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\available-texts.json",
+      "sha256": "962665460b4b708b1d916da91891757d3de6fa74f8a2e4ad982dd8f8b38e00bc"
+    },
+    {
+      "path": "reference-data/inquiry-lenses.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\inquiry-lenses.json",
+      "sha256": "f2662742e02c631d05f2a623ef99849cc62017c1125566e994a6b9ad058d98ef"
+    },
+    {
+      "path": "reference-data/oz-lit-calibration.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\oz-lit-calibration.json",
+      "sha256": "c9ca7240027110dc80551ea54a53eabb91640dcff999d654f7c6c2b0bc845843"
+    },
+    {
+      "path": "reference-data/oz-lit-stage-1.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\oz-lit-stage-1.json",
+      "sha256": "f509241541fbb867156687ccf4be4f7b5c64a19124faae554cc6acef7716fba6"
+    },
+    {
+      "path": "reference-data/oz-lit-stage-2.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\oz-lit-stage-2.json",
+      "sha256": "93e55f8b2f2d48cf14638f7f7ce880c2d9570908e41382909c19993871d4f208"
+    },
+    {
+      "path": "reference-data/oz-lit-stage-3.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\oz-lit-stage-3.json",
+      "sha256": "882688f1c09c5fca5ada3268d319e2658dcd5ef308147a2f82113e8c3a9ddf97"
+    },
+    {
+      "path": "reference-data/oz-lit-stage-4.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\oz-lit-stage-4.json",
+      "sha256": "ca26104c982a6b0f35f502a5e19fba2f7162571d1196b19d313b2f330a34baf4"
+    },
+    {
+      "path": "reference-data/pride-values.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\pride-values.json",
+      "sha256": "713bb8a566ab4ce42fd39c74d4606ebfec78eebd11f236b9d314007535d395cb"
+    },
+    {
+      "path": "reference-data/reading-strategies.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\reading-strategies.json",
+      "sha256": "337299c1e104b2d845f12856d37044539fd031704ce80a8eb4c99b7dbaedab21"
+    },
+    {
+      "path": "reference-data/writing-throughlines.json",
+      "source": "C:\\Users\\09187270\\iCloudDrive\\Family\\Phill\\AI Coding\\Mentor Texts\\reference-data\\writing-throughlines.json",
+      "sha256": "16ac61923440682a4b7b0fbc0c0bafefe7d2fa2f16e8ed3992c7ee613d379663"
+    }
+  ]
 }

@@ -1,0 +1,862 @@
+{
+  "metadata": {
+    "source": "Completed English Writing Throughlines.docx-3 (1).pdf",
+    "extracted": "2026-06-24",
+    "notes": [
+      "All KU and KS text is verbatim from the source document.",
+      "Editor notes (ask about this???, Is this conventions) have been excluded from KU/KS fields.",
+      "Word Choice Y3: figurative language item moved from KU to KS on Phill's instruction (2026-06-24).",
+      "Organisation Y4 vocab: 'ad.' in source confirmed as 'adverbials' by Phill (2026-06-24).",
+      "Audience/Voice page also contains Must Do/Can Do text types per year — stored under audience_voice.years[x].text_types.",
+      "Two verbatim oddities preserved from source: (1) Audience/Voice Y2 KU1 has unclosed parenthesis after 'narrate'; (2) Word Choice Y6 KS3 ends with '(Objective and subjective language?)' as a query from the original author.",
+      "App scope: Foundation to Year 6. All year levels extracted."
+    ]
+  },
+  "traits": {
+    "audience_voice": {
+      "name": "Audience/Voice",
+      "years": {
+        "F": {
+          "ku": [
+            "I am writing for an audience",
+            "my writing needs to be read and understood by my audience"
+          ],
+          "ks": [
+            "I can discuss that I am writing for someone else.",
+            "I can discuss the importance of my audience being able to read and understand my writing."
+          ],
+          "vocab": ["Audience", "read", "understood"],
+          "text_types": {
+            "entertain": { "must_do": ["Retell", "Narrative/innovate"], "can_do": [] },
+            "inform": { "must_do": ["Information texts"], "can_do": [] },
+            "persuade": { "must_do": [], "can_do": [] }
+          }
+        },
+        "1": {
+          "ku": [
+            "I am writing for a purpose and intended audience.",
+            "my writing can engage and influence the reader"
+          ],
+          "ks": [
+            "I can describe the audience and purpose of my writing.",
+            "I can write with a specific reader or audience in mind.",
+            "I can discuss ways I can engage my audience- e.g interesting lead, word choices, persuasive devices etc."
+          ],
+          "vocab": ["Audience", "purpose", "intended", "influence", "engage"],
+          "text_types": {
+            "entertain": { "must_do": ["Retell/Narrative/innovate"], "can_do": ["Poetry"] },
+            "inform": { "must_do": ["Information"], "can_do": ["Explanation texts"] },
+            "persuade": { "must_do": [], "can_do": [] }
+          }
+        },
+        "2": {
+          "ku": [
+            "I am writing for a purpose and intended audience (express an opinion, explore an idea, narrate)",
+            "my writing can engage, speak to and influence the reader",
+            "writing can capture a general mood and evoke emotions such as joy, fear, excitement and humour."
+          ],
+          "ks": [
+            "I can explain that an author writes for one of the following purposes: to persuade, to inform, to entertain",
+            "I can explain and justify ways I can engage my audience (e.g interesting leads, word choice, onomatopoeia, persuasive devices etc).",
+            "I can write with a specific reader or audience in mind.",
+            "I can provide information to support reader understanding.",
+            "I can experiment with different/new word choices dependent on my audience."
+          ],
+          "vocab": ["Purpose", "persuade", "inform", "entertain", "engage", "explain", "influence"],
+          "text_types": {
+            "entertain": { "must_do": ["Retell/Narrative/innovate"], "can_do": ["Poetry"] },
+            "inform": { "must_do": ["Information texts"], "can_do": ["Explanation", "procedural"] },
+            "persuade": { "must_do": ["persuasive texts/letters"], "can_do": [] }
+          }
+        },
+        "3": {
+          "ku": [
+            "I am writing for a purpose and intended audience (express an opinion, explore an idea, narrate)",
+            "My writing can engage, speak to and influence the reader",
+            "Writing can capture a general mood and evoke emotions such as joy, fear, excitement and humour.",
+            "Writers have their own voice."
+          ],
+          "ks": [
+            "I can explain that an author writes for one of the following purposes: persuade, inform, entertain",
+            "I can explain and justify ways I can engage my audience (e.g interesting leads, word choice, onomatopoeia, persuasive devices etc).",
+            "I can write with a specific reader or audience in mind.",
+            "I can create an identifiable tone such as compassionate, bittersweet, frustrated or terrified.",
+            "I can provide information to support reader understanding.",
+            "I can experiment with word choices dependent on my audience."
+          ],
+          "vocab": ["Purpose", "persuade", "inform", "entertain", "engage", "explain", "influence"],
+          "text_types": {
+            "entertain": { "must_do": ["Narrative"], "can_do": ["Poetry"] },
+            "inform": { "must_do": ["Information/Explanation texts"], "can_do": ["procedural"] },
+            "persuade": { "must_do": ["persuasive texts/letters"], "can_do": [] }
+          }
+        },
+        "4": {
+          "ku": [
+            "writing can be differentiated for the intended audience",
+            "formal and informal tone can be used for different audiences and purposes",
+            "the importance of engaging my audience",
+            "how to imprint my own voice in my writing"
+          ],
+          "ks": [
+            "I can use language devices so my writing 'sounds like me'.",
+            "I can narrow my focus to engage my reader",
+            "I can use a range of strategies to engage my audience (dialogue lead, alliteration, persuasive devices.)",
+            "I can identify when to use a formal or informal tone.",
+            "I can use different language devices to create a mood or feeling in my writing."
+          ],
+          "vocab": ["Intended audience", "formal and informal tone", "engage", "mood"],
+          "text_types": {
+            "entertain": { "must_do": ["Narrative"], "can_do": ["Poetry"] },
+            "inform": { "must_do": ["Information/Explanation texts"], "can_do": ["procedural"] },
+            "persuade": { "must_do": ["persuasive texts/letters"], "can_do": [] }
+          }
+        },
+        "5": {
+          "ku": [
+            "writing can be differentiated for the intended audience.",
+            "that language/tone varies depending on social contexts and relationships",
+            "the importance of engaging my audience",
+            "how to imprint my own voice in my writing"
+          ],
+          "ks": [
+            "I can use language devices so my writing 'sounds like me'.",
+            "I can adapt my language/tone, to suit a range of social contexts.",
+            "I can narrow my focus to engage my reader."
+          ],
+          "vocab": ["Intended audience", "tone", "engaging", "imprint voice", "language devices", "language", "adapt", "Narrow focus"],
+          "text_types": {
+            "entertain": { "must_do": ["Narrative"], "can_do": ["Poetry"] },
+            "inform": { "must_do": ["Information/Explanation texts"], "can_do": ["news article"] },
+            "persuade": { "must_do": ["persuasive texts/letters"], "can_do": ["News article", "debate"] }
+          }
+        },
+        "6": {
+          "ku": [
+            "the use of language varies depending on the level of formality, social contexts and relationships",
+            "what bias is and how writing can be influenced by it",
+            "there is a difference between objective and subjective language",
+            "topics can be written in different ways for different audiences.",
+            "I can write about the same topic for different audiences and purposes",
+            "how to imprint my own voice in my writing"
+          ],
+          "ks": [
+            "I can use language devices so my writing 'sounds like me'.",
+            "I can use bias in my writing for an intended purpose.",
+            "I can use objective or subjective language in my writing depending on the purpose.",
+            "I can create informative texts for at least 2 different audiences (e.g. Grade 3 class and an academic)"
+          ],
+          "vocab": ["Audience", "purpose", "formality", "social contexts", "bias", "objective and subjective"],
+          "text_types": {
+            "entertain": { "must_do": ["Narrative"], "can_do": ["Poetry", "diary"] },
+            "inform": { "must_do": ["Information/Explanation texts"], "can_do": ["news article"] },
+            "persuade": { "must_do": ["persuasive texts/letters"], "can_do": ["News article", "debate"] }
+          }
+        }
+      }
+    },
+    "word_choice": {
+      "name": "Word Choice",
+      "years": {
+        "F": {
+          "ku": [
+            "writers use familiar words in their writing",
+            "writers select words to make their sentences more interesting",
+            "words used need to match the topic/text type"
+          ],
+          "ks": [
+            "I can match the words to the picture/object.",
+            "I can correctly use familiar words in my writing.",
+            "I can experiment with new words in my writing.",
+            "I can match my vocabulary to the text type I am writing about.",
+            "I can experiment with adjectives in my writing",
+            "I can use verbs in my writing.",
+            "I can experiment with more interesting verbs.",
+            "I can experiment with verbs in my writing."
+          ],
+          "vocab": ["Familiar words", "new vocabulary words", "pictures", "objects", "matching", "sense", "experiment", "verbs", "adjectives"]
+        },
+        "1": {
+          "ku": [
+            "word choices enhance the reader's experience",
+            "word choices allow the writer to communicate a message clearly",
+            "different types of words have different purposes",
+            "words can be organised into three different tiers ranging from general to specific in meaning.",
+            "words, phrases or sentences can be borrowed from other authors."
+          ],
+          "ks": [
+            "I can use tier 2 vocabulary to enhance the reader's experience and provide clear meaning (eg. frustrated, stumbled).",
+            "I can use tier 3 vocabulary to provide a clear message about a specific subject topic (eg. bioluminescence, photosynthesis)",
+            "I can use nouns and pronouns to represent people, places and things.",
+            "I can use verbs and experiment with adverbs to describe details, including when, where and how.",
+            "I can use adjectives to describe the qualities of a noun.",
+            "I can use words to describe when and how things happen (prepositions)"
+          ],
+          "vocab": ["Vocabulary", "tier 2", "tier 3", "striking words", "phrases", "nouns", "pronouns", "verbs", "adjectives", "adverbs", "prepositions", "describing words"]
+        },
+        "2": {
+          "ku": [
+            "word choices enhance the reader's experience",
+            "different tiered vocabulary can be used for a specific purpose, ranging from general to specific in meaning",
+            "rhymes, rhythm and word patterns can be used to enhance the reader's experience",
+            "the difference between synonyms and antonyms",
+            "words, phrases or sentences can be borrowed from other authors"
+          ],
+          "ks": [
+            "I can borrow a word, phrase or sentence from another author.",
+            "I can identify and use memorable words and phrases.",
+            "I can substitute or add descriptive vocabulary to make my writing more interesting.",
+            "I can use verbs and adverbs to describe details including when, where and how.",
+            "I can experiment with simple figurative language.",
+            "I can experiment with alternative vocabulary for common nouns, adjectives and verbs (e.g. other words for said).",
+            "I can identify and use tier 3 vocabulary to provide a clear message about a specific subject topic (eg. bioluminescence, photosynthesis)",
+            "I can use adjectives to describe the qualities of a noun (characters, settings, emotions, events)."
+          ],
+          "vocab": ["Vocabulary", "tier 2", "tier 3", "noun", "describe", "figurative language", "substitute", "add", "verbs", "borrow", "memorable words and phrases"]
+        },
+        "3": {
+          "ku": [
+            "word choices are selected and refined, allowing the writer to communicate a message clearly",
+            "that a modal verb expresses necessity or possibility e.g can, should, must.",
+            "words can have different meanings in different contexts",
+            "different tiered vocabulary can be used for a specific purpose, ranging from general to specific in meaning"
+          ],
+          "ks": [
+            "I can experiment with figurative language; similes and onomatopoeia, alliteration, metaphors, hyperbole",
+            "I can use descriptive words, in the correct context and with creativity.",
+            "I can use common and sophisticated connectives.",
+            "I can use adverbs in the correct context.",
+            "I can use tier 2 vocabulary to enhance the reader's experience and provide clear meaning (eg. frustrated, stumbled)",
+            "I can use tier 3 vocabulary to provide a clear message about a specific subject topic (eg. bioluminescence, photosynthesis)",
+            "I can use synonyms for a effect e.g avoid repetition, listening qualities.",
+            "I can choose specific words and phrases for a desired effect."
+          ],
+          "vocab": ["Tier 3 vocabulary", "Descriptive Adjectives", "adverbs", "Synonyms", "Connectives"]
+        },
+        "4": {
+          "ku": [
+            "specific language can be used for the specific structure of the text (genre)",
+            "word choice can help my reader visualise my ideas",
+            "words can be organised into three different tiers that can be used at different times for specific purposes",
+            "language choices are made depending on formal or informal.",
+            "language changes are used for formal and informal purposes."
+          ],
+          "ks": [
+            "I can adjust my language based on whether I am presenting facts or expression an opinion.",
+            "I can use a variety of words to influence the mood of my writing.",
+            "I can use alliteration to engage my reader.",
+            "I can use specific/precise words.",
+            "I can use specific words to encourage my reader to visualise.",
+            "I can understand how word choice can influence different text types."
+          ],
+          "vocab": ["Adjectives", "tier words", "alliteration", "mood", "fact and opinion"]
+        },
+        "5": {
+          "ku": [
+            "vocabulary can be used for greater precision of meaning",
+            "words can have different meanings in different contexts",
+            "groups of words/phrases can be expanded in a variety of ways",
+            "words can be organised into three different tiers that can be used at different times for specific purposes",
+            "how to use figurative language effectively."
+          ],
+          "ks": [
+            "I can use precise adjectives/verbs to enhance meaning in my writing.",
+            "I can adjust my language based on whether I am presenting facts or expression an opinion.",
+            "I can use specific tier 3 technical vocabulary.",
+            "I can use figurative language for effect (simile, metaphor, personification)."
+          ],
+          "vocab": ["Noun group", "verb groups", "tiered vocabulary", "adjectives", "precise", "figurative language"]
+        },
+        "6": {
+          "ku": [
+            "vocabulary can be used for greater precision of meaning",
+            "words can be organised into three different tiers that can be used at different times for specific purposes",
+            "what objective and subjective language is.",
+            "how to use figurative language for effect and purpose."
+          ],
+          "ks": [
+            "I can accurately/precisely use verbs and adverbs to enhance meaning in my writing including adverbials of time.",
+            "I can make precise verb and adverb choices within my writing.",
+            "I can adjust my language based on whether I am presenting facts or expression an opinion. (Objective and subjective language)",
+            "I can use figurative language for effect (simile, metaphor, personification).",
+            "I can use objective and subjective language for a purpose."
+          ],
+          "vocab": ["Tier vocabulary", "adverb", "precision", "figurative language", "subjective and objective language"]
+        }
+      }
+    },
+    "ideas": {
+      "name": "Ideas",
+      "years": {
+        "F": {
+          "ku": [
+            "writing is used to communicate a message/meaning/idea",
+            "I need to develop a clear idea before writing (pre-writing)",
+            "authors write about their own experience"
+          ],
+          "ks": [
+            "I can choose a topic/idea to write about, when given a prompt or starting sentence, drawing upon familiar experiences and topics.",
+            "I can convey my own ideas through talking, drawing and writing.",
+            "I can use familiar texts to develop my ideas.",
+            "I can record my ideas in a graphic organiser.",
+            "I can collect ideas/seeds for my writing in my Writer's Notebook."
+          ],
+          "vocab": ["Idea", "topic", "message", "seed", "re-read", "retell", "collect"]
+        },
+        "1": {
+          "ku": [
+            "writing is used to communicate a message/meaning/idea",
+            "I need knowledge of my idea/s to include detail in my writing. This knowledge can be developed through mentor texts, experiences"
+          ],
+          "ks": [
+            "I can choose a topic/idea to write about, using mentor texts, prompts or my own ideas/experiences.",
+            "I can develop an idea/plan through drawings, labelling and vocabulary lists/word banks.",
+            "I can include supportive descriptions, details or examples to explain the important ideas in my writing."
+          ],
+          "vocab": ["Message", "idea", "detail", "author", "topic", "vocabulary", "description", "mentor text", "important ideas", "writing seeds"]
+        },
+        "2": {
+          "ku": [
+            "ideas are used to convey meaning",
+            "how to plan a variety of texts (narrative, informative, persuasive)",
+            "how to create ideas for a variety of texts (narrative, informative, persuasive)"
+          ],
+          "ks": [
+            "I can elaborate on at least one idea.",
+            "I can expand an idea through key details, drawings, labelling and vocabulary lists/word banks.",
+            "I can include supportive descriptions, details or examples to explain the important ideas in my writing."
+          ],
+          "vocab": ["Audience", "structures", "topic", "ideas", "details", "descriptions", "prior knowledge", "personal experience"]
+        },
+        "3": {
+          "ku": [
+            "how to plan a variety of texts in detail (narrative, informative, persuasive)",
+            "how to create texts, using characters, settings, plot structures and ideas",
+            "ideas and details from mentor texts help when creating written and spoken texts"
+          ],
+          "ks": [
+            "I can include multiple ideas in a text from a range of sources.",
+            "I can create related ideas that are clear, coherent and in a logical sequence.",
+            "I can record my ideas in a range of ways including word splashes, drawings, graphics organisers, mind maps etc.",
+            "I can elaborate an idea through interesting details, drawings, labelling and vocabulary lists/word banks to create meaning."
+          ],
+          "vocab": ["ideas", "audience", "mentor texts", "sources", "range", "topic specific"]
+        },
+        "4": {
+          "ku": [
+            "that my ideas affect the choices I make within my writing depending on purpose.",
+            "the purpose of refining my ideas",
+            "how details support my idea"
+          ],
+          "ks": [
+            "I can use a variety of strategies to assist in creating ideas and recording my ideas such as word splashes, drawings, graphics organisers, mind maps etc.",
+            "I can generate my ideas from known texts, learnt topics, mentor texts or topics of interest.",
+            "I can elaborate on an idea using details."
+          ],
+          "vocab": ["specific purpose", "generate", "elaborate", "details", "refining"]
+        },
+        "5": {
+          "ku": [
+            "ideas and opinions can be supported by different sources",
+            "my ideas can influence the choices I make within my writing depending on purpose.",
+            "the purpose of refining my ideas for effect",
+            "how relevant details and elaborations support my idea"
+          ],
+          "ks": [
+            "I can use a variety of strategies to assist in creating and developing ideas.",
+            "I can generate my ideas from known texts, learnt topics, mentor texts or topics of interest.",
+            "I can use relevant details to elaborate on an idea.",
+            "I can identify and use credible sources to support my ideas.",
+            "I can succinctly plan using dot points.",
+            "I can expand on my plan to create a piece of writing."
+          ],
+          "vocab": ["Credible sources", "succinct", "expand", "purpose", "effect"]
+        },
+        "6": {
+          "ku": [
+            "what bias is and how writing can be influenced by it",
+            "that my ideas should influence the choices I make within my writing depending on purpose.",
+            "how precise details and elaborations support my idea"
+          ],
+          "ks": [
+            "I can explain what bias is and what is its purpose in my writing",
+            "I can make choices as a writer to enhance my written piece (I can write a narrative to entertain an audience)",
+            "I can interpret and paraphrase information from credible sources.",
+            "I can expand an idea by using supporting evidence or descriptive language.",
+            "I can succinctly plan using dot points.",
+            "I can expand on my plan to create piece of writing."
+          ],
+          "vocab": ["Bias", "objective", "subjective", "paraphrase", "credible source"]
+        }
+      }
+    },
+    "organisation": {
+      "name": "Organisation",
+      "years": {
+        "F": {
+          "ku": [
+            "writing is directional from left to right and top to bottom",
+            "writing is sequenced",
+            "writing has features (including a title)"
+          ],
+          "ks": [
+            "I can write from left to right, top to bottom.",
+            "I can write a title for my writing when needed.",
+            "I can include a beginning, middle and end (recount, narrative etc).",
+            "I can write in a logical sequence."
+          ],
+          "vocab": ["Directionality", "spaces", "title", "logical sequence"]
+        },
+        "1": {
+          "ku": [
+            "writing follows a logical sequence",
+            "writing has organisational features and these features assist the reader to understand the message",
+            "different text types have unique organisational features based on their purpose"
+          ],
+          "ks": [
+            "I can identify organisational features in a text.",
+            "I can explain the purpose of organisational features.",
+            "I can include organisational features in my writing based on text type/genre.",
+            "I can choose a heading that captures the main message of my writing.",
+            "I can include basic sequencing and connecting words to organise the events and information in my writing (such as and, then, also, next, last)",
+            "I can include beginning, middle, events and ending when writing to entertain.",
+            "I can include an introduction and sequence of information when writing to inform."
+          ],
+          "vocab": ["Sequence", "order", "structure", "features", "genre", "purpose", "organisation", "text type", "connecting words", "heading/title", "beginning", "middle", "end", "problem", "solution", "introduction", "body", "quality conclusion"]
+        },
+        "2": {
+          "ku": [
+            "how different types of texts are organised differently",
+            "that like ideas can be grouped together."
+          ],
+          "ks": [
+            "I can identify how different language features enhance a text.",
+            "I can identify the structure of different text types.",
+            "I can reread and edit texts for text structure.",
+            "I can include my ideas in a logical sequence.",
+            "I can experiment with organising my writing into paragraphs by grouping them into like ideas.",
+            "I can include the relevant features of a text type e.g beginning problem, solution, subheading, informative sentence, introduction, conclusion, arguments and reasons."
+          ],
+          "vocab": ["Texts", "organised", "logical sequence", "re-read", "edit", "structure"]
+        },
+        "3": {
+          "ku": [
+            "different text types have different language features and structures to suit purpose.",
+            "different text types have different purposes",
+            "that paragraphs are used to group like ideas",
+            "writer's can varying pacing in their writing e.g to 'stretch out' a moment in my writing (spotlight) and when to speed through a moment."
+          ],
+          "ks": [
+            "I can describe how different language features enhance a text.",
+            "I can describe the structure of different text types.",
+            "I can organise my writing into paragraphs by grouping them into like ideas.",
+            "I can elaborate on an idea in each of my paragraphs.",
+            "I can include spotlights and speed throughs in my text to highlight key ideas and pace.",
+            "I can include clear transitions that connect one sentence to another."
+          ],
+          "vocab": ["Text types", "language features", "organise", "describe", "enhance", "purpose"]
+        },
+        "4": {
+          "ku": [
+            "different text types have different structures to suit the purpose",
+            "text connectives are used to sequence and connect ideas",
+            "that paragraphs are used to group like ideas"
+          ],
+          "ks": [
+            "I can use an appropriate method of planning to suit the text type.",
+            "I can select the appropriate text structure to suit the purpose of my writing.",
+            "I can identify/explain the organisational features of a range of texts.",
+            "I can develop storylines, characters and settings to create a cohesive narrative (narrative only).",
+            "I can group ideas together to form paragraphs.",
+            "I can use a range of connectives to sequence my ideas (pronouns, adverbials, time connectives).",
+            "I can include 'spotlights' and 'speed throughs' in my text to highlight key ideas and pace."
+          ],
+          "vocab": ["paragraphs", "logical", "sequence", "adverbials"]
+        },
+        "5": {
+          "ku": [
+            "different text types have different structures to suit the purpose",
+            "there are a range of devices used to create cohesion in a text",
+            "paragraphs are used to enhance the composition of a text"
+          ],
+          "ks": [
+            "I can use an appropriate method of planning to suit the text type.",
+            "I can select the appropriate text structure to suit the purpose of my writing.",
+            "I can identify the organisational features of a range of text types.",
+            "I can use with a variety of storylines, characters and settings to create a cohesive narrative (narrative only).",
+            "I can explore a range of ways paragraphs can be structured to suit the purpose of the text.",
+            "I can use a range of devices to create cohesion within a text. (synonyms, cause and effect, conditionals).",
+            "I can include 'spotlights' and 'speed throughs' in my text to highlight key ideas and pace."
+          ],
+          "vocab": ["Spotlights", "speed throughs", "purpose", "devices", "cohesion", "organisational features"]
+        },
+        "6": {
+          "ku": [
+            "paragraphs are structured in a specific way and used to enhance the composition of a text",
+            "a range of devices can be purposely used to create cohesion in a text"
+          ],
+          "ks": [
+            "I can use an appropriate method of planning to suit the text type.",
+            "I can purposely structure a paragraph to suit the purpose of my writing.",
+            "I can purposely use a range of devices to create cohesion and enhance my text. (transitional phrases, comparison and contrast, word association)"
+          ],
+          "vocab": ["Paragraph", "cohesion", "transitional phrases", "compare and contrast", "word association"]
+        }
+      }
+    },
+    "sentence_fluency": {
+      "name": "Sentence Fluency",
+      "years": {
+        "F": {
+          "ku": [
+            "a simple sentence expresses a single complete idea",
+            "sentences are made up of words",
+            "sentences need to make sense to the reader"
+          ],
+          "ks": [
+            "I can identify the words in my sentence.",
+            "I can recognise when I have a complete sentence",
+            "I can write a simple sentence that makes sense.",
+            "I can identify a noun in a sentence.",
+            "I can identify a verb in a sentence.",
+            "I can identify an adjective in a sentence.",
+            "I can use nouns, verbs and adjectives in a sentence."
+          ],
+          "vocab": ["Sentence", "nouns", "adjectives", "sense", "verbs", "idea"]
+        },
+        "1": {
+          "ku": [
+            "there are different types of sentences with different features/parts",
+            "my sentences need to sound smooth and fluent when I read them aloud.",
+            "sentences start in different ways.",
+            "there are different tenses to use when writing"
+          ],
+          "ks": [
+            "I can experiment with different length sentences for effect.",
+            "I can write a simple sentence with a single clause.",
+            "I can include a noun/pronoun, verb and object in a simple sentence.",
+            "I can use conjunctions to construct a compound sentence (linking 2 independent clauses)",
+            "I can experiment with different sentence starters.",
+            "I can re-read my sentences to check they sound smooth, fluent and maintain correct tense."
+          ],
+          "vocab": ["Clause", "simple sentence", "compound sentence", "smooth", "fluent", "experiment", "noun", "pronoun", "verb", "adjective", "tense"]
+        },
+        "2": {
+          "ku": [
+            "varying the start, structure and length of sentences enhances the reader's experience",
+            "texts are made cohesive by using personal and possessive pronouns and omitting words that can be inferred",
+            "a compound sentence is made up of 2 or more independent clauses",
+            "a conjunction is used to join clauses within a compound sentence",
+            "my sentences need to make sense with consistent tense."
+          ],
+          "ks": [
+            "I can experiment with different length sentences for effect.",
+            "I can include compound sentences in my writing.",
+            "I can experiment with using complex sentences.",
+            "I can use a range of conjunctions to construct a compound sentence (linking 2 independent clauses)",
+            "I can re-read my sentences to check they sound smooth, fluent and maintain correct tense."
+          ],
+          "vocab": ["conjunctions", "compound sentences", "fluency", "smooth", "dependent clause", "independent clause", "tense"]
+        },
+        "3": {
+          "ku": [
+            "varying the start, structure and length of sentences enhances the reader's experience",
+            "the structure of a complex sentence",
+            "a cohesive piece of writing has appropriate and consistent tense",
+            "the fluency of a sentence is impacted by its grammatical structure",
+            "in sentences, nouns may be extended into noun groups using articles and adjectives, and verbs may be expressed as verb groups."
+          ],
+          "ks": [
+            "I can compose a complex sentence including an independent and dependent clause/s.",
+            "I can use singular and plural verbs effectively.",
+            "I can select and maintain an appropriate tense for my writing.",
+            "I can start sentences in a variety of ways to engage the reader.",
+            "I can re-read and make changes to my writing to ensure that it is fluent and has the correct grammatical structure."
+          ],
+          "vocab": ["Sentence structure", "cohesion", "tense", "complex sentence"]
+        },
+        "4": {
+          "ku": [
+            "varying the start, structure and length of sentences enhances the reader's experience",
+            "the correct structure of a sentence is formed using correct grammar",
+            "a cohesive piece of writing has appropriate and consistent tense",
+            "different types of sentences are used for a specific purpose",
+            "there are 3 types of conjunctions (coordinating, subordinating and correlative)"
+          ],
+          "ks": [
+            "I can create a sentence that uses consistent tenses.",
+            "I can use both prefixes and suffixes to strengthen and structure my sentences.",
+            "I can experiment with my sentence structure to create flow or rhythm.",
+            "I can select the appropriate tense to suit purpose."
+          ],
+          "vocab": ["Varying structure", "conjunctions", "coordinating", "subordinating", "correlative", "prefix", "suffix"]
+        },
+        "5": {
+          "ku": [
+            "sentence fluency is the flow of words and phrases within writing and impacts readability",
+            "different types of sentences are used for a specific purpose",
+            "how to appropriately use different types of conjunctions (coordinating, subordinating and correlative)"
+          ],
+          "ks": [
+            "I can use a variety of sentence lengths and types for effect.",
+            "I can use connectives to show and build relationships between sentences.",
+            "I can use interesting and varied sentence beginnings",
+            "I can use a strong starting sentence for a specific purpose.",
+            "I can use subsequent sentences to elaborate on the starting sentence.",
+            "I can start sentences in a variety of ways to engage the reader.",
+            "I can include prepositional phrases in my writing."
+          ],
+          "vocab": ["Connectives", "sentence types", "subsequent", "elaborating", "readability", "correlative"]
+        },
+        "6": {
+          "ku": [
+            "sentence fluency is the flow of words and phrases within writing and impacts readability",
+            "different types of sentences are used for a specific purpose"
+          ],
+          "ks": [
+            "I can experiment with sentence structure for maximum impact.",
+            "I can embed the use of different sentence types in my writing",
+            "I can choose appropriate conjunctions to add precise meaning to sentences"
+          ],
+          "vocab": ["Readability", "impact", "purpose", "conjunctions", "embed"]
+        }
+      }
+    },
+    "conventions": {
+      "name": "Conventions",
+      "years": {
+        "F": {
+          "ku": [
+            "punctuation makes writing easier for the reader to understand",
+            "a capital letter should be used at the start of my writing and for names",
+            "writing needs to finish with a full stop",
+            "punctuation marks are used to guide the reader through the writing (capital letters and full stops)"
+          ],
+          "ks": [
+            "I can start my writing with a capital letter.",
+            "I can use lowercase letters correctly.",
+            "I can finish my writing with a full stop.",
+            "I can explain why I am using certain punctuation in my writing (e.g I am using a full stop to say my writing is finished, I am using a capital letter here because this is someone's name).",
+            "I can work with my teacher to identify if my writing makes sense. (tense)",
+            "I can read over my own writing, identifying my capital letters and full stops.",
+            "I can work with my teacher to add in any missing capital letters and full stops."
+          ],
+          "vocab": ["Punctuation", "capital letters", "full stops", "lowercase", "uppercase"]
+        },
+        "1": {
+          "ku": [
+            "the purpose of capital letters within a sentence (at the start and proper nouns)",
+            "sentences have concluding punctuation",
+            "punctuation can be used to create effect and to guide the reader (exclamation mark, question mark and full stop)"
+          ],
+          "ks": [
+            "I can begin my sentences with a capital letter.",
+            "I can finish my sentences with a full stop.",
+            "I can use a capital letter for a proper noun.",
+            "I can use question marks at the end of a sentence when I am writing a question.",
+            "I can use exclamation marks for effect.",
+            "I can revise my writing to improve meaning and effect.",
+            "I edit my writing to fix up punctuation errors.",
+            "I can experiment with other types of punctuation (e.g ellipses, quotation marks, commas etc)"
+          ],
+          "vocab": ["Capital letter", "full stop", "proper nouns", "question mark", "beginning", "end", "revise", "edit"]
+        },
+        "2": {
+          "ku": [
+            "capital letters are used for proper nouns (including titles)",
+            "commas are used to separate items in lists",
+            "texts can be edited and re-read for spelling and sentence boundary punctuation",
+            "punctuation can be used to make the text interesting and to support voice",
+            "punctuation marks are used to guide the reader through the writing (exclamation marks, question marks, full stops, capital letters, commas)"
+          ],
+          "ks": [
+            "I can re-read and edit my text to improve it.",
+            "I can include capital letters and full stops in my writing in appropriate places (start and end of a sentence and for proper nouns)",
+            "I can ensure capital letters are included when writing a title.",
+            "I can include commas appropriately when writing a list.",
+            "I can experiment with: apostrophes, ellipses, quotation marks"
+          ],
+          "vocab": ["Commas", "capital letters", "proper nouns", "pronouns", "exclamation marks", "question marks"]
+        },
+        "3": {
+          "ku": [
+            "paragraphs are a key organisational features grouping related information together",
+            "texts should be re-read and edited for meaning appropriate structure, grammatical choices and punctuation.",
+            "apostrophes are used for contractions and to show possession.",
+            "punctuation marks are used to guide the reader through the writing (apostrophes, ellipsis)"
+          ],
+          "ks": [
+            "I can use paragraphs in my writing.",
+            "I can use apostrophes accurately.",
+            "I can use ellipsis in my writing.",
+            "I can use quotation marks.",
+            "I can experiment with using brackets in my writing.",
+            "I can edit my writing to ensure conventions are applied consistently and accurately"
+          ],
+          "vocab": ["Paragraphs", "clause", "re-read", "edit", "grammar", "apostrophes"]
+        },
+        "4": {
+          "ku": [
+            "that writers use brackets to add additional information",
+            "quotation marks are used to symbolise dialogue in my writing",
+            "paragraphs are based on one idea or a set of ideas",
+            "punctuation marks are used to guide the reader through the writing (quotation marks, apostrophes)"
+          ],
+          "ks": [
+            "I can use brackets to clarify the subject within my text.",
+            "I can correctly use quotation marks to represent dialog in my text.",
+            "I can group relevant ideas into paragraphs"
+          ],
+          "vocab": ["Brackets", "quotation marks", "apostrophe", "contraction"]
+        },
+        "5": {
+          "ku": [
+            "conventions allow us to edit the text and prepare it for the reader",
+            "there are common systems used to edit my writing.",
+            "punctuation marks are used to guide the reader through the writing. (commas to indicate phrases)"
+          ],
+          "ks": [
+            "I can use commas when using prepositional phrases in my writing.",
+            "I can use apostrophes to show possession for regular and irregular nouns.",
+            "I can use symbols when editing my writing.",
+            "I can use commas to separate dependent and independent clauses.",
+            "I can independently edit my writing to improve its readability.",
+            "I can explain/justify editing choices for my own writing and when editing others' writing."
+          ],
+          "vocab": ["Punctuation", "guide", "phrases", "possession", "irregular", "dependent and independent clauses", "edit", "revise"]
+        },
+        "6": {
+          "ku": [
+            "conventions allow us to edit the text and prepare it for the reader",
+            "there are common systems used to edit my writing.",
+            "punctuation can be used to guide the reader through the writing and to create effect and experiences"
+          ],
+          "ks": [
+            "I can use commas to separate dependent and independent clauses.",
+            "I can use colons appropriately in writing.",
+            "I can use brackets effectively in my writing.",
+            "I can independently edit my writing to improve its readability.",
+            "I can use a range of punctuation for different effects and purposes."
+          ],
+          "vocab": ["Commas", "clauses", "dependent", "independent", "colons", "brackets", "effects", "purposes"]
+        }
+      }
+    },
+    "presentation": {
+      "name": "Presentation",
+      "years": {
+        "F": {
+          "ku": [
+            "my writing needs to be legible",
+            "when I am presenting my work it needs to be my personal best",
+            "how to form letters",
+            "visuals can enhance my writing",
+            "writing can be published for an audience."
+          ],
+          "ks": [
+            "I can draw a picture which matches my writing.",
+            "I can form upper and lowercase letters of the alphabet using the correct starting point and direction.",
+            "I can form lowercase letters of the alphabet using the correct starting point and direction.",
+            "I can include the changes made during revising and editing."
+          ],
+          "vocab": ["Audience", "letters", "publish", "pictures/illustrations", "author", "illustrator", "revising and editing"]
+        },
+        "1": {
+          "ku": [
+            "when I present my writing it is for an audience",
+            "when I am presenting my work it needs to be my personal best.",
+            "when to correctly use upper and lower case letters",
+            "I can select different formats to publish",
+            "visuals can enhance my writing"
+          ],
+          "ks": [
+            "I can include my revisions and edits in my final published piece.",
+            "I can select/create visuals that will enhance the reader's understanding.",
+            "I can form upper and lowercase letters of the alphabet using the correct starting point and direction.",
+            "I can form lowercase letters of the alphabet using the correct starting point and direction."
+          ],
+          "vocab": ["Audience", "letters", "publish", "pictures/illustrations", "author", "illustrator", "revising and editing"]
+        },
+        "2": {
+          "ku": [
+            "how to create and present my writing for an audience",
+            "when I am presenting my work it needs to be my personal best",
+            "how to write words legibly and with growing fluency",
+            "I can experiment with digital options to publish my writing.",
+            "visuals can enhance my writing",
+            "edits and revisions enhance my work"
+          ],
+          "ks": [
+            "I can write words using letters that are correctly formed and legible.",
+            "I can use different types of visuals to enhance my presentation with my audience in mind (e.g diagram, pictures, caption)",
+            "I can use applications on an iPad to publish my writing.",
+            "I can include my revisions and edits in my published work"
+          ],
+          "vocab": ["Personal best", "legibly", "uppercase", "lowercase", "edits", "revisions"]
+        },
+        "3": {
+          "ku": [
+            "how to create and present a text for a specific audience",
+            "that when I am presenting my work it needs to be my personal best",
+            "how to write words using early formed and consistent in size",
+            "technology can enhance the presentation of my writing",
+            "that a visuals can enhance my writing",
+            "that edits and revisions enhance my work."
+          ],
+          "ks": [
+            "I can include appropriate multimodal elements when presenting my writing.",
+            "I can produce writing which is legible and easily read by the audience.",
+            "I can include my edits and revisions when publishing.",
+            "I can include visuals to enhance the understanding and effect of my writing."
+          ],
+          "vocab": ["Legible", "visuals", "effect", "edits", "revisions"]
+        },
+        "4": {
+          "ku": [
+            "I can present my writing in a range of written and digital formats",
+            "what 'white space' is and how to frame my text appropriately.",
+            "visuals can enhance my writing"
+          ],
+          "ks": [
+            "I can use clearly formed letters that are an appropriate size.",
+            "I can use a range of applications on an iPad to construct, edit and publish a written text.",
+            "I can include in my 'white space' margins, appropriate space between letters, words and lines.",
+            "I can include relevant illustrations, labelled diagrams, graphs, charts or tables to enhance my writing."
+          ],
+          "vocab": ["White Space", "legible", "handwritten", "applications"]
+        },
+        "5": {
+          "ku": [
+            "I can present my writing in a range of written and digital formats",
+            "how to utilise a 'white space' appropriately to frame my text",
+            "visuals can enhance my writing",
+            "how to use an agreed upon criteria to revise and edit my own writing and others."
+          ],
+          "ks": [
+            "I can include relevant illustrations, labelled diagrams, graphs, charts or tables to enhance my writing.",
+            "I can reread and edit my own and others work using agreed upon criteria.",
+            "I can make choices around fonts to create information and formal writing creations.",
+            "I can use a range of applications to construct, edit and publish a written text."
+          ],
+          "vocab": ["White Space", "legible", "handwritten", "word processing"]
+        },
+        "6": {
+          "ku": [
+            "I can present my writing in a range of written and digital formats",
+            "what 'white space' is and how to frame my text appropriately",
+            "visuals can enhance my writing",
+            "how to use an agreed upon criteria to revise and edit my own writing and others"
+          ],
+          "ks": [
+            "I can make choices around fonts to create information and formal writing creations.",
+            "I can develop fluency with my sentences.",
+            "I can use a range of applications to construct, edit and publish a written text.",
+            "I can include in my 'white space' margins, appropriate space between letters, words and lines.",
+            "I can include relevant illustrations, labelled diagrams, graphs, charts or tables to enhance my writing."
+          ],
+          "vocab": ["White Space", "legible", "handwritten", "word processing"]
+        }
+      }
+    }
+  }
+}

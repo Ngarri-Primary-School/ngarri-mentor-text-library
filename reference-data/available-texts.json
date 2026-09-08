@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "description": "School library books for which a full text file (PDF or EPUB) is locally available. These can be read directly for blurb verification and future enrichment stages (trait identification, reading strategy tagging, etc.)",
+    "texts_base_path": "/Users/phillcantone/Library/Mobile Documents/com~apple~CloudDocs/Family/Phill/AI Coding/Mentor Texts/",
+    "last_updated": "2026-06-24",
+    "total_with_text": 14
+  },
+  "library_books_with_text": [
+    {
+      "row": 34,
+      "title": "The Important Book",
+      "author": "Brown, Margaret Wise",
+      "file": "Misc/the important  book -- margaret wise brown.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 71,
+      "title": "The Twits",
+      "author": "Dahl, Roald",
+      "file": "Misc/The Twits (Roald Dahl) (Z-Library).pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 90,
+      "title": "Hello, Harvest Moon",
+      "author": "Fletcher, Ralph",
+      "file": "Ralph Fletcher/Hello, Harvest Moon.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 93,
+      "title": "Whoever You Are",
+      "author": "Fox, Mem",
+      "file": "Mem Fox/Whoever you are (Mem Fox).pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 157,
+      "title": "Frederick",
+      "author": "Lionni, Leo",
+      "file": "Leo Lionni/Frederick (Leo Lionni) (Z-Library).pdf",
+      "format": "pdf",
+      "also_epub": "Leo Lionni/Frederick (Leo Lionni) (Z-Library).epub"
+    },
+    {
+      "row": 232,
+      "title": "Dingo",
+      "author": "Saxby, Claire",
+      "file": "Claire Saxby/Dingo/Dingo -- Claire Saxby.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 233,
+      "title": "Koala",
+      "author": "Saxby, Claire",
+      "file": "Claire Saxby/Koala/Koala -- Claire Saxby; illustrated by Julie Vivas.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 235,
+      "title": "Kookaburra",
+      "author": "Saxby, Claire",
+      "file": "Claire Saxby/Kookaburra/Kookaburra -- Claire Saxby, Tannya Harricks.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 237,
+      "title": "Emu",
+      "author": "Saxby, Claire",
+      "file": "Claire Saxby/Emu/Emu -- Claire Saxby; illustrated by Graham Byrne -- First U_S_ edition, Somerville, Massachusetts, 2015 -- Somerville, Massachusetts_ Candlewick -- 9780763674793 -- b167ebf57e7e357adf82270381536b51 -- Anna's Archive.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 239,
+      "title": "Big Red Kangaroo",
+      "author": "Saxby, Claire",
+      "file": "Claire Saxby/Big Red Kangaroo/Big Red Kangaroo.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 240,
+      "title": "The Boy Who Loved Words",
+      "author": "Schotter, Roni",
+      "file": "Word Choice/The Boy Who Loved Words (Schotter, Roni) (Z-Library).epub",
+      "format": "epub"
+    },
+    {
+      "row": 242,
+      "title": "The Giving Tree",
+      "author": "Silverstein, Shel",
+      "file": "Misc/The Giving Tree (Shel Silverstein).pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 282,
+      "title": "The Treasure Box",
+      "author": "Wild, Margaret",
+      "file": "Margaret Wild/Treasure Box/The Treasure Box -- Margaret Wild; illustrated by Freya Blackwood -- First U_S_ edition, Somerville, Massachusetts, 2017 -- Somerville, Massachusetts_ -- 9780670073658 -- 00ace6fc7241660dc821cd35cad95e3d -- Anna's Archive.pdf",
+      "format": "pdf"
+    },
+    {
+      "row": 296,
+      "title": "Owl Moon",
+      "author": "Yolen, Jane",
+      "file": "Jane Yolen/Owl Moon.pdf",
+      "format": "pdf"
+    }
+  ],
+  "other_texts_not_in_library": [
+    "Chris Van Allsburg — The Mysteries of Harris Burdick",
+    "Chris Van Allsburg — The Chronicles of Harris Burdick (anthology)",
+    "Byrd Baylor — I'm in Charge of Celebrations",
+    "Eric Carle — Slowly, Slowly, Slowly, Said the Sloth",
+    "Abigail Hanlon — Ralph Tells a Story",
+    "David Wisniewski — The Secret Knowledge of Grown-Ups",
+    "Alvin Tresselt — White Snow, Bright Snow",
+    "Leo Lionni — A Color of His Own",
+    "Leo Lionni — It's Mine",
+    "Leo Lionni — Swimmy",
+    "Leo Lionni — Tillie and the Wall",
+    "Leo Lionni — Parallel Botany",
+    "Margaret Wild — Fox",
+    "Mem Fox — Feathers and Fools",
+    "Dougal Dixon — After Man: A Zoology of the Future",
+    "Austin Kleon — Newspaper Blackout",
+    "Molly Bang — Ocean Sunlight: How Tiny Plants Feed the Seas",
+    "Anna Llenas — The Colour Monster",
+    "Patricia Polacco — Thunder Cake",
+    "Patricia Polacco — The Keeping Quilt",
+    "Peter H. Reynolds — The Dot",
+    "Peter H. Reynolds — The Word Collector",
+    "Ashley Spires — The Most Magnificent Thing",
+    "Nancy Loewen — The BIG Problem (and the Squirrel Who Eventually Solved It)",
+    "Margaret Wise Brown — The Important Book (note: also in library as #34)"
+  ]
+}

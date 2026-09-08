@@ -4,6 +4,8 @@ School project handover updated 8 September 2026. This package contains the work
 
 Shared progress viewer: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 
+The active structured curriculum, reading, PRIDE, inquiry and calibration files are indexed in [`reference-data/README.md`](reference-data/README.md). This is a verified working set rather than a claim that every possible school or professional reference has been collected.
+
 ## Start the existing prototype
 
 With Python 3 installed, run from this repository:

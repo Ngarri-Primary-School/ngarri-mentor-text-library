@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "source": "Ngarri PS conceptual lenses for inquiry (1).pdf",
+    "extracted": "2026-06-24",
+    "notes": [
+      "All descriptions are verbatim from the source document.",
+      "Four lenses are intended to be used across Victorian Curriculum learning areas and capabilities, revisited each year at increasing complexity.",
+      "selection_indicators are derived from each lens description and are intended to guide the enrichment pipeline in deciding whether to tag a lens.",
+      "A book may connect to more than one lens, but the connection should be grounded in a specific theme, question, or storyline in the text — not a loose generalisation."
+    ]
+  },
+  "lenses": {
+    "social_responsibility": {
+      "display_name": "Social Responsibility",
+      "description": "Students will investigate local and global communities and consider the challenges and opportunities associated with living in a diverse society. This lens is about social organisation and the ways in which people are connected to and have responsibility for each other. Students will explore the concept of change, discovering ways in which the past has made us who we are and how and why society changes over time. Students will develop citizenship by building skills for active involvement in their community.",
+      "selection_indicators": [
+        "The text explores how people are connected to or responsible for each other.",
+        "The text depicts community, diversity, or what it means to belong.",
+        "The text explores fairness, justice, or the challenges of living in society.",
+        "The text examines how the past shapes identity or how communities change over time.",
+        "The text raises questions about citizenship, rights, or active participation in community life."
+      ]
+    },
+    "environmental_sustainability": {
+      "display_name": "Environmental Sustainability",
+      "description": "Students will investigate our dependence on a healthy natural environment. Investigations focus on the diversity and richness of the natural environment and the ways in which humans use and interact with the environment. Importantly, this lens emphasises the need to care for and live responsibly with the environment - at a local, national and global level.",
+      "selection_indicators": [
+        "The text explores the natural environment — its diversity, richness, or fragility.",
+        "The text depicts the relationship between humans and the natural world.",
+        "The text raises questions about caring for, protecting, or living responsibly with the environment.",
+        "The text addresses environmental challenges at a local, national, or global scale.",
+        "The text explores what it means to depend on and coexist with nature."
+      ]
+    },
+    "the_physical_world": {
+      "display_name": "The Physical World",
+      "description": "Students will investigate the systems that govern physical phenomena in both the natural and built environment. They will become more aware of how science can help us explain the way the world works and the impact of science and technology on our lives. As students work through scientific problem solving, experimenting and gathering data, they become aware of the powerful role that design, technology and scientific thinking have in the world. This lens also promotes the processes used to innovate, create, make and evaluate.",
+      "selection_indicators": [
+        "The text engages with science, technology, engineering, or design.",
+        "The text explores how the physical or built world works.",
+        "The text features problem solving, experimentation, invention, or innovation.",
+        "The text raises questions about the role of science and technology in our lives.",
+        "The text depicts processes of making, creating, or evaluating in a physical or technological context."
+      ]
+    },
+    "identity_creativity_wellbeing": {
+      "display_name": "Identity, Creativity and Wellbeing",
+      "description": "Students will investigate their uniqueness, talents and passions, and inquire into how to best nurture themselves - physically, emotionally, mentally and spiritually. This lens focuses on how we can work towards our potential, develop resilience, build healthy relationships and make wise choices. It fosters self-expression, resilience and creativity and explores how we change and grow. This lens is also about expressions through the arts and how this in turn helps us communicate with others.",
+      "selection_indicators": [
+        "The text explores identity, self-discovery, or what makes someone who they are.",
+        "The text depicts a character developing resilience, working through emotions, or growing as a person.",
+        "The text explores creativity, self-expression, or the arts as a way of communicating.",
+        "The text raises questions about wellbeing — physical, emotional, mental, or relational.",
+        "The text explores building healthy relationships or making wise choices.",
+        "The text follows a character changing, growing, or discovering their potential."
+      ]
+    }
+  }
+}

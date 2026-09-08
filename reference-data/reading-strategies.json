@@ -1,0 +1,600 @@
+{
+  "metadata": {
+    "source": "Curriculum - ENGLISH. working copy.pdf",
+    "extracted": "2026-06-24",
+    "notes": [
+      "Speaking and Listening sections are blank throughout the working copy document — not extracted.",
+      "Phonological Awareness, Phonics, and Fluency sections are not relevant to mentor text selection — not extracted.",
+      "Editor annotations excluded: coloured/highlighted meta-notes, '***' queries, '- reword' markers, and embedded questions about whether content belongs.",
+      "Substantive curriculum content appearing in highlighted or coloured text has been included — highlights appear to be editorial review markers, not exclusions.",
+      "Foundation uses different category heading names: 'Literal knowledge/comprehension' maps to thinking_within_text; 'Verbal responding (inference, metaphor)' maps to thinking_beyond_text; 'Literacy knowledge (print concepts, genre)' maps to thinking_about_text.",
+      "Y4 Thinking within text KS: source reads 'I can can for information' — extracted as 'I can scan for information' (source typo).",
+      "Y4 Monitoring KU: source reads 'Monitoring includes checking word recognition, syntax, meaning, and fluency. - wording?' — excluded '- wording?' editor note.",
+      "Y5 Thinking about text KS: source reads 'discuss the purpose for this.m' — trailing '.m' removed (source typo).",
+      "Y6 Thinking within text KS: 'sideboards' appears to be a source typo for 'sidebars' — extracted verbatim.",
+      "Y6 Thinking within text KS: 'specifi' appears to be a source typo for 'specific' — extracted verbatim.",
+      "Visualising and Questioning added to strategy_index on Phill's instruction (2026-06-24): Visualising maps to thinking_beyond_text, Questioning maps to thinking_about_text.",
+      "Years extracted: Foundation (F), 1, 2, 3, 4, 5, 6."
+    ]
+  },
+  "categories": {
+    "vocabulary": {
+      "display_name": "Vocabulary",
+      "strategies": [],
+      "years": {
+        "F": {
+          "ku": [
+            "Topic specific vocabulary are words which are connected to a specific topic.",
+            "Each person has their own individual vocabulary (words they know, understand and use)",
+            "Different words are seen within different topics"
+          ],
+          "ks": [
+            "I can predict words I might see within a text about a specific topic.",
+            "I can identify when a word is new to my vocabulary.",
+            "I can ask questions about new vocabulary words. (e.g asking the teacher or a friend what does this word mean).",
+            "I can use clues from the pictures to work out the meaning",
+            "I can explain what a new words means"
+          ],
+          "vocab": []
+        },
+        "1": {
+          "ku": [
+            "Topic specific vocabulary are words which are connected to a specific topic.",
+            "Each person has their own individual vocabulary (words they know, understand and use)",
+            "Different words are seen within different topics",
+            "The meaning of topic specific vocabulary can be inferred through clues in the text.",
+            "That words can be organised into a tier from everyday words to topic specific.",
+            "Nouns are naming words, verbs are action words and adjectives are describing words."
+          ],
+          "ks": [
+            "I can use the picture to work out the meaning of a word.",
+            "I can use text to work out the meaning of a word.",
+            "I can build my vocabulary with new words i learn when I am reading (e.g demonstrate by using the word in a sentence, writing etc)",
+            "I can categories words into tiers.",
+            "I can identify examples of nouns, verbs and adjectives within a text."
+          ],
+          "vocab": []
+        },
+        "2": {
+          "ku": [
+            "Topic specific vocabulary are words which are connected to a specific topic.",
+            "The meaning of topic specific vocabulary can be inferred through clues in the text (picture, texts, diagrams and knowledge of word parts e.g hopeless means without hope.)",
+            "That words can be organised into a tier from everyday words to topic specific.",
+            "Nouns are naming words, verbs are action words, adjectives are describing words and adverbs describe actions."
+          ],
+          "ks": [
+            "I can use text to work out the meaning of a word.",
+            "I can build my vocabulary with new words i learn when I am reading (e.g demonstrate by using the word in a sentence, writing etc)",
+            "I can categorise words into tiers.",
+            "I can identify examples of nouns, verbs, adverbs and adjectives within a text."
+          ],
+          "vocab": []
+        },
+        "3": {
+          "ku": [
+            "Authors can use literacy devices for effect and purpose.",
+            "The meaning of vocabulary words and phrases can be worked out using a range of strategies.",
+            "The same words can have different meanings depending on the context they are used within a sentence.",
+            "Modal verbs are used by authors to indicate different degrees of obligation, probability and possibility"
+          ],
+          "ks": [
+            "I can identify the literacy devices used by the author such as rhyme, onomatopoeia, descriptive language, alliteration and discuss their purpose/effect",
+            "I can use a range of strategies to work out the meaning of unknown words and phrases (using picture clues, context of the sentence, diagrams, glossaries, knowledge of words parts, using a dictionary or thesaurus).",
+            "I can identify examples of modal verbs within the text and discuss their purpose."
+          ],
+          "vocab": []
+        },
+        "4": {
+          "ku": [
+            "Authors can use literacy devices for effect and purpose.",
+            "examining an author's choice of language to describe a character's appearance, behaviour and speech",
+            "The meaning of vocabulary words and phrases can be worked out using a range of strategies.",
+            "The same words can have different meanings depending on the context they are used within a sentence.",
+            "Modal verbs are used by authors to indicate different degrees of obligation, probability and possibility",
+            "using language appropriate for a text, such as 'flashback', 'tension' and 'resolution', when sharing opinions about plot structure",
+            "defining neologisms and puns, and identifying how they are used by authors to create a sense of freshness, originality and playfulness",
+            "discussing poetic language, including adjectives that engage readers emotionally and bring the poet's subject matter to life",
+            "exploring emotive language in text"
+          ],
+          "ks": [
+            "I can explain the purpose/effect of literacy devices used by the author such as rhyme, onomatopoeia, descriptive language, alliteration, flashback, tension, puns etc.",
+            "I can use a range of strategies to work out the meaning of unknown words and phrases (using picture clues, context of the sentence, diagrams, glossaries, knowledge of words parts, using a dictionary or thesaurus).",
+            "I can explain the purpose of words, phrases and literary devices used by the author",
+            "I can identify examples of modal verbs within the text and discuss their purpose."
+          ],
+          "vocab": []
+        },
+        "5": {
+          "ku": [
+            "Specific vocabulary is used to describe literacy devices, text structure and language features (metaphor, symbolism, tone, theme, plot etc). Using this vocabulary can help the reader share opinions about a text.",
+            "A range of strategies can be utilised to decipher the meaning of unknown words and phrases."
+          ],
+          "ks": [
+            "I can use specific vocabulary to describe literacy devices, text structure and language features (metaphor, symbolism, tone, theme, plot).",
+            "I can use a range of strategies to decipher the meaning of unknown words and phrases such as reading on, utilising glossaries, dictionaries, thesauruses, diagraphs, charts etc."
+          ],
+          "vocab": []
+        },
+        "6": {
+          "ku": [
+            "The meaning and history of words allows us to gain a deeper understanding of their use.",
+            "Some words are ambiguous and their meaning may be subject to interpretation.",
+            "Some words are created by authors themselves to create nuances.",
+            "Authors use objective and subjective language for a range of purposes."
+          ],
+          "ks": [
+            "I can utilise a range of resources to decipher the history and meaning of words.",
+            "I can discuss the effect of ambiguous words if they are interpreted differently.",
+            "I can identify author-created words and discuss the purpose for which they have been used.",
+            "I can identify the author's use of objective and subjective language and discuss its purpose.",
+            "I can use a range of strategies to decipher the meaning of unknown words and phrases such as reading on, utilising glossaries, dictionaries, thesauruses, diagraphs, charts etc."
+          ],
+          "vocab": []
+        }
+      }
+    },
+    "monitoring_self_correcting": {
+      "display_name": "Monitoring and self correcting",
+      "strategies": ["self_monitoring"],
+      "years": {
+        "F": {
+          "ku": [
+            "What I read needs to make sense, sound right and look right.",
+            "I need to stop when what I have read does not make sense, sound right or look right.",
+            "Clues from the pictures and words can help me fix up my errors."
+          ],
+          "ks": [
+            "I can stop when my reading does not make sense, sound right or look right. (Choose 1 to focus on for a series of lessons)",
+            "I can go back to the start of the sentence and re-read",
+            "I can fix up my error using picture or word clues and continue reading."
+          ],
+          "vocab": []
+        },
+        "1": {
+          "ku": [
+            "When I read needs to make sense, sound right and look right.",
+            "I need to stop when what I have read does not make sense, sound right or look right.",
+            "Clues from the pictures and words can help me fix up my errors.",
+            "I need to think about what I am reading at all times."
+          ],
+          "ks": [
+            "I can stop when my reading does not make sense, sound right or look right. (Choose 1 to focus on for a series of lessons)",
+            "I can fix up my errors using picture or word clues and continue reading.",
+            "I can ask myself \"Do I understand what I have read?\"",
+            "I can go back and re-read when I have lost meaning.",
+            "I can explain what I have read."
+          ],
+          "vocab": []
+        },
+        "2": {
+          "ku": [
+            "To understand what I read I need to think about (monitor) what I am reading at all times.",
+            "To understand a text I need to re-read when my reading has lost meaning or doesn't make sense."
+          ],
+          "ks": [
+            "I can use a range of strategies to self correct and monitor my reading. E.g *letter sound knowledge *high frequency words *content knowledge *aware of text structure and features"
+          ],
+          "vocab": []
+        },
+        "3": {
+          "ku": [
+            "Self-monitoring when reading involves thinking about what is being read and using multiple sources to confirm meaning. These sources include language structure, illustrations, and diagrams.",
+            "Homographs are words that are spelt the same but have different meanings, and sometimes different pronunciations. Understanding them requires using context to determine which meaning is intended.",
+            "Homophones are words that sound the same but have different meanings and spellings.",
+            "Contractions are when two words are combined to make a new, shorter word. An apostrophe is used to show where the letters have been removed."
+          ],
+          "ks": [
+            "I can self-monitor when reading by asking myself 'Does this make sense?'",
+            "I can use multiple sources in a text to check my understanding. Including rereading the sentence or passage, using the images, glossary, caption, knowledge of the topic etc.",
+            "I can use the context of the text to read homographs with accuracy.",
+            "I can use the spelling of homophones and the context of the text to read homophones with accuracy.",
+            "I can use my understanding of contractions to understand their meaning within the text."
+          ],
+          "vocab": []
+        },
+        "4": {
+          "ku": [
+            "Readers actively monitor their reading, they check for meaning, recognise when something doesn't make sense, and take corrective action.",
+            "Monitoring includes checking word recognition, syntax, meaning, and fluency."
+          ],
+          "ks": [
+            "I can ask or think questions while reading (e.g., \"What did I just read? Does that match what I expect? What might come next?\")",
+            "I can pause during reading to check: \"Does this make sense? Does it fit with what I've read so far?\"",
+            "I can recognise when a reading error has changed meaning (for example, misreading a word, skipping a line, misunderstanding punctuation) and go back to correct it.",
+            "I can use multiple sources of information (semantic: meaning; syntactic: structure; graphophonic: letter-sound) to reassess a part of text when meaning is lost.",
+            "I can re-read or slow down when comprehension breaks down (word confusion, sentence complexity, unfamiliar vocabulary)."
+          ],
+          "vocab": []
+        },
+        "5": {
+          "ku": [
+            "Strategies can be used to repair meaning at the word, sentence and text level.",
+            "Literacy elements allow me to monitor and correct my reading."
+          ],
+          "ks": [
+            "I can use a variety of strategies to self correct including re-reading, cross checking",
+            "I can utilise my knowledge of text structure and features to monitor and self correct"
+          ],
+          "vocab": []
+        },
+        "6": {
+          "ku": [
+            "Strategies can be used to repair meaning at the word, sentence and text level.",
+            "Literacy elements allow me to monitor and correct my reading.",
+            "Knowledge of tier 3 language can assist me to monitor understanding of texts with new information and idea."
+          ],
+          "ks": [
+            "I can use a variety of strategies to self correct including re-reading, cross checking",
+            "I can utilise my knowledge of text structure and features to monitor and self correct"
+          ],
+          "vocab": []
+        }
+      }
+    },
+    "thinking_within_text": {
+      "display_name": "Thinking within the text",
+      "strategies": ["summarising", "determining_importance"],
+      "years": {
+        "F": {
+          "ku": [
+            "Retelling is when I tell what happened in the text",
+            "Some texts need to be retold in order and some do not (Fiction vs non-fiction)",
+            "Pictures and words in the text can help me answer questions."
+          ],
+          "ks": [
+            "I can look back at the pictures and words to retell 1-2 pieces of important information",
+            "I can look back at the pictures and words in the book to retell what happened.",
+            "I can retell the beginning, problem and solution of a text.",
+            "I can retell the events/steps in order"
+          ],
+          "vocab": []
+        },
+        "1": {
+          "ku": [
+            "Every text has a purpose it was written for.",
+            "Summarising is when we tell the most important information from a text.",
+            "Each genre has unique features. These features are important when summarising and locating specific information."
+          ],
+          "ks": [
+            "I can identify the purpose for reading.",
+            "I can explain what information is important within the text.",
+            "I can use the sequence of a text to help me locate information.",
+            "I can use the features of a non-fiction text to locate information, including the contents page, subheadings, glossary, captions, pictures and diagrams.",
+            "I can use the features of fiction texts to locate information, chronological order, plot, events, problems, solutions and characters."
+          ],
+          "vocab": []
+        },
+        "2": {
+          "ku": [
+            "Texts are created for a specific purpose and audience",
+            "Summarising is when we retell the most important information from within a text.",
+            "Each genre has unique features. These features are important when summarising and locating specific information.",
+            "The main idea of the text is most important point/part the author wants us to understand"
+          ],
+          "ks": [
+            "I can identify the purpose and audience of different types of texts",
+            "I can explain what information is important within the text.",
+            "I can summarise a text in the correct sequence.",
+            "I can use the features of a non-fiction text to locate information, including the contents page, subheadings, glossary, captions, pictures and diagrams.",
+            "I can use the features of fiction texts to locate key information, chronological order, plot, events, problems, solutions and characters.",
+            "I can identify and justify what the main idea of the text is."
+          ],
+          "vocab": []
+        },
+        "3": {
+          "ku": [
+            "Images and sounds within a text enhance our understanding of texts.",
+            "Summaries are more precise when we retell only the most important ideas, events or details"
+          ],
+          "ks": [
+            "I can identify different types of images used within a text such as photographs, diagrams, maps, labels etc).",
+            "I can explain how these images helped us understand the text.",
+            "I can identify important and un-important ideas, events or details"
+          ],
+          "vocab": []
+        },
+        "4": {
+          "ku": [
+            "The main and supporting ideas of a text help us identify and elaborate on our understanding of the text.",
+            "Summaries can include a climax, theme and lesson.",
+            "Author's use dialogue to help us understand a character.",
+            "Scanning or skimming ahead allows us to search for information more efficiently."
+          ],
+          "ks": [
+            "identifying moments in the plot where characters are faced with choices, and commenting on how the author makes the reader care about their decisions and the consequences",
+            "I can identify the main idea of the text and their supporting details.",
+            "I can identify what is learnt about a character through dialogue such as their likes, dislikes or personal qualities",
+            "I can include the climate, lesson and theme of the text when summarising.",
+            "I can scan for information using key words and graphics."
+          ],
+          "vocab": []
+        },
+        "5": {
+          "ku": [
+            "Certain sections of a text can be more significant to summarise to help us understand the characters, plot or message of a text.",
+            "The main idea of the text is the central point or most important thought the author wants to convey about a topic.",
+            "Texts on the same topic may have similarities and differences in ideas.",
+            "Information about a text can be summarised from several sources.",
+            "Texts can represent details and information about historical, cultural and social contexts. Including texts by Aboriginal and Torres Strait Islander authors and those from a range of backgrounds."
+          ],
+          "ks": [
+            "I can summarise the ideas and information in the text along with the main idea.",
+            "I can explain how the ideas of a text are similar or different.",
+            "I can select a section of the text and summarise it to reflect my understanding of the characters, plot and message.",
+            "I can locate the main ideas from different texts and use them to summarise information about a topic.",
+            "I can identify aspects of a text (images, symbols, dialogue, character description) that are representing details and information about historical, cultural or social context."
+          ],
+          "vocab": []
+        },
+        "6": {
+          "ku": [
+            "A range of resources can be utilised to search for information.",
+            "Embedded clauses can expand the variety of complex sentences to elaborate, extend and explain ideas.",
+            "Summaries need to be of concise relate important information, often with relevant opinions and evidence which reflect the overall message or theme of the text.",
+            "Information in texts have different hierarchies ranging from most to least important"
+          ],
+          "ks": [
+            "I can identify the overall message or theme of the texts",
+            "I can summarise the texts using relevant information, arguments or opinions which support the overall message or meaning of the text.",
+            "I can investigate how the choice of conjunctions enables the construction of complex sentences to extend, elaborate on and explain ideas, for example 'The town that was flooded suffered extensive damage.'",
+            "I can identify information from most to least important",
+            "I can use a range of resource form the text to locate specifi information e.g diagrams, sideboards, hyperlinks etc."
+          ],
+          "vocab": []
+        }
+      }
+    },
+    "thinking_beyond_text": {
+      "display_name": "Thinking beyond the text",
+      "strategies": ["predicting", "making_connections", "synthesising", "inferring", "visualising"],
+      "years": {
+        "F": {
+          "ku": [
+            "Predicting is when we think about what might happen in the book.",
+            "Prior knowledge can be used to help me predict and make connections to the text,",
+            "Texts often allow us to learn something new.",
+            "Clues within a text are needed to infer the emotions of a character"
+          ],
+          "ks": [
+            "I can use the title and front cover to predict what might happen in the text",
+            "I can predict the problem and solution of the text using what has already happened in the text.",
+            "I can identify how the book reminds me of something in my own life.",
+            "I can explain what I already knew about the topic before reading it.",
+            "I can explain what I learnt about the topic from reading the text.",
+            "I can infer the emotions of a character using pictures and words (happy, sad, angry, excited, tired)."
+          ],
+          "vocab": []
+        },
+        "1": {
+          "ku": [
+            "Each genre has unique features. These features are important when making predictions. (predicting)",
+            "Predicting is when we make an educated guess about what might happen within the text. (predicting)",
+            "Inferring is when we work out what the author doesn't exactly say."
+          ],
+          "ks": [
+            "I can use many clues to help me predict what might happen within the text (title, front cover pictures, blurb, prior knowledge, text structure, books by the same author). (predicting)",
+            "I can change my predictions as I gain more information when reading. (predicting)",
+            "I can infer character feelings using text clues such as pictures and words.",
+            "I can make connections between a text and my own life."
+          ],
+          "vocab": []
+        },
+        "2": {
+          "ku": [
+            "That synthesis is when we use our prior knowledge and the text to build deeper understandings. (Synthesising)",
+            "Predicting likely vocabulary in the text helps us tune in to the topic or ideas of the text.",
+            "Using our prior knowledge and text evidence helps us more accurate predictions."
+          ],
+          "ks": [
+            "I can identify my prior knowledge about the text and what is new to me. (synthesising)",
+            "I can identify how the new knowledge developed my thinking. (synthesising)",
+            "I can predict vocabulary words I might encounter when reading my text.",
+            "I can use my prior knowledge and text evidence to make, confirm or modify predictions."
+          ],
+          "vocab": []
+        },
+        "3": {
+          "ku": [
+            "Knowledge of other texts can help us make predictions about similar texts.",
+            "Chapter headings, sub-heading or tabs can foreshadow a storyline or information to come.",
+            "Synthesising helps us develop new understandings of a topic or subject.",
+            "Using a range of text clues can help me make predictions and inferences.",
+            "The message or moral of a text can help us learn lessons to use in real life."
+          ],
+          "ks": [
+            "I can use the chapter heading or sub-heading to predict the likely storyline or information I will encounter",
+            "I can explain how the sounds in a digital texts helped us understand the text.",
+            "I can use what I already know about a similar text to make predictions.",
+            "I can discuss what I already knew about the topic",
+            "I can identify what was new information and how I now better understand my topic/subject.",
+            "I can use a range of text clues to make predictions/inferences including pictures, graphics, past storyline,",
+            "I can identify the author's message of a text using a range of text clues",
+            "I can infer a character's traits using different clues."
+          ],
+          "vocab": []
+        },
+        "4": {
+          "ku": [
+            "Author's use a range of devices to explain a character.",
+            "The message of the text can help people learn lessons to use in their own lives.",
+            "Characters develop traits based on their experiences.",
+            "Connections can help us develop a deeper understanding of texts"
+          ],
+          "ks": [
+            "I can identify the message of the text.",
+            "I can discuss how the message of the text is applicable to people's own lives.",
+            "I can infer the causes of the characters traits.",
+            "I can identify the point of view in the text.",
+            "I can describe the character's perspective and how it changes throughout the text.",
+            "I can make connections (text to text and text to world) to compare perspectives, ideas, characterization and literacy devices."
+          ],
+          "vocab": []
+        },
+        "5": {
+          "ku": [
+            "Author's encourage us to ask questions about the beliefs and actions of characters.",
+            "Texts written in the past can be identified by their ideas, vocabulary or expressions.",
+            "The tone of the text helps us to infer characters or author's opinions or attitudes."
+          ],
+          "ks": [
+            "I can discuss how characters could behave differently and how the author supported or challenged our belief about the characters.",
+            "I can discuss texts written by Aboriginal and Torres Strait Islander authors about events that shaped or impacted their lives and make inferences about their feelings.",
+            "I can make inferences about characters' motives, themes, and underlying messages.",
+            "I can infer the time and place in which a text was written.",
+            "I can compare the ideas, vocabulary and expressions of texts written in the past with those written today.",
+            "I can identify the tone of the text and justify this with text evidence."
+          ],
+          "vocab": []
+        },
+        "6": {
+          "ku": [
+            "Knowledge of literary works can assist in making accurate predictions.",
+            "Narrative texts have many variations in their plot structures",
+            "Knowledge of different disciplines e.g science and technology), allow us to better understand texts.",
+            "Relationships among characters can be inferred using a range of sources.",
+            "Texts in many genres give us new insights into cultures of historical times."
+          ],
+          "ks": [
+            "I can use my prior knowledge of genre, text structure and purpose to predict information, arguments, evidence and plotlines of texts.",
+            "I can predict if texts will contain specific literacy features such as plot twists, flashbacks, flashforwards or foreshadowing.",
+            "I can discuss my prior knowledge on a specific subject and how it relates to the text I have read.",
+            "I can identify the relationship between the characters and how these change based upon plots and interpretations.",
+            "I can explain what cultural and historical insights the text has provided to us and how."
+          ],
+          "vocab": []
+        }
+      }
+    },
+    "thinking_about_text": {
+      "display_name": "Thinking about the text",
+      "strategies": ["analysing", "critiquing", "questioning"],
+      "years": {
+        "F": {
+          "ku": [
+            "Narrative texts (fiction texts) tell stories and informative texts (non-fiction) give us information.",
+            "Why I have favourite books.",
+            "Fiction texts usually have drawn pictures, whereas non-fiction texts usually have photographs",
+            "Narratives texts usually have a beginning (characters, setting) problem and solution",
+            "Informative texts contain facts."
+          ],
+          "ks": [
+            "I can identify some features of imaginary texts such as drawn pictures, family beginnings e.g once upon a time, A long, long time ago, familiar characters such as fairytale characters",
+            "I can identify some features of informative texts such as real photographs",
+            "I can identify some features of imaginary texts such as drawn pictures and familiar characters.",
+            "I can identify books which I enjoy",
+            "I can explain why I enjoy these books e.g because they are funny, because I like scary stories.",
+            "I can identify the beginning, problem and solution of the text."
+          ],
+          "vocab": []
+        },
+        "1": {
+          "ku": [
+            "Narrative persuasive and informative texts have similarities and differences.",
+            "Different text types of texts have different purposes.",
+            "Texts can have realistic or imaginary parts of a fiction texts."
+          ],
+          "ks": [
+            "I can explain how texts are similar and how they are different.",
+            "I can identify the purpose of different text types.",
+            "I can identify the realistic and imaginary parts of a fiction text."
+          ],
+          "vocab": []
+        },
+        "2": {
+          "ku": [
+            "Texts are organised differently depending on their genre and purpose.",
+            "Texts use different language features depending on their purpose.",
+            "Different text types of texts have different purposes.",
+            "Language can be used to appreciate texts and provide reasons for preferences"
+          ],
+          "ks": [
+            "I can identify the structure and features of a text.",
+            "I can make connections between language features and their purpose.",
+            "I can identify the purpose of different text types using evidence to explain my reasoning E.g identify structure, Explaining text features, Types of vocabulary used e.g technical vocabulary found information texts.",
+            "I can use precise words and phrases to discuss what I liked about the text such as 'I liked how the author described the setting because …'",
+            "I can use words such as, 'preferred' and 'enjoyed' to describe what I liked about the text."
+          ],
+          "vocab": []
+        },
+        "3": {
+          "ku": [
+            "Texts with similar purposes can be created for different audiences.",
+            "Comparing and contrasting helps develop a deeper understanding of texts and topics.",
+            "Some texts will suit my purpose for reading them depending on their relevance.",
+            "Fiction texts can have realistic or fantasy elements"
+          ],
+          "ks": [
+            "I can identify the purpose and audience of the text using text clues such as age appropriate language, greater use of images rather than text or high level tier 3 vocabulary.",
+            "I can identify the similarities and differences between texts and ideas.",
+            "I can determine if a text was relevant for my purpose for reading.",
+            "I can identify if the text was realistic or fantasy fiction and explain my reasoning."
+          ],
+          "vocab": []
+        },
+        "4": {
+          "ku": [
+            "Different text types have typical stages and language features dependent on their purpose.",
+            "Fact and opinion",
+            "The author's use of evidence supports arguments dependent on their strength.",
+            "Authors use techniques to help us navigate a text."
+          ],
+          "ks": [
+            "I can identify the stages/features of different text types and discuss their purpose",
+            "I can identify the language features of different text types and discuss their purpose",
+            "I can identify how the author used techniques, such as headings, italics and bold text, to support navigation of specific texts",
+            "I can evaluate if the author's use of evidence supporting their argument.",
+            "I can explain how author's use different literary devices to add to the meaning of the text. (grammar, word choices, free verse, symbolism, personification, metaphor etc.)",
+            "I can discuss how the author made the text interesting or exciting.",
+            "Text types include: narratives, factual recounts, imaginative recounts, biographies, information reports, explanations, book talks, poetry and arguments for a particular purpose"
+          ],
+          "vocab": []
+        },
+        "5": {
+          "ku": [
+            "Different text types have typical stages, phases and language features dependent on their purpose.",
+            "Author's make texts more exciting, and engaging to hold the readers interest",
+            "Author's use literary devices to shape the meaning of the text. (grammar, word choices, free verse, symbolism, personification, metaphor etc.)"
+          ],
+          "ks": [
+            "I can identify the stages, phases, and purposes, of a range of texts including: narratives, historical recounts, procedural recounts, causal explanations, discussions of alternative positions on an issue, information reports, reviews and types of poems",
+            "I can explain the devices used by the author to make the text interesting and engaging,",
+            "I can explain how useful the text was dependent on my purpose as a reader.",
+            "I can explain how author's use different literary devices to add to the meaning of the text. (grammar, word choices, free verse, symbolism, personification, metaphor etc.)",
+            "I can identify examples of hybrid texts as well as the fictional and non-fiction elements of these texts.",
+            "I can evaluate if the text I am reading is relevant to my purpose for reading.",
+            "I can identify the mood of the text and discuss the purpose for this."
+          ],
+          "vocab": []
+        },
+        "6": {
+          "ku": [
+            "Author biases can influence the meaning and arguments of a text.",
+            "The text structures and language features of a text work together to meet the purpose of, engage and influence the audience.",
+            "Some texts may be more authentic than others for our purpose."
+          ],
+          "ks": [
+            "I can identify words and phrases which show author's bias towards a particular subject, idea/s or argument including literacy devices such as contradiction, paradox and allusion",
+            "I can evaluate if the author's arguments or ideas are well supported.",
+            "I can explain how the text structure and language features engage or influence the audience.",
+            "I can explain how the text structure and language features meet the purpose of the text.",
+            "I can use other sources to evaluate the authenticity of a text (e.g. research and additional reading)."
+          ],
+          "vocab": []
+        }
+      }
+    }
+  },
+  "strategy_index": {
+    "summarising": { "display_name": "Summarising", "category": "thinking_within_text" },
+    "determining_importance": { "display_name": "Determining Importance", "category": "thinking_within_text" },
+    "predicting": { "display_name": "Predicting", "category": "thinking_beyond_text" },
+    "making_connections": { "display_name": "Making Connections", "category": "thinking_beyond_text" },
+    "synthesising": { "display_name": "Synthesising", "category": "thinking_beyond_text" },
+    "inferring": { "display_name": "Inferring", "category": "thinking_beyond_text" },
+    "visualising": { "display_name": "Visualising", "category": "thinking_beyond_text" },
+    "analysing": { "display_name": "Analysing", "category": "thinking_about_text" },
+    "critiquing": { "display_name": "Critiquing", "category": "thinking_about_text" },
+    "questioning": { "display_name": "Questioning", "category": "thinking_about_text" },
+    "self_monitoring": { "display_name": "Self-monitoring", "category": "monitoring_self_correcting" }
+  }
+}
