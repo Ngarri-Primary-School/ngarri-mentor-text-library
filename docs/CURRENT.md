@@ -92,5 +92,9 @@ The user selected the private school repository https://github.com/Ngarri-Primar
 
 The repeatable enrichment support is now defined in `docs/ENRICHMENT-PIPELINE.md`, implemented by `scripts/mentor_pipeline.py`, and guided by the repository skill at `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`. New batches begin with Codex naming three to five books and pausing until the user supplies complete texts in the restricted school Google Drive and Codex verifies access. Every new draft includes text type, genre and a classification rationale.
 
-The immediate next action is to finish creating and sharing the school-owned Drive folder, then verify that the school Codex connection can list and read it. After that, select the next batch using the five approved books as the quality benchmark. Do not begin broad catalogue enrichment from titles or blurbs alone. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
+The first new batch has been selected: *Dingo*, *Owl Moon*, *The Boy Who Loved Words*, *The Important Book* and *Whoever You Are*. It is paused at `awaiting_full_text`. These books broaden the benchmark across narrative nonfiction, lyrical voice and imagery, explicit word choice, patterned description, and PRIDE/inquiry themes.
+
+The five previously approved pilot books predate the classification requirement. Their existing content approval remains valid, but their text type and genre still require evidence-based classification and teacher review before those fields are treated as approved.
+
+The immediate next action is to finish creating and sharing the school-owned Drive folder, place the five selected books in it, then provide its folder link so Codex can verify that it can list and read every file. Do not begin enrichment from titles or blurbs alone. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
 
