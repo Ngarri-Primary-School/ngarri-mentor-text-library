@@ -15,7 +15,7 @@ The complete-text picture-book pilot is approved for Crickwing, Night Tree, The 
 
 The approved content hierarchy and book-page interaction are now specified in `docs/CONTENT-AND-DISPLAY-FORMAT.md`. In particular, writing and reading are organised by trait or strategy and then year level, with exact curriculum wording and a book-specific explanation. PRIDE and inquiry are concept-based without year-level subdivisions. Teaching ideas use structured classroom fields. All book-detail disclosures start closed and open progressively, including the blurb, trait or strategy, year-level record, value, lens and individual teaching idea.
 
-This current specification supersedes older fixed 1–3 connection targets, generic teaching-idea allowances and any presentation note that conflicts with the approved pilot. Historical files under `docs/vault-snapshot/` remain unchanged for provenance.
+This current specification supersedes older fixed 1–3 connection targets, generic teaching-idea allowances and any presentation note that conflicts with the approved pilot. Historical files under `archive/obsidian-vault-snapshot/` remain unchanged for provenance.
 
 ## What exists now
 
@@ -69,7 +69,7 @@ The saved `Design/assets/fox-prototype/` screenshots remain the teacher-site ref
 Current working files are in the ChatGPT project mirror:
 `C:/Users/09187270/.codex/.chatgpt-projects/g-p-6a9b9af533e48191844e765db0f00f13`
 
-Useful folders: `fox-working-page`, `fox-source-review`, `fox-content-review`, `curriculum-review-2026-09-06`, `mentor-access-change/deployed`, `mentor-database-recovery-2026-09-05`, `mentor-handover-reconciled-2026-09-05`, and `codex-transfer-preparation`. Preserve source snapshots. Files under `sources/` are read-only synced material. These paths record the original source computer. Use repository-relative files after checking out the school repository; no dedicated Codex project has been registered yet.
+Useful folders: `fox-working-page`, `fox-source-review`, `fox-content-review`, `curriculum-review-2026-09-06`, `mentor-access-change/deployed`, `archive/database-recovery-2026-09-05`, `mentor-handover-reconciled-2026-09-05`, and `codex-transfer-preparation`. Preserve source snapshots. Files under `sources/` are read-only synced material. These paths record the original source computer. Use repository-relative files after checking out the school repository; no dedicated Codex project has been registered yet.
 
 This documentation vault is locally accessible at:
 `C:/Users/09187270/iCloudDrive/iCloud~md~obsidian/ChalkCode/Ngarri Mentor Text Library`
@@ -84,7 +84,7 @@ Fox text copy: `Margaret Wild/Fox/Fox Margaret Wild.pdf` under that book-PDF fol
 
 ## Next development action
 
-The user selected the private school repository https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library as the shared project destination. The transfer preserves the old Obsidian notes under docs/vault-snapshot; those are historical snapshots. This file is the current editable handover, and repository documentation is the source for future project changes. Do not maintain competing editable copies in the old vault. The local transfer staging area is packaging only.
+The user selected the private school repository https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library as the shared project destination. The transfer preserves the old Obsidian notes under archive/obsidian-vault-snapshot; those are historical snapshots. This file is the current editable handover, and repository documentation is the source for future project changes. Do not maintain competing editable copies in the old vault. The local transfer staging area is packaging only.
 
 Use the five approved complete-text books as the quality benchmark when preparing the next book that has a verified complete text. Do not begin broad catalogue enrichment from titles or blurbs alone. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
 

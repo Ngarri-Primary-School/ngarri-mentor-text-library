@@ -20,13 +20,24 @@ Read `docs/CURRENT.md` and `docs/CONTENT-AND-DISPLAY-FORMAT.md`, then the saved 
 
 Phill's unchanged saved export is `codex-transfer-preparation/fox-review-record.json`: nine locally approved connections and one omitted. Requests to remove PDF page numbers from teacher prose are still outstanding. Preserve precise internal evidence locators and original reviewed text. Rewrite Making Connections around readers connecting the text to their experience, and submit that revised item for review. Do not carry forward approval onto changed content automatically.
 
-Select each book's strongest evidenced examples, without a quota or three-item cap. AI suggestions remain reviewer-only until approved. The five teacher-approved complete-text pilot books are the current quality benchmark. Current local preview controls are not production authentication. The final teacher page should follow the five Fox prototype images in `docs/vault-snapshot/Design/assets/fox-prototype/` and the implemented progressive disclosure rules in `docs/CONTENT-AND-DISPLAY-FORMAT.md`.
+Select each book's strongest evidenced examples, without a quota or three-item cap. AI suggestions remain reviewer-only until approved. The five teacher-approved complete-text pilot books are the current quality benchmark. Current local preview controls are not production authentication. The final teacher page should follow the five Fox prototype images in `archive/obsidian-vault-snapshot/Design/assets/fox-prototype/` and the implemented progressive disclosure rules in `docs/CONTENT-AND-DISPLAY-FORMAT.md`.
 
 The recovery snapshot recorded 343 active books, 391 writing annotations and 260 reading annotations. All 651 explanations were empty. The applied access correction and 328-check isolated test record are in `mentor-access-change/`. Production reviewer access, teacher website and enrichment pipeline remain unfinished. No paid generation, bulk enrichment or new database deployment is authorised by this transfer.
 
+## Essential project documents
+
+For ordinary project work, read only these four documents:
+
+1. `README.md` — project overview and starting point.
+2. `docs/CURRENT.md` — current state, decisions and next development work.
+3. `docs/CONTENT-AND-DISPLAY-FORMAT.md` — approved content and website format.
+4. `docs/PICTURE-BOOK-PILOT-APPROVAL.md` — approved pilot benchmark.
+
+Component folders contain technical notes for Codex and developers. They are consulted only when working on that component. Material under `archive/` is retained for provenance and recovery; it is not required reading and does not set current project direction.
+
 ## Documentation and provenance
 
-`docs/vault-snapshot/` is a dated, unchanged capture of the Obsidian project vault, not an automatically synchronised second vault. Historical statements are retained; dated corrections and the current-state note take precedence. Keep that snapshot unchanged. `docs/CURRENT.md` is the editable current handover; make future documentation changes in this repository. A pointer in the original vault will record this transition after publication.
+`archive/obsidian-vault-snapshot/` is a dated, unchanged capture of the Obsidian project vault, not an automatically synchronised second vault. Historical statements are retained; dated corrections and the current-state note take precedence. Keep that snapshot unchanged. `docs/CURRENT.md` is the editable current handover; make future documentation changes in this repository. A pointer in the original vault will record this transition after publication.
 
 `TRANSFER-MANIFEST.json` records original paths and SHA-256 hashes. Originals remain untouched. This upload staging directory is temporary packaging, not an additional working project. GitHub is the shared destination; a future local checkout must track that repository rather than become another independent copy.
 
