@@ -1,9 +1,11 @@
 # Canonical content and book-page format
 
-Updated: 8 September 2026  
+Updated: 9 September 2026
 Status: approved through the complete-text picture-book pilot
 
 This is the current specification for creating, reviewing, storing and displaying mentor-text content. It supersedes conflicting quotas or presentation instructions in the dated Obsidian snapshot. The snapshot remains unchanged as a provenance record.
+
+Use this specification with `docs/CONTENT-AUTHORING-GUIDE.md`, which gives the approved evidence, writing and quality-control process in detail.
 
 ## Selection standard
 
@@ -60,6 +62,8 @@ Teaching ideas sit in their own section after the curriculum, PRIDE and inquiry 
 - what teachers should notice in student learning.
 
 Teaching ideas must teach through a specific strength of the book and then support transfer into students' reading, discussion or writing.
+
+Use relevant installed education skills to strengthen the design of teaching ideas, and record which skills shaped the draft. If no relevant education skill is installed, use the available skill-discovery or installer workflow before drafting. Skill output must still be checked against the complete book and exact Ngarri references.
 
 ## Review and visibility
 

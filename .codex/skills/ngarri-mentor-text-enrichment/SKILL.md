@@ -7,7 +7,7 @@ description: Select, prepare, validate and review Ngarri Mentor Text Library boo
 
 Use this skill for choosing the next books, analysing complete texts, drafting book records, checking curriculum alignment, or preparing content for teacher review.
 
-Read `docs/ENRICHMENT-PIPELINE.md` and `docs/CONTENT-AND-DISPLAY-FORMAT.md`. Use `scripts/mentor_pipeline.py` for intake, extraction, scaffolding and validation. Keep all full texts and working extracts under `.mentor-work/`; never commit them.
+Read `docs/ENRICHMENT-PIPELINE.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/CONTENT-AUTHORING-GUIDE.md`. Use `scripts/mentor_pipeline.py` for intake, extraction, scaffolding and validation. Keep all full texts and working extracts under `.mentor-work/`; never commit them.
 
 ## Start with the book-intake gate
 
@@ -28,7 +28,7 @@ Give a brief classification rationale based on the complete work. Do not infer c
 
 Read the complete text and inspect available illustrations. Select every strong, distinct connection the book demonstrates especially well, without quotas or padding. For writing and reading, cite one curriculum reference record and copy one matching Key Understanding and Key Skill exactly. A missing Key Skill is permitted only under the documented professional-reading exception. Identify a precise passage, event, language choice or verified illustration and explain its teaching value. PRIDE and inquiry use concepts without year-level subdivisions. Treat counterexamples as counterexamples.
 
-Teaching ideas must grow from the selected book evidence and include the structured fields required by the validator. Reject any idea that would still work unchanged after replacing the title with another book.
+Teaching ideas must grow from the selected book evidence and include the structured fields required by the validator. Before drafting them, inspect and use the narrowest relevant installed education skills, such as `reading-comprehension-strategy-selector`, `pedagogical-content-knowledge-developer` or `think-aloud-script-generator`. Record which skills shaped the draft. If none fits, use the available skill-discovery or installer workflow to look for one. Treat skill output as design support and recheck it against the complete book and exact Ngarri sources. Reject any idea that would still work unchanged after replacing the title with another book.
 
 Keep all new records `ai_suggested`. Run `validate` before presenting a draft. Resolve errors; explain any warnings that reflect a deliberate absence of strong connections.
 

@@ -1,10 +1,10 @@
-# Draft guide: writing useful mentor-text content
+# Writing useful mentor-text content
 
-Updated: 8 September 2026  
-Status: draft for Phill's review  
-Purpose: proposed quality standard based on the strongest features of the approved *Crickwing* content
+Updated: 9 September 2026
+Status: approved canonical guide
+Purpose: quality standard based on the strongest features of the approved *Crickwing* content and Phill's review
 
-This draft explains how to turn a complete book and the Ngarri curriculum documents into content that a teacher can use. It does not approve or replace any existing book record. After Phill approves it, its final rules should be folded into the canonical content specification and the enrichment skill. The remaining trial books should then be revised one at a time, with teacher approval between books.
+This guide explains how to turn a complete book and the Ngarri curriculum documents into content that a teacher can use. It does not approve or replace an individual book record. Revise pilot books one at a time and obtain teacher approval between books.
 
 ## The result we are aiming for
 
@@ -63,7 +63,18 @@ Classification is part of the reviewable teaching content. Do not treat a publis
 
 ## Step 3: select only strong connections
 
-Compare the evidence map with the exact Ngarri documents. Select a connection only when the book provides a clear, teachable example of the curriculum focus.
+Compare the evidence map with the exact Ngarri documents below. Select a connection only when the book provides a clear, teachable example of the curriculum focus.
+
+Use these repository files as the primary matching sources:
+
+- `reference-data/writing-throughlines.json` for the seven Foundation–Year 6 writing traits, Key Understandings and Key Skills;
+- `reference-data/reading-strategies.json` for the Foundation–Year 6 comprehension strategies, Key Understandings and Key Skills;
+- `reference-data/pride-values.json` for the Ngarri PRIDE concepts and behaviours; and
+- `reference-data/inquiry-lenses.json` for the four Ngarri conceptual inquiry lenses.
+
+Use `curriculum-review-2026-09-06/curriculum-reference-records.json` when a connection comes from the later supplied English or inquiry documents. Check its `source-manifest.json` and `review-verification.json` so the source and extraction status remain visible. The school-owned originals preserved in `reference-sources/school-originals/` are provenance and verification copies; consult the relevant original when a structured record is incomplete or uncertain.
+
+Professional readings may support pedagogy or the documented missing-Key-Skill exception, but they do not replace Ngarri wording. Name the exact professional source and distinguish its wording from school curriculum wording. `reference-data/README.md` remains the authority map for this reference set.
 
 There is no quota. A book may have several excellent writing traits and reading strategies and no convincing example of another. It is better to omit a weak connection than to make the library appear complete with generic content.
 
@@ -181,6 +192,18 @@ The sequence should begin with the book's actual language, structure, event or i
 
 Do not leave placeholder student applications or repeat one task under several curriculum labels. One well-designed activity can link to several approved connections when the relationships are explicit.
 
+### Use relevant education skills deliberately
+
+Before drafting teaching ideas, inspect the installed education skills and use the narrowest relevant skill or combination of skills. For example:
+
+- `reading-comprehension-strategy-selector` can check that a reading strategy serves the intended understanding and that the before-, during- and after-reading moves are purposeful;
+- `pedagogical-content-knowledge-developer` can identify likely misconceptions, useful representations and observable evidence of understanding; and
+- `think-aloud-script-generator` can help make an expert reader's or writer's decisions visible when teacher modelling is part of the activity.
+
+Record the skill names used and what they shaped in the draft's provenance notes. If no suitable installed education skill exists, use the available skill-discovery or installer workflow to look for one before drafting the teaching examples.
+
+Skill output is design support, not book or curriculum evidence. Check every suggestion against the complete book, the nominated Ngarri reference and this guide. Reject generic activities, invented quotations and sequences that do not begin with verified evidence from the book.
+
 ## A diagnostic example of what needs improvement
 
 In the current *Alphabet Tree* Organisation records, the same general explanation is repeated across Years 2–5: the plot embodies a hierarchy of written language and each new level solves the previous problem while creating a larger purpose. That is an interesting whole-book observation, but repetition does not explain the different curriculum expectations.
@@ -210,6 +233,7 @@ Every proposed book must pass these checks:
 - PRIDE and inquiry entries are concept-specific and grounded in events, choices or patterns.
 - Counterexamples are identified accurately.
 - Teaching ideas have all relevant structured fields, including student application and observable learning.
+- Relevant installed education skills were used for teaching-idea design, or the skill-discovery check and its result were recorded.
 - Book facts, curriculum quotations, interpretations and designed teaching ideas remain distinguishable.
 - Full copyrighted texts and restricted Drive links are absent from public data and GitHub.
 - All new records remain `ai_suggested` until the teacher records approval.
@@ -226,4 +250,4 @@ A useful final test is: **Could a teacher who knows the curriculum but has not p
 6. Update this guide when a reviewed book reveals a general rule that will improve future books.
 7. Move to the next book only after the previous book has been decided.
 
-The proposed revision order after this guide is approved is *The Alphabet Tree*, *Night Tree*, *Little Blue and Little Yellow*, then *The Gruffalo*. *Crickwing* remains the quality model and *Fox* remains a separate calibration example.
+The revision order is *The Alphabet Tree*, *Night Tree*, *Little Blue and Little Yellow*, then *The Gruffalo*. *Crickwing* remains the quality model and *Fox* remains a separate calibration example.
