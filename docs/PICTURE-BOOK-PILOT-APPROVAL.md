@@ -10,7 +10,7 @@ Live viewer: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 |---|---:|---:|---:|---:|---:|
 | Crickwing | 16 | 9 | 3 | 3 | 6 |
 | Night Tree | 11 | 5 | 2 | 2 | 6 |
-| The Alphabet Tree | 12 | 8 | 2 | 2 | 6 |
+| The Alphabet Tree | 17 | 8 | 2 | 2 | 8 |
 | Little Blue and Little Yellow | 11 | 7 | 2 | 2 | 6 |
 | The Gruffalo | 12 | 7 | 1 | 1 | 6 |
 

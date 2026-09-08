@@ -1,11 +1,11 @@
 # The Alphabet Tree — complete revision draft
 
 Updated: 9 September 2026
-Status: `ai_suggested` — awaiting Phill's review
+Status: `teacher_reviewed` — approved by Phill on 9 September 2026
 Book: *The Alphabet Tree* by Leo Lionni
 Quality model: approved *Crickwing* content and `docs/CONTENT-AUTHORING-GUIDE.md`
 
-This is a proposed replacement for the current writing, reading, PRIDE, inquiry and teaching-idea records. It does not change the approved live Supabase content. If Phill approves this draft, preserve the earlier records and review history, then publish the approved replacements as `teacher_reviewed`.
+This is the approved replacement for the earlier writing, reading, PRIDE, inquiry and teaching-idea records. It was published to Supabase as `teacher_reviewed` on 9 September 2026. Existing record identities were reused where the schema required one row per connection; the removed Year 4 Presentation record and the six earlier teaching ideas remain in Supabase with `rejected` status as superseded provenance.
 
 ## Evidence and provenance
 
@@ -342,14 +342,8 @@ This is a proposed replacement for the current writing, reading, PRIDE, inquiry 
 - **Student application:** Students design a small visual explanation of an abstract change, then add only the words needed to clarify it.
 - **Notice learning:** Students can explain the conceptual work done by their placement, spacing or image choice; the visual adds meaning rather than decoration.
 
-# Reviewer decisions requested
+# Approval record
 
-Please review this book as one complete revision and decide:
+Phill approved the complete revision in conversation on 9 September 2026. The approval covers the six writing traits, three reading strategies, two PRIDE connections, two inquiry lenses, eight teaching ideas and the teacher note about the historical phrase *all men*.
 
-1. whether the six writing traits and three reading strategies are the strongest matches;
-2. whether each year-level explanation clearly teaches its exact curriculum pair;
-3. whether Determination, Respect and the two inquiry lenses are grounded strongly enough in the story;
-4. whether the eight teaching ideas are practical and specific to *The Alphabet Tree*; and
-5. whether the discussion of the historical phrase *all men* is useful for teachers or should be removed.
-
-No Supabase or public-site change should occur until this draft is approved or revised.
+The live records were verified after publication: 17 writing, 8 reading, 2 PRIDE, 2 inquiry and 8 teaching-idea records are `teacher_reviewed`. The public progress viewer reads these records from Supabase and refreshes every 15 seconds.

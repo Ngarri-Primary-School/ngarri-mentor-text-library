@@ -1,3 +1,7 @@
 source-snapshot.json
 __pycache__/
 *.pyc
+
+dist/
+*.tar.gz
+public/

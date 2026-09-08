@@ -102,7 +102,9 @@ On 8 September 2026, Phill approved the proposed text type and genre classificat
 
 On 9 September 2026, Phill approved the content-authoring guide with two additions: it must name the exact Ngarri reference files, and teaching ideas must use relevant installed education skills or the available skill-discovery workflow. The canonical guide is `docs/CONTENT-AUTHORING-GUIDE.md`; the detailed rules are also reflected in `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`.
 
-The remaining pilot books are being revised one at a time, with teacher approval between books. The order is *The Alphabet Tree*, *Night Tree*, *Little Blue and Little Yellow*, then *The Gruffalo*. *Crickwing* remains the quality model. The current `ai_suggested` revision is `reviews/the-alphabet-tree.revision.ai-draft.md`. Its approved live Supabase records must remain unchanged until Phill reviews the complete replacement draft.
+The remaining pilot books are being revised one at a time, with teacher approval between books. *The Alphabet Tree* revision in `reviews/the-alphabet-tree.revision.ai-draft.md` was approved and published on 9 September 2026. Its live Supabase record now contains 17 writing, 8 reading, 2 PRIDE, 2 inquiry and 8 teaching-idea records. The public viewer was verified against the live connection and showed all 29 approved connections. The earlier six teaching ideas and removed Year 4 Presentation match remain hidden as superseded records.
+
+The remaining order is *Night Tree*, *Little Blue and Little Yellow*, then *The Gruffalo*. *Crickwing* remains the quality model. Prepare *Night Tree* as a separate `ai_suggested` draft and obtain Phill's approval before publishing it.
 
 Keep all other new material `ai_suggested` until Phill reviews it; do not expose it in teacher-facing pages or filters before approval. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
 

@@ -4,16 +4,10 @@ import json, shutil, argparse
 p=Path(__file__).resolve().parent
 parser=argparse.ArgumentParser();parser.add_argument('--covers',type=Path,required=True);args=parser.parse_args()
 out=p/'out';out.mkdir(exist_ok=True);(out/'covers').mkdir(exist_ok=True)
-for name in ['index.html','app.js','style.css','data.json']:
+for name in ['index.html','app.js','config.js','style.css']:
     shutil.copy2(p/name,out/name)
-data=json.loads((out/'data.json').read_text(encoding='utf-8'))
-# This public progress snapshot must not include unreviewed AI drafts.
-allowed={'imported_teacher','imported_ozlit','reviewed_added'}
-for b in data['books']:
-    for group in ['writing','reading','pride','inquiry']:
-        b[group]=[a for a in b[group] if a['status'] in allowed]
-    b['teaching_ideas']=[a for a in b['teaching_ideas'] if a.get('status')=='reviewed_added']
-(out/'data.json').write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8')
+data=json.loads((p/'data.json').read_text(encoding='utf-8'))
+(out/'data.json').unlink(missing_ok=True)
 available={}
 for b in data['books']:
     name=b.get('cover_url') or ''
