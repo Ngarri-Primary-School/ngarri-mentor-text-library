@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-09-08",
+  "status": "ai_suggested",
+  "purpose": "Teacher review of the new required text-type and genre fields. Existing approval of other pilot content is unchanged.",
+  "records": [
+    {
+      "title": "Crickwing",
+      "text_type": "Narrative",
+      "genres": ["animal fantasy", "problem-and-solution story"],
+      "rationale": "The complete story follows an imagined speaking cockroach through danger, displacement, harmful retaliation and repair. Its animal characters behave as people while a sequence of problems and choices drives the plot.",
+      "scope": "classification_backfill_only",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "Night Tree",
+      "text_type": "Narrative",
+      "genres": ["realistic fiction", "family tradition story", "seasonal story"],
+      "rationale": "A family completes a believable Christmas Eve ritual in chronological order. The meaning grows through family relationships, repeated tradition and close observation of a winter setting.",
+      "scope": "classification_backfill_only",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "The Alphabet Tree",
+      "text_type": "Narrative",
+      "genres": ["allegorical fable", "concept picture book"],
+      "rationale": "Letters act as characters, face a threat, learn to combine into words and sentences, and carry a message to a public leader. The literal adventure also represents cooperation, literacy and collective voice.",
+      "scope": "classification_backfill_only",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "Little Blue and Little Yellow",
+      "text_type": "Narrative",
+      "genres": ["abstract visual story", "concept picture book", "allegory"],
+      "rationale": "Abstract colour shapes function as characters in a complete story of friendship, transformation, rejection and reconciliation. Colour mixing is both a literal event and a way to explore identity and belonging.",
+      "scope": "classification_backfill_only",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "The Gruffalo",
+      "text_type": "Narrative",
+      "genres": ["rhyming cumulative tale", "trickster tale", "circular quest story"],
+      "rationale": "The mouse travels through repeated encounters, invents a monster to escape predators, meets that monster, then retraces the route and turns earlier events into a second deception. Rhyme and cumulative repetition organise the plot.",
+      "scope": "classification_backfill_only",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "Dingo",
+      "text_type": "Hybrid narrative and informative text",
+      "genres": ["narrative nonfiction", "animal life-cycle picture book"],
+      "rationale": "A lyrical present-tense account follows one dingo leaving her pack, hunting and returning with food, while smaller factual passages explain nocturnal behaviour, pack life, hunting, senses and habitat. The final information page and index confirm the informative purpose.",
+      "scope": "new_batch",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "Owl Moon",
+      "text_type": "Narrative",
+      "genres": ["realistic fiction", "lyrical family story", "nature story"],
+      "rationale": "A child recounts one late-night owling trip with Pa in chronological first person. Figurative language, sensory detail and repeated family wisdom turn the realistic event into a lyrical reflection on patience, bravery and hope.",
+      "scope": "new_batch",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "The Boy Who Loved Words",
+      "text_type": "Narrative",
+      "genres": ["wordplay fantasy", "quest story", "literary fairy tale"],
+      "rationale": "Selig leaves home to discover the purpose of his unusual passion, receives magical guidance and finds fulfilment by sharing words. The journey and fantasy events form a quest, while exuberant vocabulary and a glossary make language itself the central subject.",
+      "scope": "new_batch",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "The Important Book",
+      "text_type": "Informative descriptive text",
+      "genres": ["concept picture book", "patterned descriptive text"],
+      "rationale": "Each section names a familiar subject, states one defining idea, adds observable details and returns to the opening claim. The book describes and classifies rather than telling a continuous story, while its repeated frame invites readers to decide what matters most.",
+      "scope": "new_batch",
+      "status": "ai_suggested"
+    },
+    {
+      "title": "Whoever You Are",
+      "text_type": "Persuasive reflective text",
+      "genres": ["concept picture book", "lyrical social-values text"],
+      "rationale": "The narrator addresses a child directly, contrasts visible differences with shared feelings and bodily experience, and repeats a universal claim about common humanity. Its patterned language and images are designed to shape the reader's attitude toward difference and belonging.",
+      "scope": "new_batch",
+      "status": "ai_suggested"
+    }
+  ],
+  "review": {
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "decision": null,
+    "notes": null
+  }
+}
