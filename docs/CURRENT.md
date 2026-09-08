@@ -1,13 +1,21 @@
 ---
 title: Ngarri Mentor Text Library - Current State and Codex Handover
 type: project-handover
-updated: 2026-09-07
+updated: 2026-09-08
 status: active
 ---
 
 # Current State and Codex Handover
 
-This reconciliation records the work and user decisions made through 6 September 2026. Read it before the older project notes. Where a dated reconciliation block identifies a conflict, this note supersedes the historical statement; unaffected design and domain rules remain in effect. Repository documentation is the current source. The preserved Obsidian snapshot records provenance; it is not an independent editable copy.
+This reconciliation records the work and user decisions made through 8 September 2026. Read it before the older project notes. Where a dated reconciliation block identifies a conflict, this note supersedes the historical statement; unaffected design and domain rules remain in effect. Repository documentation is the current source. The preserved Obsidian snapshot records provenance; it is not an independent editable copy.
+
+## Current approved implementation — 8 September 2026
+
+The complete-text picture-book pilot is approved for Crickwing, Night Tree, The Alphabet Tree, Little Blue and Little Yellow, and The Gruffalo. Their writing, reading, PRIDE, inquiry and teaching-idea records are stored in Supabase as `teacher_reviewed` and are visible in the public, read-only progress viewer at https://ngarri-mentor-library-progress.velveteen.chatgpt.site/.
+
+The approved content hierarchy and book-page interaction are now specified in `docs/CONTENT-AND-DISPLAY-FORMAT.md`. In particular, writing and reading are organised by trait or strategy and then year level, with exact curriculum wording and a book-specific explanation. PRIDE and inquiry are concept-based without year-level subdivisions. Teaching ideas use structured classroom fields. All book-detail disclosures start closed and open progressively, including the blurb, trait or strategy, year-level record, value, lens and individual teaching idea.
+
+This current specification supersedes older fixed 1–3 connection targets, generic teaching-idea allowances and any presentation note that conflicts with the approved pilot. Historical files under `docs/vault-snapshot/` remain unchanged for provenance.
 
 ## What exists now
 
@@ -78,4 +86,5 @@ Fox text copy: `Margaret Wild/Fox/Fox Margaret Wild.pdf` under that book-PDF fol
 
 The user selected the private school repository https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library as the shared project destination. The transfer preserves the old Obsidian notes under docs/vault-snapshot; those are historical snapshots. This file is the current editable handover, and repository documentation is the source for future project changes. Do not maintain competing editable copies in the old vault. The local transfer staging area is packaging only.
 
-Implement the saved teacher feedback while retaining the original signed-off text and review history, then build the teacher page using the preserved design references. No new live database migration, paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
+Use the five approved complete-text books as the quality benchmark when preparing the next book that has a verified complete text. Do not begin broad catalogue enrichment from titles or blurbs alone. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
+
