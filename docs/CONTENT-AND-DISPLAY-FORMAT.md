@@ -13,6 +13,12 @@ This is the current specification for creating, reviewing, storing and displayin
 - Reject explanations that could be transferred to almost any book by replacing the title.
 - Keep source facts, short quotations, interpretation and newly designed activities distinguishable. Do not publish copyrighted full texts.
 
+## Book classification and source access
+
+Every enriched book records its broad **text type**, one or more specific **genres**, and a short classification rationale grounded in the complete work. These fields are part of teacher review rather than catalogue decoration.
+
+Before analysis, Codex names the next small batch and pauses while the user places the complete texts in the restricted school Google Drive. Codex must verify it can read every selected file. The teacher library may later link authorised staff to the school copy, but the public progress viewer must not expose restricted full-text links.
+
 ## Writing connections
 
 Organise entries in this order:

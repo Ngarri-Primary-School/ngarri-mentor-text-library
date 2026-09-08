@@ -38,7 +38,8 @@ Hosting and Supabase ownership still require institutional handover. Steve's Git
 2. `docs/CURRENT.md` — verified current state, unresolved work and next development action.
 3. `docs/CONTENT-AND-DISPLAY-FORMAT.md` — approved content structure and collapsible website presentation.
 4. `docs/PICTURE-BOOK-PILOT-APPROVAL.md` — approved pilot benchmark.
-5. Read component README or verification files only when working on that component.
+5. `docs/ENRICHMENT-PIPELINE.md` — the repeatable script, Drive intake gate, classification and review workflow.
+6. Read component README or verification files only when working on that component.
 
 Do not load `archive/` by default. It preserves historical evidence and older working plans. Archived statements do not override current documents.
 
@@ -122,7 +123,7 @@ Do not update the former Obsidian vault, extracted ZIPs, transfer-staging folder
 
 First, verify that the new school account can read this private repository and open the public progress viewer. Then confirm whether it has authorised access to the Supabase project without exposing credentials.
 
-After access is established, continue book-by-book using the five approved books as the benchmark. Select the next catalogue book only when a verified complete text is available. Prepare its strongest writing, reading, PRIDE, inquiry and teaching-idea connections for teacher review; do not restart a broad 20-book trial.
+After access is established, authorise the school account's Google Drive connector and verify access to the restricted school book folder. Use `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`: name the next three to five books, pause while the user supplies their complete texts, and verify each file before analysis. Prepare text type, genre, strongest writing, reading, PRIDE, inquiry and teaching-idea connections for teacher review; do not restart a broad 20-book trial.
 
 ## Message to paste into a new conversation
 

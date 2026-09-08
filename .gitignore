@@ -9,4 +9,5 @@ node_modules/
 __pycache__/
 *.pyc
 mentor-access-change/runtime/
+.mentor-work/
 .DS_Store

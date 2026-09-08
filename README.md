@@ -18,7 +18,7 @@ Open http://127.0.0.1:8765/. No dependencies or database credentials are require
 
 ## Current decisions and next development
 
-Read `docs/CURRENT.md` and `docs/CONTENT-AND-DISPLAY-FORMAT.md`, then the saved design references. The content-and-display specification records the approved structure for writing, reading, PRIDE, inquiry and teaching ideas, including the collapsible book-page hierarchy. This README supersedes the earlier proposal to make a separate code-folder copy: the user chose a private school GitHub repository as the shared project destination instead.
+Read `docs/CURRENT.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/ENRICHMENT-PIPELINE.md`, then the saved design references. The content-and-display specification records the approved structure for writing, reading, PRIDE, inquiry and teaching ideas, including the collapsible book-page hierarchy. The enrichment pipeline records the reusable script, Codex skill, Google Drive intake pause, and text-type and genre requirements. This README supersedes the earlier proposal to make a separate code-folder copy: the user chose a private school GitHub repository as the shared project destination instead.
 
 Phill's unchanged saved export is `codex-transfer-preparation/fox-review-record.json`: nine locally approved connections and one omitted. Requests to remove PDF page numbers from teacher prose are still outstanding. Preserve precise internal evidence locators and original reviewed text. Rewrite Making Connections around readers connecting the text to their experience, and submit that revised item for review. Do not carry forward approval onto changed content automatically.
 
