@@ -47,7 +47,9 @@ python scripts/mentor_pipeline.py new-batch `
   --out .mentor-work/2026-09-batch-01.json
 ```
 
-Use Codex's bundled Python runtime if `python` is not configured. PDF extraction uses `pypdf`; DOCX, TXT and MD extraction use the Python standard library. All `.mentor-work/` contents are ignored by Git.
+Use Codex's bundled Python runtime if `python` is not configured. PDF extraction uses `pypdf`; EPUB, DOCX, TXT and MD extraction use the Python standard library. EPUB chapters are read in the publication's spine order. All `.mentor-work/` contents are ignored by Git.
+
+If a PDF's embedded font produces missing or corrupted characters, do not use that extraction as evidence. Render and inspect every relevant page visually, and record page-based locators instead. *Dingo* in batch `2026-09-batch-01` required this fallback.
 
 ## Codex responsibilities
 
@@ -68,7 +70,7 @@ All generated records begin as `ai_suggested` and remain reviewer-only. A teache
 
 ## Google Drive handover
 
-The school account needs the Google Drive connector authorised for the school-owned folder. The folder should be restricted to the intended school users. Codex verifies access by listing the folder and reading a selected file; it does not make the folder public.
+The school account needs the Google Drive connector authorised for the school-owned folder. Codex verifies access by listing the folder and reading a selected file. It preserves the sharing decision recorded by the folder owner.
 
 Recommended layout:
 
@@ -82,4 +84,6 @@ Ngarri Mentor Text Library
     └── Student materials
 ```
 
-When the folder is created, record its school-owned location and access rules in this document without adding credentials or publicising restricted file links.
+Current school folder: `Mentor Texts`, Google Drive folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
+
+On 8 September 2026, Phill explicitly accepted the folder's existing **anyone-with-the-link** access because book links are intended to be presented to teachers through the eventual website. Preserve this as a recorded owner decision. Do not broaden access further or copy full texts into GitHub or Supabase. The eventual website should link to the Drive copy and let Google Drive enforce the configured access.

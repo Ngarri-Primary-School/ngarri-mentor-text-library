@@ -11,10 +11,12 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import posixpath
 import re
 import sys
 import zipfile
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 from xml.etree import ElementTree
@@ -174,6 +176,57 @@ def extract_pdf(path: Path) -> str:
     return "\n\n".join(pages)
 
 
+class _VisibleTextParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.parts: list[str] = []
+        self.hidden_depth = 0
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.casefold() in {"script", "style", "svg"}:
+            self.hidden_depth += 1
+        elif tag.casefold() in {"p", "div", "h1", "h2", "h3", "h4", "li", "br"}:
+            self.parts.append("\n")
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.casefold() in {"script", "style", "svg"} and self.hidden_depth:
+            self.hidden_depth -= 1
+        elif tag.casefold() in {"p", "div", "h1", "h2", "h3", "h4", "li"}:
+            self.parts.append("\n")
+
+    def handle_data(self, data: str) -> None:
+        if not self.hidden_depth:
+            self.parts.append(data)
+
+
+def extract_epub(path: Path) -> str:
+    with zipfile.ZipFile(path) as archive:
+        container = ElementTree.fromstring(archive.read("META-INF/container.xml"))
+        rootfile = next(node for node in container.iter() if node.tag.endswith("rootfile"))
+        package_path = rootfile.attrib["full-path"]
+        package = ElementTree.fromstring(archive.read(package_path))
+        manifest = {
+            node.attrib["id"]: node.attrib["href"]
+            for node in package.iter()
+            if node.tag.endswith("item") and "id" in node.attrib and "href" in node.attrib
+        }
+        spine = [
+            manifest[node.attrib["idref"]]
+            for node in package.iter()
+            if node.tag.endswith("itemref") and node.attrib.get("idref") in manifest
+        ]
+        base = posixpath.dirname(package_path)
+        sections = []
+        for number, href in enumerate(spine, 1):
+            member = posixpath.normpath(posixpath.join(base, href.split("#", 1)[0]))
+            parser = _VisibleTextParser()
+            parser.feed(archive.read(member).decode("utf-8", errors="replace"))
+            text = "".join(parser.parts).strip()
+            if text:
+                sections.append(f"[SECTION {number}]\n{text}")
+    return "\n\n".join(sections)
+
+
 def cmd_extract_text(args: argparse.Namespace) -> int:
     raw = args.input.read_bytes()
     suffix = args.input.suffix.casefold()
@@ -183,8 +236,10 @@ def cmd_extract_text(args: argparse.Namespace) -> int:
         text = extract_docx(args.input)
     elif suffix == ".pdf":
         text = extract_pdf(args.input)
+    elif suffix == ".epub":
+        text = extract_epub(args.input)
     else:
-        raise ValueError("Supported source formats are PDF, DOCX, TXT and MD.")
+        raise ValueError("Supported source formats are PDF, EPUB, DOCX, TXT and MD.")
     clean_lines = [re.sub(r"\s+", " ", line).strip() for line in text.splitlines() if line.strip()]
     located = "\n".join(f"[L{number:04d}] {line}" for number, line in enumerate(clean_lines, 1)) + "\n"
     args.out.parent.mkdir(parents=True, exist_ok=True)

@@ -2,6 +2,7 @@ import importlib.util
 import json
 import tempfile
 import unittest
+import zipfile
 from argparse import Namespace
 from pathlib import Path
 
@@ -14,6 +15,17 @@ SPEC.loader.exec_module(PIPELINE)
 
 
 class MentorPipelineTests(unittest.TestCase):
+    def test_epub_extraction_uses_spine_order(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "book.epub"
+            with zipfile.ZipFile(path, "w") as archive:
+                archive.writestr("META-INF/container.xml", """<?xml version='1.0'?><container xmlns='urn:oasis:names:tc:opendocument:xmlns:container'><rootfiles><rootfile full-path='OPS/package.opf'/></rootfiles></container>""")
+                archive.writestr("OPS/package.opf", """<?xml version='1.0'?><package xmlns='http://www.idpf.org/2007/opf'><manifest><item id='two' href='two.xhtml'/><item id='one' href='one.xhtml'/></manifest><spine><itemref idref='one'/><itemref idref='two'/></spine></package>""")
+                archive.writestr("OPS/one.xhtml", "<html><body><p>First section</p></body></html>")
+                archive.writestr("OPS/two.xhtml", "<html><body><p>Second section</p></body></html>")
+            extracted = PIPELINE.extract_epub(path)
+            self.assertLess(extracted.index("First section"), extracted.index("Second section"))
+
     def test_batch_pauses_and_requires_selection_reasons(self):
         with tempfile.TemporaryDirectory() as folder:
             base = Path(folder)
