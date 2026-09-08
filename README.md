@@ -24,6 +24,10 @@ Select each book's strongest evidenced examples, without a quota or three-item c
 
 The recovery snapshot recorded 343 active books, 391 writing annotations and 260 reading annotations. All 651 explanations were empty. The applied access correction and 328-check isolated test record are in `mentor-access-change/`. Production reviewer access, teacher website and enrichment pipeline remain unfinished. No paid generation, bulk enrichment or new database deployment is authorised by this transfer.
 
+## Starting a new ChatGPT or Codex conversation
+
+Give the new conversation this single onboarding document: [`docs/NEW-CONVERSATION-HANDOVER.md`](docs/NEW-CONVERSATION-HANDOVER.md). It explains access, current status, content rules, repository layout and the immediate next action. The repository is private, so the new account must first connect GitHub and receive access.
+
 ## Essential project documents
 
 For ordinary project work, read only these four documents:

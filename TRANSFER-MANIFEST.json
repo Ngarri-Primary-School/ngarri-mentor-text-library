@@ -683,5 +683,6 @@
       "archive/database-recovery-2026-09-05",
       "archive/working-plans"
     ]
-  }
+  },
+  "onboarding_document": "docs/NEW-CONVERSATION-HANDOVER.md"
 }
