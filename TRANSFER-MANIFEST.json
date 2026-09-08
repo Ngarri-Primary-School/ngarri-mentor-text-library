@@ -1,6 +1,13 @@
 {
   "prepared": "2026-09-07",
-  "status": "prepared_not_yet_published",
+  "status": "published_to_school_github",
+  "last_documentation_update": "2026-09-08",
+  "canonical_documentation": [
+    "README.md",
+    "docs/CURRENT.md",
+    "docs/CONTENT-AND-DISPLAY-FORMAT.md",
+    "docs/PICTURE-BOOK-PILOT-APPROVAL.md"
+  ],
   "source_files": [
     {
       "path": "fox-working-page/app.js",
@@ -664,3 +671,4 @@
     }
   ]
 }
+
