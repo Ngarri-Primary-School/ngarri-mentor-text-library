@@ -23,3 +23,4 @@
 .connection-entry>summary::after{color:#6a7b72}
 .connection-entry .entry-body{margin:0 14px 14px}
 @media(max-width:800px){.connection-group>summary{padding:13px}.connection-count{display:none}}
+.file-links{display:flex;gap:10px;flex-wrap:wrap}.file-link{display:inline-flex;align-items:center;min-height:42px;padding:10px 14px;border:1px solid #326448;border-radius:7px;background:#326448;color:#fff;font-weight:650;text-decoration:none}.file-link:hover{background:#244a36}.file-link:focus-visible{outline:3px solid #df9e3d;outline-offset:3px}.book-files .small{margin-bottom:0}
