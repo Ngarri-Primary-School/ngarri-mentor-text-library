@@ -1,6 +1,6 @@
 # Little Blue and Little Yellow - complete revision draft
 
-Status: `ai_suggested` - awaiting teacher approval  
+Status: `teacher_reviewed` - approved by Phill and published to Supabase on 9 September 2026  
 Evidence: complete 48-page school Drive PDF and visually checked story pages  
 Author/illustrator: Leo Lionni
 
@@ -164,4 +164,6 @@ Author/illustrator: Leo Lionni
 - PRIDE and inquiry wording comes from the canonical Ngarri reference files.
 - Teaching ideas were shaped by `reading-comprehension-strategy-selector`, `pedagogical-content-knowledge-developer` and `think-aloud-script-generator`: selective strategy use, attention to misconceptions about colour/identity, explicit modelling and observable evidence.
 - Deliberately omitted: Integrity, Determination, Excellence, Environmental Sustainability and generic higher-year connections that the book does not demonstrate strongly enough.
-- No Supabase records have been changed. All proposed content remains `ai_suggested` pending teacher approval.
+- Approved by Phill in the review conversation on 9 September 2026.
+- Published to Supabase as `teacher_reviewed`: 8 writing connections, 6 reading connections, 1 PRIDE connection, 2 inquiry connections and 7 teaching ideas.
+- The five concise `Why use this book?` points were published with the approved revision for the preview header.
