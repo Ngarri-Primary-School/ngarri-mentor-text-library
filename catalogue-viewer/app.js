@@ -6,10 +6,21 @@ const titles = {writing:'Writing purposes',reading:'Reading purposes',pride:'PRI
 const refreshEveryMs = 15000;
 let data, covers = {}, lastFocus, isLoading = false;
 const bookFiles = Object.freeze({
-  'Night Tree': {
-    original: 'https://drive.google.com/file/d/1H57nA7LWzyjrRv8WdI-y4NMW5adf7mwB/view',
-    textOnly: 'https://drive.google.com/file/d/1EFyZQqNg-Mtniwndukg5xGzFdg7U2pR1/view'
-  }
+  'Big Red Kangaroo': {original:'https://drive.google.com/file/d/1hf-dEXWyM7hp3OSMec3bqG9eeJoqR7_1/view',textOnly:'https://drive.google.com/file/d/1O0JhgogtOhM7rVIyS_6CjFUWgIW9vtIq/view'},
+  'Crickwing': {original:'https://drive.google.com/file/d/1YVHtDC8CTfPlaSVyZdulvi9w13V5WsL8/view',textOnly:'https://drive.google.com/file/d/1EcdQb6FJsHXZOnr0-38ilchkhwP6t_Cv/view'},
+  'Dingo': {original:'https://drive.google.com/file/d/18qSK0W7d2TnizfZNvkvSBzDQlTqIQrf4/view',textOnly:'https://drive.google.com/file/d/1Y9qO34yy4BQMxVda1Ian-URgBoQVkb5Y/view'},
+  'Emu': {original:'https://drive.google.com/file/d/1QBnWz6vqwRuLzFakmnvRLCnW8lUqeSSQ/view',textOnly:'https://drive.google.com/file/d/1RAQFpJ8unwafIWCRMgaRhdhtX4RoaR85/view'},
+  'Frederick': {original:'https://drive.google.com/file/d/1O_6YTNsB0JF-wLoq869rwfUt1CpSl5We/view',textOnly:'https://drive.google.com/file/d/1z8VQlW0Vu8YlSfmUMwXmHbk9lhZ9Ow4p/view'},
+  'Koala': {original:'https://drive.google.com/file/d/1ou34ST4in-oA5woY3JlTKW4Kuw47OtOz/view',textOnly:'https://drive.google.com/file/d/1dlKfC-6Txp8W1Heus5Ymqvkoa-_NNgar/view'},
+  'Kookaburra': {original:'https://drive.google.com/file/d/1TGFPrYVzNYTbad0_Z-SBLTBqVKPIDN1O/view',textOnly:'https://drive.google.com/file/d/1ROhhkXmwxxKEzHzjok9G8EkzO4GB-OVE/view'},
+  'Little Blue and Little Yellow': {original:'https://drive.google.com/file/d/1nFOW-0rc9kKDx-J2ViHcuy668VzRk3T4/view',textOnly:'https://drive.google.com/file/d/1FeUidATe_qtOTB8ptYm-z9MAqxO2K5y1/view'},
+  'Night Tree': {original:'https://drive.google.com/file/d/1H57nA7LWzyjrRv8WdI-y4NMW5adf7mwB/view',textOnly:'https://drive.google.com/file/d/1EFyZQqNg-Mtniwndukg5xGzFdg7U2pR1/view'},
+  'Owl Moon': {original:'https://drive.google.com/file/d/1K8tDKUEkRqhl093u2NV7KQy4uET89uRN/view',textOnly:'https://drive.google.com/file/d/1LhnqVNZdJe1Ndy-MiEN11XBICb6EOX8Y/view'},
+  'The Alphabet Tree': {original:'https://drive.google.com/file/d/1YWg3cPyJmlK_PUyTbYSteu4KPvnZvZIy/view',textOnly:'https://drive.google.com/file/d/1wHwtvlmBpXEqtVOCrfUdUVFL_8jhU7ir/view'},
+  'The Boy Who Loved Words': {original:'https://drive.google.com/file/d/1G4Lp82m0CPeUrd_RTfHcdoFuAbksp_vs/view',textOnly:'https://drive.google.com/file/d/1aJ7IDpuj4MxjZi5PThw15_bBeGOcyeD_/view'},
+  'The Gruffalo': {original:'https://drive.google.com/file/d/1V9MvHVl776tS0D5n9d6v21Vo8b5mNbKn/view',textOnly:'https://drive.google.com/file/d/1RYuMlPJb6ZyA_a-U5Z58I1E9_QuiqRw8/view'},
+  'The Important Book': {original:'https://drive.google.com/file/d/116jMSvwNcdWMzEgoEOlkO-G5RCZ-CTMu/view',textOnly:'https://drive.google.com/file/d/1DiBXxwEOx0WklSlnsgDmDB3CWGzMXMmW/view'},
+  'Whoever You Are': {original:'https://drive.google.com/file/d/12W3VMBcwbU5FwOTGsA055HkAtW5DXc8o/view',textOnly:'https://drive.google.com/file/d/1vqf1VfZLQmKfW1wmG-zvgDeAvF_V-Rcy/view'}
 });
 const node = (tag,text,cls) => {const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
 const hasText = value => typeof value === 'string' && value.trim().length > 0;
@@ -80,10 +91,10 @@ function appendStructuredIdea(section,idea){
   if(fields.length){for(const [heading,value] of fields)card.append(node('h4',heading),node('p',value));}else card.append(node('p',idea.description));section.append(card);
 }
 function appendConnectionEntry(parent,item,group){
-  const entry=node('details',undefined,'connection-entry'),summary=node('summary');
+  const direct=group==='pride'||group==='inquiry';
+  const entry=node(direct?'div':'details',undefined,`connection-entry${direct?' direct':''}`),summary=node('summary');
   const year=item.year&&(item.year.startsWith('Year')?item.year:`Year ${item.year}`);
-  summary.append(badge(year||'How this book connects',year?'year':group));
-  entry.append(summary);
+  if(!direct){summary.append(badge(year||'How this book connects',year?'year':group));entry.append(summary);}
   const body=node('div',undefined,'entry-body');
   if(hasText(item.keyUnderstanding))body.append(node('p',`Key Understanding: “${item.keyUnderstanding}”`,'curriculum-line'));
   if(hasText(item.keySkill))body.append(node('p',`Key Skill: “${item.keySkill}”`,'curriculum-line'));
