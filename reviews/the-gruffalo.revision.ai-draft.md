@@ -1,6 +1,6 @@
 # The Gruffalo - complete revision draft
 
-Status: `ai_suggested` - awaiting teacher approval  
+Status: `teacher_reviewed` - approved by Phill and published to Supabase on 10 September 2026  
 Evidence: complete 26-page school Drive PDF, visually checked transcript and OCR review notes  
 Author: Julia Donaldson  
 Illustrator: Axel Scheffler
@@ -220,4 +220,6 @@ Illustrator: Axel Scheffler
 - PRIDE and inquiry wording comes from the canonical Ngarri reference files.
 - Teaching ideas were shaped by `reading-comprehension-strategy-selector`, `pedagogical-content-knowledge-developer` and `think-aloud-script-generator`: selective strategy use, explicit modelling before transfer, attention to the misconception that an understandable lie automatically demonstrates integrity, and observable evidence of learning.
 - Deliberately omitted: Pride, Respect, Excellence, Environmental Sustainability, Social Responsibility and The Physical World. The woodland setting and character encounters do not demonstrate those concepts strongly enough on their own.
-- No Supabase records have been changed. All proposed content remains `ai_suggested` pending teacher approval.
+- Approved by Phill in the review conversation on 10 September 2026.
+- Published to Supabase as `teacher_reviewed`: 13 writing connections, 10 reading connections, 2 PRIDE connections, 1 inquiry connection and 7 teaching ideas.
+- The five concise `Why use this book?` points were published with the approved revision for the preview header.
