@@ -5,6 +5,12 @@ const groups = ['writing', 'reading', 'pride', 'inquiry'];
 const titles = {writing:'Writing purposes',reading:'Reading purposes',pride:'PRIDE values',inquiry:'Inquiry lenses'};
 const refreshEveryMs = 15000;
 let data, covers = {}, lastFocus, isLoading = false;
+const bookFiles = Object.freeze({
+  'Night Tree': {
+    original: 'https://drive.google.com/file/d/1H57nA7LWzyjrRv8WdI-y4NMW5adf7mwB/view',
+    textOnly: 'https://drive.google.com/file/d/1EFyZQqNg-Mtniwndukg5xGzFdg7U2pR1/view'
+  }
+});
 const node = (tag,text,cls) => {const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
 const hasText = value => typeof value === 'string' && value.trim().length > 0;
 const allLinks = book => groups.flatMap(group => book[group]);
@@ -15,6 +21,7 @@ function image(book){
   img.addEventListener('error',()=>{covers[book.id]=false;img.replaceWith(node('div','Cover unavailable','cover placeholder'));});return img;
 }
 function badge(text,cls){return node('span',text,'badge '+cls);}
+function fileLink(text,url){const link=node('a',text,'file-link');link.href=url;link.target='_blank';link.rel='noopener noreferrer';return link;}
 function label(group,slug){return data.references[group].find(item=>item.slug===slug)?.name||slug||'Unlabelled connection';}
 
 async function api(table,select,query=''){
@@ -99,6 +106,7 @@ function appendConnectionGroups(section,items,group){
 }
 function openBook(book,trigger){
   lastFocus=trigger;const content=$('detail-content');content.replaceChildren();const hero=node('div',undefined,'detail-hero'),heading=node('div');heading.append(node('h2',book.title),node('p',book.author||'Author not recorded'));if(book.illustrator)heading.append(node('p','Illustrated by '+book.illustrator,'small'));hero.append(image(book),heading);content.append(hero);const meta=node('div',undefined,'meta');meta.append(badge(book.text_type||'Text type not recorded','missing'),badge(book.genre||'Genre not recorded','missing'));content.append(meta);
+  const files=node('section',undefined,'detail-section book-files'),fileSet=bookFiles[book.title];files.append(node('h3','Book files'));if(fileSet){const links=node('div',undefined,'file-links');links.append(fileLink('Open picture book PDF',fileSet.original),fileLink('Open text-only PDF',fileSet.textOnly));files.append(links,node('p','Opens in the school Google Drive.','small'));}else files.append(node('p','Book files have not been linked yet.','small'));content.append(files);
   const blurb=node('details',undefined,'detail-section blurb-panel'),blurbSummary=node('summary');blurbSummary.append(node('h3','Blurb'));blurb.append(blurbSummary,node('p',book.blurb||'No blurb recorded.','blurb'));if(book.blurb)blurb.append(node('p','Recorded status: '+(book.blurb_status||'Not recorded'),'small'));content.append(blurb);
   for(const group of groups){const section=node('section',undefined,'detail-section connection-section');section.append(node('h3',`${titles[group]} (${book[group].length})`));if(!book[group].length)section.append(node('p','No approved connections recorded yet.','small'));else appendConnectionGroups(section,book[group],group);content.append(section);}
   const ideas=node('section',undefined,'detail-section teaching-ideas');ideas.append(node('h3',`Teaching ideas (${book.teaching_ideas.length})`),node('p','Classroom-ready activities linked to this book’s strongest traits, strategies, values and inquiry themes.','small'));if(!book.teaching_ideas.length)ideas.append(node('p','No approved teaching ideas recorded yet.','small'));for(const idea of book.teaching_ideas)appendStructuredIdea(ideas,idea);content.append(ideas);$('detail').showModal();$('close').focus();
