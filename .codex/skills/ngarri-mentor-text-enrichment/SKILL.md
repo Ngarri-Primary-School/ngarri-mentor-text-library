@@ -11,11 +11,15 @@ Read `docs/ENRICHMENT-PIPELINE.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `do
 
 ## Start with the book-intake gate
 
-Review the catalogue, completed books and coverage needs. Propose a manageable batch of three to five named books with a brief reason for each. Favour books that broaden year levels, text types, genres and curriculum coverage and that the school is likely to hold.
+Review the catalogue, completed books and coverage needs. Propose a small batch of one to three named books with a brief reason for each. Favour books that broaden year levels, text types, genres and curriculum coverage and that the school is likely to hold.
 
-Record the chosen list with `new-batch`, show it to the user, and stop. Do not analyse from titles, covers or blurbs while the complete texts are unavailable. Resume only after the user says the files are in the school Google Drive and provides or identifies the folder.
+Show the proposed list to the user before beginning so they can check that the complete books are in the school Google Drive. Record the agreed list with `new-batch`, then stop. Do not analyse from titles, covers or blurbs while the complete texts are unavailable. Complete only one book at a time and wait for teacher approval before publishing it or beginning the next book.
 
-Use the Google Drive connector to list the folder and confirm that each selected file is readable in full. Record only sources that Codex can actually open. A visible filename or link is not proof of access. Keep commercial books restricted to the appropriate school accounts; do not change sharing to public or “anyone with the link.” Run `register-source --verified` for each verified text. If any source is missing, tell the user exactly which title is still needed and pause that title.
+Use the Google Drive connector to list the folder and confirm that each selected file is readable in full. Record only sources that Codex can actually open. A visible filename or link is not proof of access. Preserve the folder owner's recorded sharing decision and do not broaden or change it without approval. Run `register-source --verified` for each verified text. If any source is missing, tell the user exactly which title is still needed and pause that title.
+
+Before extracting anything, search `restricted-reference/jimk-mentor-texts/` and the Drive `Text Extractions - Restricted/` folders for existing text resources. Prefer a suitable checked transcription or reliable embedded text layer. Use fresh extraction next and OCR only when necessary. Check an existing transcription against the complete Drive book at the beginning, middle and ending, verify every cited passage, note edition differences and inspect all illustrations used as evidence.
+
+If a JimK transcription is suitable, it may seed the clean transcript and searchable text-only PDF saved to the book's Drive extraction folder. Also save concise transcription-review notes. Website resource links must point to the approved Drive copies, not the private GitHub transcription.
 
 ## Create the draft
 
@@ -26,6 +30,8 @@ Run `make-draft` only after source verification. Establish these bibliographic f
 
 Give a brief classification rationale based on the complete work. Do not infer classification only from publisher marketing.
 
+Check the title, author, illustrator, publication details, year band, cover and resource links during every book revision. Confirm that the cover belongs to the correct book or edition and renders correctly. Record whether the original school PDF and searchable text-only PDF are ready to link from the authenticated site.
+
 Read the complete text and inspect available illustrations. Select every strong, distinct connection the book demonstrates especially well, without quotas or padding. For writing and reading, cite one curriculum reference record and copy one matching Key Understanding and Key Skill exactly. A missing Key Skill is permitted only under the documented professional-reading exception. Identify a precise passage, event, language choice or verified illustration and explain its teaching value. PRIDE and inquiry use concepts without year-level subdivisions. Treat counterexamples as counterexamples.
 
 Teaching ideas must grow from the selected book evidence and include the structured fields required by the validator. Before drafting them, inspect and use the narrowest relevant installed education skills, such as `reading-comprehension-strategy-selector`, `pedagogical-content-knowledge-developer` or `think-aloud-script-generator`. Record which skills shaped the draft. If none fits, use the available skill-discovery or installer workflow to look for one. Treat skill output as design support and recheck it against the complete book and exact Ngarri sources. Reject any idea that would still work unchanged after replacing the title with another book.
@@ -34,6 +40,6 @@ Keep all new records `ai_suggested`. Run `validate` before presenting a draft. R
 
 ## Review and publication boundary
 
-Present a teacher-readable review draft. Teacher approval is required before changing records to `teacher_reviewed` or exposing them in teacher-facing pages and filters. Preserve the AI draft, reviewer identity, review time, edits and source provenance. Do not deploy a database migration, publish content or initiate paid/bulk generation without the relevant authorisation.
+Present one complete, teacher-readable book draft, including cover and resource-link status. Teacher approval is required before changing records to `teacher_reviewed` or exposing them in teacher-facing pages and filters. Preserve the AI draft, reviewer identity, review time, edits and source provenance. After approved publication, verify Supabase and the authenticated preview page before beginning the next book. Do not deploy a database migration, publish content or initiate paid/bulk generation without the relevant authorisation.
 
 Google Drive remains the access-control point for full books. Supabase stores the book's restricted Drive reference and resource metadata; the public progress viewer must never expose full-text links. The eventual authenticated teacher library may show an **Open school copy** action to authorised users.

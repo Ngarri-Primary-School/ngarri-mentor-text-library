@@ -381,7 +381,7 @@ def parser() -> argparse.ArgumentParser:
     new.add_argument("--books", type=Path, required=True, help="JSON candidate list prepared from the catalogue.")
     new.add_argument("--out", type=Path, required=True)
     new.add_argument("--batch-id", required=True)
-    new.add_argument("--count", type=int, default=5)
+    new.add_argument("--count", type=int, choices=range(1, 4), default=3, help="Small review batch size (1-3; default: 3).")
     new.add_argument("--exclude", action="append", default=[])
     new.set_defaults(func=cmd_new_batch)
 

@@ -42,6 +42,15 @@ class MentorPipelineTests(unittest.TestCase):
             self.assertEqual(saved["books"][0]["title"], "First")
             self.assertFalse(saved["books"][0]["access_verified"])
 
+    def test_new_batch_defaults_to_small_review_batch(self):
+        args = PIPELINE.parser().parse_args([
+            "new-batch",
+            "--books", "candidates.json",
+            "--out", "batch.json",
+            "--batch-id", "test",
+        ])
+        self.assertEqual(args.count, 3)
+
     def test_draft_cannot_be_created_before_access_verification(self):
         with tempfile.TemporaryDirectory() as folder:
             base = Path(folder)

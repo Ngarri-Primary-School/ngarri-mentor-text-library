@@ -1,10 +1,10 @@
 # Writing useful mentor-text content
 
-Updated: 9 September 2026
+Updated: 10 September 2026
 Status: approved canonical guide
 Purpose: quality standard based on the strongest features of the approved *Crickwing* content and Phill's review
 
-This guide explains how to turn a complete book and the Ngarri curriculum documents into content that a teacher can use. It does not approve or replace an individual book record. Revise pilot books one at a time and obtain teacher approval between books.
+This guide explains how to turn a complete book and the Ngarri curriculum documents into content that a teacher can use. It does not approve or replace an individual book record. Work in small announced batches of one to three books, but complete one book at a time and obtain teacher approval before publishing or beginning the next book.
 
 ## The result we are aiming for
 
@@ -35,6 +35,10 @@ These are not four copies of one plot summary. Each paragraph selects the part o
 ## Step 1: establish the evidence base
 
 Read the complete text and inspect the illustrations wherever visual meaning is part of the proposed connection. Do not build a book-specific recommendation from a title, catalogue description, online summary or memory.
+
+Before extracting text from a PDF, search the private JimK continuity archive and the Drive extraction folders for an existing transcription or searchable text-only PDF. Check a candidate transcription against the complete school copy, including the beginning, middle, ending and every passage selected as evidence. Record edition differences or uncertain wording. Extract from the PDF only when a suitable checked text does not exist, and use OCR only when the PDF lacks a reliable text layer.
+
+At the same time, check the bibliographic details, year band, displayed cover and school resource links. Confirm that the cover is correct and renders properly. The authenticated site should ultimately offer the original school PDF and a Drive-hosted searchable text-only PDF when available.
 
 Before selecting curriculum connections, make a private evidence map of the book. Record:
 
@@ -235,6 +239,8 @@ Every proposed book must pass these checks:
 - Teaching ideas have all relevant structured fields, including student application and observable learning.
 - Relevant installed education skills were used for teaching-idea design, or the skill-discovery check and its result were recorded.
 - Book facts, curriculum quotations, interpretations and designed teaching ideas remain distinguishable.
+- Existing JimK and Drive text resources were checked before new extraction or OCR was attempted.
+- The title, author, illustrator, publication details, year band, cover and school resource-link status were checked.
 - Full copyrighted texts and restricted Drive links are absent from public data. Any approved text-only continuity copy is confined to `restricted-reference/` in the private repository.
 - All new records remain `ai_suggested` until the teacher records approval.
 
@@ -247,7 +253,8 @@ A useful final test is: **Could a teacher who knows the curriculum but has not p
 3. Present the draft to Phill as `ai_suggested`.
 4. Record approval, rejection or requested revision without overwriting the original review history.
 5. Publish only approved records to the teacher-facing library.
-6. Update this guide when a reviewed book reveals a general rule that will improve future books.
-7. Move to the next book only after the previous book has been decided.
+6. Verify the approved Supabase records and authenticated preview page, including the cover and resource links.
+7. Update this guide when a reviewed book reveals a general rule that will improve future books.
+8. Move to the next book only after the previous book has been decided.
 
-The revision order is *The Alphabet Tree*, *Night Tree*, *Little Blue and Little Yellow*, then *The Gruffalo*. *Crickwing* remains the quality model and *Fox* remains a separate calibration example.
+The five-book trial is complete. *Crickwing*, *The Alphabet Tree*, *Night Tree*, *Little Blue and Little Yellow* and *The Gruffalo* form the approved quality benchmark. *Fox* remains a separate calibration example.
