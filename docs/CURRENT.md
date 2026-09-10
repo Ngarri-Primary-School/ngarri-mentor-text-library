@@ -1,7 +1,7 @@
 ---
 title: Ngarri Mentor Text Library - Current State and Codex Handover
 type: project-handover
-updated: 2026-09-08
+updated: 2026-09-10
 status: active
 ---
 
@@ -98,7 +98,7 @@ The user selected the private school repository https://github.com/Ngarri-Primar
 
 The repeatable enrichment support is now defined in `docs/ENRICHMENT-PIPELINE.md`, implemented by `scripts/mentor_pipeline.py`, and guided by the repository skill at `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`. New batches begin with Codex naming one to three proposed books and pausing while Phill confirms that the complete books are available in the school Google Drive. Codex completes one book at a time and waits for approval before publishing or moving on. Every new draft includes text type, genre and a classification rationale.
 
-The earlier five-book batch proposal (*Dingo*, *Owl Moon*, *The Boy Who Loved Words*, *The Important Book* and *Whoever You Are*) has been superseded by the approved small-batch workflow. The next proposed batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. All three have JimK text documents and school-catalogue records, so they are a useful first test of transcript-first processing. Phill must confirm that their complete picture books are available in Drive before work begins. Complete and review *Owl Moon* first; do not begin *Fireflies!* until *Owl Moon* is decided.
+The earlier five-book batch proposal (*Dingo*, *Owl Moon*, *The Boy Who Loved Words*, *The Important Book* and *Whoever You Are*) has been superseded by the approved small-batch workflow. The current batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Phill confirmed that all three complete picture books are available in Drive. *Owl Moon* was approved and published on 10 September 2026 with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records; its metadata, cover and two authenticated Drive links were verified on the live website. Stop at this approval boundary and begin *Fireflies!* only when Phill asks to continue.
 
 The five previously approved pilot books predate the classification requirement. Their existing content approval remains valid, but their text type and genre still require evidence-based classification and teacher review before those fields are treated as approved.
 
