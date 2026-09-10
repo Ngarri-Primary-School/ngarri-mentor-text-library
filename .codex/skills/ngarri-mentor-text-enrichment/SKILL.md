@@ -7,7 +7,7 @@ description: Select, prepare, validate and review Ngarri Mentor Text Library boo
 
 Use this skill for choosing the next books, analysing complete texts, drafting book records, checking curriculum alignment, or preparing content for teacher review.
 
-Read `docs/ENRICHMENT-PIPELINE.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/CONTENT-AUTHORING-GUIDE.md`. Use `scripts/mentor_pipeline.py` for intake, extraction, scaffolding and validation. Keep all full texts and working extracts under `.mentor-work/`; never commit them.
+Read `docs/ENRICHMENT-PIPELINE.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/CONTENT-AUTHORING-GUIDE.md`. Use `scripts/mentor_pipeline.py` for intake, extraction, scaffolding and validation. Keep new extractions and working copies under `.mentor-work/`; never commit them. Approved text-only transcriptions already preserved under `restricted-reference/` may be used as supplementary evidence, but must never enter application data, Supabase or public output.
 
 ## Start with the book-intake gate
 
