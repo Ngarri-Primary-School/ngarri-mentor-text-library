@@ -38,9 +38,9 @@ These originals are evidence sources. Their presence does not mean every file ha
 
 ## Material deliberately excluded
 
-The following remain outside GitHub:
+The following remain outside GitHub, except for the explicitly approved text-only continuity archive under `../restricted-reference/`:
 
-- full picture-book texts and commercial book PDFs;
+- full picture-book PDFs, scans and page images;
 - *The Power of Inquiry* by Kath Murdoch;
 - *The Reading Strategies Book*;
 - *Strategies That Work*;

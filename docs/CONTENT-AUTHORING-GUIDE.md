@@ -49,7 +49,7 @@ Before selecting curriculum connections, make a private evidence map of the book
 
 Internal evidence records may use a page, spread, section, opening words or event description. Teacher-facing prose should normally refer to the recognisable moment rather than require a particular PDF page number, because editions can differ.
 
-Keep four kinds of material distinguishable: what the book explicitly shows or says, a short lawful quotation, the writer's interpretation, and a newly designed teaching suggestion. Never store or publish the complete copyrighted text in GitHub or Supabase.
+Keep four kinds of material distinguishable: what the book explicitly shows or says, a short lawful quotation, the writer's interpretation, and a newly designed teaching suggestion. Never store or publish a complete copyrighted text in Supabase, website data or public exports. The private GitHub repository's `restricted-reference/` directory is an approved continuity archive for text-only transcriptions; its contents are source material, not publishable application content.
 
 ## Step 2: classify the book
 
@@ -235,7 +235,7 @@ Every proposed book must pass these checks:
 - Teaching ideas have all relevant structured fields, including student application and observable learning.
 - Relevant installed education skills were used for teaching-idea design, or the skill-discovery check and its result were recorded.
 - Book facts, curriculum quotations, interpretations and designed teaching ideas remain distinguishable.
-- Full copyrighted texts and restricted Drive links are absent from public data and GitHub.
+- Full copyrighted texts and restricted Drive links are absent from public data. Any approved text-only continuity copy is confined to `restricted-reference/` in the private repository.
 - All new records remain `ai_suggested` until the teacher records approval.
 
 A useful final test is: **Could a teacher who knows the curriculum but has not planned this book see exactly what to revisit, what to teach and why this book is worth choosing?**

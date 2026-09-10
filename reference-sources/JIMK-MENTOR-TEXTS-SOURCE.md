@@ -1,7 +1,7 @@
 # JimK mentor-text transcription source
 
 Updated: 10 September 2026  
-Status: accessible supplementary source; full texts deliberately not copied
+Status: preserved as a private text-only continuity archive
 
 ## Source location
 
@@ -10,6 +10,8 @@ Status: accessible supplementary source; full texts deliberately not copied
 - Access checked: 10 September 2026
 - Repository visibility when checked: private
 - Inventory when checked: 98 Markdown files plus associated image assets
+- Preserved source commit: `5a6a6ea3c01b83b2dd97a6cec4a66580ab20cc46`
+- Local project copy: `restricted-reference/jimk-mentor-texts/`
 
 ## Purpose
 
@@ -17,8 +19,9 @@ This private repository contains transcriptions, extracts, mentor-text lists and
 
 ## Use conditions
 
-- Do not copy complete copyrighted book transcriptions or associated commercial images into this repository or Supabase.
-- Access the JimK source in place through the private repository when a relevant title is being reviewed.
+- Keep the preserved transcriptions confined to `restricted-reference/` in this private repository.
+- Do not copy the transcriptions into Supabase, application data, website builds, public exports or downloadable site assets.
+- Do not add the associated commercial images, scans or book PDFs to GitHub.
 - Treat a transcription as a checking aid, not proof that the complete published book or its illustrations were inspected.
 - Before writing book-specific content, verify the complete school-held book through the restricted Google Drive and visually inspect any illustration used as evidence.
 - Check transcription wording against the verified school copy. Record discrepancies rather than silently combining editions.

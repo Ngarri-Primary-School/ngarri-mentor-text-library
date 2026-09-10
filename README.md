@@ -4,7 +4,7 @@ School project handover updated 8 September 2026. This package contains the work
 
 Shared progress viewer: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 
-The active structured curriculum, reading, PRIDE, inquiry and calibration files are indexed in [`reference-data/README.md`](reference-data/README.md). The read-only source audit and safe school-owned originals are in [`reference-sources/README.md`](reference-sources/README.md). Commercial publications and full book texts are excluded.
+The active structured curriculum, reading, PRIDE, inquiry and calibration files are indexed in [`reference-data/README.md`](reference-data/README.md). The read-only source audit and safe school-owned originals are in [`reference-sources/README.md`](reference-sources/README.md). The private text-only continuity archive is documented in [`restricted-reference/README.md`](restricted-reference/README.md); it is excluded from all publishing workflows. Commercial PDFs, scans and page images are excluded from GitHub.
 
 ## Start the existing prototype
 

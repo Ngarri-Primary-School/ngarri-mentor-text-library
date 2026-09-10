@@ -11,7 +11,7 @@ This pipeline turns a verified complete book into a structured draft for teacher
 
 At the beginning of each batch, Codex reviews the catalogue and names the next three to five books, with a short selection reason for each. It records the batch using `scripts/mentor_pipeline.py new-batch`, tells the user which books are next, and pauses.
 
-The user places school-held copies in the restricted school Google Drive folder. Codex resumes only after it can list and read each complete file through the school account's Google Drive connection. It records the Drive file identifier, verification time and source fingerprint in an ignored local batch record. Full commercial texts and extracted working copies remain outside GitHub.
+The user places school-held copies in the restricted school Google Drive folder. Codex resumes only after it can list and read each complete file through the school account's Google Drive connection. It records the Drive file identifier, verification time and source fingerprint in an ignored local batch record. Full PDFs, page images and newly extracted working copies remain outside GitHub. An approved text-only transcription may also be consulted from the private continuity archive under `restricted-reference/`, but it does not replace checking the complete school copy and available illustrations.
 
 The same restricted Drive file can later support an **Open school copy** link in the authenticated teacher library. The public progress viewer must not expose these links. Google Drive permissions remain authoritative.
 
