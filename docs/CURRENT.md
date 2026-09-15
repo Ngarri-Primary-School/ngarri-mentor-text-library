@@ -1,19 +1,19 @@
 ---
 title: Ngarri Mentor Text Library - Current State and Codex Handover
 type: project-handover
-updated: 2026-09-10
+updated: 2026-09-15
 status: active
 ---
 
 # Current State and Codex Handover
 
-This reconciliation records the work and user decisions made through 8 September 2026. Read it before the older project notes. Where a dated reconciliation block identifies a conflict, this note supersedes the historical statement; unaffected design and domain rules remain in effect. Repository documentation is the current source. The preserved Obsidian snapshot records provenance; it is not an independent editable copy.
+This reconciliation records the work and user decisions through 15 September 2026. Read it before the older project notes. Where a dated reconciliation block identifies a conflict, this note supersedes the historical statement; unaffected design and domain rules remain in effect. Repository documentation is the current source. The preserved Obsidian snapshot records provenance; it is not an independent editable copy.
 
-## Current approved implementation — 8 September 2026
+## Current approved implementation — 15 September 2026
 
-The complete-text picture-book pilot is approved for Crickwing, Night Tree, The Alphabet Tree, Little Blue and Little Yellow, and The Gruffalo. Their writing, reading, PRIDE, inquiry and teaching-idea records are stored in Supabase as `teacher_reviewed` and are visible in the public, read-only progress viewer at https://ngarri-mentor-library-progress.velveteen.chatgpt.site/.
+The complete-text picture-book pilot is approved for Crickwing, Night Tree, The Alphabet Tree, Little Blue and Little Yellow, and The Gruffalo. Their writing, reading, PRIDE, inquiry and teaching-idea records are stored in Supabase as `teacher_reviewed` and are visible in the shared-password progress viewer at https://ngarri-mentor-library-progress.velveteen.chatgpt.site/. Owl Moon is also approved and published as the first book in the next small batch.
 
-The approved content hierarchy and book-page interaction are now specified in `docs/CONTENT-AND-DISPLAY-FORMAT.md`. In particular, writing and reading are organised by trait or strategy and then year level, with exact curriculum wording and a book-specific explanation. PRIDE and inquiry are concept-based without year-level subdivisions. Teaching ideas use structured classroom fields. All book-detail disclosures start closed and open progressively, including the blurb, trait or strategy, year-level record, value, lens and individual teaching idea.
+The approved content hierarchy and book-page interaction are now specified in `docs/CONTENT-AND-DISPLAY-FORMAT.md`. In particular, writing and reading are organised by trait or strategy and then year level, with exact curriculum wording and a book-specific explanation. PRIDE and inquiry are concept-based without year-level subdivisions. Teaching ideas use structured classroom fields. The blurb sits in the book header; writing, reading, PRIDE, inquiry and individual teaching ideas use progressive disclosure, with PRIDE and inquiry opening directly to their connection.
 
 This current specification supersedes older fixed 1–3 connection targets, generic teaching-idea allowances and any presentation note that conflicts with the approved pilot. Historical files under `archive/obsidian-vault-snapshot/` remain unchanged for provenance.
 
@@ -36,7 +36,7 @@ On 9 September 2026, a visually checked extraction package for *The Alphabet Tre
 
 The applied access correction is migration `20260905205749`, `restrict_teacher_pilot_access`. The deployment report records SELECT-only client access where permitted, active-book parent checks and approved/imported status filtering. Teaching resources remain blocked to clients pending their policy. Unnecessary client grants were removed across fourteen tables; thirteen permit the intended SELECT access. The local isolated access tests passed 328 checks. See the actual deployment report and recovered schema; do not treat older blanket public-read descriptions or schema.sql references as current authority.
 
-Production review access remains to be implemented. A local browser preview toggle and reviewer name field are not authentication. The historical shared-passcode design is not evidence of a completed secure implementation. Preserve the school-owned-key/spending-cap requirement; a coding assistant account does not settle the enrichment provider or authorise a paid run.
+The shared progress viewer now has a school-group shared-password sign-in. The password is held outside GitHub and project documents. This is a practical access gate for the current principal and literacy-leader review use; it is not individual-account reviewer access or a substitute for a future school-owned authentication arrangement. Preserve the school-owned-key/spending-cap requirement; a coding assistant account does not settle the enrichment provider or authorise a paid run.
 
 ## Mentor-text content standard
 
@@ -98,7 +98,7 @@ The user selected the private school repository https://github.com/Ngarri-Primar
 
 The repeatable enrichment support is now defined in `docs/ENRICHMENT-PIPELINE.md`, implemented by `scripts/mentor_pipeline.py`, and guided by the repository skill at `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`. New batches begin with Codex naming one to three proposed books and pausing while Phill confirms that the complete books are available in the school Google Drive. Codex completes one book at a time and waits for approval before publishing or moving on. Every new draft includes text type, genre and a classification rationale.
 
-The earlier five-book batch proposal (*Dingo*, *Owl Moon*, *The Boy Who Loved Words*, *The Important Book* and *Whoever You Are*) has been superseded by the approved small-batch workflow. The current batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Phill confirmed that all three complete picture books are available in Drive. *Owl Moon* was approved and published on 10 September 2026 with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records; its metadata, cover and two authenticated Drive links were verified on the live website. Stop at this approval boundary and begin *Fireflies!* only when Phill asks to continue.
+The earlier five-book batch proposal (*Dingo*, *Owl Moon*, *The Boy Who Loved Words*, *The Important Book* and *Whoever You Are*) has been superseded by the approved small-batch workflow. The current batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Phill confirmed that all three complete picture books are available in Drive. *Owl Moon* was approved and published on 10 September 2026 with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records; its metadata, cover and the complete-book and text-only Drive links were verified on the live website. The website's link mapping was updated and deployed after verification. Stop at this approval boundary and begin *Fireflies!* only when Phill asks to continue.
 
 The five previously approved pilot books predate the classification requirement. Their existing content approval remains valid, but their text type and genre still require evidence-based classification and teacher review before those fields are treated as approved.
 
@@ -110,5 +110,5 @@ The five-book trial is complete. *Crickwing*, *The Alphabet Tree*, *Night Tree*,
 
 Before processing a new book, search `restricted-reference/jimk-mentor-texts/` and Drive's `Text Extractions - Restricted/` folders for existing text. A suitable JimK transcription may seed the clean transcript and searchable text-only PDF stored in Drive, after comparison with the complete school copy. Use extraction or OCR only when needed. Every book revision also checks metadata, year band, cover correctness and rendering, and the authenticated site's original-PDF and text-only-PDF links.
 
-Keep all other new material `ai_suggested` until Phill reviews it; do not expose it in teacher-facing pages or filters before approval. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover.
+Keep all other new material `ai_suggested` until Phill reviews it; do not expose it in teacher-facing pages or filters before approval. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover. The deployment-only Sites source repository is separate from this school GitHub repository; update it only when a website interface, cover or hard-coded Drive-link change is required.
 

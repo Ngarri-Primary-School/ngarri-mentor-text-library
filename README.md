@@ -1,6 +1,6 @@
 # Ngarri Mentor Text Library
 
-School project handover updated 8 September 2026. This package contains the working local Fox reviewer, saved teacher review, school curriculum reference records, design references, the approved five-book complete-text pilot and recovered database migrations. The public progress viewer is deployed; the final production teacher library and secure reviewer application are still to be built.
+School project handover updated 15 September 2026. This package contains the working local Fox reviewer, saved teacher review, school curriculum reference records, design references, the approved five-book complete-text pilot, the approved Owl Moon revision and recovered database migrations. The shared progress viewer is deployed behind the school group's shared sign-in; the final production teacher library and secure reviewer application are still to be built.
 
 Shared progress viewer: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 
@@ -22,9 +22,9 @@ Read `docs/CURRENT.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/ENRICHMEN
 
 Phill's unchanged saved export is `codex-transfer-preparation/fox-review-record.json`: nine locally approved connections and one omitted. Requests to remove PDF page numbers from teacher prose are still outstanding. Preserve precise internal evidence locators and original reviewed text. Rewrite Making Connections around readers connecting the text to their experience, and submit that revised item for review. Do not carry forward approval onto changed content automatically.
 
-Select each book's strongest evidenced examples, without a quota or three-item cap. AI suggestions remain reviewer-only until approved. The five teacher-approved complete-text pilot books are the current quality benchmark. Current local preview controls are not production authentication. The final teacher page should follow the five Fox prototype images in `archive/obsidian-vault-snapshot/Design/assets/fox-prototype/` and the implemented progressive disclosure rules in `docs/CONTENT-AND-DISPLAY-FORMAT.md`.
+Select each book's strongest evidenced examples, without a quota or three-item cap. AI suggestions remain reviewer-only until approved. The five teacher-approved complete-text pilot books are the current quality benchmark. Owl Moon is the first approved book in the following batch. The shared progress viewer has a school-group sign-in; keep its credentials out of GitHub and project documents. The final teacher page should follow the five Fox prototype images in `archive/obsidian-vault-snapshot/Design/assets/fox-prototype/` and the implemented progressive disclosure rules in `docs/CONTENT-AND-DISPLAY-FORMAT.md`.
 
-The recovery snapshot recorded 343 active books, 391 writing annotations and 260 reading annotations. All 651 explanations were empty. The applied access correction and 328-check isolated test record are in `mentor-access-change/`. Production reviewer access, teacher website and enrichment pipeline remain unfinished. No paid generation, bulk enrichment or new database deployment is authorised by this transfer.
+The recovery snapshot recorded 343 active books, 391 writing annotations and 260 reading annotations. All 651 explanations were empty at recovery. The applied access correction and 328-check isolated test record are in `mentor-access-change/`. The shared progress website and enrichment workflow are now operating; production reviewer access and institutional ownership of Supabase and hosting still need handover. No paid generation, bulk enrichment or new database deployment is authorised by this transfer.
 
 ## Starting a new ChatGPT or Codex conversation
 

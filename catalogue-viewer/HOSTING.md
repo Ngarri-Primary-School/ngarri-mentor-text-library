@@ -1,13 +1,13 @@
-# Shared progress viewer
+# Shared progress viewer handover
 
 Site address: https://ngarri-mentor-library-progress.velveteen.chatgpt.site
 
-The user explicitly approved publishing the 343-book catalogue, blurbs, existing writing/reading links and 221 covers to OpenAI Sites for anyone with the link. No sign-in is required. It retains the original search, combined filters, book detail view and missing-information indicators. The viewer reads approved catalogue data directly from Supabase and checks for changes every 15 seconds.
+The user approved a shared-password sign-in for the school principal, literacy leaders and Phill. The site retains the original search, combined filters, book detail view and missing-information indicators. The password is intentionally absent from GitHub, source code and project documents. Change it only through the hosting environment's secure settings.
 
-As verified on 9 September 2026, Supabase contains 343 active books, 458 publicly readable writing records, 296 reading records, 10 PRIDE connections, 10 inquiry connections and 32 teaching ideas. The static collection contains 221 covers. Draft AI annotations are excluded from public responses. Book PDFs, raw snapshots, credentials, vault notes and review exports are not part of the public site.
+As verified on 10 September 2026, Supabase contains Owl Moon as an approved revision with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching ideas. The static collection contains 221 covers. Draft AI annotations are excluded from teacher-facing responses. The Owl Moon page links to the complete school copy and a text-only PDF in Google Drive; full book files, raw snapshots, credentials, vault notes and review exports are not site assets.
 
-`build_public.py --covers <original covers folder>` prepares the static `out/` directory. `.openai/hosting.json` records the existing Sites project; reuse it for updates rather than creating another site. The live Supabase connection and collapsible detail interface were published through version 4 of the Site. Sites keeps the published assets independent of this computer. Use the standard Sites packaging helper and credentials provided at runtime for future interface or cover updates.
+`build_public.py --covers <original covers folder>` prepares the static `out/` directory. `.openai/hosting.json` records the existing Sites project; reuse it for updates rather than creating another site. The separate Sites deployment copy contains the shared sign-in worker and current link mapping. Sites keeps the published assets independent of this computer. Use the standard Sites packaging helper and credentials provided at runtime for future interface, cover or link updates.
 
 The school GitHub repository remains the canonical project documentation/code destination. The Sites source repository is a deployment copy, not a competing editable project. The initial Site is owned by Phill's current account; school ownership/access handover for hosting remains a separate task. No automatic GitHub-to-Sites deployment has been configured.
 
-Database content refreshes without republishing the website. Republish this Site only when its interface or static cover collection changes. Supabase Row Level Security keeps unreviewed suggestions out of the public response.
+Database content refreshes without republishing the website. Republish this Site when its interface, static cover collection or hard-coded school-resource link mapping changes. Supabase Row Level Security keeps unreviewed suggestions out of teacher-facing responses.

@@ -15,7 +15,7 @@ A batch is only a short forward plan. Codex completes one book, presents the ent
 
 The user places school-held copies in the school Google Drive folder. Codex resumes a book only after it can locate the complete file and verify that the book can be read. It records the Drive file identifier, verification time and source fingerprint in an ignored local batch record. Full PDFs, page images and newly extracted working copies remain outside GitHub. An approved text-only transcription may also be consulted from the private continuity archive under `restricted-reference/`, but it does not replace checking the complete school copy and available illustrations.
 
-The same restricted Drive file can later support an **Open school copy** link in the authenticated teacher library. The public progress viewer must not expose these links. Google Drive permissions remain authoritative.
+The same restricted Drive file can support an **Open picture book PDF** link in the shared-password progress viewer. A matching Drive-hosted **Open text-only PDF** link may also be shown after its transcript has been checked. Google Drive permissions remain authoritative; do not embed a book file in the website, GitHub or Supabase.
 
 ## Find text before extracting it
 
@@ -117,4 +117,4 @@ Ngarri Mentor Text Library
 
 Current school folder: `Mentor Texts`, Google Drive folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
 
-On 8 September 2026, Phill explicitly accepted the folder's existing **anyone-with-the-link** access because book links are intended to be presented to teachers through the authenticated website. Preserve this as a recorded owner decision and do not broaden or change access without a new decision. Do not copy full books into Supabase or website data. The private text-only continuity archive is the documented GitHub exception. The website should link to the Drive copies and let Google Drive enforce the configured access.
+On 8 September 2026, Phill explicitly accepted the folder's existing **anyone-with-the-link** access because book links are intended to be presented to teachers through the shared-password website. Preserve this as a recorded owner decision and do not broaden or change access without a new decision. Do not copy full books into Supabase or website data. The private text-only continuity archive is the documented GitHub exception. The website should link to the Drive copies and let Google Drive enforce the configured access.

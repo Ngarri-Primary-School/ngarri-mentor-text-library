@@ -1,6 +1,6 @@
 # Canonical content and book-page format
 
-Updated: 9 September 2026
+Updated: 15 September 2026
 Status: approved through the complete-text picture-book pilot
 
 This is the current specification for creating, reviewing, storing and displaying mentor-text content. It supersedes conflicting quotas or presentation instructions in the dated Obsidian snapshot. The snapshot remains unchanged as a provenance record.
@@ -19,7 +19,7 @@ Use this specification with `docs/CONTENT-AUTHORING-GUIDE.md`, which gives the a
 
 Every enriched book records its broad **text type**, one or more specific **genres**, and a short classification rationale grounded in the complete work. These fields are part of teacher review rather than catalogue decoration.
 
-Before analysis, Codex names the next small batch and pauses while the user places the complete texts in the restricted school Google Drive. Codex must verify it can read every selected file. The teacher library may later link authorised staff to the school copy, but the public progress viewer must not expose restricted full-text links.
+Before analysis, Codex names the next small batch and pauses while the user places the complete texts in the restricted school Google Drive. Codex must verify it can read every selected file. The shared-password progress viewer may link authorised staff to the school copy and a checked text-only PDF in Drive, but it must not host full-text files itself.
 
 ## Writing connections
 
@@ -67,16 +67,16 @@ Use relevant installed education skills to strengthen the design of teaching ide
 
 ## Review and visibility
 
-AI-generated records use `ai_suggested` status and remain visible only to authorised reviewers. They do not appear in the public teacher library or influence its filters. After a reviewer approves them, store the reviewer and review time and change their status to `teacher_reviewed`; the shared progress viewer then displays them from Supabase.
+AI-generated records use `ai_suggested` status and remain visible only to authorised reviewers. They do not appear in the shared teacher library or influence its filters. After a reviewer approves them, store the reviewer and review time and change their status to `teacher_reviewed`; the shared progress viewer then displays them from Supabase.
 
 ## Collapsible book-page display
 
 Book details are progressive and collapsed by default:
 
-- the blurb opens and closes;
+- the blurb sits in the book header beside the cover, metadata and “Why use this book?” panel;
 - each writing trait opens to reveal its year levels, and each year level opens to reveal curriculum wording and the book-specific explanation;
 - each reading strategy uses the same two-level pattern;
-- each PRIDE value and inquiry lens opens to reveal its concept-based explanation without a year-level layer; and
+- each PRIDE value and inquiry lens opens directly to its concept-based explanation, without a year-level or intermediate “How this book connects” layer; and
 - each teaching idea opens independently to reveal its classroom detail.
 
 Use clear directional controls, keyboard-operable native disclosure behaviour and semantic colours for writing, reading, PRIDE and inquiry. Preserve this hierarchy on desktop and small screens.

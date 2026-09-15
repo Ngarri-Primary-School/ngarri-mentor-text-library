@@ -14,7 +14,7 @@ Live viewer: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 | Little Blue and Little Yellow | 11 | 7 | 2 | 2 | 6 |
 | The Gruffalo | 12 | 7 | 1 | 1 | 6 |
 
-All records above are stored in Supabase with `teacher_reviewed` status. The public progress viewer reads Supabase directly and refreshes every 15 seconds.
+All records above are stored in Supabase with `teacher_reviewed` status. The shared-password progress viewer reads approved data from Supabase and refreshes every 15 seconds.
 
 The canonical authoring, database and page-display rules established by this approval are recorded in `docs/CONTENT-AND-DISPLAY-FORMAT.md`.
 
@@ -27,13 +27,13 @@ The canonical authoring, database and page-display rules established by this app
 - Teaching ideas identify where to look, the learning focus, a teaching sequence, student application and observable learning.
 - AI suggestions remain private until a reviewer approves them.
 - Preserve complete-text sources and source references; do not place copyrighted full texts in the public repository or website.
-- Display book details collapsed by default. Writing and reading first open by trait or strategy and then by year level; PRIDE, inquiry, blurb and teaching ideas open as their own disclosures.
+- Display book details progressively. The blurb sits in the header; writing and reading first open by trait or strategy and then by year level; PRIDE and inquiry open directly to their connection; teaching ideas open independently.
 
 ## Night Tree Visualising decision
 
 The current Ngarri reading source has no dedicated Visualising Key Understanding or Key Skill. Its database reference groups Visualising with wording for neighbouring strategies, which must not be relabelled as Visualising curriculum.
 
-For Night Tree, the approved Visualising entry instead uses the matching understanding from *Strategies That Work*, Chapter 9: proficient readers create sensory images to improve comprehension. The entry intentionally has no Key Skill and identifies the professional-reading source in Supabase and on the public page.
+For Night Tree, the approved Visualising entry instead uses the matching understanding from *Strategies That Work*, Chapter 9: proficient readers create sensory images to improve comprehension. The entry intentionally has no Key Skill and identifies the professional-reading source in Supabase and on the shared progress page.
 
 ## Canonical supporting files
 
