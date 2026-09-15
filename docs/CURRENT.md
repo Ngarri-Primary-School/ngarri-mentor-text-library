@@ -1,114 +1,61 @@
 ---
-title: Ngarri Mentor Text Library - Current State and Codex Handover
-type: project-handover
+title: Ngarri Mentor Text Library - Current State
+type: project-status
 updated: 2026-09-15
 status: active
 ---
 
-# Current State and Codex Handover
+# Current State
 
-This reconciliation records the work and user decisions through 15 September 2026. Read it before the older project notes. Where a dated reconciliation block identifies a conflict, this note supersedes the historical statement; unaffected design and domain rules remain in effect. Repository documentation is the current source. The preserved Obsidian snapshot records provenance; it is not an independent editable copy.
+This is the single live record of project status. Update it whenever an approval, publication, access arrangement or immediate next action changes. GitHub `main` is the documentation source of truth; `archive/` is historical evidence only.
 
-## Current approved implementation — 15 September 2026
+## Current work
 
-The complete-text picture-book pilot is approved for Crickwing, Night Tree, The Alphabet Tree, Little Blue and Little Yellow, and The Gruffalo. Their writing, reading, PRIDE, inquiry and teaching-idea records are stored in Supabase as `teacher_reviewed` and are visible in the shared-password progress viewer at https://ngarri-mentor-library-progress.velveteen.chatgpt.site/. Owl Moon is also approved and published as the first book in the next small batch.
+The five-book complete-text trial is approved and published in Supabase and the shared progress viewer: *Crickwing*, *Night Tree*, *The Alphabet Tree*, *Little Blue and Little Yellow* and *The Gruffalo*. These books are the quality benchmark. *Crickwing* remains the primary model for the strength and specificity of book connections. *Fox* is a calibration and visual-prototype example, not a catalogue title.
 
-The approved content hierarchy and book-page interaction are now specified in `docs/CONTENT-AND-DISPLAY-FORMAT.md`. In particular, writing and reading are organised by trait or strategy and then year level, with exact curriculum wording and a book-specific explanation. PRIDE and inquiry are concept-based without year-level subdivisions. Teaching ideas use structured classroom fields. The blurb sits in the book header; writing, reading, PRIDE, inquiry and individual teaching ideas use progressive disclosure, with PRIDE and inquiry opening directly to their connection.
+The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. All three complete books have been confirmed in the school Google Drive.
 
-This current specification supersedes older fixed 1–3 connection targets, generic teaching-idea allowances and any presentation note that conflicts with the approved pilot. Historical files under `archive/obsidian-vault-snapshot/` remain unchanged for provenance.
+*Owl Moon* was approved and published on 10 September 2026. It has 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records. Its metadata, cover, complete-book Drive link and text-only Drive link were checked on the live website.
 
-## What exists now
+**Immediate next action:** do not begin *Fireflies!* unless Phill asks to continue. When he does, prepare it as `ai_suggested`, show the complete draft for review, and wait for approval before publishing or starting *Smoky Night*.
 
-- Supabase project `dahilwcsbtstfbokbxws` was restored and inspected. Recorded recovery counts: 343 active books, 391 writing annotations, 260 reading annotations; 54 books with both, 36 writing-only, 253 with neither. These are the verified recovery snapshot, not a fresh live query on this documentation-update turn.
-- All 651 existing writing/reading explanations were empty in the recovered snapshot. PRIDE, inquiry, teaching ideas, why-use bullets and teaching resources were empty. Preserve imported teacher/OzLit annotations; missing explanations are a separate task from new tagging.
-- Six blurbs still needed review. The cover audit matched 221 catalogue filenames to recovered local covers; 122 lacked an exact local match. Older claims of complete cover readiness must not be relied upon.
-- Original enrichment scripts, the claimed regression suite and the old 20-book outputs were not recovered. Earlier descriptions of a successful run are historical reports, not available evidence of an approved benchmark. Do not infer bulk permission or assume the remaining sample is 233 books. Recover the original or build a clearly labelled replacement benchmark and obtain its review before bulk work.
-- A local functional Fox review workspace exists in `fox-working-page/`. It is not a production Next.js app, secure reviewer application or finished teacher-page design. It has no Supabase connection and publishes nothing.
-- Fox is a separate calibration example, not a standalone book in the recovered 343-title catalogue. No new catalogue record was created.
+## Working systems
 
-## Teacher visibility and access
+- **School GitHub repository:** https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library
+- **Shared progress viewer:** https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
+- **Viewer access:** shared school-group password for Phill, the principal and literacy leaders. The credential is deliberately outside GitHub, source code and project documents.
+- **Supabase project:** `dahilwcsbtstfbokbxws`. Use the authorised school account; never paste credentials into chat or files.
+- **School Google Drive:** `Mentor Texts`, folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
+- **Text resources:** check `restricted-reference/jimk-mentor-texts/` and Drive's `Text Extractions - Restricted/` before extracting text or running OCR. Checked extraction packages currently exist for *The Alphabet Tree* and *Owl Moon*.
 
-The user approved: AI-generated teaching content is visible only to reviewers until approved, then appears in the teacher library. Unreviewed suggestions must not influence teacher-facing purpose filters or appear as lesser-weight results.
+The website may link to approved Drive copies, but must not host or embed complete book texts. Google Drive permissions remain authoritative.
 
-The school Google Drive folder `Mentor Texts` (folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`) now holds the selected full books. On 8 September 2026, Phill explicitly accepted its existing anyone-with-the-link sharing state because the book links are intended for teachers using the eventual website. Full book files remain outside GitHub and Supabase. Store only link metadata and provenance in the application. Do not change the sharing state without a new owner decision.
+## Current rules that must not drift
 
-On 9 September 2026, a visually checked extraction package for *The Alphabet Tree* was saved under `Mentor Texts/Text Extractions - Restricted/The Alphabet Tree/`: a page-referenced Markdown transcript, searchable text-only PDF and OCR review notes. Page 25 and the final line on PDF page 36 were restored by checking the rendered pages after the first continuous OCR result omitted them. Keep these working copies with the restricted book files; do not copy their full text into GitHub or Supabase.
+- Work from a verified complete school copy and verified illustrations where available.
+- Select only strong, distinct, book-specific connections. Every explanation must identify a passage, event, language choice or verified visual feature.
+- Use exact Ngarri curriculum wording for writing and reading connections.
+- Keep AI-created work `ai_suggested` until reviewed. Preserve the earlier wording and review history when content changes.
+- Check text type, genre, year band, metadata, cover correctness, original-PDF link and text-only-PDF link for every revised book.
+- Use relevant installed education skills when designing teaching ideas, then check their output against the book and Ngarri references.
+- Do not publish unreviewed AI content, run paid or bulk enrichment, deploy database migrations or place complete copyrighted texts in Supabase, website builds or public exports.
 
-The applied access correction is migration `20260905205749`, `restrict_teacher_pilot_access`. The deployment report records SELECT-only client access where permitted, active-book parent checks and approved/imported status filtering. Teaching resources remain blocked to clients pending their policy. Unnecessary client grants were removed across fourteen tables; thirteen permit the intended SELECT access. The local isolated access tests passed 328 checks. See the actual deployment report and recovered schema; do not treat older blanket public-read descriptions or schema.sql references as current authority.
+## Task routing
 
-The shared progress viewer now has a school-group shared-password sign-in. The password is held outside GitHub and project documents. This is a practical access gate for the current principal and literacy-leader review use; it is not individual-account reviewer access or a substitute for a future school-owned authentication arrangement. Preserve the school-owned-key/spending-cap requirement; a coding assistant account does not settle the enrichment provider or authorise a paid run.
+| When working on | Read |
+|---|---|
+| New book content | `docs/CONTENT-AUTHORING-GUIDE.md`, `docs/ENRICHMENT-PIPELINE.md`, `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md` |
+| Book-page structure or interaction | `docs/CONTENT-AND-DISPLAY-FORMAT.md` |
+| Approved quality examples | `docs/PICTURE-BOOK-PILOT-APPROVAL.md` and the relevant approved review file |
+| Website deployment or resource links | `catalogue-viewer/HOSTING.md` |
+| Curriculum or source material | the relevant reference-folder README before using its contents |
 
-## Mentor-text content standard
+## Deferred work
 
-Select all strong, distinct, evidenced connections a book supports. There is no requirement to cover every framework or year, and no three-connection maximum. Avoid padding and title-swappable generic routines.
+- Individual reviewer authentication and school-owned access management.
+- Institutional ownership handover for Supabase and hosting.
+- Steve's GitHub organisation invitation, once his GitHub username is available.
+- Remaining catalogue enrichment, one reviewed book at a time.
 
-Each recommendation should identify a particular passage, language choice, event or verified visual feature; explain why it demonstrates the selected skill or value particularly well; link exact school curriculum wording; and teach through that example before transferring learning to students' work. Keep source facts, quotations, interpretation and new activities distinguishable.
-
-The supplied Fox PDF is four pages of retyped story text. All four pages were read and visually inspected. It contains no original illustrations; neither its layout nor its styling establishes the published book's typography. Book excerpts in the current fixture were checked against this copy. No full illustrated edition has been inspected.
-
-The ten Fox candidates assess the original three writing connections, three reading connections, two PRIDE discussions and two inquiry lenses. Integrity is explicitly a counterexample discussion, not an assertion that a character embodies the value. Any future database representation must retain that distinction; do not automatically import it as a positive value tag.
-
-## School curriculum and inquiry
-
-The earlier ten-file structured reference set is now preserved in `reference-data/`. It contains the Ngarri writing throughlines, reading strategies, inquiry lenses and PRIDE values; a dated available-text inventory; and Oz Lit calibration plus its staged extraction records. `reference-data/README.md` defines the authority and limits of each file. These records are a verified working subset, not evidence that every useful curriculum or professional-reading source has been collected.
-
-A read-only audit of the three user-nominated legacy project locations found 832 file copies, 485 unique hashes and 265 duplicate groups spanning locations. `reference-sources/README.md` records the result. Ten safe school-owned curriculum, values and inquiry originals are retained under `reference-sources/school-originals/`. Full books and commercial professional publications remain outside GitHub. The source folders were not changed.
-
-On 10 September 2026, Phill approved a narrow continuity exception for text-only mentor-text transcriptions. The 98 Markdown documents from `filippo-cantone/jimk-library`, `content/Mentor Texts/`, are preserved under `restricted-reference/jimk-mentor-texts/` at source commit `5a6a6ea3c01b83b2dd97a6cec4a66580ab20cc46`. Embedded images were excluded. This private archive must not enter Supabase, website builds, public exports or downloadable site assets; complete school copies and illustration checking remain in Google Drive.
-
-The three newly supplied English documents provide 77 Foundation–Year 6 reference cells across eleven throughlines. Their four comprehension groups overlap with, but do not replace, the eleven recovered reading strategies. Keep exact wording, source versions and year columns. The newer source places the selected traits/motives/perspectives inference skill in Year 4, whereas the recovered Fox prototype used different Year 3 wording. Neither source is silently relabelled. These condensed school documents are not certified as verbatim official VCAA standards.
-
-The five-page inquiry summary was read. The Power of Inquiry was extracted in full and relevant passages in chapters 3–5 closely reviewed, not read end to end. Use the school phase names flexibly and allow student questions to shape an inquiry. Books can provide an entry point rather than a compulsory full unit. Draft conceptual questions can be reviewed without waiting for an official Big Question list; never attribute AI-written questions to Ngarri as quotations.
-
-## Saved teacher review and outstanding corrections
-
-Phill's downloaded `fox-review-record.json` was verified: ten items, nine locally approved and Making Connections omitted. The original export has been copied without alteration to `codex-transfer-preparation/fox-review-record.json`.
-
-All nine approvals include requests to remove PDF page-number references. Those comments are saved instructions for revision, not already-applied edits. Remove page numbers from teacher-facing prose while retaining precise locators in internal evidence records. Keep the original reviewed text and review history; do not silently rewrite a signed-off record.
-
-Phill rejected the Making Connections example: the comprehension strategy concerns readers connecting the text with their own experience to deepen meaning, not characters making connections with each other. Rewrite its focus and example accordingly, and return it for review. It remains omitted and must not be reinstated under the other nine approvals.
-
-The local UI now gives confirmation beside each approval button and distinguishes notes from direct text edits. Approved items display a disabled Approved button; editing reopens review. Saving a note does not automatically implement the request it contains. Exported records do not themselves update Supabase. Do not describe the nine approvals as live publication or as completion of the requested revisions.
-
-## Visual direction
-
-The saved `Design/assets/fox-prototype/` screenshots remain the teacher-site reference: book header, Why use this book panel, semantic colour roles, expandable curriculum connections and teaching-idea cards. Retain the documented purpose-first and responsive-layout improvements. No emoji in the app UI. The temporary text-heavy review form does not replace that design. Screenshot text is prototype content, not automatically verified book evidence; original errors included Kookaburra references, unsupported speech counts and other claims corrected during direct text review.
-
-## Local locations
-
-Current working files are in the ChatGPT project mirror:
-`C:/Users/09187270/.codex/.chatgpt-projects/g-p-6a9b9af533e48191844e765db0f00f13`
-
-Useful folders: `fox-working-page`, `fox-source-review`, `fox-content-review`, `curriculum-review-2026-09-06`, `mentor-access-change/deployed`, `archive/database-recovery-2026-09-05`, `mentor-handover-reconciled-2026-09-05`, and `codex-transfer-preparation`. Preserve source snapshots. Files under `sources/` are read-only synced material. These paths record the original source computer. Use repository-relative files after checking out the school repository; no dedicated Codex project has been registered yet.
-
-This documentation vault is locally accessible at:
-`C:/Users/09187270/iCloudDrive/iCloud~md~obsidian/ChalkCode/Ngarri Mentor Text Library`
-
-Additional school documents:
-`C:/Users/09187270/iCloudDrive/iCloud~md~obsidian/Education/Curriculum/Ngarri Documents`
-
-Book PDFs:
-`C:/Users/09187270/OneDrive - Department of Education/Documents/Ngarri/Curriculum/Literacy/Mentor Texts`
-
-Fox text copy: `Margaret Wild/Fox/Fox Margaret Wild.pdf` under that book-PDF folder. Earlier project/data files also occur under the separate `Curriculum/Mentor Texts` path without Literacy; do not conflate the locations.
-
-## Next development action
-
-The user selected the private school repository https://github.com/Ngarri-Primary-School/ngarri-mentor-text-library as the shared project destination. The transfer preserves the old Obsidian notes under archive/obsidian-vault-snapshot; those are historical snapshots. This file is the current editable handover, and repository documentation is the source for future project changes. Do not maintain competing editable copies in the old vault. The local transfer staging area is packaging only.
-
-The repeatable enrichment support is now defined in `docs/ENRICHMENT-PIPELINE.md`, implemented by `scripts/mentor_pipeline.py`, and guided by the repository skill at `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`. New batches begin with Codex naming one to three proposed books and pausing while Phill confirms that the complete books are available in the school Google Drive. Codex completes one book at a time and waits for approval before publishing or moving on. Every new draft includes text type, genre and a classification rationale.
-
-The earlier five-book batch proposal (*Dingo*, *Owl Moon*, *The Boy Who Loved Words*, *The Important Book* and *Whoever You Are*) has been superseded by the approved small-batch workflow. The current batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Phill confirmed that all three complete picture books are available in Drive. *Owl Moon* was approved and published on 10 September 2026 with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records; its metadata, cover and the complete-book and text-only Drive links were verified on the live website. The website's link mapping was updated and deployed after verification. Stop at this approval boundary and begin *Fireflies!* only when Phill asks to continue.
-
-The five previously approved pilot books predate the classification requirement. Their existing content approval remains valid, but their text type and genre still require evidence-based classification and teacher review before those fields are treated as approved.
-
-On 8 September 2026, Phill approved the proposed text type and genre classifications for the five pilot books and the five selected next-batch books. The review record is `reviews/text-type-and-genre.ai-draft.json`; it retains its original draft filename for provenance, but its internal status and all ten records are `teacher_reviewed`. The approved values are stored in the ten matching Supabase book rows and were verified after update.
-
-On 9 September 2026, Phill approved the content-authoring guide with two additions: it must name the exact Ngarri reference files, and teaching ideas must use relevant installed education skills or the available skill-discovery workflow. The canonical guide is `docs/CONTENT-AUTHORING-GUIDE.md`; the detailed rules are also reflected in `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md`.
-
-The five-book trial is complete. *Crickwing*, *The Alphabet Tree*, *Night Tree*, *Little Blue and Little Yellow* and *The Gruffalo* have teacher-approved content in Supabase and have been checked on the shared preview website. These books now form the content-quality benchmark, with *Crickwing* as the original model.
-
-Before processing a new book, search `restricted-reference/jimk-mentor-texts/` and Drive's `Text Extractions - Restricted/` folders for existing text. A suitable JimK transcription may seed the clean transcript and searchable text-only PDF stored in Drive, after comparison with the complete school copy. Use extraction or OCR only when needed. Every book revision also checks metadata, year band, cover correctness and rendering, and the authenticated site's original-PDF and text-only-PDF links.
-
-Keep all other new material `ai_suggested` until Phill reviews it; do not expose it in teacher-facing pages or filters before approval. No paid generation or bulk enrichment is authorised by the transfer. Steve's invitation and school-account Codex connection remain pending. Supabase and hosting ownership require their own handover. The deployment-only Sites source repository is separate from this school GitHub repository; update it only when a website interface, cover or hard-coded Drive-link change is required.
+Older recovery counts, Fox review history, local Windows paths, migration records and former handover details are retained in component folders and `archive/` for provenance. They are not active instructions.
 

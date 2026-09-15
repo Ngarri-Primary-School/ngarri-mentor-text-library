@@ -1,4 +1,6 @@
-# Start here — new ChatGPT or Codex conversation
+# Archived new-conversation handover
+
+> Archived on 15 September 2026. This document records the Windows-to-MacBook transfer and the former onboarding process. It has been replaced by `README.md` and `docs/CURRENT.md`; do not use it as live project instruction.
 
 Updated: 15 September 2026
 Status: current onboarding guide  
