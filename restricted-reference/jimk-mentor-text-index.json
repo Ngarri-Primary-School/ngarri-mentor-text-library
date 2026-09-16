@@ -1,0 +1,1512 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Discovery index for the copied JimK reference transcripts. It is not book or curriculum evidence.",
+  "source_repository": "https://github.com/filippo-cantone/jimk-library",
+  "transcript_source_revision": "5a6a6ea3c01b83b2dd97a6cec4a66580ab20cc46",
+  "metadata_source_revision": "cc0f0a7d016e6b7f1adffa765a91171de49c5728",
+  "generated_at": "2026-09-16T04:15:45+00:00",
+  "entries": [
+    {
+      "title": "A Chair for My Mother — Vera B. Williams",
+      "author": "Vera B. Williams",
+      "source_path": "jimk-mentor-texts/A Chair for My Mother — Vera B. Williams.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-exploding-a-moment",
+        "organisation-leads",
+        "organisation-sensory-details",
+        "organisation-show-not-tell",
+        "organisation-time",
+        "inferring"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "A Color of His Own",
+      "author": "Leo Lionni",
+      "source_path": "jimk-mentor-texts/A Color of His Own — Leo Lionni.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "fable",
+      "traits": [
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "A Tree Is Nice — Janice Udry",
+      "author": "Janice Udry",
+      "source_path": "jimk-mentor-texts/A Tree Is Nice — Janice Udry.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "organisation-show-not-tell"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day — Judith Viorst",
+      "author": "Judith Viorst",
+      "source_path": "jimk-mentor-texts/Alexander and the Terrible, Horrible, No Good, Very Bad Day — Judith Viorst.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-cause-effect",
+        "organisation-leads",
+        "style-fluency",
+        "style-voice",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "All the Places to Love — Patricia MacLachlan",
+      "author": "Patricia MacLachlan",
+      "source_path": "jimk-mentor-texts/All the Places to Love — Patricia MacLachlan.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "focus-idea-development",
+        "organisation-leads",
+        "organisation-setting",
+        "style-fluency",
+        "style-hyperbole",
+        "style-simile-metaphor",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Amos and Boris — William Steig",
+      "author": "William Steig",
+      "source_path": "jimk-mentor-texts/Amos and Boris — William Steig.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "fable",
+      "traits": [
+        "organisation-compare-contrast",
+        "style-voice",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "An Angel for Solomon Singer — Cynthia Rylant",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/An Angel for Solomon Singer — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "conventions-parentheses",
+        "focus-idea-development",
+        "focus-using-details",
+        "organisation-anecdotes",
+        "organisation-character-development",
+        "organisation-exploding-a-moment",
+        "organisation-leads",
+        "style-simile-metaphor",
+        "style-voice",
+        "style-word-choice",
+        "inferring",
+        "questioning",
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "And If the Moon Could Talk — Kate Banks",
+      "author": "Kate Banks",
+      "source_path": "jimk-mentor-texts/And If the Moon Could Talk — Kate Banks.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-fluency",
+        "organisation-sensory-details",
+        "style-repetition"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Author Study - Patricia Polacco",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Author Study - Patricia Polacco.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "biography",
+      "traits": [
+        "organisation-character",
+        "inferring"
+      ],
+      "strand": "not recorded",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Barefoot — Pamela Duncan Edwards",
+      "author": "Pamela Duncan Edwards",
+      "source_path": "jimk-mentor-texts/Barefoot — Pamela Duncan Edwards.md",
+      "completeness": "likely",
+      "reviewed": "2026-09-09",
+      "genre": "historical-fiction",
+      "traits": [
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Bat Loves the Night — Nicola Davies",
+      "author": "Nicola Davies",
+      "source_path": "jimk-mentor-texts/Bat Loves the Night — Nicola Davies.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "style-fluency",
+        "style-simile-metaphor"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Birthday Presents — Cynthia Rylant",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/Birthday Presents — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "organisation-setting",
+        "prior-knowledge"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Butternut Hollow Pond — Brian Heinz",
+      "author": "Brian Heinz",
+      "source_path": "jimk-mentor-texts/Butternut Hollow Pond — Brian Heinz.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "style-fluency",
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Canoe Days — Gary Paulsen",
+      "author": "Gary Paulsen",
+      "source_path": "jimk-mentor-texts/Canoe Days — Gary Paulsen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "style-fluency"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Charlie Anderson",
+      "author": "Barbara Abercrombie",
+      "source_path": "jimk-mentor-texts/Charlie Anderson — Barbara Abercrombie.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-endings",
+        "organisation-leads",
+        "inferring",
+        "questioning",
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Charlotte's Web — barn description",
+      "author": "E.B. White",
+      "source_path": "jimk-mentor-texts/Charlotte's Web — barn description — E.B. White.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "persuasive",
+      "traits": [
+        "organisation-character-development",
+        "organisation-leads",
+        "organisation-setting",
+        "style-voice",
+        "visualising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Come on, Rain — Karen Hesse",
+      "author": "Karen Hesse",
+      "source_path": "jimk-mentor-texts/Come on, Rain — Karen Hesse.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "style-alliteration",
+        "style-fluency"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Crab Moon — Ruth Horowitz",
+      "author": "Ruth Horowitz",
+      "source_path": "jimk-mentor-texts/Crab Moon — Ruth Horowitz.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "focus-idea-development",
+        "organisation-exploding-a-moment",
+        "organisation-show-not-tell",
+        "style-simile-metaphor",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Daddy Played Music — Maryann Weidt",
+      "author": "Maryann Weidt",
+      "source_path": "jimk-mentor-texts/Daddy Played Music — Maryann Weidt.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-fluency",
+        "organisation-sensory-details",
+        "style-onomatopoeia"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Dakota Dugout — Ann Turner",
+      "author": "Ann Turner",
+      "source_path": "jimk-mentor-texts/Dakota Dugout — Ann Turner.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "organisation-sensory-details",
+        "organisation-setting"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Dogteam — Gary Paulsen",
+      "author": "Gary Paulsen",
+      "source_path": "jimk-mentor-texts/Dogteam — Gary Paulsen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "conventions-ellipses",
+        "conventions-general",
+        "organisation-leads",
+        "style-fluency",
+        "style-items-in-a-series",
+        "style-runaway-sentences"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Dream Snow",
+      "author": "Eric Carle",
+      "source_path": "jimk-mentor-texts/Dream Snow — Eric Carle.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "picture-book",
+      "traits": [
+        "summarising",
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Dreams - The Dream Keeper",
+      "author": "Langston Hughes",
+      "source_path": "jimk-mentor-texts/Dreams - The Dream Keeper — Langston Hughes.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "poetry",
+      "traits": [
+        "questioning",
+        "style-simile-metaphor"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Eaglet's World — Evelyn Minshull",
+      "author": "Evelyn Minshull",
+      "source_path": "jimk-mentor-texts/Eaglet's World — Evelyn Minshull.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "inferring"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Elisabeth",
+      "author": "Claire Nivola",
+      "source_path": "jimk-mentor-texts/Elisabeth — Claire Nivola.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "memoir",
+      "traits": [
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Encounter — Jane Yolen",
+      "author": "Jane Yolen",
+      "source_path": "jimk-mentor-texts/Encounter — Jane Yolen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "historical-fiction",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-exploding-a-moment",
+        "organisation-setting",
+        "style-voice",
+        "determining-important-ideas-themes",
+        "inferring"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Faithful Elephants — Yukio Tsuchiya",
+      "author": "Yukio Tsuchiya",
+      "source_path": "jimk-mentor-texts/Faithful Elephants — Yukio Tsuchiya.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "historical-fiction",
+      "traits": [
+        "organisation-endings",
+        "organisation-tension-conflict",
+        "inferring"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Fireflies",
+      "author": "Julie Brinckloe",
+      "source_path": "jimk-mentor-texts/Fireflies — Julie Brinckloe.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "memoir",
+      "traits": [
+        "focus-idea-development",
+        "organisation-leads",
+        "organisation-organising-techniques",
+        "organisation-sensory-details",
+        "organisation-structure",
+        "style-word-choice",
+        "inferring",
+        "prior-knowledge",
+        "visualising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Fly Away Home — Eve Bunting",
+      "author": "Eve Bunting",
+      "source_path": "jimk-mentor-texts/Fly Away Home — Eve Bunting.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "persuasive",
+      "traits": [
+        "organisation-character-relationships",
+        "organisation-leads",
+        "style-simile-metaphor",
+        "style-voice",
+        "inferring"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Grandad's Prayers of the Earth — Douglas Wood",
+      "author": "Douglas Wood",
+      "source_path": "jimk-mentor-texts/Grandad's Prayers of the Earth — Douglas Wood.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-fluency",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Grandfather Twilight",
+      "author": "Barbara Berger",
+      "source_path": "jimk-mentor-texts/Grandfather Twilight — Barbara Berger.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "fantasy",
+      "traits": [
+        "organisation-endings",
+        "organisation-leads",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Hello Ocean — Pam Munoz Ryan",
+      "author": "Pam Munoz Ryan",
+      "source_path": "jimk-mentor-texts/Hello Ocean — Pam Munoz Ryan.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "organisation-setting"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Home Place — Crescent Dragonwagon",
+      "author": "Crescent Dragonwagon",
+      "source_path": "jimk-mentor-texts/Home Place — Crescent Dragonwagon.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-exploding-a-moment",
+        "organisation-setting",
+        "organisation-time",
+        "style-word-choice",
+        "determining-important-ideas-themes"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Homeless — Anna Quindlen",
+      "author": "Anna Quindlen",
+      "source_path": "jimk-mentor-texts/Homeless — Anna Quindlen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "journalistic",
+      "traits": [
+        "inferring",
+        "style-voice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "I Like Noisy, Mum Likes Quiet — Eileen Spinelli",
+      "author": "Eileen Spinelli",
+      "source_path": "jimk-mentor-texts/I Like Noisy, Mum Likes Quiet — Eileen Spinelli.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-fluency",
+        "style-onomatopoeia",
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Ira Sleeps Over — Bernard Waber",
+      "author": "Bernard Waber",
+      "source_path": "jimk-mentor-texts/Ira Sleeps Over — Bernard Waber.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "focus-idea-development",
+        "organisation-cause-effect",
+        "organisation-character-development",
+        "organisation-tension-conflict",
+        "prior-knowledge"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "John Henry — Julius Lester",
+      "author": "Julius Lester",
+      "source_path": "jimk-mentor-texts/John Henry — Julius Lester.md",
+      "completeness": "likely",
+      "reviewed": "2026-09-09",
+      "genre": "folktale",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-endings",
+        "organisation-exploding-a-moment",
+        "style-fluency",
+        "style-hyperbole",
+        "style-onomatopoeia",
+        "style-personification",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Knots on a Counting Rope",
+      "author": "Bill Martin Jr and John Archambault",
+      "source_path": "jimk-mentor-texts/Knots on a Counting Rope — Bill Martin Jr & John Archambault.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "memoir",
+      "traits": [
+        "organisation-see-saw-pattern",
+        "organisation-sensory-details",
+        "style-voice",
+        "style-word-choice",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Malala's Speech to the United Nations — Malala Yousafzai",
+      "author": "Malala Yousafzai",
+      "source_path": "jimk-mentor-texts/Malala's Speech to the United Nations — Malala Yousafzai.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "persuasive",
+      "traits": [
+        "focus-idea-development",
+        "style-fluency"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Mentor Lists 2012",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Mentor Lists 2012.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "not recorded"
+    },
+    {
+      "title": "Mentor Lists 2012 sorted",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Mentor Lists 2012 sorted.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "list"
+    },
+    {
+      "title": "Mentor texts 1",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Mentor texts 1.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "guide"
+    },
+    {
+      "title": "Mentor texts 2",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Mentor texts 2.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "guide"
+    },
+    {
+      "title": "Mentor texts 3",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Mentor texts 3.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "guide"
+    },
+    {
+      "title": "Mentor Texts  -  Accompanying Reading Like Writers (2) -",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "explanation",
+      "traits": [
+        "think-aloud",
+        "note-making"
+      ],
+      "strand": "not recorded",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Midnight on the Mountain — Julie Lawson",
+      "author": "Julie Lawson",
+      "source_path": "jimk-mentor-texts/Midnight on the Mountain — Julie Lawson.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-fluency",
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Miz Berlin Walks — Jane Yolen",
+      "author": "Jane Yolen",
+      "source_path": "jimk-mentor-texts/Miz Berlin Walks — Jane Yolen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "conventions-colons",
+        "conventions-ellipses",
+        "conventions-general",
+        "organisation-endings",
+        "style-close-echo",
+        "style-repetition",
+        "style-striking-adjectives",
+        "style-striking-adverbs",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Moving — Michael Rosen",
+      "author": "Michael Rosen",
+      "source_path": "jimk-mentor-texts/Moving — Michael Rosen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "inferring",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "My Father's Hands — Joanne Ryder",
+      "author": "Joanne Ryder",
+      "source_path": "jimk-mentor-texts/My Father's Hands — Joanne Ryder.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-fluency",
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "My Great-Aunt Arizona",
+      "author": "Gloria Houston",
+      "source_path": "jimk-mentor-texts/My Great-Aunt Arizona — Gloria Houston.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "biography",
+      "traits": [
+        "organisation-character-development",
+        "organisation-character-traits",
+        "organisation-organising-techniques",
+        "organisation-structure",
+        "style-word-choice",
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "My Mama Had a Dancing Heart — Libba Moore Gray",
+      "author": "Libba Moore Gray",
+      "source_path": "jimk-mentor-texts/My Mama Had a Dancing Heart — Libba Moore Gray.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-character-relationships",
+        "organisation-endings",
+        "organisation-exploding-a-moment",
+        "organisation-leads",
+        "style-fluency",
+        "style-striking-adjectives",
+        "style-voice",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "My Name Is Yoon — Helen Recorvits",
+      "author": "Helen Recorvits",
+      "source_path": "jimk-mentor-texts/My Name Is Yoon — Helen Recorvits.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-character",
+        "style-voice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Nana Upstairs and Nana Downstairs — Tomie dePaola",
+      "author": "Tomie dePaola",
+      "source_path": "jimk-mentor-texts/Nana Upstairs and Nana Downstairs — Tomie dePaola.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "organisation-character",
+        "organisation-endings"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Night in the Country",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/Night in the Country — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "picture-book",
+      "traits": [
+        "conventions-ellipses",
+        "conventions-italics",
+        "organisation-leads",
+        "organisation-sensory-details",
+        "organisation-setting",
+        "organisation-time",
+        "style-close-echo",
+        "style-items-in-a-series",
+        "style-repetition",
+        "style-word-choice",
+        "visualising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Night Noises — Mem Fox",
+      "author": "Mem Fox",
+      "source_path": "jimk-mentor-texts/Night Noises — Mem Fox.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "conventions-ellipses",
+        "style-fluency",
+        "style-onomatopoeia",
+        "style-personification"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Night of the Gargoyles — Eve Bunting",
+      "author": "Eve Bunting",
+      "source_path": "jimk-mentor-texts/Night of the Gargoyles — Eve Bunting.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "organisation-endings",
+        "style-fluency",
+        "style-word-choice",
+        "inferring"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Night Tree — Eve Bunting",
+      "author": "Eve Bunting",
+      "source_path": "jimk-mentor-texts/Night Tree — Eve Bunting.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "focus-idea-development",
+        "organisation-setting",
+        "organisation-show-not-tell"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Nocturne — Jane Yolen",
+      "author": "Jane Yolen",
+      "source_path": "jimk-mentor-texts/Nocturne — Jane Yolen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "style-striking-adverbs"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Nothing to Do — Douglas Wood",
+      "author": "Douglas Wood",
+      "source_path": "jimk-mentor-texts/Nothing to Do — Douglas Wood.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-voice",
+        "style-fluency"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Nursery Rhymes",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Nursery Rhymes.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "poetry",
+      "traits": [
+        "style-fluency",
+        "style-repetition"
+      ],
+      "strand": "not recorded",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Owl Moon — Jane Yolen",
+      "author": "Jane Yolen",
+      "source_path": "jimk-mentor-texts/Owl Moon — Jane Yolen.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "focus-idea-development",
+        "organisation-anecdotes",
+        "organisation-character-development",
+        "organisation-exploding-a-moment",
+        "organisation-leads",
+        "organisation-sensory-details",
+        "organisation-setting",
+        "organisation-show-not-tell",
+        "style-fluency",
+        "style-personification",
+        "style-simile-metaphor",
+        "style-voice",
+        "style-well-built-sentences",
+        "style-word-choice",
+        "inferring",
+        "visualising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Puddles — Jonathan London",
+      "author": "Jonathan London",
+      "source_path": "jimk-mentor-texts/Puddles — Jonathan London.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "organisation-sensory-details",
+        "style-onomatopoeia"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Python — Christopher Cheng",
+      "author": "Christopher Cheng",
+      "source_path": "jimk-mentor-texts/Python — Christopher Cheng.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "determining-important-ideas",
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Read Write Think Pair Share",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Read Write Think Pair Share — routine card.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "mentor-texts",
+      "resource_type": "mini-lesson"
+    },
+    {
+      "title": "Reading Like Writers  2 Supplement",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Reading Like Writers 2 Supplement.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "guide"
+    },
+    {
+      "title": "Reading Like Writers  Supplement",
+      "author": "",
+      "source_path": "jimk-mentor-texts/Reading Like Writers Supplement.md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "guide"
+    },
+    {
+      "title": "Scarecrow — Cynthia Rylant",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/Scarecrow — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "conventions-colons",
+        "conventions-ellipses",
+        "conventions-general",
+        "style-items-in-a-series",
+        "style-repetition",
+        "style-simile-metaphor",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Sick",
+      "author": "Shel Silverstein",
+      "source_path": "jimk-mentor-texts/Sick — Shel Silverstein.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "poetry",
+      "traits": [
+        "summarising",
+        "style-fluency"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Slower Than the Rest — Cynthia Rylant",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/Slower Than the Rest — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-character-development"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Smoky Night",
+      "author": "Eve Bunting",
+      "source_path": "jimk-mentor-texts/Smoky Night — Eve Bunting.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-sensory-details",
+        "inferring",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Stand Tall, Molly Lou Melon — Patty Lovell",
+      "author": "Patty Lovell",
+      "source_path": "jimk-mentor-texts/Stand Tall, Molly Lou Melon — Patty Lovell.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "organisation-character",
+        "style-voice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Stellaluna",
+      "author": "Janell Cannon",
+      "source_path": "jimk-mentor-texts/Stellaluna — Janell Cannon.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "picture-book",
+      "traits": [
+        "organisation-leads",
+        "organisation-show-not-tell",
+        "style-voice",
+        "summarising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Storm Boy",
+      "author": "Paul Owen Lewis",
+      "source_path": "jimk-mentor-texts/Storm Boy — Paul Owen Lewis.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "folktale",
+      "traits": [
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Storm on the Desert — Carolyn Lesser",
+      "author": "Carolyn Lesser",
+      "source_path": "jimk-mentor-texts/Storm on the Desert — Carolyn Lesser.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "poetry",
+      "traits": [
+        "organisation-sensory-details",
+        "style-onomatopoeia"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Sylvester and the Magic Pebble — William Steig",
+      "author": "William Steig",
+      "source_path": "jimk-mentor-texts/Sylvester and the Magic Pebble — William Steig.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "fantasy",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-cause-effect",
+        "organisation-problem-solution",
+        "style-personification",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Art Lesson — Tomie dePaola",
+      "author": "Tomie dePaola",
+      "source_path": "jimk-mentor-texts/The Art Lesson — Tomie dePaola.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "autobiography",
+      "traits": [
+        "focus-idea-development"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Condor's Egg — Jonathan London",
+      "author": "Jonathan London",
+      "source_path": "jimk-mentor-texts/The Condor's Egg — Jonathan London.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Deliverance of Dancing Bears — Elizabeth Stanley",
+      "author": "Elizabeth Stanley",
+      "source_path": "jimk-mentor-texts/The Deliverance of Dancing Bears — Elizabeth Stanley.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "inferring",
+        "organisation-sensory-details"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Fantastic Flying Books of Mr Morris Lessmore — William Joyce",
+      "author": "William Joyce",
+      "source_path": "jimk-mentor-texts/The Fantastic Flying Books of Mr Morris Lessmore — William Joyce.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "fantasy",
+      "traits": [
+        "focus-idea-development",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Gift of the Tree — Alvin Tresselt",
+      "author": "Alvin Tresselt",
+      "source_path": "jimk-mentor-texts/The Gift of the Tree — Alvin Tresselt.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "organisation-setting",
+        "determining-important-ideas"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Lotus Seed",
+      "author": "Sherry Garland",
+      "source_path": "jimk-mentor-texts/The Lotus Seed — Sherry Garland.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "historical-fiction",
+      "traits": [
+        "organisation-endings",
+        "determining-important-ideas-themes",
+        "inferring",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Old Woman Who Named Things",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/The Old Woman Who Named Things — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "not recorded",
+      "traits": [
+        "organisation-anecdotes",
+        "inferring",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Paperboy",
+      "author": "Dav Pilkey",
+      "source_path": "jimk-mentor-texts/The Paperboy — Dav Pilkey.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-endings",
+        "organisation-organising-techniques",
+        "organisation-structure",
+        "visualising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Relatives Came — Cynthia Rylant",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/The Relatives Came — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "autobiography",
+      "traits": [
+        "focus-idea-development",
+        "organisation-anecdotes",
+        "organisation-endings",
+        "organisation-leads",
+        "organisation-show-not-tell",
+        "style-items-in-a-series",
+        "style-repetition",
+        "style-striking-adjectives",
+        "style-three-part-rhythm",
+        "style-voice",
+        "style-word-choice",
+        "inferring",
+        "prior-knowledge"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Storm Book — Charlotte Zolotow",
+      "author": "Charlotte Zolotow",
+      "source_path": "jimk-mentor-texts/The Storm Book — Charlotte Zolotow.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "explanation",
+      "traits": [
+        "style-voice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Story of Jumping Mouse",
+      "author": "John Steptoe",
+      "source_path": "jimk-mentor-texts/The Story of Jumping Mouse — John Steptoe.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "folktale",
+      "traits": [
+        "inferring",
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Stranger",
+      "author": "Chris Van Allsburg",
+      "source_path": "jimk-mentor-texts/The Stranger — Chris Van Allsburg.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "not recorded",
+      "traits": [
+        "organisation-anecdotes",
+        "organisation-exploding-a-moment",
+        "inferring",
+        "questioning",
+        "think-aloud"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Tenth Good Thing About Barney — Judith Viorst",
+      "author": "Judith Viorst",
+      "source_path": "jimk-mentor-texts/The Tenth Good Thing About Barney — Judith Viorst.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "focus-idea-development",
+        "organisation-leads",
+        "organisation-organising-techniques",
+        "organisation-problem-solution",
+        "organisation-structure",
+        "prior-knowledge",
+        "visualising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "source_path": "jimk-mentor-texts/The Very Hungry Caterpillar — Eric Carle.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "picture-book",
+      "traits": [
+        "organisation-leads",
+        "organisation-sequence",
+        "style-fluency",
+        "questioning",
+        "summarising",
+        "synthesising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "The Whales — Cynthia Rylant",
+      "author": "Cynthia Rylant",
+      "source_path": "jimk-mentor-texts/The Whales — Cynthia Rylant.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "conventions-ellipses",
+        "style-close-echo",
+        "style-fluency",
+        "style-word-choice",
+        "summarising"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Too Many Tamales — Gary Soto",
+      "author": "Gary Soto",
+      "source_path": "jimk-mentor-texts/Too Many Tamales — Gary Soto.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "realistic-fiction",
+      "traits": [
+        "organisation-character",
+        "organisation-endings"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Twilight — Holly Young Huth",
+      "author": "Holly Young Huth",
+      "source_path": "jimk-mentor-texts/Twilight — Holly Young Huth.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "fantasy",
+      "traits": [
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Up North at the Cabin — Marsha Chall",
+      "author": "Marsha Chall",
+      "source_path": "jimk-mentor-texts/Up North at the Cabin — Marsha Chall.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "focus-idea-development",
+        "organisation-sensory-details",
+        "organisation-setting",
+        "organisation-structure",
+        "style-simile-metaphor"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "White Snow, Bright Snow — Alvin Tresselt",
+      "author": "Alvin Tresselt",
+      "source_path": "jimk-mentor-texts/White Snow, Bright Snow — Alvin Tresselt.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "picture-book",
+      "traits": [
+        "style-simile-metaphor"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Wilfred Gordon McDonald Partridge — Mem Fox",
+      "author": "Mem Fox",
+      "source_path": "jimk-mentor-texts/Wilfred Gordon McDonald Partridge — Mem Fox.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-09",
+      "genre": "memoir",
+      "traits": [
+        "focus-idea-development",
+        "organisation-endings",
+        "organisation-leads",
+        "organisation-organising-techniques",
+        "organisation-sequence",
+        "organisation-show-not-tell",
+        "organisation-structure",
+        "prior-knowledge"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "Wilma Unlimited",
+      "author": "Kathleen Krull",
+      "source_path": "jimk-mentor-texts/Wilma Unlimited — Kathleen Krull.md",
+      "completeness": "confirmed",
+      "reviewed": "2026-09-10",
+      "genre": "biography",
+      "traits": [
+        "organisation-character-development",
+        "organisation-leads",
+        "style-word-choice",
+        "questioning"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    },
+    {
+      "title": "WRITING CRAFT MENTOR LIST (2)",
+      "author": "",
+      "source_path": "jimk-mentor-texts/WRITING CRAFT MENTOR LIST (2).md",
+      "completeness": "not recorded",
+      "reviewed": "not recorded",
+      "genre": "not recorded",
+      "traits": [],
+      "strand": "not recorded",
+      "resource_type": "list"
+    },
+    {
+      "title": "Zipping, Zapping, Zooming Bats — Ann Earle",
+      "author": "Ann Earle",
+      "source_path": "jimk-mentor-texts/Zipping, Zapping, Zooming Bats — Ann Earle.md",
+      "completeness": "likely",
+      "reviewed": "2026-09-09",
+      "genre": "information-report",
+      "traits": [
+        "determining-important-ideas",
+        "style-word-choice"
+      ],
+      "strand": "mentor-texts",
+      "resource_type": "demonstration-text"
+    }
+  ]
+}

@@ -21,7 +21,7 @@ The same restricted Drive file can support an **Open picture book PDF** link in 
 
 For each selected book, use this order:
 
-1. Search `restricted-reference/jimk-mentor-texts/` for an existing title transcription.
+1. Search `restricted-reference/jimk-mentor-text-index.json` with `lookup-jimk-reference` and open any matching document in `restricted-reference/jimk-mentor-texts/`.
 2. Search the book's Drive folder and `Text Extractions - Restricted/` for an existing checked transcript, searchable text-only PDF and review notes.
 3. Check whether the complete Drive PDF already has a reliable searchable text layer.
 4. Extract text from that PDF only when no suitable checked text exists.
@@ -30,6 +30,24 @@ For each selected book, use this order:
 An existing JimK document saves extraction work, but its edition, completeness and accuracy are not assumed. Compare it with the complete school copy, check the beginning, middle and ending, and verify every passage used in the proposed content. Record omissions or wording differences. Visually inspect every illustration used as evidence.
 
 When a JimK transcription is suitable, use the verified text as the starting point for the book's linkable resources. Prepare a clean transcript, searchable text-only PDF and concise transcription-review notes in the appropriate Drive extraction folder. Do not expose the private GitHub source file itself as a website download. The authenticated website may link to the original school PDF and the Drive-hosted text-only PDF using approved Drive metadata.
+
+### JimK discovery index
+
+`restricted-reference/jimk-mentor-text-index.json` is a compact, versioned index of the copied JimK transcripts. It records title, author, source path, completeness, review date, genre, teaching-trait tags and both the copied-transcript and metadata source revisions. It is a discovery aid only: JimK tags suggest possible lines of inquiry but do not establish a Ngarri curriculum connection.
+
+Before beginning a book, run:
+
+```sh
+python scripts/mentor_pipeline.py lookup-jimk-reference --title "Fireflies" --author "Julie Brinckloe"
+```
+
+Use an exact matching transcript only after comparing it with the complete school copy. When the copied JimK folder is refreshed from the JimK project, rebuild its index and record the upstream commit:
+
+```sh
+python scripts/mentor_pipeline.py index-jimk-reference --source-revision <copied-text-commit>
+```
+
+When the current JimK project is available locally, its `content/Mentor Texts` folder may also enrich the index's genre and trait fields. Record that metadata revision separately. Do not replace a copied transcript merely because its current metadata has changed.
 
 ## Per-book preflight
 

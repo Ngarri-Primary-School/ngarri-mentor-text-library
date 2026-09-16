@@ -48,6 +48,104 @@ def write_json(path: Path, value: Any) -> None:
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def normalise_reference_text(value: str) -> str:
+    """Make a conservative title/author key for finding a reference text."""
+    return re.sub(r"[^a-z0-9]+", " ", value.casefold()).strip()
+
+
+def parse_reference_frontmatter(path: Path) -> dict[str, Any]:
+    """Read the small, consistent YAML subset used by the copied JimK notes."""
+    lines = path.read_text(encoding="utf-8").splitlines()
+    if not lines or lines[0].strip() != "---":
+        return {}
+    frontmatter: dict[str, Any] = {}
+    for line in lines[1:]:
+        if line.strip() == "---":
+            break
+        if ":" not in line:
+            continue
+        key, raw_value = line.split(":", 1)
+        value = raw_value.strip()
+        if value.startswith("[") and value.endswith("]"):
+            frontmatter[key.strip()] = [
+                item.strip().strip('"\\\'') for item in value[1:-1].split(",") if item.strip()
+            ]
+        else:
+            frontmatter[key.strip()] = value.strip('"\\\'')
+    return frontmatter
+
+
+def cmd_index_jimk_reference(args: argparse.Namespace) -> int:
+    source_directory = args.source_dir
+    documents = sorted(source_directory.rglob("*.md"))
+    if not documents:
+        raise ValueError(f"No Markdown transcripts found in {source_directory}.")
+
+    metadata_by_key: dict[tuple[str, str], dict[str, Any]] = {}
+    if args.metadata_dir:
+        metadata_documents = sorted(args.metadata_dir.rglob("*.md"))
+        if not metadata_documents:
+            raise ValueError(f"No Markdown metadata documents found in {args.metadata_dir}.")
+        for metadata_path in metadata_documents:
+            metadata = parse_reference_frontmatter(metadata_path)
+            title = str(metadata.get("title", "")).strip()
+            author = str(metadata.get("author", "")).strip()
+            if title:
+                metadata_by_key[(normalise_reference_text(title), normalise_reference_text(author))] = metadata
+
+    entries = []
+    for path in documents:
+        metadata = parse_reference_frontmatter(path)
+        title = str(metadata.get("title", "")).strip()
+        if not title:
+            continue
+        author = str(metadata.get("author", "")).strip()
+        upstream_metadata = metadata_by_key.get((normalise_reference_text(title), normalise_reference_text(author)), {})
+        entries.append(
+            {
+                "title": title,
+                "author": author,
+                "source_path": path.relative_to(source_directory.parent).as_posix(),
+                "completeness": str(metadata.get("completeness", "not recorded")).strip(),
+                "reviewed": str(metadata.get("reviewed", "not recorded")).strip(),
+                "genre": str(upstream_metadata.get("genre", metadata.get("genre", "not recorded"))).strip(),
+                "traits": upstream_metadata.get("traits", metadata.get("traits", [])),
+                "strand": str(metadata.get("strand", "not recorded")).strip(),
+                "resource_type": str(upstream_metadata.get("resource_type", metadata.get("resource_type", "not recorded"))).strip(),
+            }
+        )
+
+    index = {
+        "schema_version": "1.0",
+        "purpose": "Discovery index for the copied JimK reference transcripts. It is not book or curriculum evidence.",
+        "source_repository": args.source_repository,
+        "transcript_source_revision": args.source_revision,
+        "metadata_source_revision": args.metadata_revision or args.source_revision,
+        "generated_at": now_iso(),
+        "entries": sorted(entries, key=lambda entry: (normalise_reference_text(entry["title"]), normalise_reference_text(entry["author"]))),
+    }
+    write_json(args.out, index)
+    print(f"Indexed {len(entries)} JimK reference transcripts in {args.out}")
+    return 0
+
+
+def cmd_lookup_jimk_reference(args: argparse.Namespace) -> int:
+    index = read_json(args.index)
+    title_key = normalise_reference_text(args.title)
+    author_key = normalise_reference_text(args.author or "")
+    matches = []
+    for entry in index.get("entries", []):
+        entry_title = normalise_reference_text(str(entry.get("title", "")))
+        entry_author = normalise_reference_text(str(entry.get("author", "")))
+        if title_key not in entry_title and entry_title not in title_key:
+            continue
+        if author_key and author_key not in entry_author and entry_author not in author_key:
+            continue
+        matches.append(entry)
+    print(json.dumps(matches, ensure_ascii=False, indent=2))
+    return 0
+
+
 def normalise_books(payload: Any) -> list[dict[str, Any]]:
     if isinstance(payload, dict):
         payload = payload.get("books", payload.get("candidates", []))
@@ -395,6 +493,21 @@ def parser() -> argparse.ArgumentParser:
     register.add_argument("--locator-scheme", default="page and/or extracted line")
     register.add_argument("--verified", action="store_true")
     register.set_defaults(func=cmd_register_source)
+
+    index_jimk = commands.add_parser("index-jimk-reference", help="Build the discovery index for copied JimK transcripts.")
+    index_jimk.add_argument("--source-dir", type=Path, default=Path("restricted-reference/jimk-mentor-texts"))
+    index_jimk.add_argument("--out", type=Path, default=Path("restricted-reference/jimk-mentor-text-index.json"))
+    index_jimk.add_argument("--source-repository", default="https://github.com/filippo-cantone/jimk-library")
+    index_jimk.add_argument("--source-revision", required=True, help="JimK commit from which the copied documents were sourced.")
+    index_jimk.add_argument("--metadata-dir", type=Path, help="Optional current JimK Mentor Texts directory used to enrich genre and trait fields.")
+    index_jimk.add_argument("--metadata-revision", help="JimK commit for the optional current metadata directory.")
+    index_jimk.set_defaults(func=cmd_index_jimk_reference)
+
+    lookup_jimk = commands.add_parser("lookup-jimk-reference", help="Find copied JimK transcripts before extraction or OCR.")
+    lookup_jimk.add_argument("--title", required=True)
+    lookup_jimk.add_argument("--author")
+    lookup_jimk.add_argument("--index", type=Path, default=Path("restricted-reference/jimk-mentor-text-index.json"))
+    lookup_jimk.set_defaults(func=cmd_lookup_jimk_reference)
 
     extract = commands.add_parser("extract-text", help="Create a line-addressable working copy outside Git.")
     extract.add_argument("--input", type=Path, required=True)
