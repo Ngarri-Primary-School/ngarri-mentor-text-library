@@ -36,9 +36,9 @@ The professional-reading and school-PDF set contains 22 copies representing 10 u
 
 These originals are evidence sources. Their presence does not mean every file has been reconciled into the database. Use the source metadata in the structured datasets, preserve exact wording, and retain review status.
 
-## Material deliberately excluded
+## Material not currently stored in GitHub
 
-The following remain outside GitHub, except for the explicitly approved text-only continuity archive under `../restricted-reference/`:
+The following source materials are currently held outside GitHub:
 
 - full picture-book PDFs, scans and page images;
 - *The Power of Inquiry* by Kath Murdoch;

@@ -28,7 +28,7 @@ The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. All three c
 - **School Google Drive:** `Mentor Texts`, folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
 - **Text resources:** check `restricted-reference/jimk-mentor-texts/` and Drive's `Text Extractions - Restricted/` before extracting text or running OCR. Checked extraction packages currently exist for *The Alphabet Tree* and *Owl Moon*.
 
-The website may link to approved Drive copies, but must not host or embed complete book texts. Google Drive permissions remain authoritative.
+The website may use approved Drive copies. Google Drive permissions remain authoritative.
 
 ## Current rules that must not drift
 
@@ -38,7 +38,7 @@ The website may link to approved Drive copies, but must not host or embed comple
 - Keep AI-created work `ai_suggested` until reviewed. Preserve the earlier wording and review history when content changes.
 - Check text type, genre, year band, metadata, cover correctness, original-PDF link and text-only-PDF link for every revised book.
 - Use relevant installed education skills when designing teaching ideas, then check their output against the book and Ngarri references.
-- Do not publish unreviewed AI content, run paid or bulk enrichment, deploy database migrations or place complete copyrighted texts in Supabase, website builds or public exports.
+- Do not publish unreviewed AI content, run paid or bulk enrichment or deploy database migrations.
 
 ## Task routing
 

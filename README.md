@@ -35,7 +35,7 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 ## Project boundaries
 
 - GitHub `main` is the documentation source of truth.
-- Google Drive holds complete books and checked extraction packages; do not copy complete books into GitHub, Supabase or website assets.
+- Google Drive holds complete books and checked extraction packages.
 - AI-created content stays `ai_suggested` until teacher approval. Do not publish it or let it influence teacher-facing filters early.
 - Do not run paid or bulk enrichment, or deploy database migrations, without explicit approval.
 - Preserve approved content history when making a revision.

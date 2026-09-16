@@ -4,7 +4,7 @@ Site address: https://ngarri-mentor-library-progress.velveteen.chatgpt.site
 
 The user approved a shared-password sign-in for the school principal, literacy leaders and Phill. The site retains the original search, combined filters, book detail view and missing-information indicators. The password is intentionally absent from GitHub, source code and project documents. Change it only through the hosting environment's secure settings.
 
-As verified on 10 September 2026, Supabase contains Owl Moon as an approved revision with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching ideas. The static collection contains 221 covers. Draft AI annotations are excluded from teacher-facing responses. The Owl Moon page links to the complete school copy and a text-only PDF in Google Drive; full book files, raw snapshots, credentials, vault notes and review exports are not site assets.
+As verified on 10 September 2026, Supabase contains Owl Moon as an approved revision with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching ideas. The static collection contains 221 covers. Draft AI annotations are excluded from teacher-facing responses. The Owl Moon page links to the complete school copy and a text-only PDF in Google Drive. Credentials remain outside site assets.
 
 `build_public.py --covers <original covers folder>` prepares the static `out/` directory. `.openai/hosting.json` records the existing Sites project; reuse it for updates rather than creating another site. The separate Sites deployment copy contains the shared sign-in worker and current link mapping. Sites keeps the published assets independent of this computer. Use the standard Sites packaging helper and credentials provided at runtime for future interface, cover or link updates.
 

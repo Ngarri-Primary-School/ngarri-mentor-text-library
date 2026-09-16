@@ -19,9 +19,7 @@ This private repository contains transcriptions, extracts, mentor-text lists and
 
 ## Use conditions
 
-- Keep the preserved transcriptions confined to `restricted-reference/` in this private repository.
-- Do not copy the transcriptions into Supabase, application data, website builds, public exports or downloadable site assets.
-- Do not add the associated commercial images, scans or book PDFs to GitHub.
+- Use the preserved transcriptions in the locations and formats approved by the school.
 - Treat a transcription as a checking aid, not proof that the complete published book or its illustrations were inspected.
 - Before writing book-specific content, verify the complete school-held book through the restricted Google Drive and visually inspect any illustration used as evidence.
 - Check transcription wording against the verified school copy. Record discrepancies rather than silently combining editions.

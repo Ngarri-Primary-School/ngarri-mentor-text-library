@@ -13,13 +13,13 @@ Use this specification with `docs/CONTENT-AUTHORING-GUIDE.md`, which gives the a
 - Select all strong, distinct connections supported particularly well by the book. There is no fixed number of connections and no requirement to cover every framework, trait, strategy, value, lens or year level.
 - Every explanation identifies a specific passage, language choice, event or verified visual feature and explains why it is a useful mentor example.
 - Reject explanations that could be transferred to almost any book by replacing the title.
-- Keep source facts, short quotations, interpretation and newly designed activities distinguishable. Do not publish copyrighted full texts.
+- Keep source facts, short quotations, interpretation and newly designed activities distinguishable.
 
 ## Book classification and source access
 
 Every enriched book records its broad **text type**, one or more specific **genres**, and a short classification rationale grounded in the complete work. These fields are part of teacher review rather than catalogue decoration.
 
-Before analysis, Codex names the next small batch and pauses while the user places the complete texts in the restricted school Google Drive. Codex must verify it can read every selected file. The shared-password progress viewer may link authorised staff to the school copy and a checked text-only PDF in Drive, but it must not host full-text files itself.
+Before analysis, Codex names the next small batch and pauses while the user places the complete texts in the restricted school Google Drive. Codex must verify it can read every selected file. The shared-password progress viewer may provide authorised staff with the school copy and a checked text-only PDF in Drive.
 
 ## Writing connections
 

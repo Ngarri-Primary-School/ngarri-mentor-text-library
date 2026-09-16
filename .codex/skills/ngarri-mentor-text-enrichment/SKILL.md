@@ -7,7 +7,7 @@ description: Select, prepare, validate and review Ngarri Mentor Text Library boo
 
 Use this skill for choosing the next books, analysing complete texts, drafting book records, checking curriculum alignment, or preparing content for teacher review.
 
-Read `docs/ENRICHMENT-PIPELINE.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/CONTENT-AUTHORING-GUIDE.md`. Use `scripts/mentor_pipeline.py` for intake, extraction, scaffolding and validation. Keep new extractions and working copies under `.mentor-work/`; never commit them. Approved text-only transcriptions already preserved under `restricted-reference/` may be used as supplementary evidence, but must never enter application data, Supabase or public output.
+Read `docs/ENRICHMENT-PIPELINE.md`, `docs/CONTENT-AND-DISPLAY-FORMAT.md` and `docs/CONTENT-AUTHORING-GUIDE.md`. Use `scripts/mentor_pipeline.py` for intake, extraction, scaffolding and validation. Keep new extractions and working copies under `.mentor-work/`; manage their storage and publishing location according to the school's current direction. Approved text-only transcriptions already preserved under `restricted-reference/` may be used as supplementary evidence.
 
 ## Start with the book-intake gate
 
@@ -42,4 +42,4 @@ Keep all new records `ai_suggested`. Run `validate` before presenting a draft. R
 
 Present one complete, teacher-readable book draft, including cover and resource-link status. Teacher approval is required before changing records to `teacher_reviewed` or exposing them in teacher-facing pages and filters. Preserve the AI draft, reviewer identity, review time, edits and source provenance. After approved publication, verify Supabase and the authenticated preview page before beginning the next book. Do not deploy a database migration, publish content or initiate paid/bulk generation without the relevant authorisation.
 
-Google Drive remains the access-control point for full books. Supabase stores the book's restricted Drive reference and resource metadata. The shared-password progress viewer may show approved users an **Open picture book PDF** and **Open text-only PDF** link to Drive; it must never host or embed full text itself. Keep all Drive permissions and website credentials outside GitHub.
+Google Drive remains the access-control point for full books. Supabase stores the book's Drive reference and resource metadata. The shared-password progress viewer may show approved users an **Open picture book PDF** and **Open text-only PDF** link to Drive. Keep all Drive permissions and website credentials outside GitHub.

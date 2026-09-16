@@ -26,7 +26,7 @@ The canonical authoring, database and page-display rules established by this app
 - PRIDE values and inquiry lenses are whole-book concepts and do not require year levels.
 - Teaching ideas identify where to look, the learning focus, a teaching sequence, student application and observable learning.
 - AI suggestions remain private until a reviewer approves them.
-- Preserve complete-text sources and source references; do not place copyrighted full texts in the public repository or website.
+- Preserve complete-text sources and source references.
 - Display book details progressively. The blurb sits in the header; writing and reading first open by trait or strategy and then by year level; PRIDE and inquiry open directly to their connection; teaching ideas open independently.
 
 ## Night Tree Visualising decision

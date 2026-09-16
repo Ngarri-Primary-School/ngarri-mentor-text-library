@@ -5,8 +5,8 @@ This directory preserves approved text-only source material so the private Ngarr
 ## Handling rules
 
 - Keep this repository private and limit access to authorised school project members.
-- Never include this directory in website builds, Supabase records, public exports, releases or downloadable site assets.
-- Do not add commercial PDFs, scans, page images or credentials here.
+- Use materials in the locations and formats approved by the school.
+- Keep credentials out of this directory.
 - Treat transcriptions as checking aids. Verify book-specific claims against the complete school-held copy and illustrations in Google Drive whenever available.
 - Use only short, necessary excerpts in teacher-facing analysis.
 
