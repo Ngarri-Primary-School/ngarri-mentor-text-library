@@ -26,7 +26,7 @@ The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. All three c
 - **Viewer access:** shared school-group password for Phill, the principal and literacy leaders. The credential is deliberately outside GitHub, source code and project documents.
 - **Supabase project:** `dahilwcsbtstfbokbxws`. Use the authorised school account; never paste credentials into chat or files.
 - **School Google Drive:** `Mentor Texts`, folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
-- **Repository book files:** `book-files/` is ready for school-approved complete-book and text-only PDFs when Drive access is unavailable. Follow `book-files/README.md`; Git LFS is not yet installed.
+- **Repository book files:** `book-files/picture-books/` contains 31 complete picture-book PDFs copied from the school local Mentor Texts collection on 16 September 2026. The files total 408 MiB; *Dingo* is managed with Git LFS. Follow `book-files/README.md` for later additions.
 - **Text resources:** check `restricted-reference/jimk-mentor-texts/` and Drive's `Text Extractions - Restricted/` before extracting text or running OCR. Checked extraction packages currently exist for *The Alphabet Tree* and *Owl Moon*.
 
 The website may use approved Drive copies or repository book files. Google Drive permissions remain authoritative for Drive-held copies.
