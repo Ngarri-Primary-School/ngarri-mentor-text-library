@@ -7,7 +7,7 @@ This directory preserves approved text-only source material so the private Ngarr
 - Keep this repository private and limit access to authorised school project members.
 - Use materials in the locations and formats approved by the school.
 - Keep credentials out of this directory.
-- Treat transcriptions as checking aids. Verify book-specific claims against the complete school-held copy and illustrations in Google Drive whenever available.
+- Treat transcriptions as checking aids. Verify book-specific claims against the complete school-held copy and illustrations in `book-files/`.
 - Use only short, necessary excerpts in teacher-facing analysis.
 
 ## JimK mentor texts

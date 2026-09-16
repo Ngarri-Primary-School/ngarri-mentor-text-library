@@ -1,7 +1,7 @@
 ---
 title: Ngarri Mentor Text Library - Current State
 type: project-status
-updated: 2026-09-15
+updated: 2026-09-16
 status: active
 ---
 
@@ -13,9 +13,9 @@ This is the single live record of project status. Update it whenever an approval
 
 The five-book complete-text trial is approved and published in Supabase and the shared progress viewer: *Crickwing*, *Night Tree*, *The Alphabet Tree*, *Little Blue and Little Yellow* and *The Gruffalo*. These books are the quality benchmark. *Crickwing* remains the primary model for the strength and specificity of book connections. *Fox* is a calibration and visual-prototype example, not a catalogue title.
 
-The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. All three complete books have been confirmed in the school Google Drive.
+The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Their complete books are available in `book-files/`.
 
-*Owl Moon* was approved and published on 10 September 2026. It has 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records. Its metadata, cover, complete-book Drive link and text-only Drive link were checked on the live website.
+*Owl Moon* was approved and published on 10 September 2026. It has 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records. Its metadata, cover and the former website resource links were checked on the live website.
 
 **Immediate next action:** do not begin *Fireflies!* unless Phill asks to continue. When he does, prepare it as `ai_suggested`, show the complete draft for review, and wait for approval before publishing or starting *Smoky Night*.
 
@@ -25,11 +25,10 @@ The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. All three c
 - **Shared progress viewer:** https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 - **Viewer access:** shared school-group password for Phill, the principal and literacy leaders. The credential is deliberately outside GitHub, source code and project documents.
 - **Supabase project:** `dahilwcsbtstfbokbxws`. Use the authorised school account; never paste credentials into chat or files.
-- **School Google Drive:** `Mentor Texts`, folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
-- **Repository book files:** `book-files/picture-books/` contains 31 complete picture-book PDFs copied from the school local Mentor Texts collection on 16 September 2026. The files total 408 MiB; *Dingo* is managed with Git LFS. Follow `book-files/README.md` for later additions.
-- **Text resources:** check `restricted-reference/jimk-mentor-texts/` and Drive's `Text Extractions - Restricted/` before extracting text or running OCR. Checked extraction packages currently exist for *The Alphabet Tree* and *Owl Moon*.
+- **Repository book files:** `book-files/picture-books/` contains 31 complete picture-book PDFs copied from the school local Mentor Texts collection on 16 September 2026. The files total 408 MiB; *Dingo* is managed with Git LFS. `book-files/text-only/` contains 26 complete checked extraction packages, each with a searchable PDF, Markdown transcript and OCR review notes. Follow `book-files/README.md` for later additions.
+- **Text resources:** check `restricted-reference/jimk-mentor-text-index.json`, its matching transcript when present, and `book-files/text-only/` before extracting text or running OCR.
 
-The website may use approved Drive copies or repository book files. Google Drive permissions remain authoritative for Drive-held copies.
+The repository is the sole source for future project files. The protected website still has legacy Drive links and must be redeployed from the repository packages before those links are removed.
 
 ## Current rules that must not drift
 

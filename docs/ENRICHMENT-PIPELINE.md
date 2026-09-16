@@ -9,27 +9,27 @@ This pipeline turns a verified complete book into a structured draft for teacher
 
 ## The intake pause
 
-At the beginning of each batch, Codex reviews the catalogue and names one to three proposed books, with a short selection reason for each. It tells the user before beginning so the user can confirm that the complete books are available through the school Google Drive or `book-files/` in this private repository. It records the agreed batch using `scripts/mentor_pipeline.py new-batch` and pauses until access is confirmed.
+At the beginning of each batch, Codex reviews the catalogue and names one to three proposed books, with a short selection reason for each. It tells the user before beginning so the user can confirm that the complete books are available in `book-files/` in this private repository. It records the agreed batch using `scripts/mentor_pipeline.py new-batch` and pauses until access is confirmed.
 
 A batch is only a short forward plan. Codex completes one book, presents the entire `ai_suggested` draft and waits for teacher approval before publishing it or beginning the next book. The teacher may reorder, replace or stop the remaining books at every approval point.
 
-The user makes school-held copies available through the school Google Drive folder or `book-files/` in this private repository. Codex resumes a book only after it can locate the complete file and verify that the book can be read. It records the Drive file identifier or repository path, verification time and source fingerprint in an ignored local batch record. An approved text-only transcription may also be consulted from the private continuity archive under `restricted-reference/`, but it does not replace checking the complete school copy and available illustrations.
+The user makes school-held copies available in `book-files/` in this private repository. Codex resumes a book only after it can locate the complete file and verify that the book can be read. It records the repository path, verification time and source fingerprint in an ignored local batch record. An approved text-only transcription may also be consulted from the private continuity archive under `restricted-reference/`, but it does not replace checking the complete school copy and available illustrations.
 
-The same restricted Drive file can support an **Open picture book PDF** link in the shared-password progress viewer. A matching Drive-hosted **Open text-only PDF** link may also be shown after its transcript has been checked. Google Drive permissions remain authoritative.
+The repository package is the source for an **Open picture book PDF** link and a matching **Open text-only PDF** link in the shared-password progress viewer. The protected-site deployment must serve or proxy those files; a direct private GitHub URL would require each staff member to have GitHub access.
 
 ## Find text before extracting it
 
 For each selected book, use this order:
 
 1. Search `restricted-reference/jimk-mentor-text-index.json` with `lookup-jimk-reference` and open any matching document in `restricted-reference/jimk-mentor-texts/`.
-2. Search the book's Drive folder and `Text Extractions - Restricted/` for an existing checked transcript, searchable text-only PDF and review notes.
+2. Search the matching `book-files/text-only/` package for an existing checked transcript, searchable text-only PDF and review notes.
 3. Check whether the complete Drive PDF already has a reliable searchable text layer.
 4. Extract text from that PDF only when no suitable checked text exists.
 5. Use OCR on scanned pages only as the last option.
 
 An existing JimK document saves extraction work, but its edition, completeness and accuracy are not assumed. Compare it with the complete school copy, check the beginning, middle and ending, and verify every passage used in the proposed content. Record omissions or wording differences. Visually inspect every illustration used as evidence.
 
-When a JimK transcription is suitable, use the verified text as the starting point for the book's linkable resources. Prepare a clean transcript, searchable text-only PDF and concise transcription-review notes in the appropriate Drive extraction folder. Do not expose the private GitHub source file itself as a website download. The authenticated website may link to the original school PDF and the Drive-hosted text-only PDF using approved Drive metadata.
+When a JimK transcription is suitable, use the verified text as the starting point for the book's linkable resources. Prepare a clean transcript, searchable text-only PDF and concise transcription-review notes in the matching `book-files/text-only/` package. The authenticated website may link to the original school PDF and text-only PDF only through its protected deployment; do not send staff to a direct private GitHub URL.
 
 ### JimK discovery index
 
@@ -119,7 +119,7 @@ All generated records begin as `ai_suggested` and remain reviewer-only. Present 
 
 ## Book-file access
 
-The school account may use either the Google Drive connector for the school-owned folder or the private repository's `book-files/` directory. Codex verifies access by listing the relevant location and reading a selected file. It preserves the school's recorded access decision.
+The private repository's `book-files/` directory is the sole project source for complete books and checked extraction packages. Codex verifies access by listing the relevant location and reading a selected file.
 
 Recommended layout:
 
@@ -133,8 +133,6 @@ Ngarri Mentor Text Library
     └── Student materials
 ```
 
-Current school folder: `Mentor Texts`, Google Drive folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
-
 For book files in this repository, use the layout and file-size rules in `book-files/README.md`. Ordinary Git supports files below 100 MiB. Add Git LFS before committing a PDF of 100 MiB or more.
 
-On 8 September 2026, Phill explicitly accepted the folder's existing **anyone-with-the-link** access because book links are intended to be presented to teachers through the shared-password website. Preserve this as a recorded owner decision and do not broaden or change access without a new decision. The website should use the Drive copies and let Google Drive enforce the configured access.
+The protected viewer uses its shared school-group sign-in to protect teacher access. Keep the repository private and keep website credentials outside GitHub. When resource-link behaviour changes, rebuild and verify the protected viewer against its repository package.

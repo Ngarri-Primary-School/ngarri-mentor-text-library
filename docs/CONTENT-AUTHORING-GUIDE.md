@@ -38,7 +38,7 @@ Read the complete text and inspect the illustrations wherever visual meaning is 
 
 Before extracting text from a PDF, search the private JimK continuity archive and the Drive extraction folders for an existing transcription or searchable text-only PDF. Check a candidate transcription against the complete school copy, including the beginning, middle, ending and every passage selected as evidence. Record edition differences or uncertain wording. Extract from the PDF only when a suitable checked text does not exist, and use OCR only when the PDF lacks a reliable text layer.
 
-At the same time, check the bibliographic details, year band, displayed cover and school resource links. Confirm that the cover is correct and renders properly. The authenticated site should ultimately offer the original school PDF and a Drive-hosted searchable text-only PDF when available.
+At the same time, check the bibliographic details, year band, displayed cover and repository resource package. Confirm that the cover is correct and renders properly. The authenticated site should ultimately offer the original school PDF and checked searchable text-only PDF from the repository package through the protected-site deployment.
 
 Before selecting curriculum connections, make a private evidence map of the book. Record:
 

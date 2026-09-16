@@ -185,15 +185,14 @@ def cmd_new_batch(args: argparse.Namespace) -> int:
         "batch_id": args.batch_id,
         "created_at": now_iso(),
         "stage": "awaiting_full_text",
-        "instructions": "Pause until the user places these books in the approved Google Drive folder and Codex verifies access to each complete text.",
+        "instructions": "Pause until the user confirms that these complete books are present in book-files/ and Codex verifies access to each file.",
         "books": [
             {
                 "catalogue_id": b["catalogue_id"],
                 "title": b["title"],
                 "author": b["author"],
                 "selection_reason": b["selection_reason"],
-                "drive_url": None,
-                "drive_file_id": None,
+                "repository_path": None,
                 "file_name": None,
                 "access_verified": False,
                 "access_verified_at": None,
@@ -210,7 +209,7 @@ def cmd_new_batch(args: argparse.Namespace) -> int:
         author = f" — {book['author']}" if book["author"] else ""
         print(f"{number}. {book['title']}{author}")
         print(f"   Reason: {book['selection_reason']}")
-    print("\nPAUSE: wait for the user to place complete texts in the school Google Drive folder.")
+    print("\nPAUSE: wait for the user to confirm that complete texts are available in book-files/.")
     return 0
 
 
@@ -230,8 +229,7 @@ def cmd_register_source(args: argparse.Namespace) -> int:
     book = find_book(batch, args.book)
     book.update(
         {
-            "drive_url": args.drive_url,
-            "drive_file_id": args.drive_file_id,
+            "repository_path": args.repository_path,
             "file_name": args.file_name,
             "access_verified": bool(args.verified),
             "access_verified_at": now_iso() if args.verified else None,
@@ -362,8 +360,7 @@ def cmd_make_draft(args: argparse.Namespace) -> int:
             "genres": [],
             "classification_rationale": "",
             "full_text": {
-                "drive_url": book.get("drive_url"),
-                "drive_file_id": book.get("drive_file_id"),
+                "repository_path": book.get("repository_path"),
                 "file_name": book.get("file_name"),
                 "access_verified_at": book.get("access_verified_at"),
                 "source_sha256": book.get("source_sha256"),
@@ -425,8 +422,8 @@ def cmd_validate(args: argparse.Namespace) -> int:
     ):
         errors.append("book: genres must contain at least one non-empty genre")
     source = book.get("full_text", {})
-    if not nonempty(source.get("drive_url")) or not nonempty(source.get("access_verified_at")):
-        errors.append("book: verified Google Drive source is required")
+    if not nonempty(source.get("repository_path")) or not nonempty(source.get("access_verified_at")):
+        errors.append("book: verified repository source is required")
 
     for category in ("writing", "reading"):
         seen: set[tuple[str, str]] = set()
@@ -483,11 +480,10 @@ def parser() -> argparse.ArgumentParser:
     new.add_argument("--exclude", action="append", default=[])
     new.set_defaults(func=cmd_new_batch)
 
-    register = commands.add_parser("register-source", help="Record a Drive text after Codex checks access.")
+    register = commands.add_parser("register-source", help="Record a repository book after Codex checks access.")
     register.add_argument("--batch", type=Path, required=True)
     register.add_argument("--book", required=True, help="Catalogue ID or exact title.")
-    register.add_argument("--drive-url", required=True)
-    register.add_argument("--drive-file-id")
+    register.add_argument("--repository-path", required=True, help="Repository-relative path to the verified complete book.")
     register.add_argument("--file-name", required=True)
     register.add_argument("--sha256")
     register.add_argument("--locator-scheme", default="page and/or extracted line")

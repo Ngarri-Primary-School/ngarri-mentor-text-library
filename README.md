@@ -26,7 +26,7 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 | `AGENTS.md` | Rules that apply to every task. |
 | `docs/CURRENT.md` | The single, dated record of current status, active work and deferred work. |
 | `docs/CONTENT-AUTHORING-GUIDE.md` | How to make high-quality, book-specific teaching content. |
-| `docs/ENRICHMENT-PIPELINE.md` | The repeatable Drive, extraction, review and publication process. |
+| `docs/ENRICHMENT-PIPELINE.md` | The repeatable repository, extraction, review and publication process. |
 | `docs/CONTENT-AND-DISPLAY-FORMAT.md` | Approved content structure and book-page presentation. |
 | `docs/PICTURE-BOOK-PILOT-APPROVAL.md` | The approved five-book quality benchmark. |
 | `catalogue-viewer/HOSTING.md` | Website hosting and deployment notes. |
@@ -35,7 +35,7 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 ## Project boundaries
 
 - GitHub `main` is the documentation source of truth.
-- Google Drive and `book-files/` may hold complete books and checked extraction packages. `book-files/README.md` explains how to add school-approved files to this private repository.
+- `book-files/` is the sole project source for complete books and checked extraction packages. `book-files/README.md` explains how to add school-approved files to this private repository.
 - AI-created content stays `ai_suggested` until teacher approval. Do not publish it or let it influence teacher-facing filters early.
 - Do not run paid or bulk enrichment, or deploy database migrations, without explicit approval.
 - Preserve approved content history when making a revision.

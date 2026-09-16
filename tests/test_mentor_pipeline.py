@@ -75,7 +75,7 @@ class MentorPipelineTests(unittest.TestCase):
                 "book": {
                     "title": "Book", "author": "Author", "text_type": "Narrative",
                     "genres": ["Fable"], "classification_rationale": "The story uses animal characters to explore a moral choice.",
-                    "full_text": {"drive_url": "https://drive.google.com/file/d/example", "access_verified_at": "2026-09-08T00:00:00+00:00"},
+                    "full_text": {"repository_path": "book-files/picture-books/Author/Book.pdf", "access_verified_at": "2026-09-08T00:00:00+00:00"},
                 },
                 "writing": [{
                     "focus": "Ideas", "year_level": "Year Three", "key_understanding": "Ideas can be developed.",
@@ -100,7 +100,7 @@ class MentorPipelineTests(unittest.TestCase):
                 "book": {
                     "title": "Book", "author": "Author", "text_type": "Narrative",
                     "genres": [], "classification_rationale": "A narrative classification based on the complete story.",
-                    "full_text": {"drive_url": "https://drive.google.com/file/d/example", "access_verified_at": "2026-09-08T00:00:00+00:00"},
+                    "full_text": {"repository_path": "book-files/picture-books/Author/Book.pdf", "access_verified_at": "2026-09-08T00:00:00+00:00"},
                 },
                 "writing": [], "reading": [], "pride": [], "inquiry": [], "teaching_ideas": [],
                 "review": {"status": "ai_suggested"},
