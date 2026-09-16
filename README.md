@@ -1,6 +1,6 @@
 # Ngarri Mentor Text Library
 
-This private school project helps teachers find mentor texts with strong, evidence-based connections to Ngarri writing, reading, PRIDE and inquiry learning. It also provides classroom-ready teaching ideas and links staff to school-held book files in Google Drive.
+This private school project helps teachers find mentor texts with strong, evidence-based connections to Ngarri writing, reading, PRIDE and inquiry learning. It also provides classroom-ready teaching ideas and links staff to school-held book files.
 
 Shared progress viewer: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 
@@ -35,7 +35,7 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 ## Project boundaries
 
 - GitHub `main` is the documentation source of truth.
-- Google Drive holds complete books and checked extraction packages.
+- Google Drive and `book-files/` may hold complete books and checked extraction packages. `book-files/README.md` explains how to add school-approved files to this private repository.
 - AI-created content stays `ai_suggested` until teacher approval. Do not publish it or let it influence teacher-facing filters early.
 - Do not run paid or bulk enrichment, or deploy database migrations, without explicit approval.
 - Preserve approved content history when making a revision.

@@ -9,11 +9,11 @@ This pipeline turns a verified complete book into a structured draft for teacher
 
 ## The intake pause
 
-At the beginning of each batch, Codex reviews the catalogue and names one to three proposed books, with a short selection reason for each. It tells the user before beginning so the user can confirm that the complete books are in the school Google Drive. It records the agreed batch using `scripts/mentor_pipeline.py new-batch` and pauses until access is confirmed.
+At the beginning of each batch, Codex reviews the catalogue and names one to three proposed books, with a short selection reason for each. It tells the user before beginning so the user can confirm that the complete books are available through the school Google Drive or `book-files/` in this private repository. It records the agreed batch using `scripts/mentor_pipeline.py new-batch` and pauses until access is confirmed.
 
 A batch is only a short forward plan. Codex completes one book, presents the entire `ai_suggested` draft and waits for teacher approval before publishing it or beginning the next book. The teacher may reorder, replace or stop the remaining books at every approval point.
 
-The user places school-held copies in the school Google Drive folder. Codex resumes a book only after it can locate the complete file and verify that the book can be read. It records the Drive file identifier, verification time and source fingerprint in an ignored local batch record. An approved text-only transcription may also be consulted from the private continuity archive under `restricted-reference/`, but it does not replace checking the complete school copy and available illustrations.
+The user makes school-held copies available through the school Google Drive folder or `book-files/` in this private repository. Codex resumes a book only after it can locate the complete file and verify that the book can be read. It records the Drive file identifier or repository path, verification time and source fingerprint in an ignored local batch record. An approved text-only transcription may also be consulted from the private continuity archive under `restricted-reference/`, but it does not replace checking the complete school copy and available illustrations.
 
 The same restricted Drive file can support an **Open picture book PDF** link in the shared-password progress viewer. A matching Drive-hosted **Open text-only PDF** link may also be shown after its transcript has been checked. Google Drive permissions remain authoritative.
 
@@ -99,9 +99,9 @@ Select only the strongest connections. Every explanation must point to an identi
 
 All generated records begin as `ai_suggested` and remain reviewer-only. Present the complete book package for review: metadata, blurb, why-use-this-book summary, strongest writing and reading connections, PRIDE and inquiry connections, teaching ideas, cover status and resource-link status. A teacher may approve, edit or reject it. Only approved records become `teacher_reviewed` and enter teacher-facing pages and filters. Editing an approved record reopens review and preserves its previous version. After publication, verify the live Supabase records and authenticated preview page before reporting the book complete.
 
-## Google Drive handover
+## Book-file access
 
-The school account needs the Google Drive connector authorised for the school-owned folder. Codex verifies access by listing the folder and reading a selected file. It preserves the sharing decision recorded by the folder owner.
+The school account may use either the Google Drive connector for the school-owned folder or the private repository's `book-files/` directory. Codex verifies access by listing the relevant location and reading a selected file. It preserves the school's recorded access decision.
 
 Recommended layout:
 
@@ -116,5 +116,7 @@ Ngarri Mentor Text Library
 ```
 
 Current school folder: `Mentor Texts`, Google Drive folder ID `15H0vElzelAVyq_okj427vUlD7IQeAbap`.
+
+For book files in this repository, use the layout and file-size rules in `book-files/README.md`. Ordinary Git supports files below 100 MiB. Add Git LFS before committing a PDF of 100 MiB or more.
 
 On 8 September 2026, Phill explicitly accepted the folder's existing **anyone-with-the-link** access because book links are intended to be presented to teachers through the shared-password website. Preserve this as a recorded owner decision and do not broaden or change access without a new decision. The website should use the Drive copies and let Google Drive enforce the configured access.

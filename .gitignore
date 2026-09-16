@@ -4,6 +4,8 @@
 *.pem
 *.key
 *.pdf
+!book-files/
+!book-files/**/*.pdf
 *.zip
 node_modules/
 __pycache__/
