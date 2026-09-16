@@ -13,3 +13,5 @@ Open http://127.0.0.1:8766/. Existing Fox review remains on port 8765. Cover fil
 `data.json` remains a local audit snapshot and is not shipped to the hosted viewer. The browser uses a Supabase publishable key; Row Level Security restricts it to active books and approved or trusted imported content. The key cannot bypass those policies. No writes or approval actions are available through this interface.
 
 Static cover files still require a site rebuild when they change. Database content does not: once an approved record is written to Supabase, the hosted viewer discovers it automatically. Fox's separate local calibration review is not yet a catalogue record.
+
+For the protected deployment, run `build_public.py` with both `--covers` and `--book-files`. The build currently packages The Gruffalo's picture-book and searchable text-only PDFs at protected internal URLs. Add later books to the explicit resource mapping only after checking the files and their displayed links.
