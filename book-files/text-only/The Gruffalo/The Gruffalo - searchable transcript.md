@@ -1,12 +1,8 @@
-# The Gruffalo - searchable transcript
+# The Gruffalo
 
-**Author:** Julia Donaldson (illustrated by Axel Scheffler)
-**Source:** `The Gruffalo - Julia Donaldson.pdf` (26 PDF pages; story on PDF pages 3–25)
-**Prepared:** 9 September 2026
+Author: Julia Donaldson
 
-> Internal school working copy prepared from a school-accessible PDF. Keep with the restricted book files. Do not publish this transcript in GitHub, Supabase, or the public progress viewer.
-
-## Story text
+Illustrator: Axel Scheffler
 
 A mouse took a stroll through the deep dark wood.
 A fox saw the mouse and the mouse looked good.
@@ -137,20 +133,3 @@ And quick as the wind he turned and fled.
 
 All was quiet in the deep dark wood.
 The mouse found a nut and the nut was good.
-
-## Meaningful visual evidence
-
-- The opening spreads follow the mouse meeting Fox, Owl and Snake in turn, inventing the gruffalo with a favourite food matched to each listener while each flees.
-- A three-circle spread shows the gruffalo's orange eyes, black tongue and purple prickles as the mouse describes them to Snake.
-- The meeting spread reveals the real gruffalo piece by piece, matching every invented feature; the mouse turns the tables by claiming to be the scariest creature in the wood.
-- The return spreads repeat the three meetings in reverse with the gruffalo behind the mouse, each animal fleeing, ending with gruffalo crumble, the gruffalo's flight, and the mouse's nut.
-
-## Text notes
-
-- Page map: story text on PDF pages 3–5 (fox), 7–9 (owl), 10–13 (snake), 14–25 (meeting and return). Illustration-only: pages 2 (logpile house) and 6 (owl swoops). Cover: page 1. Back-cover publication matter: page 26.
-- The source is a FlipHTML5 flipbook capture; browser chrome, timestamps and flipbook footers were excluded.
-- This copy's wording quirks were kept as printed: "his tongue is black" (singular tongue), and the snake-exit line reads "There's no such thing as a gruffal . . ." (truncated "gruffal" with spaced periods).
-
-## Transcription status
-
-Every story page (PDF pages 3–25) was read visually against 150 dpi renders on 9 September 2026; the story text above is high confidence. Cover matter (page 1) and back-cover publication details (page 26) are not included as story prose.
