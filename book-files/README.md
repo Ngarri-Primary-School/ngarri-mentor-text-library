@@ -18,6 +18,8 @@ book-files/
 
 Use the title and creator in each path so editions remain identifiable. Add a concise note beside a file only when an edition, source or transcription check needs explanation.
 
+The checked text-only PDF is a clean reading copy: it contains only the book title, author, illustrator (when known) and book text. Do not include Markdown syntax, source paths, preparation dates, page maps, visual-evidence notes, OCR confidence statements or workflow instructions. Keep those details in the separate OCR review notes file.
+
 ## Adding a file
 
 1. Confirm that the school has approved the file for this private repository.

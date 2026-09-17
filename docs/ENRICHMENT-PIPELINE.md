@@ -29,7 +29,7 @@ For each selected book, use this order:
 
 An existing JimK document saves extraction work, but its edition, completeness and accuracy are not assumed. Compare it with the complete school copy, check the beginning, middle and ending, and verify every passage used in the proposed content. Record omissions or wording differences. Visually inspect every illustration used as evidence.
 
-When a JimK transcription is suitable, use the verified text as the starting point for the book's linkable resources. Prepare a clean transcript, searchable text-only PDF and concise transcription-review notes in the matching `book-files/text-only/` package. The authenticated website may link to the original school PDF and text-only PDF only through its protected deployment; do not send staff to a direct private GitHub URL.
+When a JimK transcription is suitable, use the verified text as the starting point for the book's linkable resources. Prepare a clean transcript, searchable text-only PDF and concise transcription-review notes in the matching `book-files/text-only/` package. The text-only PDF contains only the title, author, illustrator when known, and book text; keep all source, page, OCR and review detail in the separate review notes. The authenticated website may link to the original school PDF and text-only PDF only through its protected deployment; do not send staff to a direct private GitHub URL.
 
 ### JimK discovery index
 

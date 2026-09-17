@@ -40,6 +40,10 @@ Before extracting text from a PDF, search the private JimK continuity archive an
 
 At the same time, check the bibliographic details, year band, displayed cover and repository resource package. Confirm that the cover is correct and renders properly. The authenticated site should ultimately offer the original school PDF and checked searchable text-only PDF from the repository package through the protected-site deployment.
 
+### Text-only PDF format
+
+The linkable text-only PDF is a clean reading copy, not a transcription report. Include only the title, author, illustrator when known, and the book text. Do not include Markdown markers, source details, preparation dates, PDF-page references, page maps, illustration evidence, OCR notes or internal workflow statements. Store transcription checks, edition differences and visual-review evidence in the package's separate OCR review notes.
+
 Before selecting curriculum connections, make a private evidence map of the book. Record:
 
 - the sequence of important events or ideas;
