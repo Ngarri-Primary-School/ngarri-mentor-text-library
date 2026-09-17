@@ -11,13 +11,13 @@ This is the single live record of project status. Update it whenever an approval
 
 ## Current work
 
-The five-book complete-text trial is approved and published in Supabase and the shared progress viewer: *Crickwing*, *Night Tree*, *The Alphabet Tree*, *Little Blue and Little Yellow* and *The Gruffalo*. These books are the quality benchmark. *Crickwing* remains the primary model for the strength and specificity of book connections. *Fox* is a calibration and visual-prototype example, not a catalogue title.
+The five-book complete-text trial is approved and published in Supabase and the shared progress viewer: *Crickwing*, *Night Tree*, *The Alphabet Tree*, *Little Blue and Little Yellow* and *The Gruffalo*. *The Boy Who Loved Words* was approved and published on 18 September 2026 as the first post-trial revision. These books are the quality benchmark. *Crickwing* remains the primary model for the strength and specificity of book connections. *Fox* is a calibration and visual-prototype example, not a catalogue title.
 
 The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Their complete books are available in `book-files/`.
 
 *Owl Moon* was approved and published on 10 September 2026. It has 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching-idea records. Its metadata, cover and the former website resource links were checked on the live website.
 
-**Immediate next action:** do not begin *Fireflies!* unless Phill asks to continue. When he does, prepare it as `ai_suggested`, show the complete draft for review, and wait for approval before publishing or starting *Smoky Night*.
+**Immediate next action:** do not begin another book unless Phill asks to continue. The next proposed book is *Big Red Kangaroo* by Claire Saxby; prepare it as `ai_suggested`, show the complete draft for review, and wait for approval before publishing another book.
 
 ## Working systems
 

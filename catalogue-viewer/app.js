@@ -17,7 +17,7 @@ const bookFiles = Object.freeze({
   'Night Tree': {original:'/book-files/night-tree/picture-book.pdf',textOnly:'/book-files/night-tree/text-only.pdf'},
   'Owl Moon': {original:'/book-files/owl-moon/picture-book.pdf',textOnly:'/book-files/owl-moon/text-only.pdf'},
   'The Alphabet Tree': {original:'/book-files/the-alphabet-tree/picture-book.pdf',textOnly:'/book-files/the-alphabet-tree/text-only.pdf'},
-  'The Boy Who Loved Words': {original:'https://drive.google.com/file/d/1G4Lp82m0CPeUrd_RTfHcdoFuAbksp_vs/view',textOnly:'https://drive.google.com/file/d/1aJ7IDpuj4MxjZi5PThw15_bBeGOcyeD_/view'},
+  'The Boy Who Loved Words': {original:'/book-files/the-boy-who-loved-words/picture-book.pdf',textOnly:'/book-files/the-boy-who-loved-words/text-only.pdf'},
   'The Gruffalo': {original:'/book-files/the-gruffalo/picture-book.pdf',textOnly:'/book-files/the-gruffalo/text-only.pdf'},
   'The Important Book': {original:'https://drive.google.com/file/d/116jMSvwNcdWMzEgoEOlkO-G5RCZ-CTMu/view',textOnly:'https://drive.google.com/file/d/1DiBXxwEOx0WklSlnsgDmDB3CWGzMXMmW/view'},
   'Whoever You Are': {original:'https://drive.google.com/file/d/12W3VMBcwbU5FwOTGsA055HkAtW5DXc8o/view',textOnly:'https://drive.google.com/file/d/1vqf1VfZLQmKfW1wmG-zvgDeAvF_V-Rcy/view'}
