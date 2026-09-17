@@ -1,10 +1,8 @@
-# Night Tree - searchable transcript
+# Night Tree
 
-**Author:** Eve Bunting  
-**Illustrator:** Ted Rand  
+Author: Eve Bunting
 
-
-## Story text
+Illustrator: Ted Rand
 
 On the night before Christmas we always go to find our tree.
 
@@ -95,15 +93,3 @@ I think of the birds having Christmas dinner and the squirrels and the opossums 
 There might even be a bear because Dad says bears don't really sleep all winter and if one's going to wake up I just bet it would wake up for Christmas.
 
 Maybe a fox has come, stepping high on its thin, sharp paws, and they're all there together, singing their own Christmas songs on Christmas Day around our tree.
-
-## Meaningful visual evidence
-
-- The opening establishes the contrast between the family's bright neighbourhood and their journey into the night.
-- The forest sequence progressively darkens the setting through moonlight, lantern light, bare branches, a deer and a close view of an owl.
-- The decorating sequence shows the family working together to decorate the living tree with food for wildlife.
-- The closing forest sequence shows the family sitting quietly, singing, packing up and leaving the decorated tree in darkness.
-- The final sequence shifts from the narrator in bed to an imagined gathering of birds and woodland animals around the tree.
-
-## Transcription status
-
-The story text above was checked against every part of the rendered source containing narrative text. Cover text, inscriptions, scan-provider material, publication details, jacket copy and illustration-only material are not included as story prose.

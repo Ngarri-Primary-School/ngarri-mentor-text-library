@@ -1,12 +1,8 @@
-# Little Blue and Little Yellow - searchable transcript
+# Little Blue and Little Yellow
 
-**Author:** Leo Lionni
-**Source:** `Little_blue_and_little_yellow - Leo Lionni.pdf` (48 PDF pages; story on PDF pages 7–44)
-**Prepared:** 9 September 2026
+Author: Leo Lionni
 
-> Internal school working copy prepared from a school-accessible PDF. Keep with the restricted book files. Do not publish this transcript in GitHub, Supabase, or the public progress viewer.
-
-## Story text
+Illustrator: Leo Lionni
 
 This is little blue.
 
@@ -43,14 +39,3 @@ Now they knew what had happened, and so they went across the street to bring the
 They all hugged each other with joy, and the children played until suppertime.
 
 The End
-
-## Meaningful visual evidence
-
-- The opening spreads introduce little blue at home with papa and mama blue, establish little yellow across the street, and show the friends playing Hide-and-Seek and Ring-a-Ring-O'Roses.
-- The middle spreads follow little blue's search, the joyful hug that turns them green, and their play in the park (tunnel, little orange, mountain).
-- The closing spreads show both sets of parents rejecting the green children, the blue-and-yellow tears, the happy reunion hug that turns the parents green, and the joyful embrace of both families.
-- Torn-paper collage blobs carry the color-mixing narrative, with wall-to-wall color fields on the transformation spreads.
-
-## Transcription status
-
-Story text transcribed from the embedded text layer (PDF pages 7–44), joined across line breaks. Library rubber-stamp noise, back-cover blurb (page 2), a garbled pre-title scan page (page 3), title and dedication matter (page 5), copyright data (page 6), the parent-teacher note (page 45), author biography (page 47) and ISBN matter (page 48) are not included as story prose. Single-character OCR substitutions were normalized (see review notes). Pixel-level visual verification against the rendered scans has not yet been completed — my image-reading tool is currently returning an authentication error, so please check the transcript against the PDF before treating it as final.

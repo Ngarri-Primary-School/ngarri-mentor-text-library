@@ -1,12 +1,8 @@
-# Crickwing - searchable transcript
+# Crickwing
 
-**Author:** Janell Cannon
-**Source:** `Crickwing_Cannon,_Janell,_1957_z_library_sk,_1lib_sk,_z_lib.pdf` (54 PDF pages; story on PDF pages 9–44)
-**Prepared:** 9 September 2026
+Author: Janell Cannon
 
-> Internal school working copy prepared from a school-accessible PDF. Keep with the restricted book files. Do not publish this transcript in GitHub, Supabase, or the public progress viewer.
-
-## Story text
+Illustrator: Janell Cannon
 
 Below the great forest canopy lies a shadowy world that many insects call home. Among the damp clutter of fallen leaves and branches, leaf-cutting ants toil all day while large cockroaches await their evening search for food.
 
@@ -91,15 +87,3 @@ Then the queen approached. “I don't think we'll be seeing them ever again, tha
 All night at the banquet, everyone threw flower confetti, danced the six-step, and sang until sunlight came creeping through the trees.
 
 ‘The queen peeked at the dawn and blinked drowsily. “T declare today a holiday,” she yawned. “Hear, hear!” said Crickwing. And for the first time in colony history, the leafcutters took a day off
-
-## Meaningful visual evidence
-
-- The opening spreads establish the shadowy world below the great forest canopy, where leaf-cutting ants toil and the cockroach who becomes Crickwing twists his wing escaping a toad.
-- The middle spreads show Crickwing's food sculptures being stolen in turn by a monkey, a lizard, and an ocelot, then his bullying of the leafcutter ants (blocking their path, hanging them from a vine, digging a pit trap).
-- The turning-point spreads show the queen's order, the march toward the army ants, and Eartha, Terra, and Gravel releasing Crickwing.
-- The climax shows the giant leaf-built anteater sculpture looming over the routed army ants, with Crickwing and the leafcutters peering from atop its head.
-- The closing feast spread shows the ants throwing flower-petal confetti and dancing as the queen declares a holiday.
-
-## Transcription status
-
-Story text transcribed from the embedded text layer (PDF pages 9–44), joined across line breaks. Several story pages carry single-character substitutions from the scan OCR (“Tm” for I'm, “T'm”, “Tcan”, “lam”, “‘Terra”, “[ have”, “| think”, “unul”, “Iam”, “Ina”, “awadaaaaay”), preserved as embedded. Pure illustration-label glyph noise on pages 4, 8, 11–12, 14, 16, 19–20, 23, 25, 27–28, 31, 33, 35–36, 38, 40, 43 and 45 was excluded. Cover and library stamps (pages 1–3, 5), dedication and acknowledgements (pages 6–7), the cockroach/ant/ army-ant backmatter (pages 46–49), copyright and publication data (page 50), and the garbled index/contents scan (pages 51–52) are not included as story prose. Pixel-level visual verification against the rendered scans has not yet been completed — my image-reading tool is currently unavailable, so please check the transcript against the PDF before treating it as final.
