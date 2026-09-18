@@ -1,7 +1,7 @@
 ---
 title: Ngarri Mentor Text Library - Current State
 type: project-status
-updated: 2026-09-16
+updated: 2026-09-18
 status: active
 ---
 
@@ -28,7 +28,7 @@ The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Their compl
 - **Repository book files:** `book-files/picture-books/` contains 31 complete picture-book PDFs copied from the school local Mentor Texts collection on 16 September 2026. The files total 408 MiB; *Dingo* is managed with Git LFS. `book-files/text-only/` contains 26 complete checked extraction packages, each with a searchable PDF, Markdown transcript and OCR review notes. Follow `book-files/README.md` for later additions.
 - **Text resources:** check `restricted-reference/jimk-mentor-text-index.json`, its matching transcript when present, and `book-files/text-only/` before extracting text or running OCR.
 
-The repository is the sole source for future project files. The protected website still has legacy Drive links and must be redeployed from the repository packages before those links are removed.
+The repository is the sole source for future project files. The protected website serves its book PDFs and covers from the private `mentor-library-files` storage bucket, through the same shared-password site. The bucket currently holds the 16 original/text-only PDFs for the eight linked books and 222 catalogue covers. It is not public; staff always use the normal website links.
 
 ## Current rules that must not drift
 

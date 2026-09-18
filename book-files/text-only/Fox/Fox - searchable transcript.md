@@ -1,12 +1,8 @@
-# Fox - searchable transcript
+# Fox
 
-**Author:** Margaret Wild, illustrated by Ron Brooks
-**Source:** `Fox_Margaret_Wild_Ron_Brooks_z_library_sk,_1lib_sk,_z_lib_sk.pdf` (39 PDF pages; story on PDF pages 10–36)
-**Prepared:** 9 September 2026
+Author: Margaret Wild
 
-> Internal school working copy prepared from a school-accessible PDF. Keep with the restricted book files. Do not publish this transcript in GitHub, Supabase, or the public progress viewer.
-
-## Story text
+Illustrator: Ron Brooks
 
 THROUGH THE CHARRED FOREST, OVER HOT ASH, RUNS DOG, with a bird clamped in his big, gentle mouth. He takes her to his cave above the river, and there he tries to tend her burnt wing;
 
@@ -69,25 +65,3 @@ Magpie huddles, a scruff of feathers adrift in heat. She can feel herself burnin
 But then she thinks of Dog waking to find her gone.
 
 Slowly, jiggety-hop, she begins the long journey home.
-
-## Meaningful visual evidence
-
-- The opening spreads show a charred, fire-blackened forest; Dog carries the burnt-winged Magpie in his mouth to his cave above the river.
-- The riverbank reflection spread shows Magpie on Dog's back seeing their joint reflection — "a strange new creature" — the visual anchor of their friendship.
-- The running spreads show Magpie riding Dog's back through scrub, stringybarks and yellow box trees into open blueness.
-- Fox first appears flickering through green regrowth "like a tongue of fire," his haunted eyes and red coat contrasting with Dog's warmth.
-- The cave spreads show Dog and Magpie relaxing at the cave mouth while Fox watches Magpie; night scenes carry Fox's presence through red and black tones.
-- The flight spreads show Fox streaking with Magpie past coolibah trees, long grass and rocks, then scorching through woodlands, dusty plains, salt pans and into the hot red desert.
-- The abandonment spread shows Magpie tiny and alone in the vast red desert after Fox shakes her off "as he would a flea."
-- The closing spread shows Magpie beginning the long jiggety-hop journey home beneath a huge red sun.
-
-## Text notes
-
-- The PDF is a fully-scanned copy with no embedded text layer, so there was no text layer to cross-check against; every story page was read visually.
-- Story text is hand-lettered in mixed case; opening words "THROUGH THE CHARRED FOREST, OVER HOT ASH, RUNS DOG" and "DAYS" are set in capitals as printed.
-- Pages 13 and 24 carry text in vertical/rotated blocks integrated with the illustrations; the reading order above follows the narrative sequence.
-- On page 24 the refrain "I will never leave Dog. I am his missing eye and he is my wings." appears twice (once as a standalone block, once within the sequence) — both occurrences are transcribed.
-
-## Transcription status
-
-Story text transcribed from visual reading of every story page (PDF pages 10–36), verified against the rendered scans at 150 dpi. Cover (page 1), front illustrations (pages 2–3, 5–6), title page (page 7), copyright/imprint data (page 8), dedication (page 9), praise/blurb matter (page 4), author biographies (page 37), and closing endpaper illustrations (pages 38–39) are not included as story prose. Illustration-only story spreads (pages 11, 21, 25, 29, 32, 35) carry the narrative visually and are indexed above.
