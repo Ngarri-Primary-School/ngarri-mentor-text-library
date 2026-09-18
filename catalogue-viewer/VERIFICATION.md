@@ -8,7 +8,7 @@ Updated: 18 September 2026
 - The shared school-group sign-in protects the viewer and all served covers and PDFs.
 - The private `mentor-library-files` store contains 238 objects: 16 original/text-only PDFs for the eight linked books and 222 covers.
 - The live Fox card shows its correct checked cover, and its picture-book and text-only PDF buttons point to protected `/book-files/fox/...` paths.
-- The website deployment no longer contains the PDF or cover collection. Future updates upload only changed objects and deploy a small viewer source change when mapping or interface work is needed.
+- The website deployment no longer contains the PDF or cover collection. The current personal-account owner uploads changed objects and deploys a small viewer source change when mapping or interface work is needed. The school Codex account prepares and commits the corresponding GitHub package only.
 
 ## Required check after a book update
 

@@ -39,6 +39,7 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 - `book-files/` is the sole project source for complete books and checked extraction packages. `book-files/README.md` explains how to add school-approved files to this private repository.
 - Google Drive is no longer a project source. Do not ask for, use or create Drive links for books, transcripts, covers or website resources.
 - The shared site serves PDFs and covers from its private file store, through the same school-group sign-in. The private GitHub repository remains the canonical source file location.
+- The school Codex account prepares research, drafts, PDFs and GitHub updates only. It does not publish to Supabase, the private file store or the current website; those actions remain with the current personal-account owner.
 - AI-created content stays `ai_suggested` until teacher approval. Do not publish it or let it influence teacher-facing filters early.
 - Do not run paid or bulk enrichment, or deploy database migrations, without explicit approval.
 - Preserve approved content history when making a revision.

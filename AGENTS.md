@@ -4,6 +4,10 @@ Read `README.md` and `docs/CURRENT.md` before beginning work. Then read only the
 
 The private GitHub repository is the only working source for complete books, checked transcripts, text-only PDFs, review notes and project documentation. Google Drive is retired for this project. The shared website is protected by its school-group sign-in and proxies staff file requests to a private file store; do not expose direct storage, Drive or GitHub file links to staff.
 
+## Account and publication boundary
+
+The school Codex account may research books, draft `ai_suggested` content, prepare clean PDF packages and make GitHub updates. It must not publish or change Supabase records, private file storage, secure runtime settings, the Sites source, or the live website. After Phill approves a complete book package, commit its approved GitHub materials and report that it is ready for the current personal-account owner to publish. Publishing to the present website remains dependent on that account until the school has an approved replacement hosting arrangement.
+
 For any new book enrichment, use `.codex/skills/ngarri-mentor-text-enrichment/SKILL.md` and `scripts/mentor_pipeline.py`. Begin by naming a small batch of one to three books and pause until the user confirms that the complete books are available in `book-files/` in this private repository. Check `restricted-reference/jimk-mentor-text-index.json`, its matching transcript when present, and `book-files/` before starting new text extraction or OCR. Complete and present only one book at a time, waiting for teacher approval before publishing or moving to the next book. Establish text type and genre for every book draft. `docs/CURRENT.md` takes precedence when it records an agreed batch or an approval boundary.
 
 ## Documentation source of truth

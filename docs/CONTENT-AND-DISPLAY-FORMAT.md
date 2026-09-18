@@ -69,6 +69,8 @@ Use relevant installed education skills to strengthen the design of teaching ide
 
 AI-generated records use `ai_suggested` status and remain visible only to authorised reviewers. They do not appear in the shared teacher library or influence its filters. After a reviewer approves them, store the reviewer and review time and change their status to `teacher_reviewed`; the shared progress viewer then displays them from Supabase.
 
+The school Codex account prepares the reviewed package in GitHub only. The current personal-account owner performs the Supabase update and any associated private-file or website publication. This division remains in force until a school-owned replacement hosting arrangement is available.
+
 ## Collapsible book-page display
 
 Book details are progressive and collapsed by default:

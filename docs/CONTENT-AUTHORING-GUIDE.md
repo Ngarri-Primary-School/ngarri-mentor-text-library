@@ -256,8 +256,8 @@ A useful final test is: **Could a teacher who knows the curriculum but has not p
 2. Run the quality checks and flag any uncertain evidence rather than smoothing it over.
 3. Present the draft to Phill as `ai_suggested`.
 4. Record approval, rejection or requested revision without overwriting the original review history.
-5. Publish only approved records to the teacher-facing library.
-6. Verify the approved Supabase records and authenticated preview page, including the cover and resource links.
+5. The school Codex account commits the approved package to GitHub and reports it ready for publication. The current personal-account owner publishes only approved records to the teacher-facing library.
+6. The current personal-account owner verifies the approved Supabase records and authenticated preview page, including the cover and resource links.
 7. Update this guide when a reviewed book reveals a general rule that will improve future books.
 8. Move to the next book only after the previous book has been decided.
 

@@ -115,7 +115,7 @@ Select only the strongest connections. Every explanation must point to an identi
 
 ## Review state
 
-All generated records begin as `ai_suggested` and remain reviewer-only. Present the complete book package for review: metadata, blurb, why-use-this-book summary, strongest writing and reading connections, PRIDE and inquiry connections, teaching ideas, cover status and resource-link status. A teacher may approve, edit or reject it. Only approved records become `teacher_reviewed` and enter teacher-facing pages and filters. Editing an approved record reopens review and preserves its previous version. After publication, verify the live Supabase records and authenticated preview page before reporting the book complete.
+All generated records begin as `ai_suggested` and remain reviewer-only. Present the complete book package for review: metadata, blurb, why-use-this-book summary, strongest writing and reading connections, PRIDE and inquiry connections, teaching ideas, cover status and resource-link status. A teacher may approve, edit or reject it. Only approved records become `teacher_reviewed` and enter teacher-facing pages and filters. Editing an approved record reopens review and preserves its previous version. The school Codex account commits approved source materials to GitHub and reports them ready for publication. The current personal-account owner publishes to Supabase and the authenticated viewer, then verifies the live result before reporting the book complete.
 
 ## Book-file access
 

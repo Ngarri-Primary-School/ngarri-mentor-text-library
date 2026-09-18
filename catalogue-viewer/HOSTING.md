@@ -15,6 +15,10 @@ This is the staff-facing, read-only library. It uses a school-group sign-in. Kee
 
 Google Drive is retired for this project. Do not add Drive links or use Drive as a fallback source.
 
+## Account boundary
+
+The current Sites project, its secure runtime settings, the Supabase project and the private file store are controlled by the current personal-account owner. The school Codex account is limited to book research, drafting, PDF preparation and GitHub updates. It must not try to publish, upload to the private store, modify Supabase, change the deployed source or create a replacement site. When a teacher approves a package, the school account commits it to GitHub and tells the owner it is ready for publication.
+
 ## What needs a website deployment
 
 An approved change to Supabase teaching content appears automatically in the viewer. A website deployment is needed only when changing the interface, shared access behaviour, a resource-link mapping, cover availability, or the file-serving code.
@@ -30,7 +34,7 @@ The deployment must remain small. Do not package the complete PDF or cover colle
 5. Deploy the small viewer source. If the hosting archive upload is unavailable, use the hosting service's source-only remote-build fallback instead of rebuilding a large archive.
 6. Sign in to the live site and verify the correct cover, **Open picture book PDF** and **Open text-only PDF** links for that book.
 
-The storage bucket is private. The function name, bucket name and object paths can be recorded in project notes; upload, proxy and login values cannot. If the authorised school account cannot access the Sites project, Supabase project or their secure runtime settings, stop and ask a project owner to grant that access rather than weakening the protection.
+The storage bucket is private. The function name, bucket name and object paths can be recorded in project notes; upload, proxy and login values cannot. These steps are for the current personal-account owner only. They are not an access request or a task for the school Codex account.
 
 ## Routine deployment sequence
 
