@@ -19,7 +19,7 @@ Use `book-files/` to confirm that each selected file is readable in full. Record
 
 Before extracting anything, search `restricted-reference/jimk-mentor-text-index.json` with `lookup-jimk-reference`, then open any matching document in `restricted-reference/jimk-mentor-texts/`. Also search `book-files/text-only/` and the selected complete book in `book-files/picture-books/` for existing text resources. The JimK index's genre and trait tags are leads, not Ngarri curriculum evidence. Prefer a suitable checked transcription or reliable embedded text layer. Use fresh extraction next and OCR only when necessary. Check an existing transcription against the complete school copy at the beginning, middle and ending, verify every cited passage, note edition differences and inspect all illustrations used as evidence.
 
-If a JimK transcription is suitable, it may seed the clean transcript and searchable text-only PDF saved in the matching `book-files/text-only/` package. Also save concise transcription-review notes there. Website resource links must be generated from the repository package during the protected-site deployment; do not use Google Drive links.
+If a JimK transcription is suitable, it may seed the clean transcript and searchable text-only PDF saved in the matching `book-files/text-only/` package. Also save concise transcription-review notes there. The protected website serves the repository package through its private file store; follow `catalogue-viewer/HOSTING.md` to upload only changed files. Do not use Google Drive links.
 
 ## Create the draft
 
@@ -42,4 +42,4 @@ Keep all new records `ai_suggested`. Run `validate` before presenting a draft. R
 
 Present one complete, teacher-readable book draft, including cover and resource-link status. Teacher approval is required before changing records to `teacher_reviewed` or exposing them in teacher-facing pages and filters. Preserve the AI draft, reviewer identity, review time, edits and source provenance. After approved publication, verify Supabase and the authenticated preview page before beginning the next book. Do not deploy a database migration, publish content or initiate paid/bulk generation without the relevant authorisation.
 
-The private repository's `book-files/` directory provides access to full books and checked resource packages. Supabase stores resource references and metadata. The shared-password progress viewer may show approved users an **Open picture book PDF** and **Open text-only PDF** link generated from the repository during protected-site deployment. Keep website credentials outside GitHub.
+The private repository's `book-files/` directory provides access to full books and checked resource packages. Supabase stores resource references and metadata. The shared-password progress viewer may show approved users an **Open picture book PDF** and **Open text-only PDF** link served through the private file store. Keep website credentials outside GitHub.

@@ -6,21 +6,14 @@ const titles = {writing:'Writing purposes',reading:'Reading purposes',pride:'PRI
 const refreshEveryMs = 15000;
 let data, covers = {}, lastFocus, isLoading = false;
 const bookFiles = Object.freeze({
-  'Big Red Kangaroo': {original:'https://drive.google.com/file/d/1hf-dEXWyM7hp3OSMec3bqG9eeJoqR7_1/view',textOnly:'https://drive.google.com/file/d/1O0JhgogtOhM7rVIyS_6CjFUWgIW9vtIq/view'},
   'Crickwing': {original:'/book-files/crickwing/picture-book.pdf',textOnly:'/book-files/crickwing/text-only.pdf'},
-  'Dingo': {original:'https://drive.google.com/file/d/18qSK0W7d2TnizfZNvkvSBzDQlTqIQrf4/view',textOnly:'https://drive.google.com/file/d/1Y9qO34yy4BQMxVda1Ian-URgBoQVkb5Y/view'},
-  'Emu': {original:'https://drive.google.com/file/d/1QBnWz6vqwRuLzFakmnvRLCnW8lUqeSSQ/view',textOnly:'https://drive.google.com/file/d/1RAQFpJ8unwafIWCRMgaRhdhtX4RoaR85/view'},
-  'Frederick': {original:'https://drive.google.com/file/d/1O_6YTNsB0JF-wLoq869rwfUt1CpSl5We/view',textOnly:'https://drive.google.com/file/d/1z8VQlW0Vu8YlSfmUMwXmHbk9lhZ9Ow4p/view'},
-  'Koala': {original:'https://drive.google.com/file/d/1ou34ST4in-oA5woY3JlTKW4Kuw47OtOz/view',textOnly:'https://drive.google.com/file/d/1dlKfC-6Txp8W1Heus5Ymqvkoa-_NNgar/view'},
-  'Kookaburra': {original:'https://drive.google.com/file/d/1TGFPrYVzNYTbad0_Z-SBLTBqVKPIDN1O/view',textOnly:'https://drive.google.com/file/d/1ROhhkXmwxxKEzHzjok9G8EkzO4GB-OVE/view'},
+  'Fox': {original:'/book-files/fox/picture-book.pdf',textOnly:'/book-files/fox/text-only.pdf'},
   'Little Blue and Little Yellow': {original:'/book-files/little-blue-and-little-yellow/picture-book.pdf',textOnly:'/book-files/little-blue-and-little-yellow/text-only.pdf'},
   'Night Tree': {original:'/book-files/night-tree/picture-book.pdf',textOnly:'/book-files/night-tree/text-only.pdf'},
   'Owl Moon': {original:'/book-files/owl-moon/picture-book.pdf',textOnly:'/book-files/owl-moon/text-only.pdf'},
   'The Alphabet Tree': {original:'/book-files/the-alphabet-tree/picture-book.pdf',textOnly:'/book-files/the-alphabet-tree/text-only.pdf'},
   'The Boy Who Loved Words': {original:'/book-files/the-boy-who-loved-words/picture-book.pdf',textOnly:'/book-files/the-boy-who-loved-words/text-only.pdf'},
-  'The Gruffalo': {original:'/book-files/the-gruffalo/picture-book.pdf',textOnly:'/book-files/the-gruffalo/text-only.pdf'},
-  'The Important Book': {original:'https://drive.google.com/file/d/116jMSvwNcdWMzEgoEOlkO-G5RCZ-CTMu/view',textOnly:'https://drive.google.com/file/d/1DiBXxwEOx0WklSlnsgDmDB3CWGzMXMmW/view'},
-  'Whoever You Are': {original:'https://drive.google.com/file/d/12W3VMBcwbU5FwOTGsA055HkAtW5DXc8o/view',textOnly:'https://drive.google.com/file/d/1vqf1VfZLQmKfW1wmG-zvgDeAvF_V-Rcy/view'}
+  'The Gruffalo': {original:'/book-files/the-gruffalo/picture-book.pdf',textOnly:'/book-files/the-gruffalo/text-only.pdf'}
 });
 const node = (tag,text,cls) => {const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
 const hasText = value => typeof value === 'string' && value.trim().length > 0;

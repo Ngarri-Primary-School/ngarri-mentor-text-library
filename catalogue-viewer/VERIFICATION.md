@@ -1,19 +1,21 @@
-# Verification — 9 September 2026
+# Viewer verification record
 
-- The hosted viewer reads approved records directly from Supabase and refreshes every 15 seconds.
-- After the approved *Alphabet Tree* revision, its card showed 17 writing, 8 reading, 2 PRIDE and 2 inquiry connections, with explanations for all 29 connections.
-- Supabase independently returned 17 writing, 8 reading, 2 PRIDE, 2 inquiry and 8 teaching-idea records for the book with `teacher_reviewed` status.
-- The previous six teaching ideas and removed Year 4 Presentation match remain stored but are hidden by their superseded `rejected` status.
+Updated: 18 September 2026
 
-## Initial interface checks — 7 September 2026
+## Current checks
 
-- Fresh read-only Supabase snapshot: 343 active books, 391 writing links, 260 reading links, zero PRIDE links, inquiry links and teaching ideas.
-- Built viewer contains all 343 books, 90 with writing purposes and 54 with reading purposes. All 343 have blurbs; no connection has a book-specific explanation.
-- Browser search for Banjo returns one book. Its detail shows the recorded blurb, four writing and four reading connections, sources/statuses and missing explanations.
-- Browser Word Choice filter returns 65 books. Combined with Inferring it returns 45, checked independently against the snapshot.
-- Determination and Social Responsibility return zero results with a clear empty-state explanation.
-- Viewable-cover filter returns 221 books; missing-cover filter returns 122. A filename alone is not counted as a cover.
-- Clear filters restores the catalogue. Desktop layout and actual covers visually inspected. Responsive CSS included; phone layout has not been separately tested.
-- JavaScript syntax check passed. The live database and existing Fox review storage were not modified.
+- The live viewer reads approved Supabase records and refreshes automatically.
+- The shared school-group sign-in protects the viewer and all served covers and PDFs.
+- The private `mentor-library-files` store contains 238 objects: 16 original/text-only PDFs for the eight linked books and 222 covers.
+- The live Fox card shows its correct checked cover, and its picture-book and text-only PDF buttons point to protected `/book-files/fox/...` paths.
+- The website deployment no longer contains the PDF or cover collection. Future updates upload only changed objects and deploy a small viewer source change when mapping or interface work is needed.
 
-The local `data.json` remains a dated audit snapshot. The hosted viewer does not use it for curriculum content; it polls Supabase automatically.
+## Required check after a book update
+
+1. Confirm the approved Supabase record shows the expected content and status.
+2. Sign in to the shared site.
+3. Search for the book and confirm its title, author, blurb, cover and year-band display.
+4. Open both PDF buttons and confirm each leads to the intended protected file.
+5. Check that the new or revised content appears only after teacher approval.
+
+Older viewer counts and early interface checks are historical evidence in Git history and `archive/`; they are not current operating instructions.

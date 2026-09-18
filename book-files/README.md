@@ -26,6 +26,6 @@ The checked text-only PDF is a clean reading copy: it contains only the book tit
 2. Check the file size before adding it. Files below 100 MiB may be committed with ordinary Git.
 3. Do not add a file of 100 MiB or more until Git LFS is installed and configured for PDFs. Record that decision in the relevant book's review or source record.
 4. Commit the file with its title, edition or source details in the commit message.
-5. When a website resource link changes, update the protected-site deployment mapping from this repository package and verify the authenticated viewer.
+5. When a book is ready for staff links, upload only its changed original PDF, text-only PDF and, if needed, cover to the protected website file store. Keep the repository copy as the canonical source. Follow `catalogue-viewer/HOSTING.md` for object paths, mapping and verification.
 
-Keep credentials out of this folder and preserve the school's current access decisions.
+Google Drive is not used for this project. Keep credentials out of this folder and preserve the school's current access decisions.

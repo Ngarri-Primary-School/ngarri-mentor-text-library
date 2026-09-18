@@ -1,28 +1,43 @@
-# Shared progress viewer handover
+# Shared progress viewer
 
-Site address: https://ngarri-mentor-library-progress.velveteen.chatgpt.site
+Site address: https://ngarri-mentor-library-progress.velveteen.chatgpt.site/
 
-The user approved a shared-password sign-in for the school principal, literacy leaders and Phill. The site retains the original search, combined filters, book detail view and missing-information indicators. The password is intentionally absent from GitHub, source code and project documents. Change it only through the hosting environment's secure settings.
+This is the staff-facing, read-only library. It uses a school-group sign-in. Keep the username, password and all service credentials in secure runtime settings, never in GitHub, prompts, source code or project notes.
 
-As verified on 18 September 2026, Supabase contains Owl Moon as an approved revision with 7 writing, 6 reading, 1 PRIDE, 2 inquiry and 8 teaching ideas. Draft AI annotations are excluded from teacher-facing responses. Complete book and text-only resource packages live in the private repository's `book-files/`.
+## Where things live
 
-## Protected file store
+| Item | Authoritative location | What the website uses |
+|---|---|---|
+| Project documentation, complete school PDFs, transcripts, text-only PDFs and OCR notes | This private GitHub repository | The repository is the source to update first. |
+| Approved book content and metadata | Supabase project `dahilwcsbtstfbokbxws` | The viewer reads approved content directly and refreshes automatically. |
+| Staff-served original PDFs, text-only PDFs and covers | Private Supabase Storage bucket `mentor-library-files` | The site worker proxies these objects after the school sign-in. Direct bucket links are not for staff use. |
+| Viewer interface, login worker and resource mapping | The separate Sites deployment source | It is a deployment copy, not a second curriculum-content source. |
 
-The shared site now proxies `/book-files/...` and `/covers/...` to the private Supabase Storage bucket `mentor-library-files`. This keeps the original school PDFs, clean text-only PDFs and all catalogue covers behind the same shared-password sign-in, while keeping website releases small. Direct bucket access is not allowed.
+Google Drive is retired for this project. Do not add Drive links or use Drive as a fallback source.
 
-The one-time migration stored 16 PDFs for *Crickwing*, *Night Tree*, *The Alphabet Tree*, *Little Blue and Little Yellow*, *Owl Moon*, *The Gruffalo*, *The Boy Who Loved Words* and *Fox*, plus 222 covers. Fox's cover was added from the checked first page of its school PDF.
+## What needs a website deployment
 
-For a later book update:
+An approved change to Supabase teaching content appears automatically in the viewer. A website deployment is needed only when changing the interface, shared access behaviour, a resource-link mapping, cover availability, or the file-serving code.
 
-1. Keep the canonical original PDF, text-only PDF and transcript package in `book-files/` in this private repository.
-2. Upload only that book's changed served files to the private bucket using the authenticated file-store deployment procedure. Preserve the object paths already used by the viewer: `/book-files/<slug>/picture-book.pdf`, `/book-files/<slug>/text-only.pdf` and `/covers/<cover filename>`.
-3. Update the resource mapping or cover status only when it changes, then deploy the small viewer source update. Do not put the full PDF or cover collection back into the website deployment archive.
-4. Sign in to the shared site and check the cover plus both PDF buttons for the changed book.
+The deployment must remain small. Do not package the complete PDF or cover collection with the website. The existing protected file store contains 16 original/text-only PDFs for *Crickwing*, *Night Tree*, *The Alphabet Tree*, *Little Blue and Little Yellow*, *Owl Moon*, *The Gruffalo*, *The Boy Who Loved Words* and *Fox*, plus 222 catalogue covers.
 
-The file-store proxy and its credentials are in the separate Sites deployment source and runtime settings. The bucket name, function name (`mentor-library-files`) and object paths are safe to record; passwords, proxy values and upload values must remain in secure runtime settings only.
+## Add or revise a staff-served book file
 
-`.openai/hosting.json` records the existing Sites project; reuse it for updates rather than creating another site. The separate Sites deployment copy contains the shared sign-in worker and current link mapping. Sites keeps the published interface independent of this computer. Use the standard Sites packaging helper and credentials provided at runtime for future interface or link updates. The served PDFs and covers must stay in the private file store, not in the deployment archive.
+1. Commit the verified original PDF, clean text-only PDF, transcript and OCR notes to the matching `book-files/` package in this private repository. This is the canonical record.
+2. Check or create the correct cover. It must be an authorised image of the right book or edition, not an inferred substitute.
+3. Upload only the changed website objects to the private file store through the authenticated `mentor-library-files` function. Preserve these object paths: `book-files/<slug>/picture-book.pdf`, `book-files/<slug>/text-only.pdf` and `covers/<cover filename>`.
+4. Update the viewer resource mapping and checked-cover status only when they changed. Keep browser links relative to the protected site; do not use a direct GitHub, Storage or Drive URL.
+5. Deploy the small viewer source. If the hosting archive upload is unavailable, use the hosting service's source-only remote-build fallback instead of rebuilding a large archive.
+6. Sign in to the live site and verify the correct cover, **Open picture book PDF** and **Open text-only PDF** links for that book.
 
-The school GitHub repository remains the canonical project documentation/code destination. The Sites source repository is a deployment copy, not a competing editable project. The initial Site is owned by Phill's current account; school ownership/access handover for hosting remains a separate task. No automatic GitHub-to-Sites deployment has been configured.
+The storage bucket is private. The function name, bucket name and object paths can be recorded in project notes; upload, proxy and login values cannot. If the authorised school account cannot access the Sites project, Supabase project or their secure runtime settings, stop and ask a project owner to grant that access rather than weakening the protection.
 
-Database content refreshes without republishing the website. Republish this Site when its interface, static cover collection or hard-coded school-resource link mapping changes. Supabase Row Level Security keeps unreviewed suggestions out of teacher-facing responses.
+## Routine deployment sequence
+
+1. Read this file and `docs/CURRENT.md` in GitHub `main`.
+2. Make and test the small source change in the Sites deployment source.
+3. Push that source with the current Sites write credential.
+4. Save and deploy the resulting version through the existing Sites project, keeping the current public audience because the worker itself supplies the school sign-in.
+5. Confirm the deployment succeeds, then verify the signed-in live page.
+
+Do not create a second website or replace the shared sign-in with a public site. No automatic GitHub-to-Sites deployment is configured. Institutional ownership handover for Supabase and Sites remains deferred work.

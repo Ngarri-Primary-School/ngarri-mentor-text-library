@@ -30,12 +30,15 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 | `docs/CONTENT-AND-DISPLAY-FORMAT.md` | Approved content structure and book-page presentation. |
 | `docs/PICTURE-BOOK-PILOT-APPROVAL.md` | The approved five-book quality benchmark. |
 | `catalogue-viewer/HOSTING.md` | Website hosting and deployment notes. |
+| `docs/SCHOOL-CODEX-CONTINUATION-PROMPT.md` | Copy-ready prompt for a school Codex or ChatGPT account continuing this project. |
 | Reference-folder READMEs | Scope, ownership and use of each reference collection. |
 
 ## Project boundaries
 
 - GitHub `main` is the documentation source of truth.
 - `book-files/` is the sole project source for complete books and checked extraction packages. `book-files/README.md` explains how to add school-approved files to this private repository.
+- Google Drive is no longer a project source. Do not ask for, use or create Drive links for books, transcripts, covers or website resources.
+- The shared site serves PDFs and covers from its private file store, through the same school-group sign-in. The private GitHub repository remains the canonical source file location.
 - AI-created content stays `ai_suggested` until teacher approval. Do not publish it or let it influence teacher-facing filters early.
 - Do not run paid or bulk enrichment, or deploy database migrations, without explicit approval.
 - Preserve approved content history when making a revision.

@@ -1,6 +1,6 @@
 # Book enrichment pipeline
 
-Updated: 10 September 2026
+Updated: 18 September 2026
 Status: approved post-trial workflow; script implemented; five-book trial complete
 
 ## Purpose
@@ -23,7 +23,7 @@ For each selected book, use this order:
 
 1. Search `restricted-reference/jimk-mentor-text-index.json` with `lookup-jimk-reference` and open any matching document in `restricted-reference/jimk-mentor-texts/`.
 2. Search the matching `book-files/text-only/` package for an existing checked transcript, searchable text-only PDF and review notes.
-3. Check whether the complete Drive PDF already has a reliable searchable text layer.
+3. Check whether the complete repository PDF already has a reliable searchable text layer.
 4. Extract text from that PDF only when no suitable checked text exists.
 5. Use OCR on scanned pages only as the last option.
 
@@ -53,8 +53,8 @@ When the current JimK project is available locally, its `content/Mentor Texts` f
 
 Before writing content, confirm and record:
 
-- complete school book access and its Drive link;
-- existing JimK or Drive text resources, or the extraction method required;
+- complete school book access and its repository path;
+- existing JimK or repository text resources, or the extraction method required;
 - transcription checks and any edition differences;
 - title, author, illustrator, publication details, text type, genre and year band;
 - whether the displayed cover exists, belongs to the correct edition and renders properly; and
@@ -79,7 +79,7 @@ The existing `books` table already contains nullable `text_type` and `genre` fie
 `scripts/mentor_pipeline.py` provides these commands:
 
 - `new-batch`: records the selected books and prints the required pause;
-- `register-source`: records a Drive source only after Codex has checked access;
+- `register-source`: records a repository source only after Codex has checked access;
 - `extract-text`: creates a line-addressable TXT working copy and source hash;
 - `make-draft`: creates the standard draft structure after source verification; and
 - `validate`: checks required fields, exact curriculum wording, provenance and `ai_suggested` status.
@@ -121,18 +121,6 @@ All generated records begin as `ai_suggested` and remain reviewer-only. Present 
 
 The private repository's `book-files/` directory is the sole project source for complete books and checked extraction packages. Codex verifies access by listing the relevant location and reading a selected file.
 
-Recommended layout:
-
-```text
-Ngarri Mentor Text Library
-├── Book files - restricted
-│   ├── Incoming
-│   └── Verified
-└── Teaching resources
-    ├── Teacher notes
-    └── Student materials
-```
-
 For book files in this repository, use the layout and file-size rules in `book-files/README.md`. Ordinary Git supports files below 100 MiB. Add Git LFS before committing a PDF of 100 MiB or more.
 
-The protected viewer uses its shared school-group sign-in to protect teacher access. Keep the repository private and keep website credentials outside GitHub. When resource-link behaviour changes, rebuild and verify the protected viewer against its repository package.
+The protected viewer uses its shared school-group sign-in to protect teacher access. Keep the repository private and keep website credentials outside GitHub. The viewer proxies staff requests to the private `mentor-library-files` store, so a new book requires only its changed files to be uploaded. Follow `catalogue-viewer/HOSTING.md`; never rebuild a deployment archive containing the complete PDF or cover collection.

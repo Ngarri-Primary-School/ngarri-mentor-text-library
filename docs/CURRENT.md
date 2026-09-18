@@ -28,7 +28,7 @@ The agreed next batch is *Owl Moon*, *Fireflies!* and *Smoky Night*. Their compl
 - **Repository book files:** `book-files/picture-books/` contains 31 complete picture-book PDFs copied from the school local Mentor Texts collection on 16 September 2026. The files total 408 MiB; *Dingo* is managed with Git LFS. `book-files/text-only/` contains 26 complete checked extraction packages, each with a searchable PDF, Markdown transcript and OCR review notes. Follow `book-files/README.md` for later additions.
 - **Text resources:** check `restricted-reference/jimk-mentor-text-index.json`, its matching transcript when present, and `book-files/text-only/` before extracting text or running OCR.
 
-The repository is the sole source for future project files. The protected website serves its book PDFs and covers from the private `mentor-library-files` storage bucket, through the same shared-password site. The bucket currently holds the 16 original/text-only PDFs for the eight linked books and 222 catalogue covers. It is not public; staff always use the normal website links.
+The repository is the sole source for project files; Google Drive is retired for this project. The protected website serves its book PDFs and covers from the private `mentor-library-files` storage bucket, through the same shared-password site. The bucket currently holds the 16 original/text-only PDFs for the eight linked books and 222 catalogue covers. It is not public; staff always use the normal website links.
 
 ## Current rules that must not drift
 
@@ -48,6 +48,7 @@ The repository is the sole source for future project files. The protected websit
 | Book-page structure or interaction | `docs/CONTENT-AND-DISPLAY-FORMAT.md` |
 | Approved quality examples | `docs/PICTURE-BOOK-PILOT-APPROVAL.md` and the relevant approved review file |
 | Website deployment or resource links | `catalogue-viewer/HOSTING.md` |
+| Moving work to another school Codex/ChatGPT account | `docs/SCHOOL-CODEX-CONTINUATION-PROMPT.md` |
 | Curriculum or source material | the relevant reference-folder README before using its contents |
 
 ## Deferred work

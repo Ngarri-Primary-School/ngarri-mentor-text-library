@@ -19,7 +19,7 @@ Use this specification with `docs/CONTENT-AUTHORING-GUIDE.md`, which gives the a
 
 Every enriched book records its broad **text type**, one or more specific **genres**, and a short classification rationale grounded in the complete work. These fields are part of teacher review rather than catalogue decoration.
 
-Before analysis, Codex names the next small batch and pauses while the user confirms that the complete texts are available in `book-files/`. Codex must verify it can read every selected file. The shared-password progress viewer may provide authorised staff with the school copy and a checked text-only PDF generated from the repository package during protected-site deployment.
+Before analysis, Codex names the next small batch and pauses while the user confirms that the complete texts are available in `book-files/`. Codex must verify it can read every selected file. The shared-password progress viewer may provide authorised staff with the school copy and a checked text-only PDF from the private file store; their canonical source remains the repository package.
 
 ## Writing connections
 

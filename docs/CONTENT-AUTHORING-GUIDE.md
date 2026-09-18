@@ -36,7 +36,7 @@ These are not four copies of one plot summary. Each paragraph selects the part o
 
 Read the complete text and inspect the illustrations wherever visual meaning is part of the proposed connection. Do not build a book-specific recommendation from a title, catalogue description, online summary or memory.
 
-Before extracting text from a PDF, search the private JimK continuity archive and the Drive extraction folders for an existing transcription or searchable text-only PDF. Check a candidate transcription against the complete school copy, including the beginning, middle, ending and every passage selected as evidence. Record edition differences or uncertain wording. Extract from the PDF only when a suitable checked text does not exist, and use OCR only when the PDF lacks a reliable text layer.
+Before extracting text from a PDF, search the private JimK continuity archive and the matching `book-files/text-only/` package for an existing transcription or searchable text-only PDF. Check a candidate transcription against the complete school copy, including the beginning, middle, ending and every passage selected as evidence. Record edition differences or uncertain wording. Extract from the repository PDF only when a suitable checked text does not exist, and use OCR only when the PDF lacks a reliable text layer.
 
 At the same time, check the bibliographic details, year band, displayed cover and repository resource package. Confirm that the cover is correct and renders properly. The authenticated site should ultimately offer the original school PDF and checked searchable text-only PDF from the repository package through the protected-site deployment.
 
@@ -243,7 +243,7 @@ Every proposed book must pass these checks:
 - Teaching ideas have all relevant structured fields, including student application and observable learning.
 - Relevant installed education skills were used for teaching-idea design, or the skill-discovery check and its result were recorded.
 - Book facts, curriculum quotations, interpretations and designed teaching ideas remain distinguishable.
-- Existing JimK and Drive text resources were checked before new extraction or OCR was attempted.
+- Existing JimK and repository text resources were checked before new extraction or OCR was attempted.
 - The title, author, illustrator, publication details, year band, cover and school resource-link status were checked.
 - Resource links and publishing locations were checked against the school's current access decision.
 - All new records remain `ai_suggested` until the teacher records approval.
