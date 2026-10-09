@@ -32,6 +32,8 @@ The repository is the sole source for project files; Google Drive is retired for
 
 **Account boundary:** the school Codex account may do book research, content drafting, PDF preparation and GitHub updates. It must stop after committing a teacher-approved package and report it ready for publication. The current personal-account owner alone can update Supabase, the private file store, secure settings and the current Sites deployment. This remains the arrangement until the school adopts a replacement hosting service it owns and can administer.
 
+**School-owned prototype:** planning began on 9 October 2026 for a school-owned cPanel/WordPress replacement at a subdomain of `ngarrips.vic.edu.au`. The present personal-account site remains the live staff site. The initial WordPress plugin package is now in `wordpress-plugin/ngarri-mentor-library/`, but no WordPress account, data transfer or deployment has been completed. Read `docs/FREE-PROTOTYPE-HOSTING.md` and the plugin README before taking hosting action.
+
 ## Current rules that must not drift
 
 - Work from a verified complete school copy and verified illustrations where available.
@@ -52,6 +54,7 @@ The repository is the sole source for project files; Google Drive is retired for
 | Approved quality examples | `docs/PICTURE-BOOK-PILOT-APPROVAL.md` and the relevant approved review file |
 | Website deployment or resource links | `catalogue-viewer/HOSTING.md` |
 | Moving work to another school Codex/ChatGPT account | `docs/SCHOOL-CODEX-CONTINUATION-PROMPT.md` |
+| Planning or building the free school-owned prototype | `docs/FREE-PROTOTYPE-HOSTING.md` |
 | Curriculum or source material | the relevant reference-folder README before using its contents |
 
 ## Deferred work

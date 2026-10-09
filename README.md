@@ -30,6 +30,8 @@ Do not read `archive/` as routine project guidance. It preserves historical evid
 | `docs/CONTENT-AND-DISPLAY-FORMAT.md` | Approved content structure and book-page presentation. |
 | `docs/PICTURE-BOOK-PILOT-APPROVAL.md` | The approved five-book quality benchmark. |
 | `catalogue-viewer/HOSTING.md` | Website hosting and deployment notes. |
+| `docs/FREE-PROTOTYPE-HOSTING.md` | Staged plan for the school-owned, no-cost prototype. |
+| `wordpress-plugin/ngarri-mentor-library/README.md` | WordPress/cPanel prototype plugin and installation notes. |
 | `docs/SCHOOL-CODEX-CONTINUATION-PROMPT.md` | Copy-ready prompt for a school Codex or ChatGPT account continuing this project. |
 | Reference-folder READMEs | Scope, ownership and use of each reference collection. |
 
